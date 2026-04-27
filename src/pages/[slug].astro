@@ -1,0 +1,86 @@
+---
+import Base   from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  return posts.map(post => ({ params: { slug: post.slug }, props: { post } }));
+}
+
+const { post }    = Astro.props;
+const { data }    = post;
+const { Content } = await post.render();
+
+const dateFormatted = new Date(data.date).toLocaleDateString('en-US', {
+  month: 'long', day: 'numeric', year: 'numeric',
+});
+
+const GRAD: Record<string, string> = {
+  Action:'from-brand-coral/15', Romance:'from-pink-500/15',
+  Fantasy:'from-purple-500/15', Isekai:'from-blue-500/15',
+  Completed:'from-brand-teal/15', Rankings:'from-amber-500/15',
+};
+const grad = GRAD[data.category] ?? GRAD.Rankings;
+---
+<Base
+  title={`${data.title} | ManhwaDaily`}
+  description={data.excerpt}
+  slug={post.slug}
+  type="article"
+  date={data.date}
+>
+  <Header />
+  <main class="flex-1">
+    <!-- Hero -->
+    <div class={`bg-gradient-to-b ${grad} to-brand-bg border-b border-brand-border/40 py-10 relative overflow-hidden`}>
+      <div class="speed-lines absolute inset-0 opacity-20"></div>
+      <div class="relative max-w-3xl mx-auto px-4 sm:px-6">
+        <nav class="flex items-center gap-2 text-sm text-brand-dim mb-5">
+          <a href="/" class="hover:text-brand-coral transition-colors">Home</a>
+          <span>›</span>
+          <span class={`cat-badge cat-${data.category}`}>{data.category}</span>
+        </nav>
+        <h1 class="font-display font-black text-3xl sm:text-4xl text-brand-white leading-tight mb-4">
+          {data.title}
+        </h1>
+        <p class="text-brand-dim text-base leading-relaxed mb-4">{data.excerpt}</p>
+        <div class="flex items-center gap-3 text-sm text-brand-dim">
+          <span>📅 {dateFormatted}</span>
+          {data.tags.slice(0,3).map(t => (
+            <span class="px-2 py-0.5 rounded-full bg-brand-surface border border-brand-border text-xs">{t}</span>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+      <article class="prose prose-invert max-w-none">
+        <Content />
+      </article>
+
+      <!-- Where to read CTA -->
+      <div class="mt-10 p-6 rounded-2xl border border-brand-coral/20 bg-brand-surface text-center">
+        <p class="font-display font-bold text-lg text-brand-white mb-1">Ready to start reading? 📖</p>
+        <p class="text-brand-dim text-sm mb-4">Find these manhwa on official platforms like Webtoon, Tapas, or Lezhin Comics.</p>
+        <div class="flex flex-wrap justify-center gap-3">
+          <a href="https://www.webtoons.com" target="_blank" rel="noopener noreferrer"
+            class="px-4 py-2 rounded-lg bg-brand-coral text-white font-bold text-sm hover:bg-orange-400 transition-colors">
+            Webtoon
+          </a>
+          <a href="https://tapas.io" target="_blank" rel="noopener noreferrer"
+            class="px-4 py-2 rounded-lg bg-brand-surface border border-brand-border text-brand-text font-bold text-sm hover:border-brand-coral/40 transition-colors">
+            Tapas
+          </a>
+          <a href="https://www.lezhin.com" target="_blank" rel="noopener noreferrer"
+            class="px-4 py-2 rounded-lg bg-brand-surface border border-brand-border text-brand-text font-bold text-sm hover:border-brand-coral/40 transition-colors">
+            Lezhin
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+  <Footer />
+</Base>

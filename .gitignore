@@ -1,0 +1,7 @@
+dist/
+node_modules/
+.astro/
+.env
+.DS_Store
+*.log
+.vercel
