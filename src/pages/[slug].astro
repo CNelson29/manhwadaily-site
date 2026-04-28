@@ -55,6 +55,18 @@ const grad = GRAD[data.category] ?? GRAD.Rankings;
       </div>
     </div>
 
+    <!-- Cover image -->
+    {data.image && (
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 -mt-4 mb-0">
+        <img
+          src={data.image}
+          alt={data.title}
+          class="w-full h-56 sm:h-72 object-cover rounded-2xl border border-brand-border/40 shadow-lg"
+          loading="eager"
+        />
+      </div>
+    )}
+
     <!-- Content -->
     <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
       <article class="prose prose-invert max-w-none">
