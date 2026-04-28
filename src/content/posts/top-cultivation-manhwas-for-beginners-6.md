@@ -5,6 +5,7 @@ excerpt: "New to cultivation manhwa? This beginner-friendly guide breaks down th
 category: "Fantasy"
 tags: ["best cultivation manhwa", "cultivation manhwa for beginners", "manhwa recommendations", "martial arts manhwa", "solo leveling"]
 type: "rankings"
+image: "https://images.pexels.com/photos/34269842/pexels-photo-34269842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false
 ---
 

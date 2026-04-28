@@ -5,6 +5,7 @@ excerpt: "Skip the wait and dive into these fully completed manhwa series. From 
 category: "Completed"
 tags: ["best manhwa to binge", "completed manhwa", "finished manhwa series", "manhwa recommendations", "solo leveling"]
 type: "rankings"
+image: "https://images.pexels.com/photos/18848524/pexels-photo-18848524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false
 ---
 

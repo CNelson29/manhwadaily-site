@@ -5,6 +5,7 @@ excerpt: "New to cultivation manhwa? From Nano Machine to Return of the Mount Hu
 category: "Fantasy"
 tags: ["best cultivation manhwa for beginners", "cultivation manhwa", "martial arts manhwa", "nano machine manhwa", "xianxia manhwa"]
 type: "rankings"
+image: "https://images.pexels.com/photos/34269842/pexels-photo-34269842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false
 ---
 

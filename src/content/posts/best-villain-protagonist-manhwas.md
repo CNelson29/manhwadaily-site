@@ -5,6 +5,7 @@ excerpt: "Tired of playing it safe with hero stories? We ranked the 10 best vill
 category: "Action"
 tags: ["antihero manhwa recommendations", "best villain protagonist manhwa", "dark protagonist manhwa", "manhwa with evil main character", "top manhwa villain lead 2025"]
 type: "rankings"
+image: "https://images.pexels.com/photos/2014874/pexels-photo-2014874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false
 ---
 

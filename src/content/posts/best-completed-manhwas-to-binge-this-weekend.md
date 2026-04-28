@@ -5,6 +5,7 @@ excerpt: "No more waiting for weekly updates — these fully completed manhwas l
 category: "Completed"
 tags: ["completed manhwa", "binge read", "manhwa recommendations", "best manhwa", "finished series"]
 type: "rankings"
+image: "https://images.pexels.com/photos/18848524/pexels-photo-18848524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false
 ---
 

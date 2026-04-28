@@ -5,6 +5,7 @@ excerpt: "Finished Solo Leveling and staring into the void? We rank the best man
 category: "Action"
 tags: ["best manhwa like solo leveling", "dungeon manhwa recommendations", "overpowered MC manhwa", "solo leveling alternatives", "system manhwa ranked"]
 type: "rankings"
+image: "https://images.pexels.com/photos/2014874/pexels-photo-2014874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false
 ---
 

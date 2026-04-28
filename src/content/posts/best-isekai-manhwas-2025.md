@@ -5,6 +5,7 @@ excerpt: "Looking for the best isekai manhwas to read in 2025? We ranked the top
 category: "Isekai"
 tags: ["best isekai manhwa 2025", "isekai manhwa recommendations", "isekai webtoon ranked", "overpowered MC manhwa", "top manhwa to read 2025"]
 type: "rankings"
+image: "https://images.pexels.com/photos/34269842/pexels-photo-34269842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false
 ---
 

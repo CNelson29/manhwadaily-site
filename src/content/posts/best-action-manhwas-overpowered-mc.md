@@ -5,6 +5,7 @@ excerpt: "Looking for the best action manhwas with an overpowered MC? We ranked 
 category: "Action"
 tags: ["action manhwa list", "best action manhwa overpowered mc", "manhwa recommendations", "op mc manhwa", "solo leveling"]
 type: "rankings"
+image: "https://images.pexels.com/photos/2014874/pexels-photo-2014874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false
 ---
 

@@ -5,6 +5,7 @@ excerpt: "Grab your tissues and clear your schedule — these romance manhwas hi
 category: "Romance"
 tags: ["romance", "emotional", "tearjerker", "melodrama", "heartbreak", "manhwa recommendations", "webtoon"]
 type: "rankings"
+image: "https://images.pexels.com/photos/27382142/pexels-photo-27382142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false
 ---
 
