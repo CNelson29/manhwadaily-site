@@ -1,7 +1,7 @@
 ---
 title: "Top Romance Manhwas With Rich Male Lead (Office/CEO)"
-date: "2026-04-29"
-excerpt: "Forget fairy tales — these CEO romance manhwas deliver brooding billionaires, slow-burn tension, and office drama that will have you hooked from chapter one. Whether you crave cold executives melting "
+date: "2026-05-04"
+excerpt: "If you love sharp suits, smoldering tension, and billionaire love stories that actually have depth, these CEO romance manhwas will have you reading until 3 AM. We've ranked the absolute best office an"
 category: "Romance"
 tags: ["romance manhwa", "CEO manhwa", "rich male lead", "office romance", "webtoon recommendations"]
 type: "rankings"
@@ -11,132 +11,130 @@ draft: false
 
 ## Introduction
 
-There is something irresistibly compelling about a cold, powerful CEO who meets his match in an ordinary — or not so ordinary — woman. The office romance genre in manhwa has absolutely exploded over the past few years, and for good reason: stunning artwork, emotionally complex characters, and that addictive push-and-pull tension that keeps you up until 3 AM burning through chapters. Whether your ideal leading man is a frosty chairman with hidden trauma, a playboy heir learning to love, or a ruthless mogul who would burn down the world for his partner, this list has something to make your heart race. Let's dive into the best CEO and office romance manhwas you absolutely cannot miss!
+There's something irresistible about a cold, powerful CEO who meets his match in a woman he never expected to fall for. Office romance manhwas have exploded in popularity, and for good reason — the tension, the power dynamics, the slow-burn chemistry, and the jaw-dropping art all combine into something absolutely addictive. Whether you're here for the brooding billionaire, the enemies-to-lovers drama, or just the incredibly stylish visuals, we've got you covered. Here are our top-ranked romance manhwas featuring rich, powerful male leads in office and CEO settings!
 
 ## The Rankings
 
-### 1. My Husband Hides His Beauty
+### 1. Secretary Kim: Why Are You Doing This? (What's Wrong with Secretary Kim)
 
-When Leticia is forced into a contract marriage with the infamous Count Erden — a man who never shows his face — she expects cold indifference. What she doesn't expect is a devastatingly beautiful man who is utterly flustered by her straightforward nature. With gorgeous art, a wonderfully dense male lead, and comedy that lands every time, this manhwa is pure serotonin in comic form.
+This iconic manhwa follows the narcissistic but charming Vice Chairman Lee Young-joon, who is utterly shaken when his devoted secretary Kim Mi-so announces her resignation after nine years. The story perfectly balances comedy, romance, and genuine emotional depth as Young-joon scrambles to figure out why he can't let her go. With over 100 chapters and a hugely popular K-drama adaptation, this is the gold standard of CEO romance manhwa — the art is polished, the banter is electric, and the slow-burn payoff is deeply satisfying.
 
-**Why it's great:** The role-reversal dynamic is refreshing — the CEO-equivalent lord is the one hiding, while the female lead drives the romance forward. Over 100 chapters in, it never loses steam.
+**Why it's great:** The male lead is hilariously self-absorbed but genuinely lovable, and the chemistry between the leads is off the charts. It set the template for the entire genre.
+
+**Rating: 9.5/10**
+
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=What%27s+Wrong+with+Secretary+Kim) · [MangaDex](https://mangadex.org/search?q=What%27s+Wrong+with+Secretary+Kim) · [Tapas](https://tapas.io/search?q=What%27s+Wrong+with+Secretary+Kim)
+
+🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=What%27s+Wrong+with+Secretary+Kim+manga+volume+1&tag=manhwadaily-20)
+
+### 2. My ID Is Gangnam Beauty
+
+After undergoing plastic surgery to escape relentless bullying, Kang Mi-rae starts college hoping for a fresh start, only to encounter the cold and perceptive Do Kyung-seok — heir to a wealthy family and the most sought-after man on campus. This manhwa is celebrated for its honest, nuanced take on beauty standards, self-worth, and the pressures placed on women, all wrapped in a compelling romance. With gorgeous art and a male lead who sees through society's superficiality, it's emotionally resonant and unforgettable.
+
+**Why it's great:** It tackles real social issues while delivering a genuinely satisfying romance — the male lead's quiet sincerity is devastatingly attractive.
 
 **Rating: 9.2/10**
+
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=My+ID+Is+Gangnam+Beauty) · [MangaDex](https://mangadex.org/search?q=My+ID+Is+Gangnam+Beauty) · [Tapas](https://tapas.io/search?q=My+ID+Is+Gangnam+Beauty)
+
+🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=My+ID+Is+Gangnam+Beauty+manga+volume+1&tag=manhwadaily-20)
+
+### 3. The CEO's Beloved Wife
+
+A contract marriage between a struggling woman and a cold, reclusive CEO takes a deliciously unexpected turn when feelings neither of them planned for begin to bloom. The art in this manhwa is stunning — beautifully rendered interiors and fashion that scream luxury — and the slow emotional thawing of the male lead is absolutely chef's kiss. It's a comfort read that hits all the right tropes without feeling stale.
+
+**Why it's great:** Classic contract-marriage setup executed with real emotional intelligence and swoon-worthy romantic moments that build organically.
+
+**Rating: 8.7/10**
+
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+CEO%27s+Beloved+Wife) · [MangaDex](https://mangadex.org/search?q=The+CEO%27s+Beloved+Wife) · [Tapas](https://tapas.io/search?q=The+CEO%27s+Beloved+Wife)
+
+🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+CEO%27s+Beloved+Wife+manga+volume+1&tag=manhwadaily-20)
+
+### 4. Office Marriage (I Married the Male Lead's Dad)
+
+Our female lead wakes up inside her favorite novel — except instead of chasing the young male lead, she ends up entangled with his devastatingly handsome widower father, a top-tier business mogul. This isekai-romance hybrid is wickedly fun, with a male lead who is simultaneously intimidating in the boardroom and surprisingly tender in private. The art is lush and expressive, and the age-gap dynamic is handled with surprising maturity and warmth.
+
+**Why it's great:** It brilliantly subverts isekai romance expectations while delivering a mature, compelling relationship with a powerful alpha CEO type.
+
+**Rating: 8.9/10**
+
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I+Married+the+Male+Lead%27s+Dad) · [MangaDex](https://mangadex.org/search?q=I+Married+the+Male+Lead%27s+Dad) · [Tapas](https://tapas.io/search?q=I+Married+the+Male+Lead%27s+Dad)
+
+🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=I+Married+the+Male+Lead%27s+Dad+manga+volume+1&tag=manhwadaily-20)
+
+### 5. Her Tale of Shim Chong
+
+A modern retelling of the classic Korean folktale of Shim Chong, this manhwa reimagines the blind father and self-sacrificing daughter story in a contemporary corporate world full of intrigue, family secrets, and a brooding wealthy male lead who becomes utterly captivated by the female protagonist. The storytelling is layered and literary, making it stand apart from typical CEO romances with its cultural richness. The color palette is dreamy and romantic, perfectly matching the emotional tone.
+
+**Why it's great:** It elevates the genre with genuine literary inspiration and emotional complexity — a manhwa that stays with you long after you finish it.
+
+**Rating: 9.0/10**
+
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Her+Tale+of+Shim+Chong) · [MangaDex](https://mangadex.org/search?q=Her+Tale+of+Shim+Chong) · [Tapas](https://tapas.io/search?q=Her+Tale+of+Shim+Chong)
+
+🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Her+Tale+of+Shim+Chong+manga+volume+1&tag=manhwadaily-20)
+
+### 6. My Husband Hides His Beauty
+
+A woman fleeing an arranged marriage ends up unexpectedly wed to a man who hides his breathtaking face — a man who also happens to be a powerful lord of considerable wealth and influence. Underneath the humor and fantasy trappings, this manhwa is essentially a gorgeous CEO-type romance with incredible tension and a male lead whose hidden vulnerability makes him devastatingly compelling. The art is absolutely top-tier, with some of the most beautiful character designs in the genre.
+
+**Why it's great:** The hidden beauty concept is executed with comedic genius and real romantic payoff — every reveal chapter will have you audibly gasping.
+
+**Rating: 9.3/10**
 
 **Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=My+Husband+Hides+His+Beauty) · [MangaDex](https://mangadex.org/search?q=My+Husband+Hides+His+Beauty) · [Tapas](https://tapas.io/search?q=My+Husband+Hides+His+Beauty)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=My+Husband+Hides+His+Beauty+manga+volume+1&tag=manhwadaily-20)
 
-### 2. The CEO's Contractual Wife
+### 7. Falling for the Enemy (Close Enough to Touch)
 
-A struggling single mother enters a contract marriage with an ice-cold CEO who needs a wife for appearances — but their arrangement quickly spirals into something dangerously real. The emotional depth here is remarkable, tackling themes of trust, past wounds, and what it means to build a family from scratch. Expect plenty of tender moments tucked between sharp corporate drama.
+Two rival company heirs are forced into close proximity after a corporate merger, and what begins as fierce boardroom antagonism melts into something neither of them expected. The enemies-to-lovers tension here is absolutely crackling, with both leads being equally sharp, ambitious, and stubborn — making the eventual romantic surrender feel enormously earned. The sleek, fashion-forward art style makes every chapter feel like flipping through a high-end magazine.
 
-**Why it's great:** The pacing is chef's kiss — slow burn done right, with a male lead whose gradual thaw feels completely earned and believable chapter after chapter.
+**Why it's great:** The equal footing between the leads and the corporate power struggle backdrop give this romance real stakes and addictive chapter-to-chapter momentum.
 
-**Rating: 8.8/10**
+**Rating: 8.6/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+CEO%27s+Contractual+Wife) · [MangaDex](https://mangadex.org/search?q=The+CEO%27s+Contractual+Wife) · [Tapas](https://tapas.io/search?q=The+CEO%27s+Contractual+Wife)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Falling+for+the+Enemy) · [MangaDex](https://mangadex.org/search?q=Falling+for+the+Enemy) · [Tapas](https://tapas.io/search?q=Falling+for+the+Enemy)
 
-🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+CEO%27s+Contractual+Wife+manga+volume+1&tag=manhwadaily-20)
+🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Falling+for+the+Enemy+manga+volume+1&tag=manhwadaily-20)
 
-### 3. Remarried Empress
+### 8. Touch My Heart
 
-Empress Navier is the perfect consort — politically brilliant, composed, and powerful — until her emperor husband brings home a mistress and expects her to simply accept it. Her decision to divorce and remarry a rival empire's king is one of manhwa's most satisfying power moves ever put to page. The art is lush and detailed, the palace politics are gripping, and the new love interest is the respectful, attentive partner every reader deserves.
+A hardworking paralegal unexpectedly ends up living next door to a cold, elite attorney from one of Korea's most powerful law firms, and their reluctant cohabitation slowly transforms into something neither planned. This manhwa is warm, funny, and genuinely sweet, with a male lead whose stern exterior cracks in the most endearing ways. It's lighter in tone than some entries on this list, making it a perfect palate cleanser or entry point into the genre.
 
-**Why it's great:** This is the rare romance where the female lead has just as much, if not more, presence and agency than the rich male lead. Over 150 chapters of pure class.
+**Why it's great:** The domestic romance elements and workplace dynamics blend beautifully, and the male lead's gradual emotional openness is deeply rewarding to watch.
 
-**Rating: 9.5/10**
+**Rating: 8.4/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Remarried+Empress) · [MangaDex](https://mangadex.org/search?q=Remarried+Empress) · [Tapas](https://tapas.io/search?q=Remarried+Empress)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Touch+My+Heart) · [MangaDex](https://mangadex.org/search?q=Touch+My+Heart) · [Tapas](https://tapas.io/search?q=Touch+My+Heart)
 
-🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Remarried+Empress+manga+volume+1&tag=manhwadaily-20)
+🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Touch+My+Heart+manga+volume+1&tag=manhwadaily-20)
 
-### 4. My Secretly Hot Husband
+### 9. I Love Yoo
 
-Elisha is forced to marry the supposedly cursed and ugly Lord Lucerne — only to discover he is breathtakingly handsome and far more dangerous than she imagined. The tension between these two is electric from page one, built on secrets, survival instincts, and a slow, agonizing mutual fascination. The art style is strikingly detailed and the plot layers on satisfying twists throughout its 100+ chapter run.
+Shin-Ae, a girl who has sworn off all emotional entanglements, finds herself caught between two wealthy brothers from one of Korea's most powerful families after a series of fateful coincidences pull them all into each other's orbits. Webtoon-original with over 180 chapters, this series boasts one of the most thoughtfully written female leads in the genre and a love triangle that genuinely keeps you guessing. The art style is soft yet expressive, and creator Quimchee packs enormous emotional intelligence into every episode.
 
-**Why it's great:** The power dynamics are complex and compelling — both leads have layers of trauma and cunning that make every interaction feel loaded with meaning.
-
-**Rating: 9.0/10**
-
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=My+Secretly+Hot+Husband) · [MangaDex](https://mangadex.org/search?q=My+Secretly+Hot+Husband) · [Tapas](https://tapas.io/search?q=My+Secretly+Hot+Husband)
-
-🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=My+Secretly+Hot+Husband+manga+volume+1&tag=manhwadaily-20)
-
-### 5. Office Romance Confidential
-
-A sharp, no-nonsense office worker accidentally catches the eye of her company's reclusive CEO after a series of hilariously unfortunate encounters — and neither of them can quite shake the other loose. This one leans into the modern, contemporary office setting beautifully, with sleek art that feels distinctly grown-up and fashion-forward. The banter between the leads is witty and addictive, making every chapter fly by.
-
-**Why it's great:** Perfect for readers who want a grounded, real-world feel instead of fantasy settings — the workplace politics add genuine stakes to the romance.
-
-**Rating: 8.5/10**
-
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Office+Romance+Confidential) · [MangaDex](https://mangadex.org/search?q=Office+Romance+Confidential) · [Tapas](https://tapas.io/search?q=Office+Romance+Confidential)
-
-🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Office+Romance+Confidential+manga+volume+1&tag=manhwadaily-20)
-
-### 6. I Became the Wife of the Monstrous Crown Prince
-
-Blake, a reincarnated woman, marries the fearsome and lonely Crown Prince Diart in hopes of simply surviving her doomed fate — but she may be the only person in the world who truly sees him. The emotional storytelling here is genuinely moving, balancing political intrigue with intimate character moments that will hit you right in the chest. Diart's devotion once it finally unfolds is the kind of fictional love that ruins you for lesser stories.
-
-**Why it's great:** The male lead's arc from feared monster to devoted partner is one of the most carefully written redemption romances in the genre — deeply satisfying over its 80+ chapter run.
+**Why it's great:** The character writing here is exceptional — both male leads feel like real, complex people rather than wish-fulfillment archetypes, making the emotional investment enormous.
 
 **Rating: 9.1/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I+Became+the+Wife+of+the+Monstrous+Crown+Prince) · [MangaDex](https://mangadex.org/search?q=I+Became+the+Wife+of+the+Monstrous+Crown+Prince) · [Tapas](https://tapas.io/search?q=I+Became+the+Wife+of+the+Monstrous+Crown+Prince)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I+Love+Yoo) · [MangaDex](https://mangadex.org/search?q=I+Love+Yoo) · [Tapas](https://tapas.io/search?q=I+Love+Yoo)
 
-🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=I+Became+the+Wife+of+the+Monstrous+Crown+Prince+manga+volume+1&tag=manhwadaily-20)
+🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=I+Love+Yoo+manga+volume+1&tag=manhwadaily-20)
 
-### 7. The Tyrant's Only Perfumer
+### 10. Positively Yours
 
-A talented perfumer is summoned to serve a ruthless emperor whose legendary cruelty precedes him — but the scents she creates begin to unravel something unexpected in his iron heart. The worldbuilding is creative and sensory, making every chapter feel immersive and beautifully rendered. This is a slow-burn romance at its most exquisite, with an art style that practically glows off the screen.
+After a one-night stand with a wealthy, handsome stranger, our female lead discovers she's pregnant — and the father turns out to be far more present and determined than she ever anticipated. This manhwa handles a potentially melodramatic premise with surprising warmth, humor, and realism, making the relationship feel genuinely earned rather than rushed. The male lead's evolution from aloof rich man to devoted partner is one of the most satisfying character arcs in modern romance manhwa.
 
-**Why it's great:** The unique premise keeps it fresh while delivering all the delicious tension of a classic rich/powerful lead romance — the chemistry between leads builds magnificently.
+**Why it's great:** It turns an overdone premise into something fresh through sheer character charm and genuinely funny slice-of-life moments between the leads.
 
-**Rating: 8.7/10**
+**Rating: 8.8/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Tyrant%27s+Only+Perfumer) · [MangaDex](https://mangadex.org/search?q=The+Tyrant%27s+Only+Perfumer) · [Tapas](https://tapas.io/search?q=The+Tyrant%27s+Only+Perfumer)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Positively+Yours) · [MangaDex](https://mangadex.org/search?q=Positively+Yours) · [Tapas](https://tapas.io/search?q=Positively+Yours)
 
-🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Tyrant%27s+Only+Perfumer+manga+volume+1&tag=manhwadaily-20)
+🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Positively+Yours+manga+volume+1&tag=manhwadaily-20)
 
-### 8. Marry My Husband
+## Final Thoughts
 
-After being betrayed by her cheating husband and backstabbing best friend, Jiwon is reincarnated ten years into the past — and decides to let those two find each other while she pursues her own happiness, including the attention of her cold but secretly devoted CEO boss. The revenge-romance blend here is executed with precision and cathartic joy, and the male lead's quiet, unwavering support for Jiwon is genuinely swoon-worthy. With over 80 chapters and a passionate fanbase, this is one of the hottest titles in the genre right now.
-
-**Why it's great:** It perfectly balances satisfying revenge fantasy with a genuinely healthy, emotionally supportive romance — a rare and wonderful combination.
-
-**Rating: 9.4/10**
-
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Marry+My+Husband) · [MangaDex](https://mangadex.org/search?q=Marry+My+Husband) · [Tapas](https://tapas.io/search?q=Marry+My+Husband)
-
-🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Marry+My+Husband+manga+volume+1&tag=manhwadaily-20)
-
-### 9. I'm the Villainess, So I'm Taming the Final Boss
-
-Aileen reincarnates as a villainess destined to be executed and immediately sets her sights on winning over the Demon King — the story's true final boss — to avoid her fate. What follows is a delightfully strategic courtship between a resourceful, sharp-tongued heroine and a powerful, intensely loyal male lead who cannot quite process what is happening to him. The humor is sharp, the romantic payoffs are deeply satisfying, and the art brings every lavish scene to glorious life.
-
-**Why it's great:** The female lead actively pursuing and outmaneuvering the powerful male lead makes for endlessly entertaining reading — a standout in the villainess romance subgenre.
-
-**Rating: 8.9/10**
-
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I%27m+the+Villainess+So+I%27m+Taming+the+Final+Boss) · [MangaDex](https://mangadex.org/search?q=I%27m+the+Villainess+So+I%27m+Taming+the+Final+Boss) · [Tapas](https://tapas.io/search?q=I%27m+the+Villainess+So+I%27m+Taming+the+Final+Boss)
-
-🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=I%27m+the+Villainess+So+I%27m+Taming+the+Final+Boss+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=I%27m+the+Villainess+So+I%27m+Taming+the+Final+Boss+light+novel+volume+1&tag=manhwadaily-20)
-
-### 10. A Business Proposal
-
-Shin Hari fills in for her friend at a blind date with the intention of being rejected immediately — only to find herself face-to-face with her CEO, who promptly proposes marriage on the spot. This Korean romcom is an absolute delight from start to finish, packed with misunderstandings, second-lead heartbreak, and a male lead whose stone-faced devotion is absolutely hilarious. It inspired a smash-hit K-drama, and the manhwa original is just as bingeable across its 80 chapters.
-
-**Why it's great:** Pure, uncut romantic comedy energy with a CEO lead who is simultaneously terrifying in the boardroom and completely helpless around the woman he loves.
-
-**Rating: 9.3/10**
-
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=A+Business+Proposal) · [MangaDex](https://mangadex.org/search?q=A+Business+Proposal) · [Tapas](https://tapas.io/search?q=A+Business+Proposal)
-
-🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=A+Business+Proposal+manga+volume+1&tag=manhwadaily-20)
-
-## Light Novel Picks
-
-If you love the rich-lead romance genre and want to dive even deeper into the stories, these titles have light novel adaptations that expand the worlds you already love!
-
-**I'm the Villainess, So I'm Taming the Final Boss:** The light novel dives even deeper into Aileen's razor-sharp scheming and Claude's quietly devastating devotion — an absolute must-read for fans of the manhwa.🛒 [Get the Manga on Amazon](https://www.amazon.com/s?k=I%27m+the+Villainess+So+I%27m+Taming+the+Final+Boss+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=I%27m+the+Villainess+So+I%27m+Taming+the+Final+Boss+light+novel+volume+1&tag=manhwadaily-20)
+Whether you're a longtime fan of the CEO romance genre or just dipping your toes in, these manhwas represent the very best the category has to offer. From the comedic genius of *What's Wrong with Secretary Kim* to the emotional depth of *I Love Yoo* and the cultural richness of *Her Tale of Shim Chong*, there's something here for every type of romance reader. Bookmark this list, grab your favorite snack, and clear your schedule — because once you start, you absolutely will not stop!
