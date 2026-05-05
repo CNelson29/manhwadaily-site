@@ -1,7 +1,7 @@
 ---
 title: "Best Action Manhwas With Overpowered MC"
 date: "20260419T1"
-excerpt: "Looking for the best action manhwas with an overpowered MC? We ranked the top titles featuring unstoppable protagonists, explosive fights, and stories worth binging from chapter one."
+excerpt: "Looking for the best action manhwas with an overpowered MC? We ranked the top titles featuring unstoppable protagonists, explosive fights, and stories."
 category: "Action"
 tags: ["action manhwa list", "best action manhwa overpowered mc", "manhwa recommendations", "op mc manhwa", "solo leveling"]
 type: "rankings"

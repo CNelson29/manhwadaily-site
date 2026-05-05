@@ -1,7 +1,7 @@
 ---
 title: "Best Manhwas With System/Leveling Mechanics (2026)"
 date: "2026-04-29"
-excerpt: "From shadow armies to divine stat windows, system manhwas have evolved into the most addictive genre in comics — and these 10 titles are the absolute cream of the crop. Whether you're a seasoned hunte"
+excerpt: "From shadow armies to divine stat windows, system manhwas have evolved into the most addictive genre in comics — and these 10 titles are the absolute."
 category: "Isekai"
 tags: ["system manhwa", "leveling mechanics", "isekai", "solo leveling", "ranking"]
 type: "rankings"

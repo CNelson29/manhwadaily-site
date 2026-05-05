@@ -1,7 +1,7 @@
 ---
 title: "Solo Leveling Alternatives Ranked: Best Manhwa to Read Next"
 date: "20260419T0"
-excerpt: "Finished Solo Leveling and staring into the void? We rank the best manhwa alternatives — from Omniscient Reader's Viewpoint to Nano Machine — so you never have to stop reading."
+excerpt: "Finished Solo Leveling and staring into the void? We rank the best manhwa alternatives — from Omniscient Reader's Viewpoint to Nano Machine — so you never."
 category: "Action"
 tags: ["best manhwa like solo leveling", "dungeon manhwa recommendations", "overpowered MC manhwa", "solo leveling alternatives", "system manhwa ranked"]
 type: "rankings"

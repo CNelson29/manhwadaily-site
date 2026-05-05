@@ -1,7 +1,7 @@
 ---
 title: "Best Murim Manhwas Ranked: Top Martial World Stories"
 date: "2026-05-03"
-excerpt: "The murim world is one of manhwa's most electrifying settings — a hidden society of martial artists, ancient clans, and earth-shattering qi techniques. We've ranked the absolute best murim manhwas you"
+excerpt: "The murim world is one of manhwa's most electrifying settings — a hidden society of martial artists, ancient clans, and earth-shattering qi techniques."
 category: "Action"
 tags: ["murim", "martial arts", "action manhwa", "cultivation", "wuxia manhwa"]
 type: "rankings"

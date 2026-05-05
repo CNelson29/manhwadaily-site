@@ -1,7 +1,7 @@
 ---
 title: "Top Cultivation Manhwas for Beginners: Where to Start"
 date: "2026-05-01"
-excerpt: "Cultivation manhwas are exploding in popularity, but knowing where to start can feel overwhelming when there are hundreds of titles out there. We've hand-picked the absolute best entry points for newc"
+excerpt: "Cultivation manhwas are exploding in popularity, but knowing where to start can feel overwhelming when there are hundreds of titles out there. We've."
 category: "Fantasy"
 tags: ["cultivation", "fantasy", "beginner-guide", "power-progression", "xianxia"]
 type: "rankings"

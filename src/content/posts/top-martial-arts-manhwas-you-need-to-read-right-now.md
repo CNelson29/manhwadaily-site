@@ -1,7 +1,7 @@
 ---
 title: "Top Martial Arts Manhwas You Need to Read Right Now"
 date: "2026-04-29"
-excerpt: "From explosive cultivation epics to gritty street-fighting legends, martial arts manhwa has never been better — and these 10 titles prove it. Whether you're a seasoned reader or just getting started, "
+excerpt: "From explosive cultivation epics to gritty street-fighting legends, martial arts manhwa has never been better — and these 10 titles prove it. Whether."
 category: "Action"
 tags: ["martial arts", "action", "cultivation", "manhwa recommendations", "fighting"]
 type: "rankings"

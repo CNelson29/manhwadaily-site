@@ -1,7 +1,7 @@
 ---
 title: "Best Completed Manhwas to Binge Right Now"
 date: "20260419T1"
-excerpt: "Skip the wait and dive into these fully completed manhwa series. From action epics like Solo Leveling to psychological thrillers like Bastard, these are the best finished manhwas worth bingeing right now."
+excerpt: "Skip the wait and dive into these fully completed manhwa series. From action epics like Solo Leveling to psychological thrillers like Bastard, these are."
 category: "Completed"
 tags: ["best manhwa to binge", "completed manhwa", "finished manhwa series", "manhwa recommendations", "solo leveling"]
 type: "rankings"

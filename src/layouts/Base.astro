@@ -39,6 +39,13 @@ const canonical = slug ? `${siteUrl}/${slug}/` : siteUrl;
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@600;700;800;900&family=Nunito:wght@400;500;600&display=swap" />
   </noscript>
   <link rel="alternate" type="application/rss+xml" title="ManhwaDaily Feed" href="/rss.xml" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'ManhwaDaily',
+    url: siteUrl,
+    description: 'Manhwa recommendations, rankings and reviews for every reader.',
+  })} />
   <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}></script>
   <script define:vars={{ GA_ID }}>
     window.dataLayer = window.dataLayer || [];

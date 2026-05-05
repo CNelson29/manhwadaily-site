@@ -1,7 +1,7 @@
 ---
 title: "Best Revenge Manhwas With Satisfying Endings"
 date: "2026-05-02"
-excerpt: "Nothing hits harder than watching a wronged protagonist claw their way back to the top and deliver justice with style. These revenge manhwas don't just promise payback — they actually deliver it with "
+excerpt: "Nothing hits harder than watching a wronged protagonist claw their way back to the top and deliver justice with style. These revenge manhwas don't just."
 category: "Action"
 tags: ["revenge", "action", "satisfying endings", "manhwa recommendations", "best manhwa"]
 type: "rankings"

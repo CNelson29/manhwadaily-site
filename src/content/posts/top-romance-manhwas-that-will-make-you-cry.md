@@ -1,7 +1,7 @@
 ---
 title: "Top Romance Manhwas That Will Make You Cry"
 date: "2026-04-28"
-excerpt: "Grab your tissues and clear your schedule — these romance manhwas hit so hard emotionally that readers worldwide have reported ugly-crying at 3am. From heartbreaking misunderstandings to gut-wrenching"
+excerpt: "Grab your tissues and clear your schedule — these romance manhwas hit so hard emotionally that readers worldwide have reported ugly-crying at 3am. From."
 category: "Romance"
 tags: ["romance", "emotional", "tearjerker", "melodrama", "heartbreak", "manhwa recommendations", "webtoon"]
 type: "rankings"

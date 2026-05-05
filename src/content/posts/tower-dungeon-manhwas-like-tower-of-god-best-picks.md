@@ -1,7 +1,7 @@
 ---
 title: "Tower Dungeon Manhwas Like Tower of God: Best Picks"
 date: "2026-05-03"
-excerpt: "If Tower of God left you craving more floor-climbing, dungeon-diving, power-scaling action, you're in the right place. We've ranked the absolute best tower and dungeon manhwas that'll keep your adrena"
+excerpt: "If Tower of God left you craving more floor-climbing, dungeon-diving, power-scaling action, you're in the right place. We've ranked the absolute best."
 category: "Fantasy"
 tags: ["tower of god", "dungeon manhwa", "fantasy manhwa", "tower climbing", "isekai manhwa"]
 type: "rankings"

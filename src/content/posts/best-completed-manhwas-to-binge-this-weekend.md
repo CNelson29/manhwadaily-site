@@ -1,7 +1,7 @@
 ---
 title: "Best Completed Manhwas to Binge This Weekend"
 date: "2026-05-04"
-excerpt: "No more waiting for weekly updates — these fully completed manhwas let you read straight from chapter one to the epic finale without interruption. Grab your snacks, clear your schedule, and dive into "
+excerpt: "No more waiting for weekly updates — these fully completed manhwas let you read straight from chapter one to the epic finale without interruption. Grab."
 category: "Completed"
 tags: ["completed manhwa", "manhwa recommendations", "binge reading", "best manhwa", "finished series"]
 type: "rankings"

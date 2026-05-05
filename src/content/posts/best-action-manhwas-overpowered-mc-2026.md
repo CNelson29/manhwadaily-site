@@ -1,7 +1,7 @@
 ---
 title: "Best Action Manhwas With Overpowered MC (2026)"
 date: "2026-04-27"
-excerpt: "There's nothing quite like watching an unstoppable force tear through enemies like they're made of paper — and these action manhwas deliver that dopamine hit in spades. We've ranked the absolute best "
+excerpt: "There's nothing quite like watching an unstoppable force tear through enemies like they're made of paper — and these action manhwas deliver that dopamine."
 category: "Action"
 tags: ["overpowered mc", "action manhwa", "op mc", "fantasy", "rankings"]
 type: "rankings"

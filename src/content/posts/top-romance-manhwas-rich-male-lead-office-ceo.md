@@ -1,7 +1,7 @@
 ---
 title: "Top Romance Manhwas With Rich Male Lead (Office/CEO)"
 date: "2026-05-04"
-excerpt: "If you love sharp suits, smoldering tension, and billionaire love stories that actually have depth, these CEO romance manhwas will have you reading until 3 AM. We've ranked the absolute best office an"
+excerpt: "If you love sharp suits, smoldering tension, and billionaire love stories that actually have depth, these CEO romance manhwas will have you reading until."
 category: "Romance"
 tags: ["romance manhwa", "CEO manhwa", "rich male lead", "office romance", "webtoon recommendations"]
 type: "rankings"

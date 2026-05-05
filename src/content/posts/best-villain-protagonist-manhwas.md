@@ -1,7 +1,7 @@
 ---
 title: "10 Best Villain Protagonist Manhwas You Need to Read"
 date: "2026-05-05"
-excerpt: "Tired of squeaky-clean heroes? These villain protagonist manhwas put you in the shoes of the bad guy — and make you love every ruthless, scheming second of it. From cold-blooded conquerors to morally "
+excerpt: "Tired of squeaky-clean heroes? These villain protagonist manhwas put you in the shoes of the bad guy — and make you love every ruthless, scheming second."
 category: "Action"
 tags: ["villain protagonist", "action manhwa", "antihero", "dark fantasy", "reincarnation"]
 type: "rankings"

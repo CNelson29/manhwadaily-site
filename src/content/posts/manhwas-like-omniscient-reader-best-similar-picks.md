@@ -1,7 +1,7 @@
 ---
 title: "Manhwas Like Omniscient Reader: Best Similar Picks"
 date: "2026-04-29"
-excerpt: "If Omniscient Reader's blend of apocalyptic survival, meta storytelling, and emotionally devastating character work left you desperately searching for more, you're in the right place. These 10 manhwas"
+excerpt: "If Omniscient Reader's blend of apocalyptic survival, meta storytelling, and emotionally devastating character work left you desperately searching for."
 category: "Fantasy"
 tags: ["omniscient reader", "fantasy manhwa", "isekai", "apocalypse manhwa", "regression manhwa"]
 type: "rankings"

@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Short Completed Manhwas Worth Reading"
 date: "2026-05-02"
-excerpt: "Not every great story needs hundreds of chapters — these short completed manhwas deliver epic emotions, stunning art, and satisfying endings in record time. Whether you have a weekend or just a few ho"
+excerpt: "Not every great story needs hundreds of chapters — these short completed manhwas deliver epic emotions, stunning art, and satisfying endings in record."
 category: "Completed"
 tags: ["completed manhwa", "short manhwa", "best manhwa", "manhwa recommendations", "finished series"]
 type: "rankings"

@@ -1,7 +1,7 @@
 ---
 title: "Best Isekai Manhwas of 2026: The Ultimate Ranked List"
 date: "2026-05-05"
-excerpt: "2026 has been an absolutely insane year for isekai manhwa — new powerhouses are dethroning classics and fresh art styles are redefining the genre. We ranked the 10 best so you don't miss a single chap"
+excerpt: "2026 has been an absolutely insane year for isekai manhwa — new powerhouses are dethroning classics and fresh art styles are redefining the genre. We."
 category: "Isekai"
 tags: ["isekai", "manhwa", "rankings", "fantasy", "reincarnation"]
 type: "rankings"

@@ -1,7 +1,7 @@
 ---
 title: "Hidden Gem Manhwas Most People Haven't Read Yet"
 date: "2026-05-02"
-excerpt: "Tired of recommending Solo Leveling for the hundredth time? These 10 criminally underrated manhwas deserve a spot on every reader's list — gorgeous art, gripping stories, and almost zero hype to get i"
+excerpt: "Tired of recommending Solo Leveling for the hundredth time? These 10 criminally underrated manhwas deserve a spot on every reader's list — gorgeous art."
 category: "Rankings"
 tags: ["hidden gems", "underrated manhwa", "recommendations", "rankings", "webtoon"]
 type: "rankings"

@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Best Isekai Manhwas of 2025 (Ranked & Reviewed)"
 date: "20260418T1"
-excerpt: "Looking for the best isekai manhwas to read in 2025? We ranked the top 10 titles by story, art, and pacing — including fan favorites and hidden gems you can't miss."
+excerpt: "Looking for the best isekai manhwas to read in 2025? We ranked the top 10 titles by story, art, and pacing — including fan favorites and hidden gems you."
 category: "Isekai"
 tags: ["best isekai manhwa 2025", "isekai manhwa recommendations", "isekai webtoon ranked", "overpowered MC manhwa", "top manhwa to read 2025"]
 type: "rankings"
@@ -35,7 +35,7 @@ With those criteria in mind, here are our picks for 2025.
 * * *
 
 ## Top 10 Best Isekai Manhwas of 2025 — Quick Comparison
-# | Title | Genre Blend | Art Quality | Story Depth | Reader Rating  
+## | Title | Genre Blend | Art Quality | Story Depth | Reader Rating  
 ---|---|---|---|---|---  
 1 | Omniscient Reader's Viewpoint | Isekai / Apocalypse | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 9.8/10  
 2 | The Beginning After the End | Isekai / Fantasy / Action | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 9.7/10  

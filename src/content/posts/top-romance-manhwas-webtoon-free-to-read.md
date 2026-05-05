@@ -1,7 +1,7 @@
 ---
 title: "Top Romance Manhwas on Webtoon (Free to Read)"
 date: "2026-05-01"
-excerpt: "Webtoon is home to some of the most swoon-worthy romance manhwas ever created — and the best part? You can start reading right now for free. From slow-burn enemies-to-lovers to heartwarming school rom"
+excerpt: "Webtoon is home to some of the most swoon-worthy romance manhwas ever created — and the best part? You can start reading right now for free. From."
 category: "Romance"
 tags: ["romance", "webtoon", "free manhwa", "recommendations", "school romance"]
 type: "rankings"

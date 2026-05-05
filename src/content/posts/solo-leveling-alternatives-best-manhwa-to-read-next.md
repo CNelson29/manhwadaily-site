@@ -1,7 +1,7 @@
 ---
 title: "Solo Leveling Alternatives: Best Manhwa to Read Next"
 date: "2026-05-05"
-excerpt: "Finished Solo Leveling and left with an Sung Jin-Woo-shaped hole in your heart? We've ranked the 10 best manhwa that deliver the same jaw-dropping power fantasy, stunning art, and addictive progressio"
+excerpt: "Finished Solo Leveling and left with an Sung Jin-Woo-shaped hole in your heart? We've ranked the 10 best manhwa that deliver the same jaw-dropping power."
 category: "Action"
 tags: ["solo leveling", "action manhwa", "power fantasy", "dungeon manhwa", "manhwa recommendations"]
 type: "rankings"

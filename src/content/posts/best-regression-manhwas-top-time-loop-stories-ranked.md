@@ -1,7 +1,7 @@
 ---
 title: "Best Regression Manhwas: Top Time-Loop Stories Ranked"
 date: "2026-04-30"
-excerpt: "What would you do if you could live your life over again, armed with the knowledge of every mistake and betrayal? These 10 regression manhwas answer that question with breathtaking art, ruthless prota"
+excerpt: "What would you do if you could live your life over again, armed with the knowledge of every mistake and betrayal? These 10 regression manhwas answer that."
 category: "Isekai"
 tags: ["regression", "time-loop", "isekai", "revenge", "second-chance"]
 type: "rankings"
