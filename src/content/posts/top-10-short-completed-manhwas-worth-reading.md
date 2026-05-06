@@ -5,8 +5,8 @@ excerpt: "Not every great story needs hundreds of chapters — these short compl
 category: "Completed"
 tags: ["completed manhwa", "short manhwa", "best manhwa", "manhwa recommendations", "finished series"]
 type: "rankings"
-image: "https://images.pexels.com/photos/18848524/pexels-photo-18848524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-draft: false
+image: "/images/posts/top-10-short-completed-manhwas-worth-reading-hero.jpg"
+draft: False
 ---
 
 ## Introduction
@@ -138,3 +138,9 @@ Noblesse follows Cadis Etrama Di Raizel — Rai — an ancient and impossibly po
 ## Final Thoughts
 
 Every manhwa on this list proves that a story doesn't need to run forever to be unforgettable. Whether you're in the mood for psychological romance, mythological fantasy, or superpowered action, there's something here that'll grab you by the collar and not let go until the last page. Start with *Orange Marmalade* if you want your heart broken beautifully, or *Noblesse* if you want the full epic experience — either way, you won't regret it.
+
+## More Manhwa Recommendations
+
+- [Solo Leveling Alternatives](/solo-leveling-alternatives-best-manhwa-to-read-next/)
+- [Best Action Manhwas 2026](/best-action-manhwas-overpowered-mc-2026/)
+- [Best Isekai Manhwas 2026](/best-isekai-manhwas-2026-ultimate-ranked-list/)

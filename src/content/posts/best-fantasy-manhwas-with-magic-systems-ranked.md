@@ -5,8 +5,8 @@ excerpt: "From intricate spell-casting hierarchies to world-shaking mana explosi
 category: "Fantasy"
 tags: ["fantasy", "magic system", "manhwa", "rankings", "webtoon"]
 type: "rankings"
-image: "https://images.pexels.com/photos/8391385/pexels-photo-8391385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-draft: false
+image: "/images/posts/best-fantasy-manhwas-with-magic-systems-ranked-hero.jpg"
+draft: False
 ---
 
 ## Introduction
@@ -122,3 +122,9 @@ If you want to dive even deeper into the lore and magic systems behind some of t
 **Solo Leveling (Light Novel):** The original source that started it all — the light novel goes even deeper into Jinwoo's inner monologue and the Shadow Monarch mythology, making the magic system feel even more epic. 🛒 [Get the Manhwa Volume on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel+volume+1&tag=manhwadaily-20)
 
 **Omniscient Reader's Viewpoint (Light Novel):** The light novel adds layers of internal narration and world-building detail that flesh out the constellation-based magic hierarchy into something truly extraordinary. 🛒 [Get the Manhwa Volume on Amazon](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+light+novel+volume+1&tag=manhwadaily-20)
+
+## More Manhwa Recommendations
+
+- [Solo Leveling Alternatives](/solo-leveling-alternatives-best-manhwa-to-read-next/)
+- [Best Action Manhwas 2026](/best-action-manhwas-overpowered-mc-2026/)
+- [Best Isekai Manhwas 2026](/best-isekai-manhwas-2026-ultimate-ranked-list/)

@@ -5,8 +5,8 @@ excerpt: "What would you do if you could live your life over again, armed with t
 category: "Isekai"
 tags: ["regression", "time-loop", "isekai", "revenge", "second-chance"]
 type: "rankings"
-image: "https://images.pexels.com/photos/27952863/pexels-photo-27952863.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-draft: false
+image: "/images/posts/best-regression-manhwas-top-time-loop-stories-ranked-hero.jpg"
+draft: False
 ---
 
 ## Introduction
@@ -142,3 +142,9 @@ If you've devoured the manhwa adaptations and want to go deeper into the source 
 **Omniscient Reader's Viewpoint:** The sprawling original web novel that started it all — read it to experience the story's full emotional complexity and the countless details the manhwa couldn't fit. 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+light+novel+volume+1&tag=manhwadaily-20)
 
 **Solo Leveling:** Chugong's original novel delivers the same addictive power progression with vivid prose that paints Jinwoo's rise in even more satisfying detail. 🛒 [Get the Manhwa Volume on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manga+volume+1&tag=manhwadaily-20) · 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel+volume+1&tag=manhwadaily-20)
+
+## More Manhwa Recommendations
+
+- [Solo Leveling Alternatives](/solo-leveling-alternatives-best-manhwa-to-read-next/)
+- [Best Action Manhwas 2026](/best-action-manhwas-overpowered-mc-2026/)
+- [Best Isekai Manhwas 2026](/best-isekai-manhwas-2026-ultimate-ranked-list/)

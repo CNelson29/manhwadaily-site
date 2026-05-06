@@ -5,8 +5,8 @@ excerpt: "Tired of recommending Solo Leveling for the hundredth time? These 10 c
 category: "Rankings"
 tags: ["hidden gems", "underrated manhwa", "recommendations", "rankings", "webtoon"]
 type: "rankings"
-image: "https://images.pexels.com/photos/6654172/pexels-photo-6654172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-draft: false
+image: "/images/posts/hidden-gem-manhwas-most-people-havent-read-yet-hero.jpg"
+draft: False
 ---
 
 ## Introduction
@@ -128,3 +128,9 @@ The original web novel that started it all — longer, deeper, and packed with i
 ## Final Thoughts
 
 Every single manhwa on this list deserves ten times its current readership. Whether you're in the mood for palace intrigue, psychological horror, creative dungeon-crawling, or brutal delinquent brawls, there's something here that will consume your next several weekends. Drop your own hidden gems in the comments — let's keep building this list together!
+
+## More Manhwa Recommendations
+
+- [Solo Leveling Alternatives](/solo-leveling-alternatives-best-manhwa-to-read-next/)
+- [Best Action Manhwas 2026](/best-action-manhwas-overpowered-mc-2026/)
+- [Best Isekai Manhwas 2026](/best-isekai-manhwas-2026-ultimate-ranked-list/)

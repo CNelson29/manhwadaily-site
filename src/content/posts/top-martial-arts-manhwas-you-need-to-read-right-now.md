@@ -5,8 +5,8 @@ excerpt: "From explosive cultivation epics to gritty street-fighting legends, ma
 category: "Action"
 tags: ["martial arts", "action", "cultivation", "manhwa recommendations", "fighting"]
 type: "rankings"
-image: "https://images.pexels.com/photos/19117454/pexels-photo-19117454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-draft: false
+image: "/images/posts/top-martial-arts-manhwas-you-need-to-read-right-now-hero.jpg"
+draft: False
 ---
 
 ## Introduction
@@ -142,3 +142,9 @@ Some of these martial arts worlds started on the page before they ever hit your 
 **Nano Machine:** The original light novel that kicked off the nanomachine-meets-Murim phenomenon — a must-read for fans who want every detail of Cheon Yeo-Woon's rise.🛒 [Get the Manhwa Volume on Amazon](https://www.amazon.com/s?k=Nano+Machine+manga+volume+1&tag=manhwadaily-20) · 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Nano+Machine+light+novel+volume+1&tag=manhwadaily-20)
 
 **Fist Demon of Mount Hua:** The light novel origin of Chung Myung's legendary second life, packed with even more sect politics and heartfelt moments than the manhwa adaptation.🛒 [Get the Manhwa Volume on Amazon](https://www.amazon.com/s?k=Fist+Demon+of+Mount+Hua+manga+volume+1&tag=manhwadaily-20) · 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Fist+Demon+of+Mount+Hua+light+novel+volume+1&tag=manhwadaily-20)
+
+## More Manhwa Recommendations
+
+- [Solo Leveling Alternatives](/solo-leveling-alternatives-best-manhwa-to-read-next/)
+- [Best Action Manhwas 2026](/best-action-manhwas-overpowered-mc-2026/)
+- [Best Isekai Manhwas 2026](/best-isekai-manhwas-2026-ultimate-ranked-list/)

@@ -5,8 +5,8 @@ excerpt: "The murim world is one of manhwa's most electrifying settings — a hi
 category: "Action"
 tags: ["murim", "martial arts", "action manhwa", "cultivation", "wuxia manhwa"]
 type: "rankings"
-image: "https://images.pexels.com/photos/19117454/pexels-photo-19117454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-draft: false
+image: "/images/posts/best-murim-manhwas-ranked-top-martial-world-stories-hero.jpg"
+draft: False
 ---
 
 ## Introduction
@@ -118,3 +118,9 @@ Set in the iconic Mount Hua Sect — also featured in Return of the Blossoming B
 ## Final Verdict
 
 The murim genre has never been richer or more diverse than it is right now. Whether you want emotionally charged revenge epics like *Return of the Blossoming Blade*, innovative sci-fi hybrids like *Nano Machine*, or straightforward power fantasy done to perfection in *Chronicles of the Martial God's Return*, there is a murim manhwa on this list waiting to consume your weekends. Start at the top and work your way down — you won't regret a single chapter.
+
+## More Manhwa Recommendations
+
+- [Solo Leveling Alternatives](/solo-leveling-alternatives-best-manhwa-to-read-next/)
+- [Best Action Manhwas 2026](/best-action-manhwas-overpowered-mc-2026/)
+- [Best Isekai Manhwas 2026](/best-isekai-manhwas-2026-ultimate-ranked-list/)

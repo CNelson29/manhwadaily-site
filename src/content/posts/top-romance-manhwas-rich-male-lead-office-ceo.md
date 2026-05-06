@@ -5,8 +5,8 @@ excerpt: "Tall, cold, ridiculously wealthy, and completely obsessed with one luc
 category: "Romance"
 tags: ["CEO romance", "office romance", "rich male lead", "romance manhwa", "webtoon recommendations"]
 type: "rankings"
-image: "https://images.pexels.com/photos/9566251/pexels-photo-9566251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-draft: false
+image: "/images/posts/top-romance-manhwas-rich-male-lead-office-ceo-hero.jpg"
+draft: False
 ---
 
 ## Introduction
@@ -140,3 +140,9 @@ A spirited florist accidentally becomes entangled with the CEO of a luxury hotel
 If you loved the story but want even more depth, the following titles have light novel adaptations that expand beautifully on the manhwa's world and characters.
 
 **Remarried Empress:** Dive even deeper into Navier's regal inner world and Heinrey's devoted scheming — the light novel delivers intimate POV chapters that the manhwa simply can't fit.🛒 [Get the Manhwa Volume on Amazon](https://www.amazon.com/s?k=Remarried+Empress+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Remarried+Empress+light+novel+volume+1&tag=manhwadaily-20)
+
+## More Manhwa Recommendations
+
+- [Solo Leveling Alternatives](/solo-leveling-alternatives-best-manhwa-to-read-next/)
+- [Best Action Manhwas 2026](/best-action-manhwas-overpowered-mc-2026/)
+- [Best Isekai Manhwas 2026](/best-isekai-manhwas-2026-ultimate-ranked-list/)

@@ -5,8 +5,8 @@ excerpt: "Tired of squeaky-clean heroes? These villain protagonist manhwas put y
 category: "Action"
 tags: ["villain protagonist", "action manhwa", "antihero", "dark fantasy", "reincarnation"]
 type: "rankings"
-image: "https://images.pexels.com/photos/32850719/pexels-photo-32850719.png?auto=compress&cs=tinysrgb&h=650&w=940"
-draft: false
+image: "/images/posts/best-villain-protagonist-manhwas-hero.jpg"
+draft: False
 ---
 
 ## Introduction
@@ -146,3 +146,9 @@ If you want to go even deeper into these worlds, several of our ranked titles ha
 **Overgeared** — The Overgeared light novel fleshes out Grid's early, most villainous arc in incredible detail and is a must for anyone who wants to understand how far this antihero has truly come.
 
 🛒 [Get the Official Manhwa Volume on Amazon](https://www.amazon.com/s?k=Overgeared+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Overgeared+light+novel+volume+1&tag=manhwadaily-20)
+
+## More Manhwa Recommendations
+
+- [Solo Leveling Alternatives](/solo-leveling-alternatives-best-manhwa-to-read-next/)
+- [Best Action Manhwas 2026](/best-action-manhwas-overpowered-mc-2026/)
+- [Best Isekai Manhwas 2026](/best-isekai-manhwas-2026-ultimate-ranked-list/)

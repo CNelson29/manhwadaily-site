@@ -5,8 +5,8 @@ excerpt: "Webtoon is an absolute goldmine for romance manhwa, and the best part?
 category: "Romance"
 tags: ["romance manhwa", "webtoon", "free manhwa", "manhwa recommendations", "best romance"]
 type: "rankings"
-image: "https://images.pexels.com/photos/9517309/pexels-photo-9517309.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-draft: false
+image: "/images/posts/top-romance-manhwas-webtoon-free-to-read-hero.jpg"
+draft: False
 ---
 
 ## Introduction
@@ -156,3 +156,9 @@ Love The Remarried Empress so much you need more? The original light novel dives
 
 🛒 [Get the Official English Manhwa Volume on Amazon](https://www.amazon.com/s?k=The+Remarried+Empress+manga+volume+1&tag=manhwadaily-20)
 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=The+Remarried+Empress+light+novel+volume+1&tag=manhwadaily-20)
+
+## More Manhwa Recommendations
+
+- [Solo Leveling Alternatives](/solo-leveling-alternatives-best-manhwa-to-read-next/)
+- [Best Action Manhwas 2026](/best-action-manhwas-overpowered-mc-2026/)
+- [Best Isekai Manhwas 2026](/best-isekai-manhwas-2026-ultimate-ranked-list/)
