@@ -12,7 +12,6 @@
     }
   ],
   "redirects": [
-    { "source": "/rss.xml", "destination": "/", "permanent": false },
     { "source": "/best-action-manhwas-overpowered-mc-2", "destination": "/best-action-manhwas-overpowered-mc", "permanent": true },
     { "source": "/best-action-manhwas-overpowered-mc-2/", "destination": "/best-action-manhwas-overpowered-mc/", "permanent": true },
     { "source": "/best-completed-manhwas-to-binge-2", "destination": "/best-completed-manhwas-to-binge", "permanent": true },
