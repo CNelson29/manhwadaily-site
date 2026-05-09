@@ -1,0 +1,45 @@
+<div class="site-controls hidden sm:flex items-center gap-2">
+  <button
+    type="button"
+    class="theme-toggle"
+    aria-label="Toggle color theme"
+    title="Toggle light/dark"
+    data-theme-toggle
+  >
+    <span class="theme-icon-dark">☾</span>
+    <span class="theme-icon-light">☀</span>
+  </button>
+  <label class="sr-only" for="language-select">Language</label>
+  <select id="language-select" class="language-select" data-language-select aria-label="Language">
+    <option value="en">EN</option>
+    <option value="es">ES</option>
+    <option value="pt">PT</option>
+    <option value="fr">FR</option>
+  </select>
+</div>
+
+<script>
+  const setTheme = (theme) => {
+    document.documentElement.dataset.theme = theme;
+    localStorage.setItem('manhwadaily-theme', theme);
+  };
+
+  document.querySelectorAll('[data-theme-toggle]').forEach((button) => {
+    button.addEventListener('click', () => {
+      const current = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
+      setTheme(current);
+    });
+  });
+
+  document.querySelectorAll('[data-language-select]').forEach((select) => {
+    select.addEventListener('change', (event) => {
+      const lang = event.target.value;
+      if (lang === 'en') {
+        window.location.href = window.location.pathname + window.location.hash;
+        return;
+      }
+      const currentUrl = window.location.href;
+      window.location.href = `https://translate.google.com/translate?sl=en&tl=${lang}&u=${encodeURIComponent(currentUrl)}`;
+    });
+  });
+</script>

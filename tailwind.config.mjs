@@ -5,15 +5,15 @@ export default {
     extend: {
       colors: {
         brand: {
-          bg:      '#0D1117',
-          surface: '#161B22',
-          card:    '#1C2128',
-          border:  '#30363D',
+          bg:      'var(--brand-bg)',
+          surface: 'var(--brand-surface)',
+          card:    'var(--brand-card)',
+          border:  'var(--brand-border)',
           coral:   '#FF6B6B',
           teal:    '#4ECDC4',
-          dim:     '#8B949E',
-          text:    '#C9D1D9',
-          white:   '#F0F6FC',
+          dim:     'var(--brand-dim)',
+          text:    'var(--brand-text)',
+          white:   'var(--brand-white)',
         },
       },
       fontFamily: {

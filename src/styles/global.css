@@ -4,6 +4,25 @@
 @tailwind utilities;
 
 @layer base {
+  :root,
+  :root[data-theme="dark"] {
+    --brand-bg: #0D1117;
+    --brand-surface: #161B22;
+    --brand-card: #1C2128;
+    --brand-border: #30363D;
+    --brand-dim: #8B949E;
+    --brand-text: #C9D1D9;
+    --brand-white: #F0F6FC;
+  }
+  :root[data-theme="light"] {
+    --brand-bg: #FFF8F3;
+    --brand-surface: #FFF0E8;
+    --brand-card: #FFFFFF;
+    --brand-border: #E7CFC2;
+    --brand-dim: #755F57;
+    --brand-text: #31241F;
+    --brand-white: #18100D;
+  }
   html { scroll-behavior: smooth; }
   body { @apply bg-brand-bg text-brand-text font-sans antialiased; }
   ::selection { @apply bg-brand-coral/30 text-white; }
@@ -35,6 +54,20 @@
   .cat-Isekai    { @apply bg-blue-500/10 text-blue-400 border-blue-500/20; }
   .cat-Completed { @apply bg-brand-teal/10 text-brand-teal border-brand-teal/20; }
   .cat-Rankings  { @apply bg-amber-500/10 text-amber-400 border-amber-500/20; }
+
+  .theme-toggle,
+  .language-select {
+    @apply h-9 rounded-lg border border-brand-border bg-brand-surface text-brand-text transition-colors;
+  }
+  .theme-toggle {
+    @apply w-9 flex items-center justify-center text-sm font-bold hover:border-brand-coral/40 hover:text-brand-coral;
+  }
+  .language-select {
+    @apply px-2 text-xs font-semibold outline-none hover:border-brand-coral/40;
+  }
+  .theme-icon-light { display: none; }
+  :root[data-theme="light"] .theme-icon-dark { display: none; }
+  :root[data-theme="light"] .theme-icon-light { display: inline; }
 }
 
 /* Speed-lines decorative element */

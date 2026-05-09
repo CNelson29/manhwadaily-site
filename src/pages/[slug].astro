@@ -16,6 +16,7 @@ const { Content } = await post.render();
 const dateFormatted = new Date(data.date).toLocaleDateString('en-US', {
   month: 'long', day: 'numeric', year: 'numeric',
 });
+const olympusSearch = `https://olympusbiblioteca.com/?s=${encodeURIComponent(data.title)}`;
 
 const GRAD: Record<string, string> = {
   Action:'from-brand-coral/15', Romance:'from-pink-500/15',
@@ -76,10 +77,14 @@ const grad = GRAD[data.category] ?? GRAD.Rankings;
       <!-- Where to read CTA -->
       <div class="mt-10 p-6 rounded-2xl border border-brand-coral/20 bg-brand-surface text-center">
         <p class="font-display font-bold text-lg text-brand-white mb-1">Ready to start reading? 📖</p>
-        <p class="text-brand-dim text-sm mb-4">Find these manhwa on official platforms like Webtoon, Tapas, or Lezhin Comics.</p>
+        <p class="text-brand-dim text-sm mb-4">For Spanish readers, search Olympus Biblioteca. For official releases, check Webtoon, Tapas, or Lezhin Comics.</p>
         <div class="flex flex-wrap justify-center gap-3">
-          <a href="https://www.webtoons.com" target="_blank" rel="noopener noreferrer"
+          <a href={olympusSearch} target="_blank" rel="noopener noreferrer"
             class="px-4 py-2 rounded-lg bg-brand-coral text-white font-bold text-sm hover:bg-orange-400 transition-colors">
+            Olympus Biblioteca ES
+          </a>
+          <a href="https://www.webtoons.com" target="_blank" rel="noopener noreferrer"
+            class="px-4 py-2 rounded-lg bg-brand-surface border border-brand-border text-brand-text font-bold text-sm hover:border-brand-coral/40 transition-colors">
             Webtoon
           </a>
           <a href="https://tapas.io" target="_blank" rel="noopener noreferrer"
