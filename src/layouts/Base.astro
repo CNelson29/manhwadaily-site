@@ -6,7 +6,9 @@ interface Props {
 }
 const { title, description, slug = '', type = 'website', image, date } = Astro.props;
 const GA_ID   = 'G-5TX067SHH1';
-const ADSENSE_CLIENT_ID = import.meta.env.PUBLIC_ADSENSE_CLIENT_ID || import.meta.env.PUBLIC_GOOGLE_ADSENSE_CLIENT_ID || '';
+const ADSENSE_RAW_ID = import.meta.env.PUBLIC_ADSENSE_CLIENT_ID || import.meta.env.PUBLIC_GOOGLE_ADSENSE_CLIENT_ID || '';
+const ADSENSE_PUBLISHER_ID = ADSENSE_RAW_ID.replace(/^ca-/, '');
+const ADSENSE_CLIENT_ID = ADSENSE_PUBLISHER_ID ? `ca-${ADSENSE_PUBLISHER_ID}` : '';
 const siteUrl = 'https://manhwadaily.com';
 const ogImage = image || `${siteUrl}/og-default.png`;
 const canonical = slug ? `${siteUrl}/${slug}/` : siteUrl;
@@ -17,6 +19,7 @@ const canonical = slug ? `${siteUrl}/${slug}/` : siteUrl;
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="SQe2DknX7LTVxeKpmYbZCF_czbm-uNTfAcbaSqo6kqI" />
+  {ADSENSE_CLIENT_ID && <meta name="google-adsense-account" content={ADSENSE_CLIENT_ID} />}
   <title>{title}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonical} />
