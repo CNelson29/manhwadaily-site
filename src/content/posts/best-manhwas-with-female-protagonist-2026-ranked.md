@@ -1,7 +1,7 @@
 ---
-title: "Best Manhwas With Female Protagonist (2026 Ranked)"
+title: "Best Female-Led Action Manhwas (2026 Ranked)"
 date: "2026-04-29"
-excerpt: "Forget damsels in distress — these manhwa heroines are out here slaying dungeons, toppling empires, and rewriting their own destinies. We ranked the."
+excerpt: "Forget passive heroines: these female-led action manhwas bring dungeon fights, revenge arcs, political power plays, and protagonists who rewrite their own destinies."
 category: "Action"
 tags: ["female protagonist", "action manhwa", "strong female lead", "manhwa recommendations", "best manhwa 2026"]
 type: "rankings"

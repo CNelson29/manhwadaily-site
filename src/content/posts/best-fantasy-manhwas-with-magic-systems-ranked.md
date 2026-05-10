@@ -1,7 +1,7 @@
 ---
 title: "Best Fantasy Manhwas With Magic Systems (Ranked)"
 date: "2026-04-30"
-excerpt: "From intricate spell-casting hierarchies to world-shaking mana explosions, these fantasy manhwas boast some of the most inventive magic systems in the."
+excerpt: "From intricate spell-casting hierarchies to world-shaking mana explosions, these fantasy manhwas deliver rich worlds, smart power systems, and binge-worthy adventure."
 category: "Fantasy"
 tags: ["fantasy", "magic system", "manhwa", "rankings", "webtoon"]
 type: "rankings"

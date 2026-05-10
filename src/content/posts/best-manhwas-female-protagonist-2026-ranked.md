@@ -1,7 +1,7 @@
 ---
 title: "Best Manhwas With Female Protagonist (2026 Ranked)"
 date: "2026-05-06"
-excerpt: "Female protagonists are taking over manhwa and absolutely CRUSHING it — from sword-wielding regressor queens to ice-cold villainess leads who refuse to play by the story's rules. We've ranked the 10 b"
+excerpt: "Female protagonists are taking over manhwa, from sword-wielding regressor queens to ice-cold villainess leads who refuse to play by the story's rules."
 category: "Action"
 tags: ["female protagonist", "action manhwa", "best manhwa 2026", "strong female lead", "manhwa rankings"]
 type: "rankings"
