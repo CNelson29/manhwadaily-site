@@ -6,7 +6,7 @@ category: "Action"
 tags: ["villain protagonist", "action manhwa", "antihero", "dark fantasy", "reincarnation"]
 type: "rankings"
 image: "/images/posts/best-villain-protagonist-manhwas-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

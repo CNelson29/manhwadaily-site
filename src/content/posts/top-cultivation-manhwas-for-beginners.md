@@ -6,7 +6,7 @@ category: "Fantasy"
 tags: ["cultivation", "fantasy", "beginner-guide", "power-progression", "xianxia"]
 type: "rankings"
 image: "/images/posts/top-cultivation-manhwas-for-beginners-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

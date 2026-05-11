@@ -6,7 +6,7 @@ category: "Isekai"
 tags: ["system manhwa", "leveling mechanics", "isekai", "solo leveling", "ranking"]
 type: "rankings"
 image: "/images/posts/best-manhwas-system-leveling-mechanics-2026-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

@@ -6,7 +6,7 @@ category: "Isekai"
 tags: ["regression", "time-loop", "isekai", "revenge", "second-chance"]
 type: "rankings"
 image: "/images/posts/best-regression-manhwas-top-time-loop-stories-ranked-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

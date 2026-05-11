@@ -6,7 +6,7 @@ category: "Completed"
 tags: ["completed manhwa", "short manhwa", "best manhwa", "manhwa recommendations", "finished series"]
 type: "rankings"
 image: "/images/posts/top-10-short-completed-manhwas-worth-reading-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

@@ -6,7 +6,7 @@ category: "Action"
 tags: ["murim", "martial arts", "action manhwa", "cultivation", "wuxia manhwa"]
 type: "rankings"
 image: "/images/posts/best-murim-manhwas-ranked-top-martial-world-stories-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

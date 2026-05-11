@@ -6,7 +6,7 @@ category: "Fantasy"
 tags: ["omniscient reader", "fantasy manhwa", "isekai", "apocalypse manhwa", "regression manhwa"]
 type: "rankings"
 image: "/images/posts/manhwas-like-omniscient-reader-best-similar-picks-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

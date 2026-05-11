@@ -6,7 +6,7 @@ category: "Romance"
 tags: ["romance", "emotional", "tearjerker", "melodrama", "heartbreak", "manhwa recommendations", "webtoon"]
 type: "rankings"
 image: "/images/posts/top-romance-manhwas-that-will-make-you-cry-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Romance Manhwas That Will Absolutely Destroy You (In the Best Way)

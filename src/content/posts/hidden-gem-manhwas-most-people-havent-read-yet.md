@@ -6,7 +6,7 @@ category: "Rankings"
 tags: ["hidden gems", "underrated manhwa", "recommendations", "rankings", "webtoon"]
 type: "rankings"
 image: "/images/posts/hidden-gem-manhwas-most-people-havent-read-yet-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

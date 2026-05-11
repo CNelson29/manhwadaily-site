@@ -6,7 +6,7 @@ category: "Action"
 tags: ["overpowered mc", "action manhwa", "op mc", "fantasy", "rankings"]
 type: "rankings"
 image: "/images/posts/best-action-manhwas-overpowered-mc-2026-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## The Best Action Manhwas With Overpowered MCs (2026 Edition)

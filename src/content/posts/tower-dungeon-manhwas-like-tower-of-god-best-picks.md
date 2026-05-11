@@ -6,7 +6,7 @@ category: "Fantasy"
 tags: ["tower of god", "dungeon manhwa", "fantasy manhwa", "tower manhwa", "webtoon recommendations"]
 type: "rankings"
 image: "/images/posts/tower-dungeon-manhwas-like-tower-of-god-best-picks-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

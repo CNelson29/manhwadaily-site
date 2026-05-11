@@ -6,7 +6,7 @@ category: "Action"
 tags: ["female protagonist", "action manhwa", "strong female lead", "manhwa recommendations", "best manhwa 2026"]
 type: "rankings"
 image: "/images/posts/best-manhwas-with-female-protagonist-2026-ranked-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

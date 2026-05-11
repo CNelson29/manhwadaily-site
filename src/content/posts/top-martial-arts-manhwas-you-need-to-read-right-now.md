@@ -6,7 +6,7 @@ category: "Action"
 tags: ["martial arts", "action", "cultivation", "manhwa recommendations", "fighting"]
 type: "rankings"
 image: "/images/posts/top-martial-arts-manhwas-you-need-to-read-right-now-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

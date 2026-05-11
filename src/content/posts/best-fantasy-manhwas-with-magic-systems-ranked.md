@@ -6,7 +6,7 @@ category: "Fantasy"
 tags: ["fantasy", "magic system", "manhwa", "rankings", "webtoon"]
 type: "rankings"
 image: "/images/posts/best-fantasy-manhwas-with-magic-systems-ranked-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

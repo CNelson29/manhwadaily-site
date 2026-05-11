@@ -6,7 +6,7 @@ category: "Romance"
 tags: ["CEO romance", "office romance", "rich male lead", "romance manhwa", "webtoon recommendations"]
 type: "rankings"
 image: "/images/posts/top-romance-manhwas-rich-male-lead-office-ceo-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

@@ -6,7 +6,7 @@ category: "Completed"
 tags: ["completed manhwa", "manhwa recommendations", "binge reading", "best manhwa", "finished series"]
 type: "rankings"
 image: "/images/posts/best-completed-manhwas-to-binge-this-weekend-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

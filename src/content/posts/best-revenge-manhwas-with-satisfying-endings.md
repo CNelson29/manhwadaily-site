@@ -6,7 +6,7 @@ category: "Action"
 tags: ["revenge", "action", "satisfying endings", "manhwa recommendations", "best manhwa"]
 type: "rankings"
 image: "/images/posts/best-revenge-manhwas-with-satisfying-endings-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction

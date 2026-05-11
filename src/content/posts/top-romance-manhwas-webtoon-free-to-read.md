@@ -6,7 +6,7 @@ category: "Romance"
 tags: ["romance manhwa", "webtoon", "free manhwa", "manhwa recommendations", "best romance"]
 type: "rankings"
 image: "/images/posts/top-romance-manhwas-webtoon-free-to-read-hero.jpg"
-draft: False
+draft: false
 ---
 
 ## Introduction
