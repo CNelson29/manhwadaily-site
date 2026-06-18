@@ -12,11 +12,67 @@ export async function getStaticPaths() {
 const { post }    = Astro.props;
 const { data }    = post;
 const { Content } = await post.render();
+const allPosts = (await getCollection('posts', ({ data }) => !data.draft))
+  .sort((a, b) => a.data.date < b.data.date ? 1 : -1);
+const relatedPosts = allPosts
+  .filter(p => p.slug !== post.slug)
+  .sort((a, b) => {
+    const aScore = a.data.category === data.category ? 0 : 1;
+    const bScore = b.data.category === data.category ? 0 : 1;
+    return aScore - bScore || (a.data.date < b.data.date ? 1 : -1);
+  })
+  .slice(0, 4);
 
 const dateFormatted = new Date(data.date).toLocaleDateString('en-US', {
   month: 'long', day: 'numeric', year: 'numeric',
 });
 const olympusSearch = `https://olympusbiblioteca.com/?s=${encodeURIComponent(data.title)}`;
+const canonical = `https://manhwadaily.com/${post.slug}/`;
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: data.title,
+  description: data.excerpt,
+  datePublished: data.date,
+  dateModified: data.date,
+  mainEntityOfPage: canonical,
+  url: canonical,
+  image: data.image ? `https://manhwadaily.com${data.image}` : 'https://manhwadaily.com/og-default.png',
+  author: {
+    '@type': 'Organization',
+    name: 'ManhwaDaily',
+    url: 'https://manhwadaily.com',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'ManhwaDaily',
+    url: 'https://manhwadaily.com',
+  },
+};
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Home',
+      item: 'https://manhwadaily.com/',
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: data.category,
+      item: `https://manhwadaily.com/#${data.category.toLowerCase()}`,
+    },
+    {
+      '@type': 'ListItem',
+      position: 3,
+      name: data.title,
+      item: canonical,
+    },
+  ],
+};
 
 const GRAD: Record<string, string> = {
   Action:'from-brand-coral/15', Romance:'from-pink-500/15',
@@ -70,9 +126,38 @@ const grad = GRAD[data.category] ?? GRAD.Rankings;
 
     <!-- Content -->
     <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+      <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+      <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
       <article class="prose prose-invert max-w-none">
         <Content />
       </article>
+
+      {relatedPosts.length > 0 && (
+        <section class="mt-10">
+          <div class="flex items-center justify-between gap-3 mb-4">
+            <h2 class="font-display font-black text-xl text-brand-white">Related manhwa guides</h2>
+            <a href="/" class="text-sm font-bold text-brand-coral hover:text-orange-300 transition-colors">
+              View all
+            </a>
+          </div>
+          <div class="grid gap-3 sm:grid-cols-2">
+            {relatedPosts.map(related => (
+              <a
+                href={`/${related.slug}/`}
+                class="block rounded-xl border border-brand-border bg-brand-surface/60 p-4 no-underline transition-colors hover:border-brand-coral/40"
+              >
+                <div class={`cat-badge cat-${related.data.category} mb-3`}>{related.data.category}</div>
+                <h3 class="font-display text-base font-bold leading-snug text-brand-white">
+                  {related.data.title}
+                </h3>
+                <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-brand-dim">
+                  {related.data.excerpt}
+                </p>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
 
       <!-- Where to read CTA -->
       <div class="mt-10 p-6 rounded-2xl border border-brand-coral/20 bg-brand-surface text-center">
