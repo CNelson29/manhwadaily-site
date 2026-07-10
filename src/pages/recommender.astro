@@ -1,0 +1,110 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base
+  title="Manhwa Recommender — Find Your Next Read"
+  description="Answer 3 quick questions and get personalized manhwa recommendations from real, verified titles. Free interactive manhwa finder."
+>
+  <Header />
+  <main class="flex-1">
+    <section class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+      <div class="text-center mb-10">
+        <h1 class="font-display font-black text-3xl sm:text-5xl text-brand-white mb-3">
+          Which <span class="gradient-text-coral">Manhwa</span> Should You Read?
+        </h1>
+        <p class="text-brand-dim text-lg">Answer 3 questions → get real recommendations. No sign-up.</p>
+      </div>
+
+      <div id="quiz" class="space-y-8">
+        <div>
+          <h2 class="font-display font-bold text-brand-white mb-3">1. Pick a genre</h2>
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-2" data-group="genre">
+            {['Action','Romance','Fantasy','Isekai','Drama','Comedy','Horror','Martial Arts'].map(g => (
+              <button class="opt px-3 py-2 rounded-lg border border-brand-border text-brand-dim text-sm font-semibold hover:border-brand-coral/50 transition-colors" data-val={g.toLowerCase()}>{g}</button>
+            ))}
+          </div>
+        </div>
+        <div>
+          <h2 class="font-display font-bold text-brand-white mb-3">2. What's the vibe? (pick any)</h2>
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-2" data-group="theme" data-multi="1">
+            {[['Overpowered MC','martial arts'],['Time-loop / Regression','time travel'],['Reincarnation','reincarnation'],['Magic','magic'],['School life','school life'],['Historical','historical'],['Psychological','psychological'],['Survival','survival']].map(([label,val]) => (
+              <button class="opt px-3 py-2 rounded-lg border border-brand-border text-brand-dim text-sm font-semibold hover:border-brand-coral/50 transition-colors" data-val={val}>{label}</button>
+            ))}
+          </div>
+        </div>
+        <div>
+          <h2 class="font-display font-bold text-brand-white mb-3">3. Status</h2>
+          <div class="flex gap-2" data-group="status">
+            {['Any','Completed','Ongoing'].map(s => (
+              <button class="opt px-4 py-2 rounded-lg border border-brand-border text-brand-dim text-sm font-semibold hover:border-brand-coral/50 transition-colors" data-val={s.toLowerCase()}>{s}</button>
+            ))}
+          </div>
+        </div>
+        <button id="go" class="w-full py-3 rounded-xl bg-brand-coral text-white font-display font-black text-lg hover:bg-orange-400 transition-colors">
+          Find my manhwa →
+        </button>
+      </div>
+
+      <div id="results" class="mt-10 grid gap-4 sm:grid-cols-2"></div>
+      <p id="empty" class="hidden text-center text-brand-dim mt-8">No exact match — try fewer vibes or another genre.</p>
+    </section>
+  </main>
+  <Footer />
+
+  <script>
+    const state = { genre: '', theme: [], status: 'any' };
+    let DATA = [];
+    fetch('/manhwa-data.json').then(r => r.json()).then(d => { DATA = d; });
+
+    document.querySelectorAll('[data-group]').forEach(group => {
+      const multi = group.dataset.multi === '1';
+      group.querySelectorAll('.opt').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const key = group.dataset.group, val = btn.dataset.val;
+          if (multi) {
+            btn.classList.toggle('active');
+            const i = state.theme.indexOf(val);
+            if (i >= 0) state.theme.splice(i, 1); else state.theme.push(val);
+          } else {
+            group.querySelectorAll('.opt').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            state[key] = val;
+          }
+        });
+      });
+    });
+
+    document.getElementById('go').addEventListener('click', () => {
+      const scored = DATA.map(m => {
+        let s = 0;
+        if (state.genre && m.tags.includes(state.genre)) s += 3;
+        state.theme.forEach(t => { if (m.tags.includes(t)) s += 2; });
+        if (state.status !== 'any' && m.status === state.status) s += 1;
+        if (state.status !== 'any' && m.status !== state.status) s -= 5;
+        return { m, s };
+      }).filter(x => x.s > 0).sort((a, b) => b.s - a.s).slice(0, 8);
+
+      const box = document.getElementById('results');
+      const empty = document.getElementById('empty');
+      box.innerHTML = '';
+      empty.classList.toggle('hidden', scored.length > 0);
+      scored.forEach(({ m }) => {
+        const el = document.createElement('a');
+        el.href = m.url; el.target = '_blank'; el.rel = 'noopener';
+        el.className = 'flex gap-3 rounded-xl border border-brand-border bg-brand-surface/60 p-3 no-underline hover:border-brand-coral/40 transition-colors';
+        el.innerHTML =
+          (m.cover ? `<img src="${m.cover}.256.jpg" alt="" loading="lazy" class="w-16 h-24 object-cover rounded-lg flex-shrink-0" onerror="this.style.display='none'">` : '') +
+          `<div><h3 class="font-display font-bold text-brand-white text-sm leading-snug">${m.title}</h3>` +
+          `<p class="text-brand-dim text-xs mt-1 line-clamp-3">${m.desc || ''}</p>` +
+          `<span class="inline-block mt-2 text-[10px] text-brand-coral font-bold uppercase">${m.status || ''} · Read on MangaDex →</span></div>`;
+        box.appendChild(el);
+      });
+      box.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  </script>
+  <style>
+    .opt.active { border-color: var(--brand-coral, #ff6b5a); color: #fff; background: rgba(255,107,90,.12); }
+  </style>
+</Base>
