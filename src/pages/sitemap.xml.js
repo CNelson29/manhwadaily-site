@@ -5,6 +5,7 @@ export async function GET() {
   const base  = 'https://manhwadaily.com';
   const urls  = [
     { loc: base, priority: '1.0', freq: 'daily' },
+    { loc: `${base}/recommender/`, priority: '0.9', freq: 'weekly' },
     ...posts.map(p => ({ loc: `${base}/${p.slug}/`, priority: '0.8', freq: 'weekly', lastmod: p.data.date })),
   ];
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
