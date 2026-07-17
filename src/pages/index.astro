@@ -79,14 +79,14 @@ const rest = all.slice(6);
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-4">
         {featured.map(p => (
           <PostCard title={p.data.title} slug={p.slug} excerpt={p.data.excerpt}
-            date={p.data.date} category={p.data.category} tags={p.data.tags} />
+            date={p.data.date} category={p.data.category} tags={p.data.tags} image={p.data.image} />
         ))}
       </div>
       {rest.length > 0 && (
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {rest.map(p => (
             <PostCard title={p.data.title} slug={p.slug} excerpt={p.data.excerpt}
-              date={p.data.date} category={p.data.category} tags={p.data.tags} />
+              date={p.data.date} category={p.data.category} tags={p.data.tags} image={p.data.image} />
           ))}
         </div>
       )}
@@ -102,7 +102,7 @@ const rest = all.slice(6);
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {bycat(cat).slice(0, 3).map(p => (
             <PostCard title={p.data.title} slug={p.slug} excerpt={p.data.excerpt}
-              date={p.data.date} category={p.data.category} tags={p.data.tags} />
+              date={p.data.date} category={p.data.category} tags={p.data.tags} image={p.data.image} />
           ))}
         </div>
       </section>
