@@ -6,7 +6,7 @@ category: "Rankings"
 tags: ["op mc", "solo leveling", "action manhwa", "power fantasy", "rankings"]
 type: "rankings"
 image: "/images/posts/best-manhwa-where-mc-becomes-op-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## Why the OP MC Formula Hits Different in Manhwa

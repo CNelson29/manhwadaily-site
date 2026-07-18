@@ -6,7 +6,7 @@ category: "Rankings"
 tags: ["op mc", "action manhwa", "overpowered protagonist", "fantasy manhwa", "system manhwa"]
 type: "rankings"
 image: "/images/posts/best-manhwa-mc-op-from-the-start-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## Why Readers Love the OP-From-the-Start Formula
