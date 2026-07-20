@@ -6,7 +6,7 @@ category: "Rankings"
 tags: ["op mc manhwa", "overpowered protagonist", "action manhwa", "manhwa recommendations", "power fantasy"]
 type: "rankings"
 image: "/images/posts/manhwa-where-mc-is-op-from-the-start-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## Why OP-From-the-Start Manhwa Hit Different

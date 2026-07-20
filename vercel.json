@@ -47,6 +47,12 @@
     { "source": "/top-martial-arts-manhwas-2", "destination": "/top-martial-arts-manhwas", "permanent": true },
     { "source": "/top-martial-arts-manhwas-2/", "destination": "/top-martial-arts-manhwas/", "permanent": true },
     { "source": "/top-martial-arts-manhwas-3", "destination": "/top-martial-arts-manhwas", "permanent": true },
-    { "source": "/top-martial-arts-manhwas-3/", "destination": "/top-martial-arts-manhwas/", "permanent": true }
+    { "source": "/top-martial-arts-manhwas-3/", "destination": "/top-martial-arts-manhwas/", "permanent": true },
+    { "source": "/best-manhwa-mc-op-from-the-start", "destination": "/best-manhwa-where-mc-is-op", "permanent": true },
+    { "source": "/best-manhwa-mc-op-from-the-start/", "destination": "/best-manhwa-where-mc-is-op/", "permanent": true },
+    { "source": "/manhwa-where-mc-is-op-from-the-start", "destination": "/best-manhwa-where-mc-is-op", "permanent": true },
+    { "source": "/manhwa-where-mc-is-op-from-the-start/", "destination": "/best-manhwa-where-mc-is-op/", "permanent": true },
+    { "source": "/best-manhwa-where-mc-becomes-op", "destination": "/best-manhwa-where-mc-is-op", "permanent": true },
+    { "source": "/best-manhwa-where-mc-becomes-op/", "destination": "/best-manhwa-where-mc-is-op/", "permanent": true }
   ]
 }
