@@ -1,0 +1,186 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base
+  title="Gate Crawler — A Solo-Leveling-Style Dungeon Roguelike"
+  description="Play Gate Crawler, a free browser dungeon roguelike inspired by manhwa like Solo Leveling. Descend the gate, level up, fight monsters and beat your high score. No sign-up."
+  slug="gate-crawler"
+>
+  <Header />
+  <main class="flex-1">
+    <section class="max-w-md mx-auto px-4 sm:px-6 py-8">
+      <div class="text-center mb-4">
+        <h1 class="font-display font-black text-3xl sm:text-4xl text-brand-white mb-1">
+          Gate <span class="gradient-text-coral">Crawler</span>
+        </h1>
+        <p class="text-brand-dim text-sm">Descend the gate. Level up. Survive. A manhwa-style dungeon roguelike.</p>
+      </div>
+
+      <!-- HUD -->
+      <div class="flex items-center justify-between text-sm mb-2 font-display font-bold">
+        <span class="text-brand-coral">Floor <span id="floor">1</span></span>
+        <span class="text-brand-white">Lv <span id="lvl">1</span></span>
+        <span class="text-red-400">HP <span id="hp">20</span>/<span id="maxhp">20</span></span>
+        <span class="text-amber-400">Score <span id="score">0</span></span>
+      </div>
+
+      <canvas id="game" width="352" height="352" class="w-full rounded-xl border border-brand-border bg-brand-bg touch-none"></canvas>
+      <p id="msg" class="text-center text-brand-dim text-xs h-5 mt-1">Reach the ⬇ stairs to descend. Bump monsters to attack.</p>
+
+      <!-- Touch controls -->
+      <div class="grid grid-cols-3 gap-2 max-w-[180px] mx-auto mt-3 sm:hidden">
+        <span></span>
+        <button class="dpad" data-dir="up">▲</button><span></span>
+        <button class="dpad" data-dir="left">◀</button>
+        <button class="dpad" data-dir="down">▼</button>
+        <button class="dpad" data-dir="right">▶</button>
+      </div>
+      <p class="hidden sm:block text-center text-brand-dim text-xs mt-2">Move with arrow keys or WASD.</p>
+
+      <div id="over" class="hidden text-center mt-4">
+        <div class="rounded-xl border border-brand-coral/40 bg-brand-card p-4">
+          <div class="font-display font-black text-2xl text-brand-white mb-1">Gate Cleared… or not.</div>
+          <div class="text-brand-dim text-sm mb-2">You fell on floor <span id="ofloor"></span> at level <span id="olvl"></span>.</div>
+          <div class="font-display font-black text-3xl gradient-text-coral mb-3">Score <span id="oscore"></span></div>
+          <div class="flex gap-2">
+            <button id="again" class="flex-1 py-2.5 rounded-xl bg-brand-coral text-white font-bold">Enter again</button>
+            <button id="share" class="py-2.5 px-4 rounded-xl border border-brand-border text-brand-dim font-bold">Share</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <Footer />
+
+  <script>
+    const TILE = 32, GRID = 11;
+    const cv = document.getElementById('game'), ctx = cv.getContext('2d');
+    const $ = id => document.getElementById(id);
+    let map, player, monsters, stairs, potions, floor, over;
+
+    const rnd = n => (Math.random() * n) | 0;
+
+    function newFloor() {
+      // 0 = wall, 1 = floor. Simple random-walk caverns.
+      map = Array.from({ length: GRID }, () => Array(GRID).fill(0));
+      let x = (GRID/2)|0, y = (GRID/2)|0;
+      for (let i = 0; i < GRID*GRID*3; i++) {
+        map[y][x] = 1;
+        const d = rnd(4);
+        if (d===0 && x>1) x--; if (d===1 && x<GRID-2) x++;
+        if (d===2 && y>1) y--; if (d===3 && y<GRID-2) y++;
+      }
+      const floors = [];
+      for (let j=0;j<GRID;j++) for (let i=0;i<GRID;i++) if (map[j][i]) floors.push([i,j]);
+      const take = () => floors.splice(rnd(floors.length),1)[0];
+      player.pos = take();
+      stairs = take();
+      monsters = [];
+      const nMon = 2 + floor;
+      for (let i=0;i<nMon && floors.length;i++){
+        const p = take();
+        monsters.push({ pos:p, hp: 3+floor, atk: 1+((floor/2)|0), emoji: ['👹','🐺','👺','🦂','💀','🕷️'][rnd(6)] });
+      }
+      potions = [];
+      if (rnd(2)===0 && floors.length) potions.push(take());
+      draw();
+    }
+
+    function start() {
+      floor = 1; over = false;
+      player = { pos:[0,0], hp:20, max:20, lvl:1, xp:0, atk:3, score:0, kills:0 };
+      $('over').classList.add('hidden');
+      newFloor(); updateHUD();
+      msg('Reach the ⬇ stairs. Bump monsters to attack.');
+    }
+
+    function msg(t){ $('msg').textContent = t; }
+    function updateHUD(){
+      $('floor').textContent=floor; $('lvl').textContent=player.lvl;
+      $('hp').textContent=Math.max(0,player.hp); $('maxhp').textContent=player.max;
+      $('score').textContent=player.score;
+    }
+
+    function draw() {
+      ctx.fillStyle = '#0D1117'; ctx.fillRect(0,0,cv.width,cv.height);
+      const ox = (cv.width - GRID*TILE)/2, oy = (cv.height - GRID*TILE)/2;
+      for (let j=0;j<GRID;j++) for (let i=0;i<GRID;i++){
+        if (map[j][i]) { ctx.fillStyle='#1C2128'; ctx.fillRect(ox+i*TILE+1,oy+j*TILE+1,TILE-2,TILE-2); }
+      }
+      const at = (p,e,c) => { ctx.font='22px serif'; ctx.textAlign='center'; ctx.textBaseline='middle'; if(c){ctx.fillStyle=c;} ctx.fillText(e, ox+p[0]*TILE+TILE/2, oy+p[1]*TILE+TILE/2+1); };
+      at(stairs,'⬇');
+      potions.forEach(p=>at(p,'🧪'));
+      monsters.forEach(m=>at(m.pos,m.emoji));
+      at(player.pos,'🗡️');
+    }
+
+    function canWalk(x,y){ return x>=0&&y>=0&&x<GRID&&y<GRID&&map[y][x]; }
+    function monAt(x,y){ return monsters.find(m=>m.pos[0]===x&&m.pos[1]===y); }
+
+    function gainXp(n){
+      player.xp += n;
+      if (player.xp >= player.lvl*5){ player.xp=0; player.lvl++; player.max+=5; player.hp=player.max; player.atk+=2; msg(`Level up! You're now Lv ${player.lvl}.`); }
+    }
+
+    function move(dx,dy){
+      if (over) return;
+      const [x,y]=player.pos, nx=x+dx, ny=y+dy;
+      const m = monAt(nx,ny);
+      if (m){ // attack
+        m.hp -= player.atk;
+        if (m.hp<=0){ monsters=monsters.filter(z=>z!==m); player.kills++; player.score+=10; gainXp(3); msg('Monster down!'); }
+        else msg('You strike the monster.');
+      } else if (canWalk(nx,ny)){
+        player.pos=[nx,ny];
+        const pi = potions.findIndex(p=>p[0]===nx&&p[1]===ny);
+        if (pi>=0){ potions.splice(pi,1); player.hp=Math.min(player.max,player.hp+8); msg('You drink a potion (+8 HP).'); }
+        if (nx===stairs[0]&&ny===stairs[1]){ floor++; player.score+=floor*20; newFloor(); updateHUD(); msg(`Floor ${floor}. It gets harder…`); return; }
+      } else { return; } // wall: no turn
+      monsterTurn();
+      updateHUD(); draw();
+    }
+
+    function monsterTurn(){
+      for (const m of monsters){
+        const [mx,my]=m.pos, [px,py]=player.pos;
+        const dist=Math.abs(mx-px)+Math.abs(my-py);
+        if (dist===1){ player.hp-=m.atk; if(player.hp<=0){ return gameOver(); } continue; }
+        if (dist<=5){ // chase
+          let sx=Math.sign(px-mx), sy=Math.sign(py-my);
+          const tryMoves = Math.abs(px-mx)>Math.abs(py-my)?[[sx,0],[0,sy]]:[[0,sy],[sx,0]];
+          for(const [dx,dy] of tryMoves){ const nx=mx+dx,ny=my+dy; if(canWalk(nx,ny)&&!monAt(nx,ny)&&!(nx===px&&ny===py)){ m.pos=[nx,ny]; break; } }
+        }
+      }
+    }
+
+    function gameOver(){
+      over=true; updateHUD(); draw();
+      $('ofloor').textContent=floor; $('olvl').textContent=player.lvl; $('oscore').textContent=player.score;
+      $('over').classList.remove('hidden');
+    }
+
+    const KEY={ArrowUp:[0,-1],ArrowDown:[0,1],ArrowLeft:[-1,0],ArrowRight:[1,0],w:[0,-1],s:[0,1],a:[-1,0],d:[1,0]};
+    window.addEventListener('keydown',e=>{ const k=KEY[e.key]; if(k){ e.preventDefault(); move(k[0],k[1]); } });
+    document.querySelectorAll('.dpad').forEach(b=>b.addEventListener('click',()=>{ const m={up:[0,-1],down:[0,1],left:[-1,0],right:[1,0]}[b.dataset.dir]; move(m[0],m[1]); }));
+    // swipe on canvas
+    let tx,ty;
+    cv.addEventListener('touchstart',e=>{ const t=e.touches[0]; tx=t.clientX; ty=t.clientY; },{passive:true});
+    cv.addEventListener('touchend',e=>{ const t=e.changedTouches[0]; const dx=t.clientX-tx, dy=t.clientY-ty; if(Math.abs(dx)<15&&Math.abs(dy)<15)return; if(Math.abs(dx)>Math.abs(dy)) move(Math.sign(dx),0); else move(0,Math.sign(dy)); },{passive:true});
+
+    $('again').addEventListener('click',start);
+    $('share').addEventListener('click',async()=>{
+      const txt=`I reached floor ${floor} (Lv ${player.lvl}) with ${player.score} points in Gate Crawler 🗡️ — play at manhwadaily.com/gate-crawler`;
+      const btn=$('share');
+      if(navigator.share){ try{ await navigator.share({text:txt,url:'https://manhwadaily.com/gate-crawler'}); return; }catch{} }
+      try{ await navigator.clipboard.writeText(txt); btn.textContent='Copied!'; setTimeout(()=>btn.textContent='Share',1500);}catch{}
+    });
+
+    start();
+  </script>
+  <style>
+    .dpad { height:48px; border-radius:.6rem; border:1px solid var(--brand-border,#30363D); background:var(--brand-card,#1C2128); color:#fff; font-size:1.1rem; }
+    .dpad:active { background: rgba(255,107,107,.2); }
+  </style>
+</Base>
