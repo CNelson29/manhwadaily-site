@@ -1,0 +1,159 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base
+  title="What's Your Manhwa DNA? — Discover Your Reading Taste Profile"
+  description="Pick the manhwa you love and get your Manhwa DNA: a shareable breakdown of your reading taste (Regression, OP MC, Villainess, Murim…) plus picks made for you. Free, no sign-up."
+  slug="manhwa-dna"
+>
+  <Header />
+  <main class="flex-1">
+    <section class="max-w-2xl mx-auto px-4 sm:px-6 py-10">
+      <div class="text-center mb-6">
+        <h1 class="font-display font-black text-3xl sm:text-5xl text-brand-white mb-2">
+          What's Your <span class="gradient-text-coral">Manhwa DNA</span>?
+        </h1>
+        <p class="text-brand-dim">Tap every manhwa you've loved. We'll decode your taste and give you a shareable profile.</p>
+      </div>
+
+      <!-- Step 1: pick -->
+      <div id="pickStep">
+        <div id="grid" class="grid grid-cols-3 sm:grid-cols-4 gap-2"></div>
+        <button id="analyze" class="mt-6 w-full py-3 rounded-xl bg-brand-coral text-white font-display font-black text-lg disabled:opacity-40 transition-opacity" disabled>
+          Decode my DNA <span id="picked"></span>
+        </button>
+      </div>
+
+      <!-- Step 2: result -->
+      <div id="resultStep" class="hidden">
+        <div id="card" class="rounded-2xl border border-brand-coral/40 bg-gradient-to-br from-brand-card to-brand-bg p-6 text-center">
+          <div class="text-xs font-bold uppercase tracking-widest text-brand-coral mb-1">Your Manhwa DNA</div>
+          <div id="archetype" class="font-display font-black text-3xl text-brand-white mb-4"></div>
+          <div id="bars" class="space-y-2 text-left"></div>
+        </div>
+        <div class="flex gap-2 mt-4">
+          <button id="share" class="flex-1 py-2.5 rounded-xl bg-brand-coral text-white font-bold">Share my DNA</button>
+          <button id="again" class="py-2.5 px-4 rounded-xl border border-brand-border text-brand-dim font-bold">Retake</button>
+        </div>
+        <h2 class="font-display font-bold text-brand-white mt-8 mb-3">📚 Made for your DNA</h2>
+        <div id="recs" class="grid sm:grid-cols-2 gap-2"></div>
+      </div>
+    </section>
+  </main>
+  <Footer />
+
+  <script>
+    let DATA = [], pool = [], picked = new Set();
+
+    // Human-friendly labels + archetypes for the most meaningful tags.
+    const TRAIT = {
+      'regression':'Regression','time loop':'Regression','reincarnation':'Reincarnation',
+      'transmigration':'Transmigration','op mc':'Overpowered MC','system':'System / Leveling',
+      'leveling':'System / Leveling','gates':'Hunters & Gates','murim':'Murim / Martial Arts',
+      'cultivation':'Cultivation','villainess':'Villainess','otome game':'Otome Isekai',
+      'romance':'Romance','revenge':'Revenge','tower':'Tower Climb','horror':'Horror',
+      'thriller':'Thriller','psychological':'Psychological','comedy':'Comedy','sports':'Sports',
+      'bl':'BL','action':'Action','fantasy':'Fantasy','magic':'Magic','kingdom':'Court & Kingdom',
+      'politics':'Court & Kingdom','apocalypse':'Apocalypse','monsters':'Monsters'
+    };
+    const ARCHETYPE = {
+      'Regression':'The Do-Over Addict','Overpowered MC':'The Power Fantasy Fiend',
+      'Villainess':'The Villainess Stan','Otome Isekai':'The Villainess Stan',
+      'Murim / Martial Arts':'The Murim Master','Cultivation':'The Murim Master',
+      'System / Leveling':'The Level-Up Grinder','Hunters & Gates':'The Gate Diver',
+      'Romance':'The Hopeless Romantic','Horror':'The Thrill Seeker','Thriller':'The Thrill Seeker',
+      'Tower Climb':'The Tower Climber','Reincarnation':'The Second-Life Seeker',
+      'Transmigration':"The Isekai'd Reader",'Court & Kingdom':'The Throne Schemer'
+    };
+
+    fetch('/manhwa-data.json').then(r => r.json()).then(d => {
+      DATA = d.filter(x => x.cover && x.title);
+      // Show a diverse, popular-ish sample to pick from.
+      pool = shuffle(DATA.slice()).slice(0, 16);
+      renderGrid();
+    });
+    function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=(Math.random()*(i+1))|0;[a[i],a[j]]=[a[j],a[i]];} return a; }
+    function esc(s){ return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+    function renderGrid() {
+      const grid = document.getElementById('grid');
+      grid.innerHTML = '';
+      pool.forEach((m, i) => {
+        const b = document.createElement('button');
+        b.className = 'dna-pick relative rounded-xl overflow-hidden border-2 border-transparent aspect-[2/3]';
+        b.innerHTML = `<img src="${m.cover}" alt="${esc(m.title)}" class="w-full h-full object-cover" loading="lazy" referrerpolicy="no-referrer" />` +
+          `<div class="check absolute inset-0 bg-brand-coral/40 hidden items-center justify-center text-2xl">✓</div>` +
+          `<div class="absolute bottom-0 inset-x-0 bg-brand-bg/80 text-[10px] text-brand-text px-1 py-0.5 truncate">${esc(m.title)}</div>`;
+        b.addEventListener('click', () => {
+          if (picked.has(i)) { picked.delete(i); b.classList.remove('on'); b.querySelector('.check').classList.add('hidden'); b.querySelector('.check').classList.remove('flex'); }
+          else { picked.add(i); b.classList.add('on'); b.querySelector('.check').classList.remove('hidden'); b.querySelector('.check').classList.add('flex'); }
+          const btn = document.getElementById('analyze');
+          btn.disabled = picked.size < 2;
+          document.getElementById('picked').textContent = picked.size ? `(${picked.size})` : '';
+        });
+        grid.appendChild(b);
+      });
+    }
+
+    document.getElementById('analyze').addEventListener('click', analyze);
+    document.getElementById('again').addEventListener('click', () => {
+      picked.clear();
+      document.getElementById('resultStep').classList.add('hidden');
+      document.getElementById('pickStep').classList.remove('hidden');
+      pool = shuffle(DATA.slice()).slice(0, 16); renderGrid();
+      document.getElementById('analyze').disabled = true; document.getElementById('picked').textContent = '';
+    });
+
+    let lastShare = '';
+    function analyze() {
+      const chosen = [...picked].map(i => pool[i]);
+      const freq = {};
+      chosen.forEach(m => (m.tags||[]).forEach(t => {
+        const label = TRAIT[t]; if (label) freq[label] = (freq[label]||0) + 1;
+      }));
+      let traits = Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0, 5);
+      if (!traits.length) traits = [['Eclectic Reader', 1]];
+      const total = traits.reduce((s,[,v])=>s+v,0);
+      const top = traits[0][0];
+      const arche = ARCHETYPE[top] || 'The Genre-Bender';
+
+      document.getElementById('archetype').textContent = arche;
+      document.getElementById('bars').innerHTML = traits.map(([name,v]) => {
+        const pct = Math.round(v/total*100);
+        return `<div><div class="flex justify-between text-sm mb-0.5"><span class="text-brand-white font-semibold">${name}</span><span class="text-brand-coral font-bold">${pct}%</span></div>` +
+          `<div class="h-2 rounded-full bg-brand-surface overflow-hidden"><div class="h-full bg-gradient-to-r from-brand-coral to-orange-400" style="width:${pct}%"></div></div></div>`;
+      }).join('');
+
+      lastShare = `My Manhwa DNA: ${arche} — ` + traits.map(([n,v])=>`${Math.round(v/total*100)}% ${n}`).join(', ') + ` · via manhwadaily.com/manhwa-dna`;
+
+      // Recs: unseen manhwa matching the top traits' underlying tags.
+      const wanted = Object.keys(TRAIT).filter(t => traits.some(([label]) => TRAIT[t] === label));
+      const chosenTitles = new Set(chosen.map(m=>m.title));
+      const recs = DATA.filter(m => !chosenTitles.has(m.title))
+        .map(m => ({ m, s: (m.tags||[]).filter(t => wanted.includes(t)).length }))
+        .filter(x => x.s > 0).sort((a,b)=>b.s-a.s).slice(0, 6);
+      document.getElementById('recs').innerHTML = recs.map(({m}) =>
+        `<a href="${m.url}" target="_blank" rel="noopener" class="flex items-center gap-2 rounded-xl border border-brand-border bg-brand-card p-2 no-underline hover:border-brand-coral/40 transition-colors">` +
+        `<img src="${m.cover}" alt="" class="w-9 h-12 object-cover rounded" referrerpolicy="no-referrer" />` +
+        `<span class="text-brand-white text-sm font-semibold truncate">${esc(m.title)}</span></a>`
+      ).join('');
+
+      document.getElementById('pickStep').classList.add('hidden');
+      document.getElementById('resultStep').classList.remove('hidden');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    document.getElementById('share').addEventListener('click', async () => {
+      const btn = document.getElementById('share');
+      if (navigator.share) { try { await navigator.share({ text: lastShare, url: 'https://manhwadaily.com/manhwa-dna' }); return; } catch {} }
+      try { await navigator.clipboard.writeText(lastShare); btn.textContent = 'Copied! ✓'; setTimeout(()=>btn.textContent='Share my DNA',1800); }
+      catch { btn.textContent = lastShare; }
+    });
+  </script>
+  <style>
+    .dna-pick.on { border-color: var(--brand-coral, #ff6b6b); }
+    .dna-pick .check.flex { display: flex; }
+  </style>
+</Base>

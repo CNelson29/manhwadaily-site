@@ -1,0 +1,133 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base
+  title="Swipe & Discover Manhwa — Find Your Next Read"
+  description="Swipe through manhwa covers, like the ones that catch your eye, and build your reading list. A fast, fun way to discover your next manhwa obsession — no sign-up."
+  slug="discover"
+>
+  <Header />
+  <main class="flex-1">
+    <section class="max-w-md mx-auto px-4 sm:px-6 py-10">
+      <div class="text-center mb-6">
+        <h1 class="font-display font-black text-3xl sm:text-4xl text-brand-white mb-2">
+          Swipe &amp; <span class="gradient-text-coral">Discover</span>
+        </h1>
+        <p class="text-brand-dim text-sm">Like what catches your eye — we tune picks to your taste and build your list.</p>
+      </div>
+
+      <!-- Card stack -->
+      <div id="stack" class="relative h-[460px] select-none">
+        <div id="loading" class="absolute inset-0 flex items-center justify-center text-brand-dim">Loading…</div>
+      </div>
+
+      <!-- Controls -->
+      <div class="flex items-center justify-center gap-5 mt-6">
+        <button id="skip" class="w-16 h-16 rounded-full border-2 border-brand-border bg-brand-card text-2xl hover:border-brand-dim transition-colors" aria-label="Skip">✕</button>
+        <button id="info" class="w-12 h-12 rounded-full border border-brand-border bg-brand-card text-lg hover:border-brand-coral/50 transition-colors" aria-label="Details">ℹ️</button>
+        <button id="like" class="w-16 h-16 rounded-full border-2 border-brand-coral bg-brand-coral/15 text-2xl hover:bg-brand-coral/25 transition-colors" aria-label="Like">❤️</button>
+      </div>
+
+      <!-- Your list -->
+      <div id="listWrap" class="mt-10 hidden">
+        <h2 class="font-display font-bold text-brand-white mb-3 flex items-center gap-2">
+          <span>❤️ Your list</span><span id="count" class="text-brand-coral"></span>
+        </h2>
+        <div id="list" class="space-y-2"></div>
+      </div>
+    </section>
+  </main>
+  <Footer />
+
+  <script>
+    const stack = document.getElementById('stack');
+    const listWrap = document.getElementById('listWrap');
+    const list = document.getElementById('list');
+    const count = document.getElementById('count');
+    let DATA = [], queue = [], liked = [], likedTags = {};
+
+    fetch('/manhwa-data.json').then(r => r.json()).then(d => {
+      DATA = d.filter(x => x.cover && x.title);
+      queue = shuffle(DATA.slice());
+      document.getElementById('loading')?.remove();
+      renderTop();
+    });
+
+    function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=(Math.random()*(i+1))|0;[a[i],a[j]]=[a[j],a[i]];} return a; }
+
+    function reorderByTaste() {
+      // Bubble cards matching liked tags toward the top of the queue.
+      queue.sort((a, b) => score(b) - score(a));
+    }
+    function score(m){ return (m.tags||[]).reduce((s,t)=>s+(likedTags[t]||0),0) + Math.random()*0.5; }
+
+    function renderTop() {
+      stack.querySelectorAll('.swipe-card').forEach(n => n.remove());
+      const next = queue.slice(0, 3).reverse();
+      if (!next.length) {
+        stack.innerHTML = '<div class="absolute inset-0 flex flex-col items-center justify-center text-center gap-2 text-brand-dim">' +
+          '<div class="text-4xl">🎉</div><div>You went through them all!</div>' +
+          '<div class="text-sm">Your list is below.</div></div>';
+        return;
+      }
+      next.forEach((m, idx) => {
+        const depth = next.length - 1 - idx;
+        const card = document.createElement('div');
+        card.className = 'swipe-card card-manga absolute inset-0 flex flex-col';
+        card.style.transform = `scale(${1 - depth*0.04}) translateY(${depth*10}px)`;
+        card.style.zIndex = String(10 - depth);
+        card.style.pointerEvents = depth === 0 ? 'auto' : 'none';
+        card.innerHTML =
+          `<div class="relative flex-1 overflow-hidden">` +
+          `<img src="${m.cover}" alt="${esc(m.title)}" class="w-full h-full object-cover" loading="lazy" referrerpolicy="no-referrer" />` +
+          `<div class="absolute inset-0 bg-gradient-to-t from-brand-bg via-brand-bg/10 to-transparent"></div>` +
+          `<div class="absolute bottom-0 left-0 right-0 p-4">` +
+          `<div class="flex flex-wrap gap-1 mb-2">${(m.tags||[]).slice(0,3).map(t=>`<span class="text-[10px] px-2 py-0.5 rounded-full bg-brand-bg/70 border border-brand-border text-brand-text">${esc(t)}</span>`).join('')}</div>` +
+          `<h3 class="font-display font-black text-white text-2xl leading-tight drop-shadow">${esc(m.title)}</h3>` +
+          `<p class="text-brand-text/80 text-sm line-clamp-2 mt-1">${esc((m.desc||'').slice(0,120))}</p>` +
+          `</div></div>`;
+        stack.appendChild(card);
+      });
+    }
+
+    function act(likeIt) {
+      const m = queue.shift();
+      if (!m) return;
+      if (likeIt) {
+        liked.unshift(m);
+        (m.tags||[]).forEach(t => likedTags[t] = (likedTags[t]||0) + 1);
+        reorderByTaste();
+        renderList();
+      }
+      const top = stack.querySelector('.swipe-card[style*="pointer-events: auto"], .swipe-card');
+      if (top) {
+        top.style.transition = 'transform .3s ease, opacity .3s ease';
+        top.style.transform += ` translateX(${likeIt?'':'-'}140%) rotate(${likeIt?'':'-'}12deg)`;
+        top.style.opacity = '0';
+        setTimeout(renderTop, 180);
+      } else renderTop();
+    }
+
+    function renderList() {
+      listWrap.classList.toggle('hidden', liked.length === 0);
+      count.textContent = liked.length ? `(${liked.length})` : '';
+      list.innerHTML = liked.map(m =>
+        `<a href="${m.url}" target="_blank" rel="noopener" class="flex items-center gap-3 rounded-xl border border-brand-border bg-brand-card p-2 no-underline hover:border-brand-coral/40 transition-colors">` +
+        `<img src="${m.cover}" alt="" class="w-10 h-14 object-cover rounded" referrerpolicy="no-referrer" />` +
+        `<div class="min-w-0 flex-1"><div class="font-semibold text-brand-white text-sm truncate">${esc(m.title)}</div>` +
+        `<div class="text-brand-dim text-xs truncate">${(m.tags||[]).slice(0,3).join(' · ')}</div></div>` +
+        `<span class="text-brand-coral text-xs font-bold shrink-0">Read →</span></a>`
+      ).join('');
+    }
+
+    function esc(s){ return String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+    document.getElementById('like').addEventListener('click', () => act(true));
+    document.getElementById('skip').addEventListener('click', () => act(false));
+    document.getElementById('info').addEventListener('click', () => {
+      const m = queue[0]; if (m) alert(`${m.title}\n\n${m.desc || ''}`);
+    });
+  </script>
+</Base>
