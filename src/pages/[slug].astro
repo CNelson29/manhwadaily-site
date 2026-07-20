@@ -3,6 +3,7 @@ import Base   from '../layouts/Base.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { getCollection } from 'astro:content';
+import { coverForBody } from '../lib/manhwa-covers';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -12,6 +13,9 @@ export async function getStaticPaths() {
 const { post }    = Astro.props;
 const { data }    = post;
 const { Content } = await post.render();
+// Cover-forward: prefer the real cover of the first manhwa the post names.
+const matched   = coverForBody(post.body);
+const heroImage = matched?.cover ?? data.image;
 const allPosts = (await getCollection('posts', ({ data }) => !data.draft))
   .sort((a, b) => a.data.date < b.data.date ? 1 : -1);
 const relatedPosts = allPosts
@@ -112,15 +116,18 @@ const grad = GRAD[data.category] ?? GRAD.Rankings;
       </div>
     </div>
 
-    <!-- Cover image -->
-    {data.image && (
+    <!-- Cover image: real manhwa cover on a blurred backdrop of itself (cover-forward) -->
+    {heroImage && (
       <div class="max-w-3xl mx-auto px-4 sm:px-6 -mt-4 mb-0">
-        <img
-          src={data.image}
-          alt={data.title}
-          class="w-full h-56 sm:h-72 object-cover rounded-2xl border border-brand-border/40 shadow-lg"
-          loading="eager"
-        />
+        <div class="relative w-full h-56 sm:h-72 rounded-2xl overflow-hidden border border-brand-border/40 shadow-lg">
+          <img src={heroImage} alt="" aria-hidden="true"
+               class="absolute inset-0 w-full h-full object-cover scale-110 blur-2xl opacity-50"
+               referrerpolicy="no-referrer" />
+          <div class="absolute inset-0 bg-brand-bg/30"></div>
+          <img src={heroImage} alt={data.title}
+               class={`relative mx-auto h-full ${matched ? 'w-auto object-contain py-3' : 'w-full object-cover'}`}
+               referrerpolicy="no-referrer" loading="eager" />
+        </div>
       </div>
     )}
 

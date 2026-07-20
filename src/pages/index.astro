@@ -4,6 +4,10 @@ import Header  from '../components/Header.astro';
 import Footer  from '../components/Footer.astro';
 import PostCard from '../components/PostCard.astro';
 import { getCollection } from 'astro:content';
+import { coverForBody } from '../lib/manhwa-covers';
+
+// Cover-forward: prefer the first named manhwa's real cover over generic images.
+const cover = (p: any) => coverForBody(p.body)?.cover ?? p.data.image;
 
 const all = (await getCollection('posts', ({ data }) => !data.draft))
   .sort((a, b) => a.data.date < b.data.date ? 1 : -1);
@@ -21,9 +25,9 @@ const rest = all.slice(6);
   <main class="flex-1">
 
     <!-- ═══ HERO ═══════════════════════════════════════════════════ -->
-    <section class="relative overflow-hidden py-20 sm:py-28">
-      <!-- Hyperframes-generated animated hero backdrop (102KB, muted loop) -->
-      <video class="absolute inset-0 w-full h-full object-cover opacity-70 pointer-events-none"
+    <section class="relative overflow-hidden py-14 sm:py-24">
+      <!-- Animated hero backdrop (desktop only — avoids iOS low-power play button; mobile uses CSS motion) -->
+      <video class="hidden sm:block absolute inset-0 w-full h-full object-cover opacity-70 pointer-events-none"
              autoplay muted loop playsinline preload="none" poster="/video/hero-poster.jpg" aria-hidden="true">
         <source src="/video/hero.mp4" type="video/mp4" />
       </video>
@@ -60,16 +64,16 @@ const rest = all.slice(6);
           ))}
         </div>
 
-        <!-- Stats -->
-        <div class="anim-rise d5 flex flex-col sm:flex-row justify-center gap-8 sm:gap-16">
+        <!-- Stats — compact inline row -->
+        <div class="anim-rise d5 flex flex-row justify-center gap-6 sm:gap-12">
           {[
-            { v: `${all.length}+`, l: 'Rankings published' },
-            { v: 'Daily',          l: 'New recommendations' },
-            { v: '100%',           l: 'Hand-curated picks' },
+            { v: `${all.length}+`, l: 'Rankings' },
+            { v: 'Daily',          l: 'New picks' },
+            { v: '100%',           l: 'Hand-curated' },
           ].map(({ v, l }) => (
             <div class="text-center">
-              <div class="font-display font-black text-3xl text-brand-coral">{v}</div>
-              <div class="text-brand-dim text-sm mt-0.5">{l}</div>
+              <div class="font-display font-black text-2xl sm:text-3xl text-brand-coral">{v}</div>
+              <div class="text-brand-dim text-xs sm:text-sm mt-0.5">{l}</div>
             </div>
           ))}
         </div>
@@ -85,14 +89,14 @@ const rest = all.slice(6);
       <div data-reveal-stagger class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-4">
         {featured.map(p => (
           <PostCard title={p.data.title} slug={p.slug} excerpt={p.data.excerpt}
-            date={p.data.date} category={p.data.category} tags={p.data.tags} image={p.data.image} />
+            date={p.data.date} category={p.data.category} tags={p.data.tags} image={cover(p)} />
         ))}
       </div>
       {rest.length > 0 && (
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {rest.map(p => (
             <PostCard title={p.data.title} slug={p.slug} excerpt={p.data.excerpt}
-              date={p.data.date} category={p.data.category} tags={p.data.tags} image={p.data.image} />
+              date={p.data.date} category={p.data.category} tags={p.data.tags} image={cover(p)} />
           ))}
         </div>
       )}
@@ -108,7 +112,7 @@ const rest = all.slice(6);
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {bycat(cat).slice(0, 3).map(p => (
             <PostCard title={p.data.title} slug={p.slug} excerpt={p.data.excerpt}
-              date={p.data.date} category={p.data.category} tags={p.data.tags} image={p.data.image} />
+              date={p.data.date} category={p.data.category} tags={p.data.tags} image={cover(p)} />
           ))}
         </div>
       </section>
