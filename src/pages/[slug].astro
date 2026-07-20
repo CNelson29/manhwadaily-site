@@ -128,9 +128,44 @@ const grad = GRAD[data.category] ?? GRAD.Rankings;
     <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
       <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
       <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
-      <article class="prose prose-invert max-w-none">
+      <article class="prose prose-invert max-w-none" id="post-body">
         <Content />
       </article>
+
+      <!-- Auto-illustrate: drop the real cover next to each manhwa the post names -->
+      <script type="module">
+        (async () => {
+          const body = document.getElementById('post-body');
+          if (!body) return;
+          let data;
+          try { data = await (await fetch('/manhwa-data.json')).json(); } catch { return; }
+          const norm = s => (s || '').toLowerCase().normalize('NFKD').replace(/[^a-z0-9 ]/g, '').replace(/\s+/g, ' ').trim();
+          const index = data.filter(m => m.cover && m.title).map(m => ({ ...m, key: norm(m.title) })).sort((a, b) => b.key.length - a.key.length);
+
+          const cleanHeading = (txt) => norm(txt
+            .replace(/^\s*#?\s*\d+\s*[—\-.):]+/, '')      // "#1 —", "2.", "3)"
+            .replace(/[⭐★].*$/, '')                        // ratings after a star
+            .replace(/[—\-]\s*(our\s*)?score.*$/i, '')     // "— Our Score: 9/10"
+            .replace(/[—\-]\s*\d+(\.\d+)?\s*\/\s*10.*$/, '') // "— 9.3/10"
+            .replace(/\(\d{4}\)/, ''));
+
+          const used = new Set();
+          body.querySelectorAll('h2, h3').forEach(h => {
+            const key = cleanHeading(h.textContent || '');
+            if (key.length < 4) return;
+            const hit = index.find(m => !used.has(m.title) && (m.key === key || key.includes(m.key) || (m.key.length > 6 && m.key.includes(key))));
+            if (!hit) return;
+            used.add(hit.title);
+            const fig = document.createElement('figure');
+            fig.className = 'manhwa-cover-inject';
+            fig.innerHTML =
+              `<a href="${hit.url}" target="_blank" rel="noopener">` +
+              `<img src="${hit.cover}" alt="${hit.title} cover" loading="lazy" referrerpolicy="no-referrer" />` +
+              `<span>Read ${hit.title} →</span></a>`;
+            h.insertAdjacentElement('afterend', fig);
+          });
+        })();
+      </script>
 
       {relatedPosts.length > 0 && (
         <section class="mt-10">

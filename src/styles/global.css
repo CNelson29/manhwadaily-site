@@ -97,6 +97,14 @@
   [data-reveal],[data-reveal-stagger] > *{ opacity:1 !important; transform:none !important; transition:none !important; }
 }
 
+/* Auto-injected manhwa cover art inside articles */
+.manhwa-cover-inject{ float:right; width:150px; margin:.25rem 0 1rem 1.25rem; }
+.manhwa-cover-inject a{ display:block; text-decoration:none; }
+.manhwa-cover-inject img{ width:100%; aspect-ratio:2/3; object-fit:cover; border-radius:.8rem; border:1px solid var(--brand-border,#30363D); box-shadow:0 8px 24px rgba(0,0,0,.4); transition:transform .3s ease, box-shadow .3s ease; margin:0; }
+.manhwa-cover-inject a:hover img{ transform:translateY(-3px); box-shadow:0 12px 30px rgba(255,107,107,.18); }
+.manhwa-cover-inject span{ display:block; margin-top:.4rem; font-size:.72rem; font-weight:700; color:var(--brand-coral,#ff6b6b); text-align:center; line-height:1.2; }
+@media (max-width:520px){ .manhwa-cover-inject{ width:120px; margin-left:.9rem; } }
+
 /* Speed-lines decorative element */
 .speed-lines {
   background-image: repeating-conic-gradient(
