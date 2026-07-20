@@ -1,0 +1,102 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base
+  title="Manhwa Tier List Maker — Rank Your Favorites (S/A/B/C/D)"
+  description="Build and share your own manhwa tier list. Drag or tap real covers into S, A, B, C and D tiers, then share your ranking. Free, no sign-up — the only manhwa tier maker with real covers."
+  slug="tier-list"
+>
+  <Header />
+  <main class="flex-1">
+    <section class="max-w-3xl mx-auto px-4 sm:px-6 py-8">
+      <div class="text-center mb-5">
+        <h1 class="font-display font-black text-3xl sm:text-4xl text-brand-white mb-1">
+          Manhwa <span class="gradient-text-coral">Tier List</span> Maker
+        </h1>
+        <p class="text-brand-dim text-sm">Tap a cover, then tap a tier to place it. Build your ranking and share it.</p>
+      </div>
+
+      <div id="tiers" class="space-y-1.5 mb-5"></div>
+
+      <div class="rounded-xl border border-brand-border bg-brand-surface/40 p-3">
+        <div class="flex items-center justify-between mb-2">
+          <span class="font-display font-bold text-brand-white text-sm">Pool</span>
+          <div class="flex gap-2">
+            <button id="shuffle" class="text-xs text-brand-dim hover:text-brand-coral font-semibold">↻ Shuffle</button>
+            <button id="share" class="text-xs text-brand-coral font-bold">Share list</button>
+          </div>
+        </div>
+        <div id="pool" class="flex gap-1.5 overflow-x-auto pb-1"></div>
+      </div>
+      <p id="hint" class="text-center text-brand-dim text-xs mt-3 h-4"></p>
+    </section>
+  </main>
+  <Footer />
+
+  <script>
+    const TIERS = [
+      { k:'S', c:'#ff6b6b' }, { k:'A', c:'#ffa94d' }, { k:'B', c:'#ffd43b' },
+      { k:'C', c:'#69db7c' }, { k:'D', c:'#4dabf7' },
+    ];
+    const place = {}; // title -> tier key ('' = pool)
+    let DATA = [], selected = null;
+
+    const tiersEl = document.getElementById('tiers');
+    const poolEl = document.getElementById('pool');
+    const hint = document.getElementById('hint');
+
+    fetch('/manhwa-data.json').then(r=>r.json()).then(d=>{
+      DATA = d.filter(x=>x.cover&&x.title);
+      DATA = shuffle(DATA).slice(0, 20);
+      buildTiers(); render();
+    });
+    function shuffle(a){ a=a.slice(); for(let i=a.length-1;i>0;i--){const j=(Math.random()*(i+1))|0;[a[i],a[j]]=[a[j],a[i]];} return a; }
+    function esc(s){ return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+    function buildTiers(){
+      tiersEl.innerHTML = TIERS.map(t=>`
+        <div class="flex items-stretch gap-1.5 rounded-lg overflow-hidden" data-tier="${t.k}">
+          <button class="tierlabel w-12 shrink-0 flex items-center justify-center font-display font-black text-brand-bg text-xl" style="background:${t.c}" data-place="${t.k}">${t.k}</button>
+          <div class="tierrow flex-1 min-h-[3.5rem] flex gap-1.5 flex-wrap p-1 bg-brand-card rounded-r-lg" data-row="${t.k}"></div>
+        </div>`).join('');
+      tiersEl.querySelectorAll('[data-place]').forEach(b=>b.addEventListener('click',()=>placeSel(b.dataset.place)));
+    }
+
+    function cover(m, size){
+      const on = selected===m.title;
+      return `<button class="cov relative rounded ${on?'ring-2 ring-brand-coral':''}" data-title="${esc(m.title)}" style="width:${size}px;height:${size*1.4}px">
+        <img src="${m.cover}" alt="${esc(m.title)}" class="w-full h-full object-cover rounded" loading="lazy" referrerpolicy="no-referrer" />
+      </button>`;
+    }
+
+    function render(){
+      // pool
+      poolEl.innerHTML = DATA.filter(m=>!place[m.title]).map(m=>cover(m,44)).join('') || '<span class="text-brand-dim text-xs py-3">All placed! Share your list →</span>';
+      // rows
+      TIERS.forEach(t=>{
+        const row = tiersEl.querySelector(`[data-row="${t.k}"]`);
+        row.innerHTML = DATA.filter(m=>place[m.title]===t.k).map(m=>cover(m,40)).join('');
+      });
+      document.querySelectorAll('.cov').forEach(b=>b.addEventListener('click',()=>{
+        selected = selected===b.dataset.title ? null : b.dataset.title;
+        hint.textContent = selected ? `Selected “${selected}” — tap a tier (S/A/B/C/D) to place it.` : '';
+        render();
+      }));
+    }
+    function placeSel(k){
+      if(!selected){ hint.textContent='Tap a cover first, then a tier.'; return; }
+      place[selected]=k; selected=null; hint.textContent=''; render();
+    }
+
+    document.getElementById('shuffle').addEventListener('click',()=>{ DATA=shuffle(DATA); render(); });
+    document.getElementById('share').addEventListener('click',async()=>{
+      const parts = TIERS.map(t=>{ const names=DATA.filter(m=>place[m.title]===t.k).map(m=>m.title); return names.length?`${t.k}: ${names.join(', ')}`:null; }).filter(Boolean);
+      const txt = 'My Manhwa Tier List 🏆\n'+(parts.join('\n')||'(nothing ranked yet)')+'\n\nMake yours: manhwadaily.com/tier-list';
+      const btn=document.getElementById('share');
+      if(navigator.share){ try{ await navigator.share({text:txt,url:'https://manhwadaily.com/tier-list'}); return; }catch{} }
+      try{ await navigator.clipboard.writeText(txt); btn.textContent='Copied!'; setTimeout(()=>btn.textContent='Share list',1500);}catch{ hint.textContent=txt; }
+    });
+  </script>
+</Base>

@@ -4,8 +4,8 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 ---
 <Base
-  title="Gate Crawler — A Solo-Leveling-Style Dungeon Roguelike"
-  description="Play Gate Crawler, a free browser dungeon roguelike inspired by manhwa like Solo Leveling. Descend the gate, level up, fight monsters and beat your high score. No sign-up."
+  title="Gate Crawler — A Sci-Fi Dungeon Roguelike (DanMachi × Dune)"
+  description="Descend the Rift in Gate Crawler: a free browser dungeon roguelike with atmospheric lighting, fog of war and particle effects. Level up, clear floors and beat your high score. No sign-up."
   slug="gate-crawler"
 >
   <Header />
@@ -15,37 +15,36 @@ import Footer from '../components/Footer.astro';
         <h1 class="font-display font-black text-3xl sm:text-4xl text-brand-white mb-1">
           Gate <span class="gradient-text-coral">Crawler</span>
         </h1>
-        <p class="text-brand-dim text-sm">Descend the gate. Level up. Survive. A manhwa-style dungeon roguelike.</p>
+        <p class="text-brand-dim text-sm">Descend the Rift. Level up. Survive the dark.</p>
       </div>
 
-      <!-- HUD -->
       <div class="flex items-center justify-between text-sm mb-2 font-display font-bold">
-        <span class="text-brand-coral">Floor <span id="floor">1</span></span>
-        <span class="text-brand-white">Lv <span id="lvl">1</span></span>
-        <span class="text-red-400">HP <span id="hp">20</span>/<span id="maxhp">20</span></span>
-        <span class="text-amber-400">Score <span id="score">0</span></span>
+        <span class="text-amber-300">Floor <span id="floor">1</span></span>
+        <span class="text-cyan-300">Lv <span id="lvl">1</span></span>
+        <span class="text-rose-400">HP <span id="hp">20</span>/<span id="maxhp">20</span></span>
+        <span class="text-amber-400">◆ <span id="score">0</span></span>
       </div>
 
-      <canvas id="game" width="352" height="352" class="w-full rounded-xl border border-brand-border bg-brand-bg touch-none"></canvas>
-      <p id="msg" class="text-center text-brand-dim text-xs h-5 mt-1">Reach the ⬇ stairs to descend. Bump monsters to attack.</p>
+      <div id="shell" class="relative rounded-2xl overflow-hidden border border-cyan-500/20" style="box-shadow:0 0 40px rgba(34,211,238,.08) inset">
+        <canvas id="game" width="384" height="384" class="w-full block touch-none" style="image-rendering:auto"></canvas>
+      </div>
+      <p id="msg" class="text-center text-brand-dim text-xs h-5 mt-1">Reach the portal ◈ to descend. Move into enemies to strike.</p>
 
-      <!-- Touch controls -->
-      <div class="grid grid-cols-3 gap-2 max-w-[180px] mx-auto mt-3 sm:hidden">
-        <span></span>
-        <button class="dpad" data-dir="up">▲</button><span></span>
+      <div class="grid grid-cols-3 gap-2 max-w-[190px] mx-auto mt-3 sm:hidden">
+        <span></span><button class="dpad" data-dir="up">▲</button><span></span>
         <button class="dpad" data-dir="left">◀</button>
         <button class="dpad" data-dir="down">▼</button>
         <button class="dpad" data-dir="right">▶</button>
       </div>
-      <p class="hidden sm:block text-center text-brand-dim text-xs mt-2">Move with arrow keys or WASD.</p>
+      <p class="hidden sm:block text-center text-brand-dim text-xs mt-2">Arrow keys / WASD to move.</p>
 
       <div id="over" class="hidden text-center mt-4">
         <div class="rounded-xl border border-brand-coral/40 bg-brand-card p-4">
-          <div class="font-display font-black text-2xl text-brand-white mb-1">Gate Cleared… or not.</div>
-          <div class="text-brand-dim text-sm mb-2">You fell on floor <span id="ofloor"></span> at level <span id="olvl"></span>.</div>
-          <div class="font-display font-black text-3xl gradient-text-coral mb-3">Score <span id="oscore"></span></div>
+          <div class="font-display font-black text-2xl text-brand-white mb-1">The Rift claims you.</div>
+          <div class="text-brand-dim text-sm mb-2">Fell on floor <span id="ofloor"></span> at level <span id="olvl"></span>.</div>
+          <div class="font-display font-black text-3xl gradient-text-coral mb-3">◆ <span id="oscore"></span></div>
           <div class="flex gap-2">
-            <button id="again" class="flex-1 py-2.5 rounded-xl bg-brand-coral text-white font-bold">Enter again</button>
+            <button id="again" class="flex-1 py-2.5 rounded-xl bg-brand-coral text-white font-bold">Dive again</button>
             <button id="share" class="py-2.5 px-4 rounded-xl border border-brand-border text-brand-dim font-bold">Share</button>
           </div>
         </div>
@@ -55,132 +54,150 @@ import Footer from '../components/Footer.astro';
   <Footer />
 
   <script>
-    const TILE = 32, GRID = 11;
+    const GRID = 12, TILE = 32, W = GRID*TILE;
     const cv = document.getElementById('game'), ctx = cv.getContext('2d');
     const $ = id => document.getElementById(id);
-    let map, player, monsters, stairs, potions, floor, over;
+    const rnd = n => (Math.random()*n)|0;
+    const lerp = (a,b,t) => a+(b-a)*t;
 
-    const rnd = n => (Math.random() * n) | 0;
+    // Sci-fi palette: Dune sand/amber + Foundation deep space + Hyperion neon rift.
+    const COL = { floorA:'#141826', floorB:'#0c0f19', wall:'#05060b', grid:'rgba(120,150,220,.06)',
+      player:'#67e8f9', playerCore:'#e0fbff', portal:'#f0b429', crystal:'#7ee787', fog:'#04050a' };
 
-    function newFloor() {
-      // 0 = wall, 1 = floor. Simple random-walk caverns.
-      map = Array.from({ length: GRID }, () => Array(GRID).fill(0));
-      let x = (GRID/2)|0, y = (GRID/2)|0;
-      for (let i = 0; i < GRID*GRID*3; i++) {
-        map[y][x] = 1;
-        const d = rnd(4);
-        if (d===0 && x>1) x--; if (d===1 && x<GRID-2) x++;
-        if (d===2 && y>1) y--; if (d===3 && y<GRID-2) y++;
+    let map, seen, player, monsters, particles, stairs, potions, floor, over, tp;
+    const dust = Array.from({length:40}, () => ({ x:Math.random()*W, y:Math.random()*W, s:Math.random()*.4+.1, r:Math.random()*1.2 }));
+    let shake = 0;
+
+    function newFloor(){
+      map = Array.from({length:GRID},()=>Array(GRID).fill(0));
+      seen = Array.from({length:GRID},()=>Array(GRID).fill(false));
+      let x=(GRID/2)|0, y=(GRID/2)|0;
+      for(let i=0;i<GRID*GRID*3;i++){ map[y][x]=1; const d=rnd(4);
+        if(d===0&&x>1)x--; if(d===1&&x<GRID-2)x++; if(d===2&&y>1)y--; if(d===3&&y<GRID-2)y++; }
+      const cells=[]; for(let j=0;j<GRID;j++)for(let i=0;i<GRID;i++)if(map[j][i])cells.push([i,j]);
+      const take=()=>cells.splice(rnd(cells.length),1)[0];
+      const pp=take(); player.gx=pp[0]; player.gy=pp[1]; player.x=pp[0]*TILE; player.y=pp[1]*TILE;
+      stairs=take();
+      monsters=[]; const types=[
+        {n:'wraith',c:'#c084fc',hp:3,atk:1}, {n:'sentinel',c:'#fb7185',hp:5,atk:2}, {n:'crawler',c:'#fbbf24',hp:2,atk:1}];
+      for(let i=0;i<2+floor && cells.length;i++){ const p=take(); const t=types[rnd(types.length)];
+        monsters.push({ gx:p[0],gy:p[1],x:p[0]*TILE,y:p[1]*TILE,hp:t.hp+((floor/2)|0),atk:t.atk+((floor/3)|0),c:t.c,n:t.n,ph:Math.random()*6}); }
+      potions=[]; if(rnd(2)===0&&cells.length){ const p=take(); potions.push({gx:p[0],gy:p[1]}); }
+      particles=[]; computeVis();
+    }
+
+    function start(){ floor=1; over=false;
+      player={gx:0,gy:0,x:0,y:0,hp:20,max:20,lvl:1,xp:0,atk:3,score:0,ph:0};
+      $('over').classList.add('hidden'); newFloor(); hud(); msg('Reach the portal ◈. Move into enemies to strike.'); }
+    function msg(t){ $('msg').textContent=t; }
+    function hud(){ $('floor').textContent=floor;$('lvl').textContent=player.lvl;$('hp').textContent=Math.max(0,player.hp);$('maxhp').textContent=player.max;$('score').textContent=player.score; }
+
+    function computeVis(){ const R=4.2;
+      for(let j=0;j<GRID;j++)for(let i=0;i<GRID;i++){ const d=Math.hypot(i-player.gx,j-player.gy); if(d<=R) seen[j][i]=true; } }
+    function visLevel(i,j){ const d=Math.hypot(i-player.gx,j-player.gy); if(d<=3) return 1; if(d<=4.2) return 0.55; return seen[j][i]?0.16:0; }
+
+    function burst(gx,gy,c,n){ for(let i=0;i<(n||10);i++){ const a=Math.random()*6.28, s=Math.random()*2+.5;
+      particles.push({x:gx*TILE+TILE/2,y:gy*TILE+TILE/2,vx:Math.cos(a)*s,vy:Math.sin(a)*s,life:1,c}); } }
+
+    // ---- render loop ----
+    let t0=0;
+    function frame(t){ const dt=Math.min(2,(t-t0)/16.67||1); t0=t;
+      // smooth entity positions
+      player.x=lerp(player.x,player.gx*TILE,.25*dt); player.y=lerp(player.y,player.gy*TILE,.25*dt); player.ph+=.08*dt;
+      monsters.forEach(m=>{ m.x=lerp(m.x,m.gx*TILE,.2*dt); m.y=lerp(m.y,m.gy*TILE,.2*dt); m.ph+=.05*dt; });
+      draw(); requestAnimationFrame(frame);
+    }
+
+    function draw(){
+      ctx.save();
+      const sx = shake>0?(Math.random()-.5)*shake:0, sy = shake>0?(Math.random()-.5)*shake:0;
+      if(shake>0) shake-=.6;
+      ctx.translate(sx,sy);
+      // bg gradient
+      const bg=ctx.createRadialGradient(W/2,W/2,20,W/2,W/2,W*0.75);
+      bg.addColorStop(0,'#0a0e1a'); bg.addColorStop(1,'#04050a'); ctx.fillStyle=bg; ctx.fillRect(-8,-8,W+16,W+16);
+      // drifting dust
+      ctx.fillStyle='rgba(150,180,255,.15)';
+      dust.forEach(p=>{ p.y+=p.s; if(p.y>W)p.y=0; ctx.globalAlpha=.15; ctx.beginPath(); ctx.arc(p.x,p.y,p.r,0,6.28); ctx.fill(); });
+      ctx.globalAlpha=1;
+      // tiles
+      for(let j=0;j<GRID;j++)for(let i=0;i<GRID;i++){ const v=visLevel(i,j); if(v<=0)continue;
+        const px=i*TILE, py=j*TILE;
+        if(map[j][i]){ const g=ctx.createLinearGradient(px,py,px,py+TILE); g.addColorStop(0,COL.floorA); g.addColorStop(1,COL.floorB);
+          ctx.globalAlpha=v; ctx.fillStyle=g; ctx.fillRect(px+1,py+1,TILE-2,TILE-2);
+          ctx.strokeStyle=COL.grid; ctx.lineWidth=1; ctx.strokeRect(px+1.5,py+1.5,TILE-3,TILE-3); }
       }
-      const floors = [];
-      for (let j=0;j<GRID;j++) for (let i=0;i<GRID;i++) if (map[j][i]) floors.push([i,j]);
-      const take = () => floors.splice(rnd(floors.length),1)[0];
-      player.pos = take();
-      stairs = take();
-      monsters = [];
-      const nMon = 2 + floor;
-      for (let i=0;i<nMon && floors.length;i++){
-        const p = take();
-        monsters.push({ pos:p, hp: 3+floor, atk: 1+((floor/2)|0), emoji: ['👹','🐺','👺','🦂','💀','🕷️'][rnd(6)] });
-      }
-      potions = [];
-      if (rnd(2)===0 && floors.length) potions.push(take());
-      draw();
+      ctx.globalAlpha=1;
+      // portal (stairs)
+      if(visLevel(stairs[0],stairs[1])>.3){ const cx=stairs[0]*TILE+TILE/2, cy=stairs[1]*TILE+TILE/2, r=9+Math.sin(player.ph*2)*2;
+        const pg=ctx.createRadialGradient(cx,cy,1,cx,cy,r+6); pg.addColorStop(0,'#fff7e0'); pg.addColorStop(.5,COL.portal); pg.addColorStop(1,'rgba(240,180,41,0)');
+        ctx.fillStyle=pg; ctx.beginPath(); ctx.arc(cx,cy,r+6,0,6.28); ctx.fill();
+        ctx.strokeStyle=COL.portal; ctx.lineWidth=2; ctx.beginPath(); ctx.arc(cx,cy,r,0,6.28); ctx.stroke(); }
+      // potions
+      potions.forEach(p=>{ if(visLevel(p.gx,p.gy)<=.2)return; const cx=p.gx*TILE+TILE/2, cy=p.gy*TILE+TILE/2+Math.sin(player.ph*2)*2;
+        ctx.fillStyle=COL.crystal; ctx.shadowColor=COL.crystal; ctx.shadowBlur=10; poly(cx,cy,6,6,player.ph); ctx.shadowBlur=0; });
+      // monsters
+      monsters.forEach(m=>{ if(visLevel(m.gx,m.gy)<=.15)return; const cx=m.x+TILE/2, cy=m.y+TILE/2+Math.sin(m.ph)*1.5;
+        ctx.shadowColor=m.c; ctx.shadowBlur=14; ctx.fillStyle=m.c;
+        if(m.n==='sentinel'){ ctx.fillRect(cx-8,cy-8,16,16); } else if(m.n==='wraith'){ poly(cx,cy,9,3,m.ph); } else { ctx.beginPath(); ctx.arc(cx,cy,8,0,6.28); ctx.fill(); }
+        ctx.shadowBlur=0; ctx.fillStyle='#05060b'; ctx.beginPath(); ctx.arc(cx-3,cy-1,1.6,0,6.28); ctx.arc(cx+3,cy-1,1.6,0,6.28); ctx.fill(); });
+      // player with aura
+      const pcx=player.x+TILE/2, pcy=player.y+TILE/2;
+      const au=ctx.createRadialGradient(pcx,pcy,2,pcx,pcy,16+Math.sin(player.ph*2)*2);
+      au.addColorStop(0,'rgba(103,232,249,.5)'); au.addColorStop(1,'rgba(103,232,249,0)'); ctx.fillStyle=au;
+      ctx.beginPath(); ctx.arc(pcx,pcy,16,0,6.28); ctx.fill();
+      ctx.shadowColor=COL.player; ctx.shadowBlur=16; ctx.fillStyle=COL.playerCore; poly(pcx,pcy,8,4,player.ph*.5); ctx.shadowBlur=0;
+      // particles
+      particles=particles.filter(p=>p.life>0);
+      particles.forEach(p=>{ p.x+=p.vx; p.y+=p.vy; p.vx*=.92; p.vy*=.92; p.life-=.04; ctx.globalAlpha=p.life; ctx.fillStyle=p.c;
+        ctx.beginPath(); ctx.arc(p.x,p.y,2.2*p.life+.5,0,6.28); ctx.fill(); });
+      ctx.globalAlpha=1;
+      // fog/lighting overlay: darken far from player
+      const lg=ctx.createRadialGradient(pcx,pcy,20,pcx,pcy,W*0.62);
+      lg.addColorStop(0,'rgba(0,0,0,0)'); lg.addColorStop(.7,'rgba(4,5,10,.35)'); lg.addColorStop(1,'rgba(4,5,10,.92)');
+      ctx.fillStyle=lg; ctx.fillRect(-8,-8,W+16,W+16);
+      // vignette
+      ctx.strokeStyle='rgba(0,0,0,.5)'; ctx.lineWidth=14; ctx.strokeRect(0,0,W,W);
+      ctx.restore();
     }
+    function poly(cx,cy,r,n,rot){ ctx.beginPath(); for(let i=0;i<n;i++){ const a=rot+i/n*6.28; const px=cx+Math.cos(a)*r, py=cy+Math.sin(a)*r; i?ctx.lineTo(px,py):ctx.moveTo(px,py); } ctx.closePath(); ctx.fill(); }
 
-    function start() {
-      floor = 1; over = false;
-      player = { pos:[0,0], hp:20, max:20, lvl:1, xp:0, atk:3, score:0, kills:0 };
-      $('over').classList.add('hidden');
-      newFloor(); updateHUD();
-      msg('Reach the ⬇ stairs. Bump monsters to attack.');
-    }
-
-    function msg(t){ $('msg').textContent = t; }
-    function updateHUD(){
-      $('floor').textContent=floor; $('lvl').textContent=player.lvl;
-      $('hp').textContent=Math.max(0,player.hp); $('maxhp').textContent=player.max;
-      $('score').textContent=player.score;
-    }
-
-    function draw() {
-      ctx.fillStyle = '#0D1117'; ctx.fillRect(0,0,cv.width,cv.height);
-      const ox = (cv.width - GRID*TILE)/2, oy = (cv.height - GRID*TILE)/2;
-      for (let j=0;j<GRID;j++) for (let i=0;i<GRID;i++){
-        if (map[j][i]) { ctx.fillStyle='#1C2128'; ctx.fillRect(ox+i*TILE+1,oy+j*TILE+1,TILE-2,TILE-2); }
-      }
-      const at = (p,e,c) => { ctx.font='22px serif'; ctx.textAlign='center'; ctx.textBaseline='middle'; if(c){ctx.fillStyle=c;} ctx.fillText(e, ox+p[0]*TILE+TILE/2, oy+p[1]*TILE+TILE/2+1); };
-      at(stairs,'⬇');
-      potions.forEach(p=>at(p,'🧪'));
-      monsters.forEach(m=>at(m.pos,m.emoji));
-      at(player.pos,'🗡️');
-    }
-
+    // ---- logic ----
     function canWalk(x,y){ return x>=0&&y>=0&&x<GRID&&y<GRID&&map[y][x]; }
-    function monAt(x,y){ return monsters.find(m=>m.pos[0]===x&&m.pos[1]===y); }
+    function monAt(x,y){ return monsters.find(m=>m.gx===x&&m.gy===y); }
+    function gainXp(n){ player.xp+=n; if(player.xp>=player.lvl*5){ player.xp=0; player.lvl++; player.max+=5; player.hp=player.max; player.atk+=2; burst(player.gx,player.gy,COL.player,16); msg(`Level up! Lv ${player.lvl}.`); } }
 
-    function gainXp(n){
-      player.xp += n;
-      if (player.xp >= player.lvl*5){ player.xp=0; player.lvl++; player.max+=5; player.hp=player.max; player.atk+=2; msg(`Level up! You're now Lv ${player.lvl}.`); }
+    function move(dx,dy){ if(over) return; const nx=player.gx+dx, ny=player.gy+dy; const m=monAt(nx,ny);
+      if(m){ m.hp-=player.atk; burst(nx,ny,m.c,8); shake=5;
+        if(m.hp<=0){ monsters=monsters.filter(z=>z!==m); player.score+=10; gainXp(3); burst(nx,ny,m.c,14); msg('Enemy destroyed.'); } else msg('You strike.'); }
+      else if(canWalk(nx,ny)){ player.gx=nx; player.gy=ny; computeVis();
+        const pi=potions.findIndex(p=>p.gx===nx&&p.gy===ny);
+        if(pi>=0){ potions.splice(pi,1); player.hp=Math.min(player.max,player.hp+8); burst(nx,ny,COL.crystal,12); msg('Cell recharged (+8 HP).'); }
+        if(nx===stairs[0]&&ny===stairs[1]){ floor++; player.score+=floor*20; burst(nx,ny,COL.portal,20); newFloor(); hud(); msg(`Floor ${floor}. The dark deepens…`); return; } }
+      else return;
+      monsterTurn(); hud();
     }
-
-    function move(dx,dy){
-      if (over) return;
-      const [x,y]=player.pos, nx=x+dx, ny=y+dy;
-      const m = monAt(nx,ny);
-      if (m){ // attack
-        m.hp -= player.atk;
-        if (m.hp<=0){ monsters=monsters.filter(z=>z!==m); player.kills++; player.score+=10; gainXp(3); msg('Monster down!'); }
-        else msg('You strike the monster.');
-      } else if (canWalk(nx,ny)){
-        player.pos=[nx,ny];
-        const pi = potions.findIndex(p=>p[0]===nx&&p[1]===ny);
-        if (pi>=0){ potions.splice(pi,1); player.hp=Math.min(player.max,player.hp+8); msg('You drink a potion (+8 HP).'); }
-        if (nx===stairs[0]&&ny===stairs[1]){ floor++; player.score+=floor*20; newFloor(); updateHUD(); msg(`Floor ${floor}. It gets harder…`); return; }
-      } else { return; } // wall: no turn
-      monsterTurn();
-      updateHUD(); draw();
-    }
-
-    function monsterTurn(){
-      for (const m of monsters){
-        const [mx,my]=m.pos, [px,py]=player.pos;
-        const dist=Math.abs(mx-px)+Math.abs(my-py);
-        if (dist===1){ player.hp-=m.atk; if(player.hp<=0){ return gameOver(); } continue; }
-        if (dist<=5){ // chase
-          let sx=Math.sign(px-mx), sy=Math.sign(py-my);
-          const tryMoves = Math.abs(px-mx)>Math.abs(py-my)?[[sx,0],[0,sy]]:[[0,sy],[sx,0]];
-          for(const [dx,dy] of tryMoves){ const nx=mx+dx,ny=my+dy; if(canWalk(nx,ny)&&!monAt(nx,ny)&&!(nx===px&&ny===py)){ m.pos=[nx,ny]; break; } }
-        }
-      }
-    }
-
-    function gameOver(){
-      over=true; updateHUD(); draw();
-      $('ofloor').textContent=floor; $('olvl').textContent=player.lvl; $('oscore').textContent=player.score;
-      $('over').classList.remove('hidden');
-    }
+    function monsterTurn(){ for(const m of monsters){ const dist=Math.abs(m.gx-player.gx)+Math.abs(m.gy-player.gy);
+      if(dist===1){ player.hp-=m.atk; shake=7; burst(player.gx,player.gy,'#fb7185',6); if(player.hp<=0)return gameOver(); continue; }
+      if(dist<=5){ const sx=Math.sign(player.gx-m.gx), sy=Math.sign(player.gy-m.gy);
+        const tries=Math.abs(player.gx-m.gx)>Math.abs(player.gy-m.gy)?[[sx,0],[0,sy]]:[[0,sy],[sx,0]];
+        for(const [dx,dy] of tries){ const nx=m.gx+dx,ny=m.gy+dy; if(canWalk(nx,ny)&&!monAt(nx,ny)&&!(nx===player.gx&&ny===player.gy)){ m.gx=nx; m.gy=ny; break; } } } } }
+    function gameOver(){ over=true; hud(); $('ofloor').textContent=floor;$('olvl').textContent=player.lvl;$('oscore').textContent=player.score; $('over').classList.remove('hidden'); }
 
     const KEY={ArrowUp:[0,-1],ArrowDown:[0,1],ArrowLeft:[-1,0],ArrowRight:[1,0],w:[0,-1],s:[0,1],a:[-1,0],d:[1,0]};
     window.addEventListener('keydown',e=>{ const k=KEY[e.key]; if(k){ e.preventDefault(); move(k[0],k[1]); } });
     document.querySelectorAll('.dpad').forEach(b=>b.addEventListener('click',()=>{ const m={up:[0,-1],down:[0,1],left:[-1,0],right:[1,0]}[b.dataset.dir]; move(m[0],m[1]); }));
-    // swipe on canvas
-    let tx,ty;
-    cv.addEventListener('touchstart',e=>{ const t=e.touches[0]; tx=t.clientX; ty=t.clientY; },{passive:true});
-    cv.addEventListener('touchend',e=>{ const t=e.changedTouches[0]; const dx=t.clientX-tx, dy=t.clientY-ty; if(Math.abs(dx)<15&&Math.abs(dy)<15)return; if(Math.abs(dx)>Math.abs(dy)) move(Math.sign(dx),0); else move(0,Math.sign(dy)); },{passive:true});
-
+    let tx,ty; cv.addEventListener('touchstart',e=>{const t=e.touches[0];tx=t.clientX;ty=t.clientY;},{passive:true});
+    cv.addEventListener('touchend',e=>{const t=e.changedTouches[0];const dx=t.clientX-tx,dy=t.clientY-ty;if(Math.abs(dx)<15&&Math.abs(dy)<15)return;if(Math.abs(dx)>Math.abs(dy))move(Math.sign(dx),0);else move(0,Math.sign(dy));},{passive:true});
     $('again').addEventListener('click',start);
-    $('share').addEventListener('click',async()=>{
-      const txt=`I reached floor ${floor} (Lv ${player.lvl}) with ${player.score} points in Gate Crawler 🗡️ — play at manhwadaily.com/gate-crawler`;
-      const btn=$('share');
-      if(navigator.share){ try{ await navigator.share({text:txt,url:'https://manhwadaily.com/gate-crawler'}); return; }catch{} }
-      try{ await navigator.clipboard.writeText(txt); btn.textContent='Copied!'; setTimeout(()=>btn.textContent='Share',1500);}catch{}
-    });
+    $('share').addEventListener('click',async()=>{ const txt=`I reached floor ${floor} (Lv ${player.lvl}), ${player.score} ◆ in Gate Crawler ⚔️ — dive at manhwadaily.com/gate-crawler`;
+      const btn=$('share'); if(navigator.share){try{await navigator.share({text:txt,url:'https://manhwadaily.com/gate-crawler'});return;}catch{}}
+      try{await navigator.clipboard.writeText(txt);btn.textContent='Copied!';setTimeout(()=>btn.textContent='Share',1500);}catch{} });
 
-    start();
+    start(); requestAnimationFrame(frame);
   </script>
   <style>
-    .dpad { height:48px; border-radius:.6rem; border:1px solid var(--brand-border,#30363D); background:var(--brand-card,#1C2128); color:#fff; font-size:1.1rem; }
-    .dpad:active { background: rgba(255,107,107,.2); }
+    .dpad{height:48px;border-radius:.6rem;border:1px solid rgba(103,232,249,.25);background:#0c0f19;color:#67e8f9;font-size:1.1rem;}
+    .dpad:active{background:rgba(103,232,249,.15);}
   </style>
 </Base>
