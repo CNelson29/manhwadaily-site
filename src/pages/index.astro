@@ -28,24 +28,24 @@ const rest = all.slice(6);
       <div class="absolute bottom-0 right-1/4 w-80 h-80 bg-brand-teal/5 rounded-full blur-[100px] pointer-events-none"></div>
 
       <div class="relative max-w-6xl mx-auto px-4 sm:px-6 text-center">
-        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-brand-coral/20
+        <div class="anim-rise d1 inline-flex items-center gap-2 px-3 py-1 rounded-full border border-brand-coral/20
                     bg-brand-coral/5 text-brand-coral text-xs font-bold mb-6 uppercase tracking-wider">
           <span class="w-1.5 h-1.5 rounded-full bg-brand-coral animate-pulse"></span>
           Updated daily
         </div>
 
-        <h1 class="font-display font-black text-4xl sm:text-5xl lg:text-7xl text-brand-white leading-none mb-4">
+        <h1 class="anim-rise d2 font-display font-black text-4xl sm:text-5xl lg:text-7xl text-brand-white leading-none mb-4">
           Discover Your Next<br />
           <span class="gradient-text-coral">Manhwa Obsession</span>
         </h1>
 
-        <p class="text-brand-dim text-lg sm:text-xl max-w-lg mx-auto mb-8 leading-relaxed font-sans">
+        <p class="anim-rise d3 text-brand-dim text-lg sm:text-xl max-w-lg mx-auto mb-8 leading-relaxed font-sans">
           Daily recommendations, top rankings & hidden gems.<br />
           No filler — just the best webtoons.
         </p>
 
         <!-- Category pills -->
-        <div class="flex flex-wrap justify-center gap-2 mb-10">
+        <div class="anim-rise d4 flex flex-wrap justify-center gap-2 mb-10">
           {CATS.map(cat => (
             <a href={`/#${cat.toLowerCase()}`}
               class={`cat-badge cat-${cat} hover:scale-105 transition-transform cursor-pointer`}>
@@ -55,7 +55,7 @@ const rest = all.slice(6);
         </div>
 
         <!-- Stats -->
-        <div class="flex flex-col sm:flex-row justify-center gap-8 sm:gap-16">
+        <div class="anim-rise d5 flex flex-col sm:flex-row justify-center gap-8 sm:gap-16">
           {[
             { v: `${all.length}+`, l: 'Rankings published' },
             { v: 'Daily',          l: 'New recommendations' },
@@ -76,7 +76,7 @@ const rest = all.slice(6);
         <h2 class="font-display font-bold text-xl text-brand-white">🔥 Latest Rankings</h2>
         <span class="text-brand-dim text-sm">{all.length} lists</span>
       </div>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-4">
+      <div data-reveal-stagger class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-4">
         {featured.map(p => (
           <PostCard title={p.data.title} slug={p.slug} excerpt={p.data.excerpt}
             date={p.data.date} category={p.data.category} tags={p.data.tags} image={p.data.image} />
