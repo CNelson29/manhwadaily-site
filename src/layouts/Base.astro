@@ -74,6 +74,17 @@ const canonical = slug ? `${siteUrl}/${slug}/` : siteUrl;
   <slot />
   <script is:inline>
     (() => {
+      // Compliance: mark outbound affiliate/external links (Amazon requires rel="sponsored").
+      document.querySelectorAll('a[href^="http"]').forEach(a => {
+        try {
+          const ext = new URL(a.href).host !== location.host;
+          if (!ext) return;
+          a.target = '_blank';
+          const aff = /amazon\.|amzn\.to|tapas\.io|webtoons\.com|mangadex\.org/.test(a.href);
+          a.rel = aff ? 'sponsored noopener nofollow' : 'noopener';
+        } catch {}
+      });
+      // Scroll reveal (skipped under reduced-motion).
       if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
       const els = document.querySelectorAll('[data-reveal], [data-reveal-stagger]');
       if (!('IntersectionObserver' in window) || !els.length) return;
