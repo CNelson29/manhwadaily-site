@@ -1,0 +1,454 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base
+  title="Gate Crawler World — Open-World Dungeon RPG (Free)"
+  description="Explore an open world Pokémon-style, farm monsters, collect tiered loot valued in DOP, pick a class or become a Tamer, and fight in the Colosseum where every Definitive Critical makes you permanently stronger. Free browser RPG, no sign-up."
+  slug="gate-crawler-world"
+>
+  <Header />
+  <main class="flex-1">
+    <section class="max-w-lg mx-auto px-3 sm:px-6 py-6">
+      <div class="text-center mb-3">
+        <h1 class="font-display font-black text-2xl sm:text-3xl text-brand-white">
+          Gate Crawler <span class="gradient-text-coral">World</span>
+        </h1>
+        <p class="text-brand-dim text-xs">Open world · farm monsters · tiered loot in DOP · Colosseum. Land a <b class="text-amber-300">Definitive Critical</b> to grow permanently stronger.</p>
+      </div>
+
+      <!-- HUD -->
+      <div id="hud" class="hidden grid grid-cols-4 gap-1.5 text-center text-[11px] font-display font-bold mb-2">
+        <div class="rounded-lg bg-brand-card border border-brand-border py-1"><div class="text-brand-dim">CLASS</div><div id="h-class" class="text-brand-white">—</div></div>
+        <div class="rounded-lg bg-brand-card border border-brand-border py-1"><div class="text-brand-dim">LV</div><div id="h-lv" class="text-cyan-300">1</div></div>
+        <div class="rounded-lg bg-brand-card border border-brand-border py-1"><div class="text-brand-dim">STR</div><div id="h-str" class="text-rose-400">0</div></div>
+        <div class="rounded-lg bg-brand-card border border-brand-border py-1"><div class="text-brand-dim">DOP</div><div id="h-dop" class="text-amber-400">0</div></div>
+      </div>
+
+      <!-- CLASS SELECT -->
+      <div id="class-select" class="rounded-2xl border border-brand-border bg-brand-card p-4">
+        <div class="font-display font-bold text-brand-white text-center mb-3">Choose your class</div>
+        <div id="class-list" class="grid grid-cols-1 gap-2"></div>
+      </div>
+
+      <!-- OVERWORLD -->
+      <div id="overworld" class="hidden">
+        <div id="shell" class="relative rounded-2xl overflow-hidden border border-brand-border" style="box-shadow:0 0 40px rgba(255,107,107,.08) inset">
+          <canvas id="world" width="416" height="416" class="w-full block touch-none" style="image-rendering:pixelated"></canvas>
+        </div>
+        <p id="ow-msg" class="text-center text-brand-dim text-xs h-5 mt-1">Walk into 🌿 grass to fight & farm. Reach the 🏛️ Colosseum.</p>
+        <div class="grid grid-cols-3 gap-2 max-w-[180px] mx-auto mt-2 sm:hidden">
+          <span></span><button class="dpad" data-dir="up">▲</button><span></span>
+          <button class="dpad" data-dir="left">◀</button><button class="dpad" data-dir="down">▼</button><button class="dpad" data-dir="right">▶</button>
+        </div>
+        <div class="flex gap-2 mt-2">
+          <button id="btn-inv" class="flex-1 py-2 rounded-xl border border-brand-border text-brand-dim font-bold text-sm">🎒 Inventory</button>
+          <button id="btn-heal" class="flex-1 py-2 rounded-xl border border-brand-border text-brand-dim font-bold text-sm">🏕️ Rest (heal)</button>
+        </div>
+      </div>
+
+      <!-- BATTLE -->
+      <div id="battle" class="hidden rounded-2xl border border-brand-border bg-brand-card p-4">
+        <div id="battle-title" class="text-center font-display font-black text-brand-white mb-2"></div>
+        <!-- enemy -->
+        <div class="flex items-center justify-between text-xs font-display font-bold">
+          <span id="enemy-name" class="text-brand-white"></span><span id="enemy-lv" class="text-brand-dim"></span>
+        </div>
+        <div class="h-2.5 rounded-full bg-black/40 overflow-hidden mt-1"><div id="enemy-hp" class="h-full bg-rose-500 transition-all" style="width:100%"></div></div>
+        <div id="enemy-sprite" class="text-center text-5xl my-3 select-none"></div>
+        <!-- player -->
+        <div class="flex items-center justify-between text-xs font-display font-bold">
+          <span class="text-brand-white">You <span id="p-str-badge" class="text-rose-400"></span></span><span id="p-hp-txt" class="text-brand-dim"></span>
+        </div>
+        <div class="h-2.5 rounded-full bg-black/40 overflow-hidden mt-1"><div id="p-hp" class="h-full bg-emerald-500 transition-all" style="width:100%"></div></div>
+
+        <div id="battle-log" class="text-brand-dim text-xs h-16 overflow-y-auto mt-2 leading-snug bg-black/20 rounded-lg p-2"></div>
+
+        <div id="battle-actions" class="grid grid-cols-2 gap-2 mt-2">
+          <button id="act-attack" class="py-2.5 rounded-xl bg-brand-coral text-white font-bold text-sm">⚔️ Attack</button>
+          <button id="act-skill" class="py-2.5 rounded-xl bg-violet-600 text-white font-bold text-sm">✨ Skill</button>
+          <button id="act-tame" class="py-2.5 rounded-xl bg-emerald-600 text-white font-bold text-sm hidden">🫱 Tame</button>
+          <button id="act-flee" class="py-2.5 rounded-xl border border-brand-border text-brand-dim font-bold text-sm">🏃 Flee</button>
+        </div>
+        <button id="battle-continue" class="hidden w-full py-2.5 rounded-xl bg-brand-coral text-white font-bold mt-2">Continue</button>
+      </div>
+
+      <!-- INVENTORY -->
+      <div id="inventory" class="hidden rounded-2xl border border-brand-border bg-brand-card p-4">
+        <div class="flex items-center justify-between mb-2">
+          <div class="font-display font-bold text-brand-white">🎒 Inventory</div>
+          <div class="text-xs font-display font-bold text-amber-400">Net worth: <span id="networth">0</span> DOP</div>
+        </div>
+        <div id="equip-line" class="text-xs text-brand-dim mb-2"></div>
+        <div id="inv-list" class="grid grid-cols-1 gap-1.5 max-h-64 overflow-y-auto"></div>
+        <div id="tamed-line" class="text-xs text-brand-dim mt-3"></div>
+        <button id="inv-close" class="w-full py-2 rounded-xl border border-brand-border text-brand-dim font-bold text-sm mt-3">Close</button>
+      </div>
+
+      <!-- flash -->
+      <div id="flash" class="hidden fixed inset-0 z-50 pointer-events-none grid place-items-center">
+        <div class="font-display font-black text-3xl sm:text-5xl text-amber-300 drop-shadow-[0_0_20px_rgba(252,211,77,.8)] animate-pulse text-center px-4"></div>
+      </div>
+    </section>
+  </main>
+  <Footer />
+
+  <script>
+    // ============ CONFIG ============
+    const $ = (id) => document.getElementById(id);
+    const rnd = (n) => Math.floor(Math.random() * n);
+    const rng = (a, b) => a + Math.random() * (b - a);
+    const clamp = (x, a, b) => Math.max(a, Math.min(b, x));
+
+    const CLASSES = {
+      Warrior: { emoji: '🛡️', hp: 60, atk: 12, def: 8, str: 6, crit: 0.12, defcrit: 0.08, tamer: false, blurb: 'Tanky bruiser. High HP & defense.' },
+      Mage:    { emoji: '🔮', hp: 40, atk: 18, def: 3, str: 8, crit: 0.16, defcrit: 0.12, tamer: false, blurb: 'Glass cannon. Big hits, frail.' },
+      Archer:  { emoji: '🏹', hp: 48, atk: 14, def: 5, str: 7, crit: 0.22, defcrit: 0.10, tamer: false, blurb: 'High crit chance, balanced.' },
+      Rogue:   { emoji: '🗡️', hp: 44, atk: 15, def: 4, str: 7, crit: 0.20, defcrit: 0.14, tamer: false, blurb: 'Best Definitive-Crit odds.' },
+      Tamer:   { emoji: '🫱', hp: 50, atk: 11, def: 6, str: 6, crit: 0.14, defcrit: 0.09, tamer: true,  blurb: 'Can TAME weakened monsters.' },
+    };
+
+    // Tiers Mítico → Hierro, with base DOP value & color
+    const TIERS = [
+      { name: 'Mítico',     color: '#e879f9', dop: 50000, w: 1 },
+      { name: 'Legendario', color: '#fbbf24', dop: 20000, w: 3 },
+      { name: 'Épico',      color: '#a78bfa', dop: 8000,  w: 7 },
+      { name: 'Raro',       color: '#60a5fa', dop: 3000,  w: 14 },
+      { name: 'Poco común', color: '#34d399', dop: 1000,  w: 25 },
+      { name: 'Común',      color: '#9ca3af', dop: 300,   w: 30 },
+      { name: 'Hierro',     color: '#6b7280', dop: 50,    w: 20 },
+    ];
+    const WEAPONS = ['Sword', 'Axe', 'Dagger', 'Staff', 'Bow', 'Spear', 'Gauntlet'];
+    const ARMORS  = ['Helm', 'Plate', 'Cloak', 'Shield', 'Boots', 'Ring'];
+    const MONSTERS = [
+      { name: 'Slime',    emoji: '🟢' }, { name: 'Goblin',  emoji: '👺' },
+      { name: 'Bat',      emoji: '🦇' }, { name: 'Wolf',    emoji: '🐺' },
+      { name: 'Golem',    emoji: '🗿' }, { name: 'Wraith',  emoji: '👻' },
+      { name: 'Serpent',  emoji: '🐍' }, { name: 'Ogre',    emoji: '👹' },
+    ];
+
+    // pick a tier by rarity weight, optionally boosted by luck (0..1)
+    function rollTier(luck = 0) {
+      const pool = TIERS.map((t, i) => ({ i, w: t.w * (1 + luck * (TIERS.length - i)) }));
+      let total = pool.reduce((s, p) => s + p.w, 0), r = Math.random() * total;
+      for (const p of pool) { if ((r -= p.w) <= 0) return p.i; }
+      return TIERS.length - 1;
+    }
+    function makeItem(luck = 0) {
+      const ti = rollTier(luck), tier = TIERS[ti];
+      const isWeapon = Math.random() < 0.5;
+      const power = Math.round((TIERS.length - ti) * rng(2, 4)); // higher tier → more power
+      const name = (isWeapon ? WEAPONS : ARMORS)[rnd(isWeapon ? WEAPONS.length : ARMORS.length)];
+      const dop = Math.round(tier.dop * rng(0.7, 1.3));
+      return { id: Math.random().toString(36).slice(2), name, tierIndex: ti, slot: isWeapon ? 'weapon' : 'armor',
+               atk: isWeapon ? power : 0, def: isWeapon ? 0 : power, dop };
+    }
+
+    // ============ STATE ============
+    let P = null;             // player
+    let mode = 'class';       // class | overworld | battle | inventory
+    let B = null;             // current battle
+    const TILE = 32, COLS = 13, ROWS = 13;
+    // map: #=tree/wall  .=ground  g=grass(encounter)  C=colosseum  ~=camp(heal)
+    const MAP = [
+      '#############',
+      '#..ggg..C..#',
+      '#..ggg.....#',
+      '#....##....#',
+      '#.gg.##.gg.#',
+      '#.gg....gg.#',
+      '#....~.....#',
+      '#.gg....gg.#',
+      '#.gg.##.gg.#',
+      '#....##....#',
+      '#..ggg.....#',
+      '#..ggg.....#',
+      '#############',
+    ];
+
+    // ============ CLASS SELECT ============
+    function renderClasses() {
+      const box = $('class-list'); box.innerHTML = '';
+      for (const [name, c] of Object.entries(CLASSES)) {
+        const b = document.createElement('button');
+        b.className = 'text-left rounded-xl border border-brand-border p-3 hover:border-brand-coral transition flex items-center gap-3';
+        b.innerHTML = `<span class="text-3xl">${c.emoji}</span><span><span class="font-display font-bold text-brand-white">${name}${c.tamer ? ' <span class=\"text-emerald-400 text-xs\">(Tamer)</span>' : ''}</span><br><span class="text-brand-dim text-xs">${c.blurb}</span><br><span class="text-[11px] text-brand-dim">HP ${c.hp} · ATK ${c.atk} · DEF ${c.def} · DefCrit ${(c.defcrit*100)|0}%</span></span>`;
+        b.onclick = () => startGame(name);
+        box.appendChild(b);
+      }
+    }
+
+    function startGame(className) {
+      const c = CLASSES[className];
+      P = {
+        cls: className, emoji: c.emoji, tamer: c.tamer,
+        level: 1, xp: 0, dop: 0,
+        maxhp: c.hp, hp: c.hp, atk: c.atk, def: c.def,
+        strength: c.str, strBonus: 0,
+        crit: c.crit, defcrit: c.defcrit,
+        gx: 6, gy: 6, inv: [], equip: { weapon: null, armor: null }, tamed: [],
+      };
+      // starter weapon — build explicitly (don't reuse makeItem's random slot, it can pick an armor name)
+      const starter = { id: Math.random().toString(36).slice(2), name: WEAPONS[rnd(WEAPONS.length)],
+                         tierIndex: 5, slot: 'weapon', atk: 3, def: 0, dop: TIERS[5].dop };
+      P.inv.push(starter); equipItem(starter.id);
+      $('class-select').classList.add('hidden');
+      $('hud').classList.remove('hidden');
+      $('overworld').classList.remove('hidden');
+      mode = 'overworld';
+      updateHud(); drawWorld();
+    }
+
+    function updateHud() {
+      $('h-class').textContent = P.emoji + ' ' + P.cls;
+      $('h-lv').textContent = P.level;
+      $('h-str').textContent = P.strength + P.strBonus;
+      $('h-dop').textContent = P.dop.toLocaleString();
+    }
+    const totalAtk = () => P.atk + P.strength + P.strBonus + (P.equip.weapon?.atk || 0);
+    const totalDef = () => P.def + (P.equip.armor?.def || 0);
+
+    // ============ OVERWORLD ============
+    const cv = $('world'), ctx = cv.getContext('2d');
+    function tileAt(x, y) { return (MAP[y] && MAP[y][x]) || '#'; }
+    function drawWorld() {
+      ctx.fillStyle = '#0b0f17'; ctx.fillRect(0, 0, cv.width, cv.height);
+      for (let y = 0; y < ROWS; y++) for (let x = 0; x < COLS; x++) {
+        const t = tileAt(x, y), px = x * TILE, py = y * TILE;
+        if (t === '#') { ctx.fillStyle = '#141a24'; ctx.fillRect(px, py, TILE, TILE); ctx.font = '20px serif'; ctx.fillText('🌲', px + 5, py + 24); }
+        else { ctx.fillStyle = '#1b2432'; ctx.fillRect(px + 1, py + 1, TILE - 2, TILE - 2); }
+        if (t === 'g') { ctx.font = '20px serif'; ctx.fillText('🌿', px + 6, py + 24); }
+        if (t === 'C') { ctx.fillStyle = '#3a2740'; ctx.fillRect(px + 1, py + 1, TILE - 2, TILE - 2); ctx.font = '20px serif'; ctx.fillText('🏛️', px + 5, py + 24); }
+        if (t === '~') { ctx.font = '20px serif'; ctx.fillText('🏕️', px + 5, py + 24); }
+      }
+      // player
+      ctx.font = '22px serif';
+      ctx.fillText(P.emoji, P.gx * TILE + 5, P.gy * TILE + 25);
+    }
+    function move(dx, dy) {
+      if (mode !== 'overworld') return;
+      const nx = P.gx + dx, ny = P.gy + dy, t = tileAt(nx, ny);
+      if (t === '#') return;
+      P.gx = nx; P.gy = ny; drawWorld();
+      if (t === 'C') { enterColosseum(); return; }
+      if (t === '~') { P.hp = P.maxhp; $('ow-msg').textContent = 'You rested. HP fully restored.'; return; }
+      if (t === 'g' && Math.random() < 0.32) startBattle(false);
+    }
+
+    // ============ BATTLE ============
+    function makeEnemy(level, boss = false) {
+      const m = MONSTERS[rnd(MONSTERS.length)];
+      const s = boss ? 1.5 : 1;
+      const maxhp = Math.round((18 + level * 9) * s);
+      return { name: (boss ? '★ ' : '') + m.name, emoji: m.emoji, level,
+               maxhp, hp: maxhp, atk: Math.round((7 + level * 3) * s), def: Math.round((2 + level * 1.4) * s), boss };
+    }
+    function startBattle(isColiseum, enemy) {
+      mode = 'battle';
+      B = { enemy: enemy || makeEnemy(clamp(P.level + rnd(3) - 1, 1, 99)), isColiseum, over: false, wave: 1 };
+      $('overworld').classList.add('hidden');
+      $('battle').classList.remove('hidden');
+      $('battle-continue').classList.add('hidden');
+      $('battle-actions').classList.remove('hidden');
+      $('battle-log').innerHTML = '';
+      $('battle-title').textContent = isColiseum ? '🏛️ COLOSSEUM — Wave ' + B.wave : '🌿 Wild encounter';
+      log(`A ${B.enemy.name} (Lv ${B.enemy.level}) appears!`);
+      renderBattle();
+    }
+    function renderBattle() {
+      const e = B.enemy;
+      $('enemy-name').textContent = e.emoji + ' ' + e.name;
+      $('enemy-lv').textContent = 'Lv ' + e.level;
+      $('enemy-sprite').textContent = e.emoji;
+      $('enemy-hp').style.width = clamp((e.hp / e.maxhp) * 100, 0, 100) + '%';
+      $('p-hp').style.width = clamp((P.hp / P.maxhp) * 100, 0, 100) + '%';
+      $('p-hp-txt').textContent = `${Math.max(0, P.hp)}/${P.maxhp}`;
+      $('p-str-badge').textContent = `STR ${P.strength + P.strBonus}` + (P.strBonus ? ` (+${P.strBonus})` : '');
+      // tame button only for tamer + weakened non-boss enemy
+      const canTame = P.tamer && !e.boss && e.hp / e.maxhp <= 0.35;
+      $('act-tame').classList.toggle('hidden', !canTame);
+    }
+    function log(msg, cls = '') {
+      const el = $('battle-log');
+      el.innerHTML += `<div class="${cls}">${msg}</div>`;
+      el.scrollTop = el.scrollHeight;
+    }
+    function flash(text) {
+      const f = $('flash'); f.querySelector('div').textContent = text;
+      f.classList.remove('hidden'); setTimeout(() => f.classList.add('hidden'), 850);
+    }
+
+    function playerAttack(skill) {
+      if (B.over || B.busy) return;
+      B.busy = true;
+      const e = B.enemy;
+      let base = totalAtk() * rng(0.85, 1.15);
+      if (skill) base *= 1.35; // skill = stronger but skips nothing here (simple)
+      let dmg = Math.max(1, Math.round(base) - e.def);
+      const r = Math.random();
+      const defChance = P.defcrit + (skill ? 0.06 : 0);
+      if (r < defChance) {
+        // DEFINITIVE CRITICAL — permanent strength gain (the signature mechanic)
+        dmg = Math.round(dmg * 2.6);
+        const gain = 3 + rnd(3);
+        P.strBonus += gain;
+        flash('¡DEFINITIVE CRITICAL! +' + gain + ' STR');
+        log(`💥 DEFINITIVE CRITICAL! ${dmg} dmg — you grow permanently stronger (+${gain} STR)!`, 'text-amber-300 font-bold');
+      } else if (r < defChance + P.crit) {
+        dmg = Math.round(dmg * 1.7);
+        log(`✨ Critical hit! ${dmg} dmg.`, 'text-cyan-300');
+      } else {
+        log(`You hit the ${e.name} for ${dmg}.`);
+      }
+      e.hp -= dmg; updateHud(); renderBattle();
+      if (e.hp <= 0) return winBattle();
+      setTimeout(enemyTurn, 450);
+    }
+    function enemyTurn() {
+      if (B.over) return;
+      const e = B.enemy;
+      let dmg = Math.max(1, Math.round(e.atk * rng(0.85, 1.15)) - totalDef());
+      if (Math.random() < 0.1) { dmg = Math.round(dmg * 1.5); log(`${e.name} lands a critical for ${dmg}!`, 'text-rose-400'); }
+      else log(`${e.name} hits you for ${dmg}.`);
+      P.hp -= dmg; renderBattle();
+      if (P.hp <= 0) return loseBattle();
+      B.busy = false;
+    }
+    function tame() {
+      if (B.over || B.busy) return;
+      B.busy = true;
+      const e = B.enemy;
+      const chance = clamp((1 - e.hp / e.maxhp) * 0.7 + 0.12, 0, 0.92);
+      if (Math.random() < chance) {
+        P.tamed.push({ name: e.name, emoji: e.emoji, level: e.level });
+        log(`🫱 You TAMED the ${e.name}! It joins you.`, 'text-emerald-400 font-bold');
+        endBattle(true, false);
+      } else {
+        log(`The ${e.name} broke free!`, 'text-rose-400');
+        setTimeout(enemyTurn, 400);
+      }
+    }
+    function winBattle() {
+      const e = B.enemy;
+      const xp = 8 + e.level * 5, dop = Math.round((30 + e.level * 20) * rng(0.8, 1.4));
+      P.xp += xp; P.dop += dop;
+      log(`✅ Defeated ${e.name}! +${xp} XP, +${dop} DOP.`, 'text-emerald-400');
+      // loot
+      if (Math.random() < (e.boss ? 0.9 : 0.55)) {
+        const it = makeItem(e.boss ? 0.5 : 0.15); P.inv.push(it);
+        log(`🎁 Loot: <b style="color:${TIERS[it.tierIndex].color}">${TIERS[it.tierIndex].name} ${it.name}</b> (${it.dop.toLocaleString()} DOP)`);
+        autoEquipIfBetter(it);
+      }
+      levelCheck();
+      updateHud();
+      if (B.isColiseum) return colosseumNext();
+      endBattle(true, false);
+    }
+    function loseBattle() {
+      log('💀 You were defeated…', 'text-rose-400 font-bold');
+      P.hp = 1;
+      endBattle(false, false);
+    }
+    function levelCheck() {
+      let leveled = false;
+      while (P.xp >= P.level * 20) {
+        P.xp -= P.level * 20; P.level++; leveled = true;
+        P.maxhp += 8; P.atk += 3; P.def += 1; P.hp = P.maxhp;
+      }
+      if (leveled) log(`⬆️ Level up! Now Lv ${P.level}. Fully healed.`, 'text-cyan-300 font-bold');
+    }
+    function endBattle(won, keepBattleUI) {
+      B.over = true;
+      $('battle-actions').classList.add('hidden');
+      $('battle-continue').classList.remove('hidden');
+    }
+    function backToWorld() {
+      $('battle').classList.add('hidden');
+      $('overworld').classList.remove('hidden');
+      mode = 'overworld'; drawWorld(); renderBattle();
+    }
+
+    // ============ COLOSSEUM ============
+    function enterColosseum() {
+      P.hp = P.maxhp;
+      $('ow-msg').textContent = 'Entering the Colosseum…';
+      // first opponent is intentionally STRONG — snowball via definitive crits
+      startBattle(true, makeEnemy(P.level + 3, true));
+    }
+    function colosseumNext() {
+      B.wave++;
+      if (B.wave > 5) {
+        log('🏆 You cleared the Colosseum! Champion bonus +2000 DOP.', 'text-amber-300 font-bold');
+        P.dop += 2000; updateHud(); return endBattle(true, false);
+      }
+      log(`— Wave ${B.wave} —`);
+      $('battle-continue').classList.remove('hidden');
+      $('battle-actions').classList.add('hidden');
+      B.pendingWave = true;
+    }
+
+    // ============ ITEMS ============
+    function equipItem(id) {
+      const it = P.inv.find((i) => i.id === id); if (!it) return;
+      P.equip[it.slot] = it; updateHud();
+    }
+    function autoEquipIfBetter(it) {
+      const cur = P.equip[it.slot];
+      if (!cur || (it.atk + it.def) > (cur.atk + cur.def)) equipItem(it.id);
+    }
+    function netWorth() {
+      return P.inv.reduce((s, i) => s + i.dop, 0) + P.dop;
+    }
+    function renderInventory() {
+      $('networth').textContent = netWorth().toLocaleString();
+      const w = P.equip.weapon, a = P.equip.armor;
+      $('equip-line').innerHTML = `Equipped — Weapon: <b class="text-brand-white">${w ? w.name + ' +' + w.atk : '—'}</b> · Armor: <b class="text-brand-white">${a ? a.name + ' +' + a.def : '—'}</b> · ATK ${totalAtk()} / DEF ${totalDef()}`;
+      const list = $('inv-list'); list.innerHTML = '';
+      [...P.inv].sort((x, y) => x.tierIndex - y.tierIndex).forEach((it) => {
+        const t = TIERS[it.tierIndex], eq = P.equip[it.slot]?.id === it.id;
+        const row = document.createElement('div');
+        row.className = 'flex items-center justify-between rounded-lg border border-brand-border px-2 py-1.5 text-xs';
+        row.innerHTML = `<span><b style="color:${t.color}">${t.name}</b> ${it.name} <span class="text-brand-dim">${it.slot === 'weapon' ? 'ATK+' + it.atk : 'DEF+' + it.def}</span></span>
+          <span class="flex items-center gap-2"><span class="text-amber-400">${it.dop.toLocaleString()} DOP</span>
+          <button data-eq="${it.id}" class="px-2 py-0.5 rounded ${eq ? 'bg-emerald-700 text-white' : 'bg-brand-surface text-brand-dim'} font-bold">${eq ? 'Equipped' : 'Equip'}</button></span>`;
+        list.appendChild(row);
+      });
+      $('tamed-line').innerHTML = P.tamed.length
+        ? '🫱 Tamed: ' + P.tamed.map((t) => `${t.emoji} ${t.name}(Lv${t.level})`).join(', ')
+        : (P.tamer ? '🫱 No monsters tamed yet — weaken a wild monster to ≤35% HP, then Tame.' : '');
+      list.querySelectorAll('[data-eq]').forEach((b) => b.onclick = () => { equipItem(b.getAttribute('data-eq')); renderInventory(); });
+    }
+
+    // ============ INPUT ============
+    addEventListener('keydown', (e) => {
+      const k = e.key.toLowerCase();
+      if (mode === 'overworld') {
+        if (k === 'arrowup' || k === 'w') move(0, -1);
+        else if (k === 'arrowdown' || k === 's') move(0, 1);
+        else if (k === 'arrowleft' || k === 'a') move(-1, 0);
+        else if (k === 'arrowright' || k === 'd') move(1, 0);
+        else return;
+        e.preventDefault();
+      }
+    });
+    document.querySelectorAll('.dpad').forEach((b) => {
+      b.className += ' py-3 rounded-xl bg-brand-surface border border-brand-border text-brand-white font-bold text-lg';
+      b.onclick = () => { const d = b.getAttribute('data-dir'); move(d === 'left' ? -1 : d === 'right' ? 1 : 0, d === 'up' ? -1 : d === 'down' ? 1 : 0); };
+    });
+    $('act-attack').onclick = () => playerAttack(false);
+    $('act-skill').onclick = () => playerAttack(true);
+    $('act-tame').onclick = tame;
+    $('act-flee').onclick = () => { if (B.isColiseum) { log('No fleeing the Colosseum!'); return; } if (Math.random() < 0.6) { log('Got away safely.'); backToWorld(); } else { log('Cannot escape!'); setTimeout(enemyTurn, 300); } };
+    $('battle-continue').onclick = () => {
+      if (B.pendingWave) { B.pendingWave = false; B.enemy = makeEnemy(P.level + 2 + B.wave, true); B.over = false; $('battle-title').textContent = '🏛️ COLOSSEUM — Wave ' + B.wave; $('battle-actions').classList.remove('hidden'); $('battle-continue').classList.add('hidden'); renderBattle(); log(`A ${B.enemy.name} enters the arena!`); }
+      else backToWorld();
+    };
+    $('btn-inv').onclick = () => { $('overworld').classList.add('hidden'); $('inventory').classList.remove('hidden'); mode = 'inventory'; renderInventory(); };
+    $('inv-close').onclick = () => { $('inventory').classList.add('hidden'); $('overworld').classList.remove('hidden'); mode = 'overworld'; };
+    $('btn-heal').onclick = () => { P.hp = P.maxhp; $('ow-msg').textContent = 'Rested. HP restored.'; };
+
+    // boot
+    renderClasses();
+  </script>
+</Base>

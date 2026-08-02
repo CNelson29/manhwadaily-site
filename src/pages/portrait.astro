@@ -1,0 +1,178 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { PRICE_DISPLAY, POSTER_CM } from '../lib/painting-config';
+
+// Página SSR (usa las rutas serverless /api/painting/*).
+export const prerender = false;
+
+const PAYPAL_CLIENT_ID = import.meta.env.PUBLIC_PAYPAL_CLIENT_ID || '';
+const posterLabel = `${POSTER_CM.w}x${POSTER_CM.h}cm`;
+---
+<Base
+  title="AI Medieval Portrait Poster — Print-Ready 30x70cm"
+  description="Upload a photo — you, or any anime character — and get a museum-style medieval oil-painting portrait, delivered print-ready at 30x70cm (300dpi) to frame. Free watermarked preview, pay to unlock the HD print file."
+  slug="portrait"
+>
+  <Header />
+  <main class="flex-1">
+    <section class="max-w-2xl mx-auto px-4 sm:px-6 py-8">
+      <div class="text-center mb-6">
+        <h1 class="font-display font-black text-3xl sm:text-4xl text-brand-white mb-2">
+          Medieval Portrait <span class="gradient-text-coral">Poster</span>
+        </h1>
+        <p class="text-brand-dim text-sm sm:text-base">
+          Upload any photo — yourself, or an anime character — and get a regal medieval oil-painting
+          portrait, delivered <strong class="text-brand-white">print-ready at {posterLabel}</strong> to
+          frame. Free preview, unlock the print file for <strong class="text-brand-white">{PRICE_DISPLAY}</strong>.
+        </p>
+      </div>
+
+      <!-- Paso 1: subir foto -->
+      <div id="step-input" class="rounded-2xl border border-brand-border bg-brand-card p-4 sm:p-6">
+        <label class="block">
+          <span class="text-brand-white font-bold text-sm">Your photo</span>
+          <span class="block text-brand-dim text-xs mt-0.5">A selfie, a portrait, or a screenshot of any anime character — anything works.</span>
+          <input id="file" type="file" accept="image/*"
+            class="mt-2 block w-full text-sm text-brand-dim file:mr-3 file:py-2 file:px-4 file:rounded-lg file:border-0 file:bg-brand-coral file:text-white file:font-bold" />
+        </label>
+
+        <button id="generate" disabled
+          class="mt-6 w-full py-3 rounded-xl bg-brand-coral text-white font-bold disabled:opacity-40 disabled:cursor-not-allowed">
+          Generate free preview
+        </button>
+        <p id="input-msg" class="text-center text-brand-dim text-xs h-4 mt-2"></p>
+      </div>
+
+      <!-- Paso 2: resultado -->
+      <div id="step-result" class="hidden mt-4 rounded-2xl border border-brand-border bg-brand-card p-4 sm:p-6">
+        <div id="art-wrap" class="relative select-none rounded-xl overflow-hidden bg-black/40 max-w-xs mx-auto aspect-[3/7]" oncontextmenu="return false">
+          <img id="art" alt="Your medieval portrait poster preview" draggable="false"
+            class="hidden absolute inset-0 w-full h-full object-cover pointer-events-none select-none" style="-webkit-user-drag:none" />
+          <div id="art-loader" class="absolute inset-0 grid place-items-center text-brand-dim text-sm text-center px-4">
+            Painting your poster… this takes ~1-2 min (styling + upscaling to print resolution)
+          </div>
+        </div>
+
+        <div id="pay-box" class="hidden mt-4 text-center">
+          <p class="text-brand-white font-bold">Love it? Unlock the print-ready file</p>
+          <p class="text-brand-dim text-xs mb-3">
+            Price: {PRICE_DISPLAY} · one-time · {posterLabel} @300dpi JPEG · frame it in a medium frame
+          </p>
+          <div id="paypal-container"></div>
+          <p id="pay-msg" class="text-brand-dim text-xs h-4 mt-2"></p>
+        </div>
+
+        <div id="done-box" class="hidden mt-4 text-center">
+          <div class="font-display font-black text-2xl gradient-text-coral mb-2">Unlocked! 🎉</div>
+          <p class="text-brand-dim text-xs mb-3">Ready to print at {posterLabel} (300dpi) — take the file straight to any print shop.</p>
+          <a id="download" class="inline-block py-3 px-6 rounded-xl bg-brand-coral text-white font-bold" download>Download print file</a>
+        </div>
+
+        <button id="restart" class="mt-4 w-full py-2 rounded-xl border border-brand-border text-brand-dim font-bold">
+          Start over
+        </button>
+      </div>
+
+      <p class="text-center text-brand-dim text-[11px] mt-4 leading-relaxed">
+        The preview is watermarked. Screenshots keep the watermark — only paying unlocks the clean,
+        print-ready file. Your photo is used only to generate your poster.
+      </p>
+    </section>
+  </main>
+  <Footer />
+
+  {PAYPAL_CLIENT_ID && (
+    <script is:inline src={`https://www.paypal.com/sdk/js?client-id=${PAYPAL_CLIENT_ID}&currency=USD&intent=capture`}></script>
+  )}
+  <script define:vars={{ hasPaypal: !!PAYPAL_CLIENT_ID }}>
+    window.__PAINT = { hasPaypal };
+  </script>
+
+  <script>
+    const $ = (id) => document.getElementById(id);
+    let imageDataUrl = null;
+    let token = null;
+
+    // Foto → data URL reducido (máx 1024px, jpeg 0.85) para bajar peso y costo
+    $('file').addEventListener('change', (e) => {
+      const f = e.target.files?.[0];
+      if (!f) return;
+      const img = new Image();
+      img.onload = () => {
+        const max = 1024;
+        let { width: w, height: h } = img;
+        if (w > max || h > max) { const s = max / Math.max(w, h); w = Math.round(w * s); h = Math.round(h * s); }
+        const c = document.createElement('canvas');
+        c.width = w; c.height = h;
+        c.getContext('2d').drawImage(img, 0, 0, w, h);
+        imageDataUrl = c.toDataURL('image/jpeg', 0.85);
+        $('input-msg').textContent = 'Photo ready ✓';
+        $('generate').disabled = false;
+      };
+      img.onerror = () => { $('input-msg').textContent = 'Could not read that image.'; };
+      img.src = URL.createObjectURL(f);
+    });
+
+    $('generate').addEventListener('click', async () => {
+      if (!imageDataUrl) return;
+      $('step-input').classList.add('hidden');
+      $('step-result').classList.remove('hidden');
+      $('art-loader').classList.remove('hidden');
+      $('pay-box').classList.add('hidden');
+      try {
+        const r = await fetch('/api/painting/generate', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ imageDataUrl }),
+        });
+        const d = await r.json();
+        if (!r.ok) throw new Error(d.error || 'Generation failed');
+        token = d.token;
+        $('art').onload = () => { $('art-loader').classList.add('hidden'); $('art').classList.remove('hidden'); };
+        $('art').src = d.previewUrl;
+        $('pay-box').classList.remove('hidden');
+        renderPaypal();
+      } catch (err) {
+        $('art-loader').textContent = err.message || 'Something went wrong.';
+      }
+    });
+
+    function renderPaypal() {
+      if (!window.__PAINT.hasPaypal || !window.paypal) {
+        $('pay-msg').textContent = 'Payment is not configured yet.';
+        return;
+      }
+      $('paypal-container').innerHTML = '';
+      window.paypal.Buttons({
+        style: { layout: 'vertical', color: 'gold', shape: 'pill', label: 'pay' },
+        createOrder: async () => {
+          const r = await fetch('/api/painting/create-order', {
+            method: 'POST', headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ token }),
+          });
+          const d = await r.json();
+          if (!r.ok) throw new Error(d.error || 'Could not create order');
+          return d.orderID;
+        },
+        onApprove: async (data) => {
+          $('pay-msg').textContent = 'Confirming payment…';
+          const r = await fetch('/api/painting/capture', {
+            method: 'POST', headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ token, orderID: data.orderID }),
+          });
+          const d = await r.json();
+          if (!r.ok) { $('pay-msg').textContent = d.error || 'Payment could not be verified.'; return; }
+          $('pay-box').classList.add('hidden');
+          if (d.viewUrl) $('art').src = d.viewUrl; // vista limpia sin marca de agua (URL firmada aparte)
+          $('download').href = d.downloadUrl;
+          $('done-box').classList.remove('hidden');
+        },
+        onError: () => { $('pay-msg').textContent = 'Payment error. Try again.'; },
+      }).render('#paypal-container');
+    }
+
+    $('restart').addEventListener('click', () => location.reload());
+  </script>
+</Base>
