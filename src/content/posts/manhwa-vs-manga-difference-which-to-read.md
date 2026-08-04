@@ -47,7 +47,7 @@ Sung Jinwoo is the weakest hunter alive in a world where humans fight monsters i
 
 **Why it's great:** The power fantasy is perfectly calibrated — every level-up feels earned, every shadow soldier has a personality. DUBU's artwork in the Monarch War arc is among the best sequential art ever produced, full stop.
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/action/solo-leveling/list?title_no=1144)  ·  [MangaDex](https://mangadex.org/search?q=solo+leveling)  ·  [Tapas](https://tapas.io/series/solo-leveling/info)🛒 [Buy Solo Leveling on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa+vol+1&tag=manhwadaily-20)📚 [Solo Leveling Light Novel on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel&tag=manhwadaily-20)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Solo%20Leveling)  ·  [MangaDex](https://mangadex.org/search?q=solo+leveling)  ·  [Tapas](https://tapas.io/series/solo-leveling/info)🛒 [Buy Solo Leveling on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa+vol+1&tag=manhwadaily-20)📚 [Solo Leveling Light Novel on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel&tag=manhwadaily-20)
 
 ### 2. Omniscient Reader's Viewpoint
 
@@ -57,7 +57,7 @@ Kim Dokja is the only reader of an obscure web novel called "Three Ways to Survi
 
 **Why it's great:** It's a love letter to storytelling itself. The bond between reader, story, and author is explored with genuine philosophical depth, and the plot twists are catastrophically good. One of the most emotionally devastating manhwa ever written.
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/fantasy/omniscient-reader/list?title_no=2154)  ·  [MangaDex](https://mangadex.org/search?q=omniscient+reader)  ·  [Tapas](https://tapas.io/series/omniscient-readers-viewpoint/info)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Omniscient+Reader+manhwa&tag=manhwadaily-20)📚 [Light Novel on Amazon](https://www.amazon.com/s?k=Omniscient+Reader+light+novel&tag=manhwadaily-20)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient%20Reader)  ·  [MangaDex](https://mangadex.org/search?q=omniscient+reader)  ·  [Tapas](https://tapas.io/series/omniscient-readers-viewpoint/info)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Omniscient+Reader+manhwa&tag=manhwadaily-20)📚 [Light Novel on Amazon](https://www.amazon.com/s?k=Omniscient+Reader+light+novel&tag=manhwadaily-20)
 
 ### 3. Tower of God
 
@@ -67,7 +67,7 @@ Twenty-Fifth Bam has lived his whole life in darkness, his only companion a girl
 
 **Why it's great:** The scope is genuinely epic. When backstory reveals land — and they do, repeatedly — the emotional payoff is enormous. Nothing else in manhwa has this kind of accumulated weight.
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/fantasy/tower-of-god/list?title_no=95)  ·  [MangaDex](https://mangadex.org/search?q=tower+of+god)  ·  [Tapas](https://tapas.io/series/Tower-of-God)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Tower+of+God+manhwa&tag=manhwadaily-20)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Tower%20Of%20God)  ·  [MangaDex](https://mangadex.org/search?q=tower+of+god)  ·  [Tapas](https://tapas.io/series/Tower-of-God)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Tower+of+God+manhwa&tag=manhwadaily-20)
 
 ### 4. The Beginning After the End
 
@@ -77,7 +77,7 @@ King Grey — the most powerful mage-warrior in a world of swords and magic — 
 
 **Why it's great:** The art quality escalates dramatically over time — the gap between chapter 1 and chapter 200 is breathtaking. TurtleMe takes real narrative risks, and the emotional payoffs feel genuinely earned rather than manufactured.
 
-📖 [Read on Tapas](https://tapas.io/series/tbate/info)  ·  [Webtoon](https://www.webtoons.com/en/fantasy/the-beginning-after-the-end/list?title_no=2435)  ·  [MangaDex](https://mangadex.org/search?q=beginning+after+the+end)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Beginning+After+the+End+manhwa&tag=manhwadaily-20)📚 [Web Novel on Amazon](https://www.amazon.com/s?k=Beginning+After+the+End+web+novel&tag=manhwadaily-20)
+📖 [Read on Tapas](https://tapas.io/series/tbate/info)  ·  [Webtoon](https://www.webtoons.com/en/search?keyword=The%20Beginning%20After%20The%20End)  ·  [MangaDex](https://mangadex.org/search?q=beginning+after+the+end)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Beginning+After+the+End+manhwa&tag=manhwadaily-20)📚 [Web Novel on Amazon](https://www.amazon.com/s?k=Beginning+After+the+End+web+novel&tag=manhwadaily-20)
 
 ### 5. Lore Olympus
 
@@ -87,7 +87,7 @@ Rachel Smythe retells the myth of Hades and Persephone as a slow-burn romance be
 
 **Why it's great:** It handles consent, trauma, and healing with uncommon care for the genre. Persephone's arc from sheltered to powerful is one of the most satisfying in all of manhwa, and the fashion panels are legitimately gorgeous.
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/romance/lore-olympus/list?title_no=1320)  ·  [MangaDex](https://mangadex.org/search?q=lore+olympus)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Lore+Olympus+graphic+novel+volume&tag=manhwadaily-20)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Lore%20Olympus)  ·  [MangaDex](https://mangadex.org/search?q=lore+olympus)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Lore+Olympus+graphic+novel+volume&tag=manhwadaily-20)
 
 ### 6. Eleceed
 
@@ -97,7 +97,7 @@ Jiwoo Seo is a kind-hearted teenager with lightning-fast reflexes who rescues in
 
 **Why it's great:** Jiwoo's speed-based combat creates panels that feel genuinely kinetic — you feel the velocity. It's funny, it's hype, and it knows exactly when to escalate from comedy to serious stakes.
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/action/eleceed/list?title_no=1571)  ·  [MangaDex](https://mangadex.org/search?q=eleceed)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Eleceed+manhwa&tag=manhwadaily-20)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Eleceed)  ·  [MangaDex](https://mangadex.org/search?q=eleceed)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Eleceed+manhwa&tag=manhwadaily-20)
 
 ### 7. True Beauty
 
@@ -107,7 +107,7 @@ Jugyeong Lim is relentlessly bullied for her appearance until she masters makeup
 
 **Why it's great:** Yaongyi's fashion illustration is jaw-dropping — every outfit spread is gallery-worthy. Beneath the love triangle is a genuinely thoughtful exploration of beauty standards, identity, and the exhaustion of performing a version of yourself for others.
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/romance/truebeauty/list?title_no=1436)  ·  [MangaDex](https://mangadex.org/search?q=true+beauty+yaongyi)🛒 [Buy on Amazon](https://www.amazon.com/s?k=True+Beauty+manhwa+webtoon&tag=manhwadaily-20)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Truebeauty)  ·  [MangaDex](https://mangadex.org/search?q=true+beauty+yaongyi)🛒 [Buy on Amazon](https://www.amazon.com/s?k=True+Beauty+manhwa+webtoon&tag=manhwadaily-20)
 
 ### 8. UnOrdinary
 
@@ -117,7 +117,7 @@ In a world where almost everyone has superpowers ranked by ability tier, John is
 
 **Why it's great:** It commits fully to its themes. John is not a traditional hero, and the story refuses to let him — or the reader — off the hook for his choices. The moral complexity is rare in action manhwa.
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/action/unordinary/list?title_no=679)  ·  [MangaDex](https://mangadex.org/search?q=unordinary+webtoon)🛒 [Buy on Amazon](https://www.amazon.com/s?k=UnOrdinary+manhwa&tag=manhwadaily-20)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Unordinary)  ·  [MangaDex](https://mangadex.org/search?q=unordinary+webtoon)🛒 [Buy on Amazon](https://www.amazon.com/s?k=UnOrdinary+manhwa&tag=manhwadaily-20)
 
 ### 9. I Love Yoo
 
@@ -127,7 +127,7 @@ Shin-Ae Yoo wants absolutely nothing to do with rich people — until a humiliat
 
 **Why it's great:** This is romance done properly — no manufactured drama, no cardboard love interests. Every character's behavior is grounded in a backstory you eventually understand. The main character is genuinely, consistently funny without being a trope.
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/romance/i-love-yoo/list?title_no=986)  ·  [MangaDex](https://mangadex.org/search?q=i+love+yoo)🛒 [Buy on Amazon](https://www.amazon.com/s?k=I+Love+Yoo+manhwa+webtoon&tag=manhwadaily-20)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=I%20Love%20Yoo)  ·  [MangaDex](https://mangadex.org/search?q=i+love+yoo)🛒 [Buy on Amazon](https://www.amazon.com/s?k=I+Love+Yoo+manhwa+webtoon&tag=manhwadaily-20)
 
 ### 10. Noblesse
 
@@ -137,7 +137,7 @@ Cadis Etrama Di Raizel — Rai — is an immensely powerful noble vampire who aw
 
 **Why it's great:** The relationship between the ancient, dignified Rai and his fiercely loyal servant Frankenstein is endlessly entertaining across 500+ chapters. The power scaling is preposterous in the best possible way, and the friendship themes hit harder than they have any right to.
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/fantasy/noblesse/list?title_no=87)  ·  [MangaDex](https://mangadex.org/search?q=noblesse+manhwa)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Noblesse+manhwa+omnibus&tag=manhwadaily-20)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Noblesse)  ·  [MangaDex](https://mangadex.org/search?q=noblesse+manhwa)🛒 [Buy on Amazon](https://www.amazon.com/s?k=Noblesse+manhwa+omnibus&tag=manhwadaily-20)
 
 ## Final Verdict: Manhwa vs Manga
 

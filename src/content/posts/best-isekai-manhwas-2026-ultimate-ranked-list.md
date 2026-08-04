@@ -18,7 +18,7 @@ draft: false
 An office worker is the sole reader who finished a long-running web novel — and then wakes up inside it, as the world he read about becomes reality. Because he alone knows how the story is "supposed" to go, his foreknowledge is both his greatest weapon and a constant liability as the plot refuses to stay on script. The adaptation is one of the best-drawn action manhwas around, and its emotional core — what we owe the stories that shaped us — hits harder than the genre usually attempts.
 
 **Why it's great:** The strongest "trapped in a novel" premise in the medium, with set-pieces that pay off dozens of chapters of buildup.
-- 📖 [Read on Webtoon](https://www.webtoons.com/en/fantasy/omniscient-reader/list?title_no=2154)- 📖 [Read on MangaDex](https://mangadex.org/search?q=omniscient+reader%27s+viewpoint)- 🛒 [Buy on Amazon](https://www.amazon.com/s?k=Omniscient+Reader+Viewpoint+manhwa&tag=manhwadaily-20)
+- 📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient%20Reader)- 📖 [Read on MangaDex](https://mangadex.org/search?q=omniscient+reader%27s+viewpoint)- 🛒 [Buy on Amazon](https://www.amazon.com/s?k=Omniscient+Reader+Viewpoint+manhwa&tag=manhwadaily-20)
 
 ## 2. The Beginning After the End
 

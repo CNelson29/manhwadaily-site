@@ -23,7 +23,7 @@ Rowena is reincarnated as the neglectful, abusive stepmother of Einspanner — t
 
 **Rating: 8.5/10 ⭐**
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/romance/i-became-the-villains-mother/list?title_no=3136) | [MangaDex](https://mangadex.org/search?q=i+became+the+villains+mother) | [Tapas](https://tapas.io/search?q=villains+mother)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=I%20Became%20The%20Villains%20Mother) | [MangaDex](https://mangadex.org/search?q=i+became+the+villains+mother) | [Tapas](https://tapas.io/search?q=villains+mother)
 
 [🛒 Buy on Amazon](https://www.amazon.com/s?k=i+became+the+villains+mother+manhwa&tag=manhwadaily-20)
 
@@ -35,7 +35,7 @@ A sharp-tongued modern college student wakes up inside the body of Melissa Fodde
 
 **Rating: 8.7/10 ⭐**
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/romance/beware-the-villainess/list?title_no=1852) | [MangaDex](https://mangadex.org/search?q=beware+the+villainess) | [Tapas](https://tapas.io/search?q=beware+the+villainess)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Beware%20The%20Villainess) | [MangaDex](https://mangadex.org/search?q=beware+the+villainess) | [Tapas](https://tapas.io/search?q=beware+the+villainess)
 
 [🛒 Buy on Amazon](https://www.amazon.com/s?k=beware+the+villainess+manhwa&tag=manhwadaily-20)
 
@@ -47,7 +47,7 @@ Cayena Blanc has spent her entire life being expertly puppeted by her scheming, 
 
 **Rating: 8.8/10 ⭐**
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/romance/the-villainess-is-a-marionette/list?title_no=2860) | [MangaDex](https://mangadex.org/search?q=villainess+is+a+marionette) | [Tapas](https://tapas.io/search?q=villainess+marionette)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=The%20Villainess%20Is%20A%20Marionette) | [MangaDex](https://mangadex.org/search?q=villainess+is+a+marionette) | [Tapas](https://tapas.io/search?q=villainess+marionette)
 
 [🛒 Buy on Amazon](https://www.amazon.com/s?k=villainess+is+a+marionette+manhwa&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ Firentia Lobelia watched her entire family destroyed — betrayed, impoverished,
 
 **Rating: 9.0/10 ⭐**
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/romance/ill-be-the-matriarch-in-this-life/list?title_no=3673) | [MangaDex](https://mangadex.org/search?q=ill+be+the+matriarch+in+this+life) | [Tapas](https://tapas.io/search?q=matriarch+in+this+life)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Ill%20Be%20The%20Matriarch%20In%20This%20Life) | [MangaDex](https://mangadex.org/search?q=ill+be+the+matriarch+in+this+life) | [Tapas](https://tapas.io/search?q=matriarch+in+this+life)
 
 [🛒 Buy on Amazon](https://www.amazon.com/s?k=ill+be+the+matriarch+in+this+life+manhwa&tag=manhwadaily-20)
 
@@ -83,7 +83,7 @@ Aristia la Monique was chosen by prophecy, trained from childhood, and accepted 
 
 **Rating: 9.1/10 ⭐**
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/romance/the-abandoned-empress/list?title_no=1281) | [MangaDex](https://mangadex.org/search?q=the+abandoned+empress) | [Tapas](https://tapas.io/search?q=abandoned+empress)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=The%20Abandoned%20Empress) | [MangaDex](https://mangadex.org/search?q=the+abandoned+empress) | [Tapas](https://tapas.io/search?q=abandoned+empress)
 
 [🛒 Buy on Amazon](https://www.amazon.com/s?k=abandoned+empress+manhwa&tag=manhwadaily-20)
 
@@ -95,7 +95,7 @@ A modern gamer gets pulled from her screen directly into the body of Penelope Ec
 
 **Rating: 9.2/10 ⭐**
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/drama/villains-are-destined-to-die/list?title_no=2954) | [MangaDex](https://mangadex.org/search?q=villains+are+destined+to+die) | [Tapas](https://tapas.io/search?q=villains+destined+die)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Villains%20Are%20Destined%20To%20Die) | [MangaDex](https://mangadex.org/search?q=villains+are+destined+to+die) | [Tapas](https://tapas.io/search?q=villains+destined+die)
 
 [🛒 Buy on Amazon](https://www.amazon.com/s?k=villains+are+destined+to+die+manhwa&tag=manhwadaily-20)
 
@@ -107,7 +107,7 @@ A woman wakes up inside a tragic novel she barely remembers reading, reincarnate
 
 **Rating: 9.4/10 ⭐**
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/fantasy/who-made-me-a-princess/list?title_no=1342) | [MangaDex](https://mangadex.org/search?q=who+made+me+a+princess) | [Tapas](https://tapas.io/search?q=who+made+me+a+princess)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Who%20Made%20Me%20A%20Princess) | [MangaDex](https://mangadex.org/search?q=who+made+me+a+princess) | [Tapas](https://tapas.io/search?q=who+made+me+a+princess)
 
 [🛒 Buy on Amazon](https://www.amazon.com/s?k=who+made+me+a+princess+manhwa&tag=manhwadaily-20)
 
@@ -131,7 +131,7 @@ Aria was a commoner who clawed her way to noble status, only to be framed, publi
 
 **Rating: 9.6/10 ⭐**
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/fantasy/the-villainess-turns-the-hourglass/list?title_no=2579) | [MangaDex](https://mangadex.org/search?q=villainess+turns+the+hourglass) | [Tapas](https://tapas.io/search?q=villainess+turns+hourglass)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=The%20Villainess%20Turns%20The%20Hourglass) | [MangaDex](https://mangadex.org/search?q=villainess+turns+the+hourglass) | [Tapas](https://tapas.io/search?q=villainess+turns+hourglass)
 
 [🛒 Buy on Amazon](https://www.amazon.com/s?k=villainess+turns+the+hourglass+manhwa&tag=manhwadaily-20)
 

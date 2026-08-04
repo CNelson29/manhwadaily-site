@@ -25,7 +25,7 @@ The undisputed king of dungeon manhwas. Sung Jin-Woo starts as the world's weake
 
 ⭐ **Rating: 9.8/10**
 
-📖 **Read it:** [Webtoon (Official)](https://www.webtoons.com/en/action/solo-leveling/list?title_no=3271) | [MangaDex](https://mangadex.org/search?q=Solo+Leveling)
+📖 **Read it:** [Webtoon (Official)](https://www.webtoons.com/en/search?keyword=Solo%20Leveling) | [MangaDex](https://mangadex.org/search?q=Solo+Leveling)
 
 🛒 [Buy Volumes on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa+volumes&tag=manhwadaily-20) | 📚 [Light Novel on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel&tag=manhwadaily-20)
 
@@ -37,7 +37,7 @@ King Grey reincarnates into a magic-filled world with all his battle memories in
 
 ⭐ **Rating: 9.3/10**
 
-📖 **Read it:** [Webtoon (Official)](https://www.webtoons.com/en/fantasy/the-beginning-after-the-end/list?title_no=827) | [Tapas](https://tapas.io/series/the-beginning-after-the-end)
+📖 **Read it:** [Webtoon (Official)](https://www.webtoons.com/en/search?keyword=The%20Beginning%20After%20The%20End) | [Tapas](https://tapas.io/series/the-beginning-after-the-end)
 
 🛒 [Buy on Amazon](https://www.amazon.com/s?k=The+Beginning+After+the+End+manhwa&tag=manhwadaily-20)
 
@@ -73,7 +73,7 @@ Kim Gong-Ja has the most useless ability in the tower—he copies the skill of w
 
 ⭐ **Rating: 8.9/10**
 
-📖 **Read it:** [Webtoon](https://www.webtoons.com/en/fantasy/sss-class-suicide-hunter/list?title_no=3742) | [MangaDex](https://mangadex.org/search?q=SSS+Class+Suicide+Hunter)
+📖 **Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Sss%20Class%20Suicide%20Hunter) | [MangaDex](https://mangadex.org/search?q=SSS+Class+Suicide+Hunter)
 
 🛒 [Buy on Amazon](https://www.amazon.com/s?k=SSS+Class+Suicide+Hunter+manhwa&tag=manhwadaily-20) | 📚 [Light Novel](https://www.amazon.com/s?k=SSS+Class+Suicide+Hunter+novel&tag=manhwadaily-20)
 
@@ -85,7 +85,7 @@ Lee Sung-Hoon works as monster bait for awakened hunters to pay for his sick mot
 
 ⭐ **Rating: 8.7/10**
 
-📖 **Read it:** [Webtoon (Official)](https://www.webtoons.com/en/fantasy/i-am-the-sorcerer-king/list?title_no=1649) | [MangaDex](https://mangadex.org/search?q=I+Am+the+Sorcerer+King)
+📖 **Read it:** [Webtoon (Official)](https://www.webtoons.com/en/search?keyword=I%20Am%20The%20Sorcerer%20King) | [MangaDex](https://mangadex.org/search?q=I+Am+the+Sorcerer+King)
 
 🛒 [Buy on Amazon](https://www.amazon.com/s?k=I+Am+the+Sorcerer+King+manhwa&tag=manhwadaily-20)
 

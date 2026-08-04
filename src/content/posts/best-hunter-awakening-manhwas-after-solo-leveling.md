@@ -23,7 +23,7 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 9.2/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/the-beginning-after-the-end) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/The-Beginning-After-the-End)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=The%20Beginning%20After%20The%20End) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/The-Beginning-After-the-End)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=The+Beginning+After+the+End+manhwa&tag=manhwadaily-20) | [📚 Light Novel](https://amazon.com/s?k=The+Beginning+After+the+End+light+novel&tag=manhwadaily-20)
 
@@ -35,7 +35,7 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 9.4/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/omniscient-readers-viewpoint) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/Omniscient-Reader)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient%20Readers%20Viewpoint) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/Omniscient-Reader)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=Omniscient+Readers+Viewpoint+manhwa&tag=manhwadaily-20) | [📚 Light Novel](https://amazon.com/s?k=Omniscient+Readers+Viewpoint+novel&tag=manhwadaily-20)
 
@@ -47,7 +47,7 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 8.9/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/dungeon-defense) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/Dungeon-Defense)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=Dungeon%20Defense) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/Dungeon-Defense)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=Dungeon+Defense+manhwa&tag=manhwadaily-20) | [📚 Light Novel](https://amazon.com/s?k=Dungeon+Defense+light+novel&tag=manhwadaily-20)
 
@@ -59,7 +59,7 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 8.8/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/ranker-who-lives-a-second-time) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/Ranker)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=Ranker%20Who%20Lives%20A%20Second%20Time) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/Ranker)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=Ranker+Who+Lives+Second+Time+manhwa&tag=manhwadaily-20) | [📚 Light Novel](https://amazon.com/s?k=Ranker+Who+Lives+Second+Time+light+novel&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 8.7/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/nano-machine) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/NanoMachine)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=Nano%20Machine) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/NanoMachine)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=Nano+Machine+manhwa&tag=manhwadaily-20) | [📚 Light Novel](https://amazon.com/s?k=Nano+Machine+light+novel&tag=manhwadaily-20)
 
@@ -83,7 +83,7 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 8.6/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/reformation-of-the-deadbeat-noble) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/ReformationDeadbeat)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=Reformation%20Of%20The%20Deadbeat%20Noble) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/ReformationDeadbeat)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=Reformation+Deadbeat+Noble+manhwa&tag=manhwadaily-20) | [📚 Light Novel](https://amazon.com/s?k=Reformation+Deadbeat+Noble+light+novel&tag=manhwadaily-20)
 
@@ -95,7 +95,7 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 8.4/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/leveling-up-by-only-eating) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/LevelingFood)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=Leveling%20Up%20By%20Only%20Eating) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/LevelingFood)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=Leveling+Up+Only+Eating+manhwa&tag=manhwadaily-20)
 
@@ -107,7 +107,7 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 8.3/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/priceless-babys-super-daddy) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/PricelessBaby)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=Priceless%20Babys%20Super%20Daddy) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/PricelessBaby)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=Priceless+Babys+Super+Daddy+manhwa&tag=manhwadaily-20)
 
@@ -119,7 +119,7 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 8.5/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/eleceed) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/Eleceed)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=Eleceed) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/Eleceed)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=Eleceed+manhwa&tag=manhwadaily-20) | [📚 Light Novel](https://amazon.com/s?k=Eleceed+light+novel&tag=manhwadaily-20)
 
@@ -131,7 +131,7 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 8.2/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/sss-class-suicide-hunter) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/SSSClassSuicide)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=Sss%20Class%20Suicide%20Hunter) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/SSSClassSuicide)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=SSS+Class+Suicide+Hunter+manhwa&tag=manhwadaily-20) | [📚 Light Novel](https://amazon.com/s?k=SSS+Class+Suicide+Hunter+light+novel&tag=manhwadaily-20)
 
@@ -143,7 +143,7 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 8.7/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/sung-jinwoo-the-gray) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/SungJinwoo)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=Sung%20Jinwoo%20The%20Gray) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/SungJinwoo)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=Sung+Jinwoo+The+Gray+manhwa&tag=manhwadaily-20)
 
@@ -155,6 +155,6 @@ After devouring Solo Leveling, fans crave more intense hunter narratives with br
 
 **Rating:** 8.3/10
 
-**Read:** [Webtoon](https://www.webtoons.com/en/action/i-am-the-fated-villain) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/IAmFatedVillain)
+**Read:** [Webtoon](https://www.webtoons.com/en/search?keyword=I%20Am%20The%20Fated%20Villain) | [MangaDex](https://mangadex.org/title/) | [Tapas](https://www.tapas.io/series/IAmFatedVillain)
 
 **Amazon:** [Buy on Amazon](https://amazon.com/s?k=I+am+the+Fated+Villain+manhwa&tag=manhwadaily-20) | [📚 Light Novel](https://amazon.com/s?k=I+am+the+Fated+Villain+light+novel&tag=manhwadaily-20)

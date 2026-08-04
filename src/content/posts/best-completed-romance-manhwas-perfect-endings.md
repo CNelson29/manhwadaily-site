@@ -51,7 +51,7 @@ Lim Jugyeong discovers the transformative power of makeup after years of bullyin
 
 **Why it's great:** Millions of readers followed True Beauty for years, and creator Yaongyi delivered a conclusion that felt genuinely earned. The themes of self-acceptance land with real emotional weight, and the romantic resolution is deeply, warmly satisfying — a long-running manhwa that truly stuck the landing.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/romance/true-beauty/list?title_no=1436) · [MangaDex](https://mangadex.org/search?q=True+Beauty+yaongyi) · [Tapas](https://tapas.io/search?q=true+beauty+webtoon)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=True%20Beauty) · [MangaDex](https://mangadex.org/search?q=True+Beauty+yaongyi) · [Tapas](https://tapas.io/search?q=true+beauty+webtoon)
 
 [Manhwa Volumes on Amazon](https://www.amazon.com/s?k=True+Beauty+manhwa+volume&tag=manhwadaily-20)
 
@@ -91,7 +91,7 @@ College student Hong Seol can't quite figure out senior Yoo Jung — he's perfec
 
 **Why it's great:** Creator Soonkki built a romance that respects reader intelligence above all else. The ending is polarizing precisely because it's thematically honest rather than conventionally satisfying — and that artistic courage makes it unforgettable. Yoo Jung remains one of manhwa's most fascinating and disturbing male leads.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/drama/cheese-in-the-trap/list?title_no=99) · [MangaDex](https://mangadex.org/search?q=Cheese+in+the+Trap) · [Tapas](https://tapas.io/search?q=cheese+in+the+trap)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Cheese%20In%20The%20Trap) · [MangaDex](https://mangadex.org/search?q=Cheese+in+the+Trap) · [Tapas](https://tapas.io/search?q=cheese+in+the+trap)
 
 [Manhwa Volumes on Amazon](https://www.amazon.com/s?k=Cheese+in+the+Trap+manhwa+volume&tag=manhwadaily-20)
 
@@ -111,7 +111,7 @@ Baek Ma-ri is a vampire in modern Seoul trying desperately to pass as human — 
 
 **Why it's great:** Orange Marmalade takes its vampire romance seriously in exactly the right ways. The mid-series historical timeline arc adds emotional depth that elevates it far beyond typical supernatural fare, and the final resolution is achingly poignant and completely earned. A cornerstone of completed manhwa that every romance fan owes themselves.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/romance/orange-marmalade/list?title_no=97) · [MangaDex](https://mangadex.org/search?q=Orange+Marmalade) · [Tapas](https://tapas.io/search?q=orange+marmalade)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Orange%20Marmalade) · [MangaDex](https://mangadex.org/search?q=Orange+Marmalade) · [Tapas](https://tapas.io/search?q=orange+marmalade)
 
 [Manhwa Volumes on Amazon](https://www.amazon.com/s?k=Orange+Marmalade+manhwa+volume&tag=manhwadaily-20)
 

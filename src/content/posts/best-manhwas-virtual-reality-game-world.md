@@ -36,7 +36,7 @@ Han Jee-Han wakes up one day to discover his entire reality now runs on RPG mech
 
 **Why It's Great:** The "Gamer" power concept is endlessly creative and the optimization mindset resonates with anyone who's ever min-maxed a character build. A long-running, consistently rewarding classic that keeps finding new ways to surprise you.
 
-- 📖 [Read on Webtoon](https://www.webtoons.com/en/action/the-gamer/list?title_no=88)
+- 📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=The%20Gamer)
 - 📱 [Read on MangaDex](https://mangadex.org/search?q=the+gamer)
 - 🛒 [Buy Manhwa on Amazon](https://www.amazon.com/s?k=The+Gamer+manhwa&tag=manhwadaily-20)
 

@@ -31,7 +31,7 @@ Empress Navier Ellie Trovi is the perfect ruler: brilliant, composed, and comple
 
 **Why it rules:** Navier isn't overpowered by magic — she's overpowered by sheer competence and emotional intelligence. The satisfaction of watching her refuse to be a victim is genuinely unmatched.
 
-📖 [Webtoon](https://www.webtoons.com/en/romance/the-remarried-empress/list?title_no=2135) | [MangaDex](https://mangadex.org/search?q=The+Remarried+Empress) | [Tapas](https://tapas.io/search?t=COMICS&q=remarried+empress)🛒 [Buy Volumes on Amazon](https://www.amazon.com/s?k=remarried+empress+manhwa&tag=manhwadaily-20)
+📖 [Webtoon](https://www.webtoons.com/en/search?keyword=The%20Remarried%20Empress) | [MangaDex](https://mangadex.org/search?q=The+Remarried+Empress) | [Tapas](https://tapas.io/search?t=COMICS&q=remarried+empress)🛒 [Buy Volumes on Amazon](https://www.amazon.com/s?k=remarried+empress+manhwa&tag=manhwadaily-20)
 
 ### #3 — Charlotte Has Five Disciples ⭐ 8.9/10
 
@@ -63,7 +63,7 @@ Princess Elise lived and died twice — first as a cruel, shallow royal, then as
 
 **Why it rules:** Healing as an overpowered skill is rare and refreshing in this genre. Elise is one of the most genuinely admirable OP female leads because her second chance is about becoming worthy, not just dominant.
 
-📖 [Webtoon](https://www.webtoons.com/en/romance/doctor-elise-the-royal-lady-with-the-lamp/list?title_no=1784) | [MangaDex](https://mangadex.org/search?q=Doctor+Elise+Royal+Lady) | [Tapas](https://tapas.io/search?t=COMICS&q=doctor+elise)🛒 [Buy on Amazon](https://www.amazon.com/s?k=doctor+elise+manhwa&tag=manhwadaily-20) | 📚 [Light Novel](https://www.amazon.com/s?k=doctor+elise+light+novel&tag=manhwadaily-20)
+📖 [Webtoon](https://www.webtoons.com/en/search?keyword=Doctor%20Elise%20The%20Royal%20Lady%20With%20The%20Lamp) | [MangaDex](https://mangadex.org/search?q=Doctor+Elise+Royal+Lady) | [Tapas](https://tapas.io/search?t=COMICS&q=doctor+elise)🛒 [Buy on Amazon](https://www.amazon.com/s?k=doctor+elise+manhwa&tag=manhwadaily-20) | 📚 [Light Novel](https://www.amazon.com/s?k=doctor+elise+light+novel&tag=manhwadaily-20)
 
 ### #7 — The Villainess Lives Again ⭐ 8.7/10
 
@@ -79,7 +79,7 @@ Aristia ta Monique trained her whole life to be the emperor's destined empress �
 
 **Why it rules:** The arc of reclaiming your own worth — not just power — sets this apart from the pack. Aristia's growth is emotionally genuine and her eventual combat ability is legitimately impressive.
 
-📖 [Webtoon](https://www.webtoons.com/en/romance/the-abandoned-empress/list?title_no=1462) | [MangaDex](https://mangadex.org/search?q=The+Abandoned+Empress) | [Tapas](https://tapas.io/search?t=COMICS&q=abandoned+empress)🛒 [Buy on Amazon](https://www.amazon.com/s?k=abandoned+empress+manhwa&tag=manhwadaily-20) | 📚 [Light Novel](https://www.amazon.com/s?k=abandoned+empress+light+novel&tag=manhwadaily-20)
+📖 [Webtoon](https://www.webtoons.com/en/search?keyword=The%20Abandoned%20Empress) | [MangaDex](https://mangadex.org/search?q=The+Abandoned+Empress) | [Tapas](https://tapas.io/search?t=COMICS&q=abandoned+empress)🛒 [Buy on Amazon](https://www.amazon.com/s?k=abandoned+empress+manhwa&tag=manhwadaily-20) | 📚 [Light Novel](https://www.amazon.com/s?k=abandoned+empress+light+novel&tag=manhwadaily-20)
 
 ### #9 — Lady Baby ⭐ 8.5/10
 

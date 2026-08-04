@@ -23,7 +23,7 @@ Sung Jinwoo, the weakest hunter in a world of supernatural monsters, discovers a
 
 **Rating:** 9.8/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/action/solo-leveling/list?title_no=2192) | [MangaDex](https://mangadex.org/title/32d01737-96d8-4eae-ba83-e5f65b0d7ce5) | [Tapas](https://www.tapas.io/series/solo-leveling)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=Solo%20Leveling) | [MangaDex](https://mangadex.org/title/32d01737-96d8-4eae-ba83-e5f65b0d7ce5) | [Tapas](https://www.tapas.io/series/solo-leveling)
 
 **Light Novel:** [📚 Amazon - Solo Leveling LN](https://www.amazon.com/Solo-Leveling-Vol-1-Chugong/dp/B08L2TKGKF?tag=manhwadaily-20)
 
@@ -37,7 +37,7 @@ Dokja, an ordinary office worker obsessed with a web novel, suddenly finds himse
 
 **Rating:** 9.6/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/action/omniscient-readers-viewpoint/list?title_no=2154) | [MangaDex](https://mangadex.org/title/8c69a82d-b63d-4c0f-8c3f-9b3e7f96b89f) | [Tapas](https://www.tapas.io/series/omniscient-readers-viewpoint)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient%20Readers%20Viewpoint) | [MangaDex](https://mangadex.org/title/8c69a82d-b63d-4c0f-8c3f-9b3e7f96b89f) | [Tapas](https://www.tapas.io/series/omniscient-readers-viewpoint)
 
 **Light Novel:** [📚 Amazon - ORV LN](https://www.amazon.com/Omniscient-Readers-Viewpoint-Vol-1/dp/B08NKTJFMK?tag=manhwadaily-20)
 
@@ -51,7 +51,7 @@ King Arthur Leywin, a noble warrior who loses everything, is mysteriously reinca
 
 **Rating:** 9.4/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/action/the-beginning-after-the-end/list?title_no=2537) | [MangaDex](https://mangadex.org/title/87f0d06a-2f9a-45e5-bcda-b0c7b9b01f67) | [Tapas](https://www.tapas.io/series/the-beginning-after-the-end)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=The%20Beginning%20After%20The%20End) | [MangaDex](https://mangadex.org/title/87f0d06a-2f9a-45e5-bcda-b0c7b9b01f67) | [Tapas](https://www.tapas.io/series/the-beginning-after-the-end)
 
 **Light Novel:** [📚 Amazon - TBATE LN](https://www.amazon.com/Beginning-After-End-Vol-1/dp/B08D4Y4JVT?tag=manhwadaily-20)
 
@@ -65,7 +65,7 @@ Jiwoo, an ordinary high school student with a hidden ability to control electric
 
 **Rating:** 9.2/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/action/eleceed/list?title_no=1947) | [MangaDex](https://mangadex.org/title/7989eee6-6b8d-4c74-aadf-b65be4f08c8d) | [Tapas](https://www.tapas.io/series/eleceed)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=Eleceed) | [MangaDex](https://mangadex.org/title/7989eee6-6b8d-4c74-aadf-b65be4f08c8d) | [Tapas](https://www.tapas.io/series/eleceed)
 
 **Official:** [Amazon Paperback](https://www.amazon.com/Eleceed-Vol-1-Jungsan-Moon/dp/B09XLSFBKX?tag=manhwadaily-20)
 
@@ -77,7 +77,7 @@ Park Hyung Suk, an extremely ugly student constantly bullied and degraded, myste
 
 **Rating:** 9.1/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/drama/lookism/list?title_no=1049) | [MangaDex](https://mangadex.org/title/be4d6db8-2d71-4a8a-a74a-0c17ec85c36c) | [Tapas](https://www.tapas.io/series/lookism)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=Lookism) | [MangaDex](https://mangadex.org/title/be4d6db8-2d71-4a8a-a74a-0c17ec85c36c) | [Tapas](https://www.tapas.io/series/lookism)
 
 **Official:** [Amazon Paperback](https://www.amazon.com/Lookism-Vol-1-Park-Tae-joon/dp/B0B8XSHBQG?tag=manhwadaily-20)
 
@@ -89,7 +89,7 @@ Jihan, an ordinary student, discovers he can perceive the real world as a video 
 
 **Rating:** 8.9/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/fantasy/the-gamer/list?title_no=356) | [MangaDex](https://mangadex.org/title/e95a4f1f-aa58-45ab-86b1-a2b3bbbfef9e) | [Tapas](https://www.tapas.io/series/the-gamer)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=The%20Gamer) | [MangaDex](https://mangadex.org/title/e95a4f1f-aa58-45ab-86b1-a2b3bbbfef9e) | [Tapas](https://www.tapas.io/series/the-gamer)
 
 **Official:** [Amazon Paperback](https://www.amazon.com/Gamer-Vol-1-Sang-ah/dp/B07SJSQQK1?tag=manhwadaily-20)
 
@@ -101,7 +101,7 @@ Gray, a small and fragile high school student, gets beaten down by everyone at s
 
 **Rating:** 8.8/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/action/weak-hero/list?title_no=1694) | [MangaDex](https://mangadex.org/title/62d72dfc-1d52-4f1e-a37e-c78c969e5fa2) | [Tapas](https://www.tapas.io/series/weak-hero)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=Weak%20Hero) | [MangaDex](https://mangadex.org/title/62d72dfc-1d52-4f1e-a37e-c78c969e5fa2) | [Tapas](https://www.tapas.io/series/weak-hero)
 
 **Official:** [Amazon Paperback](https://www.amazon.com/Weak-Hero-Vol-1/dp/B0BPLSJH85?tag=manhwadaily-20)
 
@@ -113,7 +113,7 @@ Cheon Myeong, a servant of a powerful clan, is betrayed and executed. He's reinc
 
 **Rating:** 8.7/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/action/nano-machine/list?title_no=2870) | [MangaDex](https://mangadex.org/title/a1ef7574-c3b4-4c94-8c47-b93b6eda0302) | [Tapas](https://www.tapas.io/series/nano-machine)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=Nano%20Machine) | [MangaDex](https://mangadex.org/title/a1ef7574-c3b4-4c94-8c47-b93b6eda0302) | [Tapas](https://www.tapas.io/series/nano-machine)
 
 **Light Novel:** [📚 Amazon - Nano Machine LN](https://www.amazon.com/Nano-Machine-Vol-1-Han/dp/B0BVSX38PG?tag=manhwadaily-20)
 
@@ -125,7 +125,7 @@ Woo Hyuk, a hunter trapped in an infinite dungeon loop, regains his memories fro
 
 **Rating:** 8.6/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/action/memorize/list?title_no=1976) | [MangaDex](https://mangadex.org/title/be36b89d-6c6b-4a8e-87ad-c8f1bf5cdba0) | [Tapas](https://www.tapas.io/series/memorize)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=Memorize) | [MangaDex](https://mangadex.org/title/be36b89d-6c6b-4a8e-87ad-c8f1bf5cdba0) | [Tapas](https://www.tapas.io/series/memorize)
 
 ### 10. Reformation of the Deadbeat Noble
 
@@ -135,7 +135,7 @@ Jeronimo, a lazy and incompetent noble, gains memories of his future death and b
 
 **Rating:** 8.5/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/fantasy/reformation-of-the-deadbeat-noble/list?title_no=1575) | [MangaDex](https://mangadex.org/title/e8f93fae-33e6-44c2-a6aa-47b16f6b0a35) | [Tapas](https://www.tapas.io/series/reformation-of-the-deadbeat-noble)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=Reformation%20Of%20The%20Deadbeat%20Noble) | [MangaDex](https://mangadex.org/title/e8f93fae-33e6-44c2-a6aa-47b16f6b0a35) | [Tapas](https://www.tapas.io/series/reformation-of-the-deadbeat-noble)
 
 ### 11. SSS-Class Suicide Hunter
 
@@ -145,7 +145,7 @@ Kim Gongja, a man trapped in an infinite time loop of gruesome deaths, discovers
 
 **Rating:** 8.4/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/action/sss-class-suicide-hunter/list?title_no=2174) | [MangaDex](https://mangadex.org/title/a8ca84a4-0eb9-4d1c-9ba6-0dc25bf8f6ba) | [Tapas](https://www.tapas.io/series/sss-class-suicide-hunter)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=Sss%20Class%20Suicide%20Hunter) | [MangaDex](https://mangadex.org/title/a8ca84a4-0eb9-4d1c-9ba6-0dc25bf8f6ba) | [Tapas](https://www.tapas.io/series/sss-class-suicide-hunter)
 
 **Light Novel:** [📚 Amazon - SSS-Class SH LN](https://www.amazon.com/Suicide-Hunter-Kim-Gongja-Novel/dp/B0BXGMQVPB?tag=manhwadaily-20)
 
@@ -157,4 +157,4 @@ Jinwoo, a low-rank hunter, discovers he can log into an ancient murim world fill
 
 **Rating:** 8.3/10
 
-**Read Online:**[Webtoon](https://www.webtoons.com/en/action/murim-login/list?title_no=2880) | [MangaDex](https://mangadex.org/title/e51fcfc0-4d16-42ce-8355-e13e42c0f91a) | [Tapas](https://www.tapas.io/series/murim-login)
+**Read Online:**[Webtoon](https://www.webtoons.com/en/search?keyword=Murim%20Login) | [MangaDex](https://mangadex.org/title/e51fcfc0-4d16-42ce-8355-e13e42c0f91a) | [Tapas](https://www.tapas.io/series/murim-login)
