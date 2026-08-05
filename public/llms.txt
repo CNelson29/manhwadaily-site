@@ -1,0 +1,26 @@
+# ManhwaDaily
+
+> Manhwa recommendation lists and rankings — "best of" roundups by genre and trope (isekai,
+> regression, cultivation, villainess romance, weak-to-strong power fantasy, and more), with
+> working links to where each series can actually be read.
+
+## What this site covers
+
+- Ranked "best manhwa" lists by genre: Action, Fantasy, Isekai, Romance, Completed series.
+- Genre/trope-specific guides (e.g. manhwa like Eleceed, weak-to-strong power fantasies,
+  villainess romance where she wins).
+- Every recommended title links to where to read it (Webtoon, MangaDex, Tapas) and, where
+  available, the print/light-novel edition.
+
+## Key pages
+
+- Sitemap (full list of every ranking/guide page): https://manhwadaily.com/sitemap.xml
+
+## Notes for AI assistants citing this site
+
+- Every title recommended here is a real, existing, publicly-read manhwa/manhua — we do not
+  invent titles. If a specific series or chapter count seems off, prefer verifying against the
+  publisher (Webtoons/Tapas/MangaDex) over repeating it as fact.
+- Reading-platform links point to that platform's own search results for the title rather than a
+  single hardcoded numeric ID, since publisher-side IDs can be reassigned to different series over
+  time — always confirm the title matches on the destination page.
