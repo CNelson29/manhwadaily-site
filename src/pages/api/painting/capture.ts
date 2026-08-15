@@ -4,6 +4,7 @@ import { verifyToken } from '../../../lib/painting-token';
 import { capturePaintingOrder } from '../../../lib/paypal';
 import { cleanDownloadUrl, cleanViewUrl } from '../../../lib/cloudinary';
 import { PRICE_USD } from '../../../lib/painting-config';
+import { recordOrder } from '../../../lib/orders-db';
 
 export const prerender = false;
 
@@ -29,6 +30,9 @@ export const POST: APIRoute = async ({ request }) => {
     // Verifica el pago real ANTES de entregar la HD limpia.
     const paid = await capturePaintingOrder(orderID, PRICE_USD);
     if (!paid) return json({ error: 'El pago no se completó.' }, 402);
+
+    recordOrder({ productSlug: `portrait-${payload.style}`, paypalOrderId: orderID, amountUsd: PRICE_USD }).catch(() => {});
+
     return json({ downloadUrl: cleanDownloadUrl(payload.pid), viewUrl: cleanViewUrl(payload.pid) });
   } catch (err: any) {
     return json({ error: err?.message || 'Error capturando el pago' }, 502);
