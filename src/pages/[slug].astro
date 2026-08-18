@@ -38,7 +38,7 @@ const articleSchema = {
   headline: data.title,
   description: data.excerpt,
   datePublished: data.date,
-  dateModified: data.date,
+  dateModified: data.dateModified ?? data.date,
   mainEntityOfPage: canonical,
   url: canonical,
   image: data.image ? `https://manhwadaily.com${data.image}` : 'https://manhwadaily.com/og-default.png',
@@ -77,6 +77,32 @@ const breadcrumbSchema = {
     },
   ],
 };
+
+// FAQPage schema — extracted from the post's own "## FAQ" markdown section
+// (### Q + paragraph A), so it can only ever describe FAQs actually visible
+// in the rendered content. Ported from aitoolspot's [slug].astro.
+const faqItems: { q: string; a: string }[] = [];
+const headingMatch = post.body.match(/^## FAQ\s*\n/m);
+if (headingMatch && headingMatch.index !== undefined) {
+  const contentStart = headingMatch.index + headingMatch[0].length;
+  const nextH2 = post.body.indexOf('\n## ', contentStart);
+  const faqSection = nextH2 === -1 ? post.body.slice(contentStart) : post.body.slice(contentStart, nextH2);
+  const blocks = ('\n' + faqSection).split('\n### ').slice(1);
+  for (const block of blocks) {
+    const nl = block.indexOf('\n');
+    const q = (nl === -1 ? block : block.slice(0, nl)).trim();
+    const a = (nl === -1 ? '' : block.slice(nl + 1)).trim().replace(/\s+/g, ' ');
+    if (q && a) faqItems.push({ q, a });
+  }
+}
+const faqSchema = faqItems.length ? JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqItems.map(({ q, a }) => ({
+    '@type': 'Question', name: q,
+    acceptedAnswer: { '@type': 'Answer', text: a },
+  })),
+}) : null;
 
 const GRAD: Record<string, string> = {
   Action:'from-brand-coral/15', Romance:'from-pink-500/15',
@@ -135,6 +161,19 @@ const grad = GRAD[data.category] ?? GRAD.Rankings;
     <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
       <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
       <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+      {faqSchema && <script type="application/ld+json" set:html={faqSchema} />}
+
+      {data.linksVerified && data.linksVerified.length > 0 && (
+        <div class="mb-6 p-4 rounded-xl border border-brand-coral/25 bg-brand-coral/5 text-sm">
+          <p class="font-semibold text-brand-white mb-1">
+            ✅ Every link on this list was checked on {new Date(data.dateModified ?? data.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+          </p>
+          <p class="text-brand-dim text-xs">
+            {data.linksVerified.filter(l => l.ok).length}/{data.linksVerified.length} sites confirmed live and reachable — we re-check this list weekly instead of leaving it to rot like most "best sites" posts.
+          </p>
+        </div>
+      )}
+
       <article class="prose prose-invert max-w-none" id="post-body">
         <Content />
       </article>

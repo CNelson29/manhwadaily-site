@@ -11,6 +11,8 @@ const posts = defineCollection({
     type:     z.enum(['rankings', 'review', 'guide', 'spotlight']).default('rankings'),
     image:    z.string().optional(),
     draft:    z.boolean().default(false),
+    dateModified:   z.string().optional(),
+    linksVerified:  z.array(z.object({ url: z.string(), ok: z.boolean(), checkedAt: z.string() })).optional(),
   }),
 });
 
