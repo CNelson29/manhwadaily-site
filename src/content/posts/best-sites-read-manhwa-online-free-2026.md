@@ -13,32 +13,32 @@ tags:
 type: rankings
 image: /images/posts/best-sites-read-manhwa-online-free-2026-hero.jpg
 draft: false
-dateModified: '2026-08-18'
+dateModified: '2026-08-24'
 linksVerified:
 - url: https://www.webtoons.com/
   ok: true
-  checkedAt: '2026-08-18'
+  checkedAt: '2026-08-24'
 - url: https://mangadex.org/
   ok: true
-  checkedAt: '2026-08-18'
+  checkedAt: '2026-08-24'
 - url: https://manta.net/
   ok: true
-  checkedAt: '2026-08-18'
+  checkedAt: '2026-08-24'
 - url: https://tapas.io/
   ok: true
-  checkedAt: '2026-08-18'
+  checkedAt: '2026-08-24'
 - url: https://batomanga.com/
   ok: true
-  checkedAt: '2026-08-18'
+  checkedAt: '2026-08-24'
 - url: https://manhwahq.com/
   ok: true
-  checkedAt: '2026-08-18'
+  checkedAt: '2026-08-24'
 - url: https://page.kakao.com/
   ok: true
-  checkedAt: '2026-08-18'
+  checkedAt: '2026-08-24'
 - url: https://www.lezhin.com/
   ok: true
-  checkedAt: '2026-08-18'
+  checkedAt: '2026-08-24'
 ---
 
 ## Where to Read Manhwa for Free in 2026
