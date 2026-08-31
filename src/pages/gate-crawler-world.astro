@@ -28,6 +28,16 @@ import Footer from '../components/Footer.astro';
 
       <!-- CLASS SELECT -->
       <div id="class-select" class="rounded-2xl border border-brand-border bg-brand-card p-4">
+        <div id="continue-box" class="hidden mb-4 pb-4 border-b border-brand-border">
+          <button id="btn-continue" class="w-full text-left rounded-xl border border-brand-coral/40 bg-brand-coral/10 p-3 hover:border-brand-coral transition flex items-center gap-3">
+            <span id="continue-emoji" class="text-3xl"></span>
+            <span>
+              <span class="font-display font-bold text-brand-white">Continue — <span id="continue-label"></span></span><br>
+              <span class="text-brand-dim text-xs">Resume your saved run</span>
+            </span>
+          </button>
+          <button id="btn-new-game" class="mt-2 text-xs text-brand-dim hover:text-brand-coral transition">Start a new game instead (erases save)</button>
+        </div>
         <div class="font-display font-bold text-brand-white text-center mb-3">Choose your class</div>
         <div id="class-list" class="grid grid-cols-1 gap-2"></div>
       </div>
@@ -100,6 +110,33 @@ import Footer from '../components/Footer.astro';
     const rnd = (n) => Math.floor(Math.random() * n);
     const rng = (a, b) => a + Math.random() * (b - a);
     const clamp = (x, a, b) => Math.max(a, Math.min(b, x));
+
+    // ============ SAVE / RESUME ============
+    const SAVE_KEY = 'gcw_save_v1';
+    function saveGame() {
+      if (!P) return;
+      try { localStorage.setItem(SAVE_KEY, JSON.stringify({ P, savedAt: Date.now() })); } catch (e) {}
+    }
+    function loadSave() {
+      try {
+        const raw = localStorage.getItem(SAVE_KEY);
+        if (!raw) return null;
+        const data = JSON.parse(raw);
+        if (!data?.P?.cls || !CLASSES[data.P.cls]) return null;
+        return data.P;
+      } catch (e) { return null; }
+    }
+    function clearSave() {
+      try { localStorage.removeItem(SAVE_KEY); } catch (e) {}
+    }
+    function resumeGame(savedP) {
+      P = savedP;
+      $('class-select').classList.add('hidden');
+      $('hud').classList.remove('hidden');
+      $('overworld').classList.remove('hidden');
+      mode = 'overworld';
+      updateHud(); drawWorld();
+    }
 
     const CLASSES = {
       Warrior: { emoji: '🛡️', hp: 60, atk: 12, def: 8, str: 6, crit: 0.12, defcrit: 0.08, tamer: false, blurb: 'Tanky bruiser. High HP & defense.' },
@@ -205,6 +242,7 @@ import Footer from '../components/Footer.astro';
       $('h-lv').textContent = P.level;
       $('h-str').textContent = P.strength + P.strBonus;
       $('h-dop').textContent = P.dop.toLocaleString();
+      saveGame();
     }
     const totalAtk = () => P.atk + P.strength + P.strBonus + (P.equip.weapon?.atk || 0);
     const totalDef = () => P.def + (P.equip.armor?.def || 0);
@@ -230,9 +268,9 @@ import Footer from '../components/Footer.astro';
       if (mode !== 'overworld') return;
       const nx = P.gx + dx, ny = P.gy + dy, t = tileAt(nx, ny);
       if (t === '#') return;
-      P.gx = nx; P.gy = ny; drawWorld();
+      P.gx = nx; P.gy = ny; drawWorld(); saveGame();
       if (t === 'C') { enterColosseum(); return; }
-      if (t === '~') { P.hp = P.maxhp; $('ow-msg').textContent = 'You rested. HP fully restored.'; return; }
+      if (t === '~') { P.hp = P.maxhp; $('ow-msg').textContent = 'You rested. HP fully restored.'; saveGame(); return; }
       if (t === 'g' && Math.random() < 0.32) startBattle(false);
     }
 
@@ -446,9 +484,22 @@ import Footer from '../components/Footer.astro';
     };
     $('btn-inv').onclick = () => { $('overworld').classList.add('hidden'); $('inventory').classList.remove('hidden'); mode = 'inventory'; renderInventory(); };
     $('inv-close').onclick = () => { $('inventory').classList.add('hidden'); $('overworld').classList.remove('hidden'); mode = 'overworld'; };
-    $('btn-heal').onclick = () => { P.hp = P.maxhp; $('ow-msg').textContent = 'Rested. HP restored.'; };
+    $('btn-heal').onclick = () => { P.hp = P.maxhp; $('ow-msg').textContent = 'Rested. HP restored.'; saveGame(); };
+
+    // autosave safety net — covers any mutation not already hooked into updateHud()/move()
+    setInterval(saveGame, 5000);
+    document.addEventListener('visibilitychange', () => { if (document.hidden) saveGame(); });
+    window.addEventListener('beforeunload', saveGame);
 
     // boot
+    const saved = loadSave();
+    if (saved) {
+      $('continue-box').classList.remove('hidden');
+      $('continue-emoji').textContent = CLASSES[saved.cls].emoji;
+      $('continue-label').textContent = `${saved.cls} · Lv ${saved.level} · ${saved.dop.toLocaleString()} DOP`;
+      $('btn-continue').onclick = () => resumeGame(saved);
+      $('btn-new-game').onclick = () => { clearSave(); $('continue-box').classList.add('hidden'); };
+    }
     renderClasses();
   </script>
 </Base>

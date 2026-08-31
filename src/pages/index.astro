@@ -12,7 +12,7 @@ const cover = (p: any) => coverForBody(p.body)?.cover ?? p.data.image;
 const all = (await getCollection('posts', ({ data }) => !data.draft))
   .sort((a, b) => a.data.date < b.data.date ? 1 : -1);
 
-const CATS = ['Action','Romance','Fantasy','Isekai','Completed','Rankings'];
+const CATS = ['Action','Romance','Fantasy','Isekai','Completed','Rankings','Light Novels'];
 const bycat = (cat: string) => all.filter(p => p.data.category === cat);
 const featured = all.slice(0, 6);
 const rest = all.slice(6);
@@ -55,13 +55,22 @@ const rest = all.slice(6);
         </p>
 
         <!-- Category pills -->
-        <div class="anim-rise d4 flex flex-wrap justify-center gap-2 mb-10">
+        <div class="anim-rise d4 flex flex-wrap justify-center gap-2 mb-4">
           {CATS.map(cat => (
             <a href={`/#${cat.toLowerCase()}`}
               class={`cat-badge cat-${cat} hover:scale-105 transition-transform cursor-pointer`}>
               {cat}
             </a>
           ))}
+        </div>
+
+        <!-- Surprise me -->
+        <div class="anim-rise d4 mb-10">
+          <button id="btn-surprise"
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-brand-coral/30 bg-brand-coral/5
+                   text-brand-coral text-sm font-bold hover:bg-brand-coral/10 hover:scale-105 transition-all">
+            🎲 Surprise me
+          </button>
         </div>
 
         <!-- Stats — compact inline row -->
@@ -77,8 +86,49 @@ const rest = all.slice(6);
             </div>
           ))}
         </div>
+
+        <!-- Daily streak (client-side, per-browser) -->
+        <div id="streak-badge" class="hidden anim-rise d5 mt-6 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full
+                    border border-amber-400/25 bg-amber-400/5 text-amber-300 text-xs font-bold mx-auto w-fit">
+          <span>🔥</span><span id="streak-count"></span>
+        </div>
       </div>
     </section>
+
+    <script define:vars={{ slugs: all.map(p => p.slug) }}>
+      // Surprise me — random post, avoids reloading the one you're already on
+      const btnSurprise = document.getElementById('btn-surprise');
+      if (btnSurprise && slugs.length > 0) {
+        btnSurprise.addEventListener('click', () => {
+          const others = slugs.filter(s => !location.pathname.includes(s));
+          const pool = others.length > 0 ? others : slugs;
+          location.href = `/${pool[Math.floor(Math.random() * pool.length)]}/`;
+        });
+      }
+
+      // Daily streak — increments once per new calendar day, resets after a gap
+      (function streak() {
+        const KEY = 'md_streak_v1';
+        const today = new Date().toISOString().slice(0, 10);
+        let data;
+        try { data = JSON.parse(localStorage.getItem(KEY) || 'null'); } catch (e) { data = null; }
+        if (!data || typeof data.count !== 'number') data = { count: 0, lastDate: null };
+
+        if (data.lastDate !== today) {
+          const last = data.lastDate ? new Date(data.lastDate) : null;
+          const diffDays = last ? Math.round((new Date(today) - last) / 86400000) : null;
+          data.count = diffDays === 1 ? data.count + 1 : 1;
+          data.lastDate = today;
+          try { localStorage.setItem(KEY, JSON.stringify(data)); } catch (e) {}
+        }
+
+        if (data.count >= 2) {
+          const badge = document.getElementById('streak-badge');
+          document.getElementById('streak-count').textContent = `${data.count}-day streak`;
+          badge?.classList.remove('hidden');
+        }
+      })();
+    </script>
 
     <!-- ═══ FEATURED GRID ═══════════════════════════════════════════ -->
     <section class="max-w-6xl mx-auto px-4 sm:px-6 pb-8">
