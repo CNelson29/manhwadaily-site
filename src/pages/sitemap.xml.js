@@ -6,6 +6,13 @@ export async function GET() {
   const urls  = [
     { loc: base, priority: '1.0', freq: 'daily' },
     { loc: `${base}/recommender/`, priority: '0.9', freq: 'weekly' },
+    { loc: `${base}/gate-crawler-world/`, priority: '0.8', freq: 'weekly' },
+    { loc: `${base}/gate-crawler/`, priority: '0.7', freq: 'weekly' },
+    { loc: `${base}/portrait/`, priority: '0.8', freq: 'weekly' },
+    { loc: `${base}/tier-list/`, priority: '0.7', freq: 'weekly' },
+    { loc: `${base}/manhwa-dna/`, priority: '0.7', freq: 'weekly' },
+    { loc: `${base}/discover/`, priority: '0.6', freq: 'weekly' },
+    { loc: `${base}/novelas/`, priority: '0.7', freq: 'weekly' },
     ...posts.map(p => ({ loc: `${base}/${p.slug}/`, priority: '0.8', freq: 'weekly', lastmod: p.data.date })),
   ];
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
