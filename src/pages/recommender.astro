@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import HeroEffectLite from '../components/HeroEffectLite.astro';
 ---
 <Base
   title="Manhwa Recommender — Find Your Next Read"
@@ -9,7 +10,10 @@ import Footer from '../components/Footer.astro';
 >
   <Header />
   <main class="flex-1">
-    <section class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+    <section class="relative max-w-3xl mx-auto px-4 sm:px-6 py-12">
+      <div class="absolute inset-0 -z-10 overflow-hidden">
+        <HeroEffectLite />
+      </div>
       <div class="text-center mb-10">
         <h1 class="font-display font-black text-3xl sm:text-5xl text-brand-white mb-3">
           Which <span class="gradient-text-coral">Manhwa</span> Should You Read?
