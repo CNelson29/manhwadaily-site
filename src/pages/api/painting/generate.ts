@@ -36,6 +36,9 @@ export const POST: APIRoute = async ({ request }) => {
     const token = signToken({ pid, style: 'medieval-poster', exp: Date.now() + PREVIEW_TTL_MS });
     return json({ token, previewUrl: previewUrl(pid) });
   } catch (err: any) {
-    return json({ error: err?.message || 'Error generando el póster' }, 502);
+    // Never leak the raw provider error (API internals, account status) to the client —
+    // log it server-side (Vercel function logs) and show a generic, friendly message.
+    console.error('painting generation failed:', err?.message || err);
+    return json({ error: "We couldn't generate your portrait right now. Please try again in a few minutes." }, 502);
   }
 };

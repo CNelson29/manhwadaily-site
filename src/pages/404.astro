@@ -1,0 +1,35 @@
+---
+import Base   from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base
+  title="Page Not Found | ManhwaDaily"
+  description="This page doesn't exist or has moved. Browse the latest manhwa rankings and recommendations on ManhwaDaily."
+  slug="404"
+>
+  <Header />
+  <main class="flex-1">
+    <section class="max-w-2xl mx-auto px-4 sm:px-6 py-24 text-center">
+      <p class="text-brand-coral text-sm font-semibold mb-3 uppercase tracking-wider">404</p>
+      <h1 class="font-display font-black text-3xl sm:text-4xl text-brand-white mb-4">
+        Oops, this page went missing 🕵️
+      </h1>
+      <p class="text-brand-dim mb-10">
+        Even our tier lists have a "Gone" rank. Let's get you back to the good stuff.
+      </p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/" class="px-5 py-2.5 rounded-lg bg-brand-coral text-white font-bold text-sm hover:bg-orange-400 transition-colors">
+          Go home
+        </a>
+        <a href="/recommender/" class="px-5 py-2.5 rounded-lg border border-brand-coral/40 text-brand-coral font-bold text-sm hover:bg-brand-coral/10 transition-colors">
+          ✨ Find your manhwa
+        </a>
+        <a href="/gate-crawler-world/" class="px-5 py-2.5 rounded-lg border border-brand-border text-brand-dim font-bold text-sm hover:text-brand-white hover:border-brand-coral/40 transition-colors">
+          🗺️ Play Gate Crawler World
+        </a>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</Base>

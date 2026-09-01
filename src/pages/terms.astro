@@ -1,0 +1,148 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const updated = 'August 31, 2026';
+---
+<Base
+  title="Terms of Service | ManhwaDaily"
+  description="Terms of Service for ManhwaDaily, including content usage, affiliate disclosures, accounts, the AI Portrait purchase, and acceptable use."
+  slug="terms"
+>
+  <Header />
+
+  <main class="flex-1">
+    <section class="border-b border-brand-border/50 py-14">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6">
+        <p class="text-brand-coral text-sm font-semibold mb-3">ManhwaDaily</p>
+        <h1 class="font-display font-black text-4xl sm:text-5xl text-brand-white mb-4">
+          Terms of Service
+        </h1>
+        <p class="text-brand-dim leading-relaxed">
+          Last updated: {updated}
+        </p>
+      </div>
+    </section>
+
+    <section class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+      <div class="prose prose-invert max-w-none">
+        <p>
+          These Terms of Service (&quot;Terms&quot;) govern your access to and use of{' '}
+          <strong>ManhwaDaily</strong> (the &quot;Service&quot;), accessible at{' '}
+          <a href="https://manhwadaily.com">manhwadaily.com</a>, including our website, editorial
+          content, recommendation quiz, free browser games (Gate Crawler, Gate Crawler World),
+          accounts, and the paid AI Portrait feature.
+        </p>
+
+        <h2>Use of the Website</h2>
+        <p>
+          You may use ManhwaDaily for lawful, personal purposes only. You agree not to misuse
+          the website or the game, interfere with its normal operation, attempt unauthorized
+          access, scrape the site in a harmful way, or use the site to violate any applicable
+          law, platform rule, or third-party right.
+        </p>
+
+        <h2>Editorial Content</h2>
+        <p>
+          ManhwaDaily publishes manhwa and light novel recommendations, rankings, and
+          opinionated editorial content. We link out to where a series can be read — we do not
+          host, copy, or republish manhwa or novel chapter content ourselves. We recommend
+          reading on official, licensed platforms.
+        </p>
+
+        <h2>Accounts</h2>
+        <p>
+          Creating an account is optional. If you sign in, you're responsible for keeping your
+          account credentials secure. Account sign-in is provided by our authentication
+          provider, Clerk — creating an account also means you accept Clerk's own terms for the
+          sign-in service itself.
+        </p>
+
+        <h2>Gate Crawler World — Leaderboard</h2>
+        <p>
+          If you sign in and play Gate Crawler World, your best score, class, and level may be
+          displayed publicly on the in-game leaderboard alongside your account's display name.
+          Do not use an offensive or impersonating display name. We may remove leaderboard
+          entries at our discretion.
+        </p>
+
+        <h2>AI Portrait — Purchases</h2>
+        <p>
+          The AI Portrait feature lets you generate a stylized portrait from a photo you upload,
+          for a one-time fee shown at checkout, paid via PayPal. You confirm you have the right
+          to use the photo you upload. Because this is a digital good generated specifically for
+          you, all sales are final once the paid file has been delivered, except where required
+          otherwise by law.
+        </p>
+
+        <h2>Affiliate Disclosure</h2>
+        <p>
+          Some links on this website — including links to Amazon and to manhwa/novel reading
+          platforms such as Webtoon, Tapas, and MangaDex — are affiliate links. If you click a
+          qualifying link and make a purchase, ManhwaDaily may earn a commission at no additional
+          cost to you. These relationships do not guarantee placement, endorsement, or ranking.
+        </p>
+
+        <h2>No Warranty</h2>
+        <p>
+          The website, the game, and all content are provided on an &quot;as is&quot; and
+          &quot;as available&quot; basis. We do not guarantee that the site will always be
+          uninterrupted, accurate, secure, complete, or free from errors.
+        </p>
+
+        <h2>Third-Party Services and Platforms</h2>
+        <p>
+          ManhwaDaily may link to or integrate with third-party services such as PayPal, Clerk,
+          Giscus/GitHub, analytics providers, hosting services, affiliate platforms, and
+          advertising networks. Your use of those services is governed by their own terms and
+          privacy policies.
+        </p>
+
+        <h2>Comments</h2>
+        <p>
+          Article comments are powered by Giscus and posted as GitHub Discussions on our public
+          site repository. Keep comments on-topic and respectful; we may hide or remove comments
+          that are abusive, spam, or unlawful.
+        </p>
+
+        <h2>Intellectual Property</h2>
+        <p>
+          Unless otherwise stated, the branding, layout, written content, original graphics, and
+          editorial assets on ManhwaDaily are owned by ManhwaDaily or used with permission. Cover
+          art for reviewed titles is used for identification and review purposes. You may not
+          reproduce, republish, distribute, or commercially exploit substantial portions of the
+          site without prior written permission.
+        </p>
+
+        <h2>Limitation of Liability</h2>
+        <p>
+          To the maximum extent permitted by law, ManhwaDaily and its operators will not be
+          liable for indirect, incidental, consequential, special, or punitive damages arising
+          from your use of the website, the game, or the AI Portrait feature.
+        </p>
+
+        <h2>Changes to the Service</h2>
+        <p>
+          We may modify, suspend, update, or discontinue any part of the website, the game, or
+          related features at any time without prior notice.
+        </p>
+
+        <h2>Changes to These Terms</h2>
+        <p>
+          We may revise these Terms of Service from time to time. The latest version will be
+          posted on this page with the updated effective date. Continued use of the site after
+          changes become effective means you accept the revised terms.
+        </p>
+
+        <h2>Contact</h2>
+        <p>
+          For questions regarding these terms, contact ManhwaDaily through the official website
+          and public brand channels.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</Base>

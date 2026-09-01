@@ -31,6 +31,7 @@ const year = new Date().getFullYear();
             <li><a href="/" class="text-brand-dim hover:text-brand-coral transition-colors">Home</a></li>
             <li><a href="/recommender/" class="text-brand-dim hover:text-brand-coral transition-colors">Find your manhwa</a></li>
             <li><a href="/novelas/" class="text-brand-dim hover:text-brand-coral transition-colors">Light Novels</a></li>
+            <li><a href="/my-list/" class="text-brand-dim hover:text-brand-coral transition-colors">🔖 My List</a></li>
           </ul>
         </div>
         <div>
@@ -51,7 +52,12 @@ const year = new Date().getFullYear();
     </p>
     <div class="pt-3 flex flex-col sm:flex-row justify-between gap-2 text-xs text-brand-dim">
       <p>© {year} ManhwaDaily. All rights reserved.</p>
-      <p>We recommend legally reading manhwa on official platforms.</p>
+      <p>
+        We recommend legally reading manhwa on official platforms.
+        <a href="/terms/" class="hover:text-brand-coral transition-colors">Terms</a>
+        ·
+        <a href="/privacy/" class="hover:text-brand-coral transition-colors">Privacy Policy</a>
+      </p>
     </div>
   </div>
 </footer>

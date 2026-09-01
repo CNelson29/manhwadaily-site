@@ -16,6 +16,19 @@ import Footer from '../components/Footer.astro';
           Gate Crawler <span class="gradient-text-coral">World</span>
         </h1>
         <p class="text-brand-dim text-xs">Open world · farm monsters · tiered loot in DOP · Colosseum. Land a <b class="text-amber-300">Definitive Critical</b> to grow permanently stronger.</p>
+        <button id="btn-leaderboard-toggle" class="mt-2 text-xs font-bold text-brand-coral hover:underline">🏆 Leaderboard</button>
+      </div>
+
+      <!-- LEADERBOARD -->
+      <div id="leaderboard" class="hidden rounded-2xl border border-brand-border bg-brand-card p-4 mb-3">
+        <div class="flex items-center justify-between mb-2">
+          <span class="font-display font-bold text-brand-white text-sm">🏆 Top Adventurers</span>
+          <button id="btn-leaderboard-close" class="text-brand-dim hover:text-brand-white text-xs">✕</button>
+        </div>
+        <div id="leaderboard-signin-note" class="hidden text-brand-dim text-xs mb-2">
+          Sign in (top right) so your best run gets saved here too.
+        </div>
+        <div id="leaderboard-list" class="text-xs text-brand-dim">Loading…</div>
       </div>
 
       <!-- HUD -->
@@ -105,6 +118,8 @@ import Footer from '../components/Footer.astro';
   <Footer />
 
   <script>
+    import { getClerk as getClerkClient } from '../lib/clerk-client';
+
     // ============ CONFIG ============
     const $ = (id) => document.getElementById(id);
     const rnd = (n) => Math.floor(Math.random() * n);
@@ -490,6 +505,51 @@ import Footer from '../components/Footer.astro';
     setInterval(saveGame, 5000);
     document.addEventListener('visibilitychange', () => { if (document.hidden) saveGame(); });
     window.addEventListener('beforeunload', saveGame);
+
+    // ============ LEADERBOARD (Clerk-backed, no database) ============
+    const PUBLISHABLE_KEY = import.meta.env.PUBLIC_CLERK_PUBLISHABLE_KEY;
+    async function getClerk() {
+      return getClerkClient(PUBLISHABLE_KEY);
+    }
+    async function trySubmitScore() {
+      if (!P) return;
+      const clerk = await getClerk();
+      if (!clerk?.user) return;
+      try {
+        const token = await clerk.session.getToken();
+        await fetch('/api/leaderboard/submit', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
+          body: JSON.stringify({ cls: P.cls, level: P.level, dop: P.dop }),
+        });
+      } catch {}
+    }
+    setInterval(trySubmitScore, 20000);
+
+    async function loadLeaderboard() {
+      const listEl = $('leaderboard-list');
+      const noteEl = $('leaderboard-signin-note');
+      const clerk = await getClerk();
+      noteEl?.classList.toggle('hidden', !!clerk?.user);
+      try {
+        const res = await fetch('/api/leaderboard/list');
+        const { entries } = await res.json();
+        if (!entries?.length) { listEl!.textContent = 'No scores yet — be the first!'; return; }
+        listEl!.innerHTML = entries.map((e: any, i: number) => `
+          <div class="flex items-center justify-between py-1 ${i < entries.length - 1 ? 'border-b border-brand-border/40' : ''}">
+            <span class="text-brand-white font-bold">${i + 1}. ${String(e.name).replace(/[&<>]/g, (c: string) => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c] || c))}</span>
+            <span>${e.cls} · Lv ${e.level} · ${e.dop.toLocaleString()} DOP</span>
+          </div>
+        `).join('');
+      } catch {
+        listEl!.textContent = 'Could not load leaderboard right now.';
+      }
+    }
+    $('btn-leaderboard-toggle').onclick = () => {
+      $('leaderboard').classList.remove('hidden');
+      loadLeaderboard();
+    };
+    $('btn-leaderboard-close').onclick = () => $('leaderboard').classList.add('hidden');
 
     // boot
     const saved = loadSave();

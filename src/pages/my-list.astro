@@ -1,0 +1,89 @@
+---
+import Base   from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base
+  title="My List — ManhwaDaily"
+  description="Your saved manhwa and light novels, synced to your account."
+  slug="my-list"
+>
+  <Header />
+  <main class="flex-1">
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-10">
+      <h1 class="font-display font-black text-3xl text-brand-white mb-1">📚 My List</h1>
+      <p class="text-brand-dim text-sm mb-8">Saved from any device you sign in on.</p>
+
+      <div id="signed-out" class="hidden text-center py-16 rounded-2xl border border-brand-border bg-brand-surface/40">
+        <p class="text-brand-white font-bold mb-3">Sign in to see your list</p>
+        <p class="text-brand-dim text-sm mb-5">Bookmark any manhwa with the 🔖 button on its page — it'll show up here.</p>
+        <button id="btn-signin" class="px-5 py-2.5 rounded-lg bg-brand-coral text-white font-bold text-sm hover:bg-orange-400 transition-colors">
+          Sign in
+        </button>
+      </div>
+
+      <div id="empty-list" class="hidden text-center py-16 rounded-2xl border border-brand-border bg-brand-surface/40">
+        <p class="text-brand-white font-bold mb-2">Your list is empty</p>
+        <p class="text-brand-dim text-sm mb-5">Browse rankings and tap 🔖 on anything you want to save.</p>
+        <a href="/" class="px-5 py-2.5 rounded-lg bg-brand-coral text-white font-bold text-sm hover:bg-orange-400 transition-colors inline-block">
+          Browse rankings
+        </a>
+      </div>
+
+      <div id="loading" class="text-brand-dim text-sm">Loading…</div>
+
+      <div id="list-grid" class="hidden grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+    </section>
+  </main>
+  <Footer />
+
+  <script>
+    import { getClerk } from '../lib/clerk-client';
+    const PUBLISHABLE_KEY = import.meta.env.PUBLIC_CLERK_PUBLISHABLE_KEY;
+    const $ = (id: string) => document.getElementById(id);
+
+    function show(id: string) { $(id)?.classList.remove('hidden'); }
+    function hide(id: string) { $(id)?.classList.add('hidden'); }
+    function esc(s: string) {
+      return (s || '').replace(/[&<>"']/g, (c) => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c] as string));
+    }
+
+    (async () => {
+      const clerk = await getClerk(PUBLISHABLE_KEY);
+      if (!clerk) { hide('loading'); show('signed-out'); return; }
+
+      hide('loading');
+
+      if (!clerk.user) {
+        show('signed-out');
+        $('btn-signin')?.addEventListener('click', () => clerk.openSignIn({ afterSignInUrl: '/my-list/' }));
+        return;
+      }
+
+      const bookmarks: string[] = (clerk.user.unsafeMetadata?.myList as string[]) || [];
+      if (bookmarks.length === 0) { show('empty-list'); return; }
+
+      const manifest = await fetch('/posts-manifest.json').then((r) => r.json());
+      const bySlug = new Map(manifest.map((p: any) => [p.slug, p]));
+      const items = bookmarks.map((s) => bySlug.get(s)).filter(Boolean);
+
+      if (items.length === 0) { show('empty-list'); return; }
+
+      const grid = $('list-grid')!;
+      grid.innerHTML = items.map((p: any) => `
+        <a href="/${p.slug}/" class="card-manga block no-underline group">
+          <div class="h-40 relative overflow-hidden bg-brand-surface">
+            ${p.image
+              ? `<img src="${esc(p.image)}" alt="${esc(p.title)}" loading="lazy" class="absolute inset-0 w-full h-full object-cover" />`
+              : `<span class="absolute inset-0 flex items-center justify-center text-5xl">📖</span>`}
+          </div>
+          <div class="p-4">
+            <h2 class="font-display font-bold text-brand-white text-base leading-snug line-clamp-2 group-hover:text-brand-coral transition-colors">${esc(p.title)}</h2>
+            <p class="text-brand-dim text-sm mt-1 line-clamp-2">${esc(p.excerpt || '')}</p>
+          </div>
+        </a>
+      `).join('');
+      show('list-grid');
+    })();
+  </script>
+</Base>

@@ -27,6 +27,7 @@ export const POST: APIRoute = async ({ request }) => {
     const orderId = await createPaintingOrder(PRICE_USD, `ManhwaDaily portrait (${payload.style})`);
     return json({ orderID: orderId });
   } catch (err: any) {
-    return json({ error: err?.message || 'Error creando la orden' }, 502);
+    console.error('createPaintingOrder failed:', err?.message || err);
+    return json({ error: 'Could not start payment. Please try again in a few minutes.' }, 502);
   }
 };

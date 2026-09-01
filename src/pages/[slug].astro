@@ -4,6 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import { coverForBody } from '../lib/manhwa-covers';
+import Comments from '../components/Comments.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -138,6 +139,10 @@ const grad = GRAD[data.category] ?? GRAD.Rankings;
           {data.tags.slice(0,3).map(t => (
             <span class="px-2 py-0.5 rounded-full bg-brand-surface border border-brand-border text-xs">{t}</span>
           ))}
+          <button id="btn-bookmark" data-slug={post.slug}
+            class="ml-auto flex items-center gap-1 px-2.5 py-1 rounded-lg border border-brand-border text-brand-dim hover:text-brand-coral hover:border-brand-coral/40 transition-colors text-xs font-semibold">
+            <span id="bookmark-icon">🔖</span> <span id="bookmark-label">Save</span>
+          </button>
         </div>
       </div>
     </div>
@@ -241,28 +246,47 @@ const grad = GRAD[data.category] ?? GRAD.Rankings;
       )}
 
       <!-- Where to read CTA -->
-      <div class="mt-10 p-6 rounded-2xl border border-brand-coral/20 bg-brand-surface text-center">
-        <p class="font-display font-bold text-lg text-brand-white mb-1">Ready to start reading? 📖</p>
-        <p class="text-brand-dim text-sm mb-4">For Spanish readers, search Olympus Biblioteca. For official releases, check Webtoon, Tapas, or Lezhin Comics.</p>
-        <div class="flex flex-wrap justify-center gap-3">
-          <a href={olympusSearch} target="_blank" rel="noopener noreferrer"
-            class="px-4 py-2 rounded-lg bg-brand-coral text-white font-bold text-sm hover:bg-orange-400 transition-colors">
-            Olympus Biblioteca ES
-          </a>
-          <a href="https://www.webtoons.com" target="_blank" rel="noopener noreferrer"
-            class="px-4 py-2 rounded-lg bg-brand-surface border border-brand-border text-brand-text font-bold text-sm hover:border-brand-coral/40 transition-colors">
-            Webtoon
-          </a>
-          <a href="https://tapas.io" target="_blank" rel="noopener noreferrer"
-            class="px-4 py-2 rounded-lg bg-brand-surface border border-brand-border text-brand-text font-bold text-sm hover:border-brand-coral/40 transition-colors">
-            Tapas
-          </a>
-          <a href="https://www.lezhin.com" target="_blank" rel="noopener noreferrer"
-            class="px-4 py-2 rounded-lg bg-brand-surface border border-brand-border text-brand-text font-bold text-sm hover:border-brand-coral/40 transition-colors">
-            Lezhin
-          </a>
+      {data.category === 'Light Novels' ? (
+        <div class="mt-10 p-6 rounded-2xl border border-brand-coral/20 bg-brand-surface text-center">
+          <p class="font-display font-bold text-lg text-brand-white mb-1">Ready to start reading? 📖</p>
+          <p class="text-brand-dim text-sm mb-4">
+            {data.sourceLabel
+              ? `This novel is translated and hosted by ${data.sourceLabel} — that's where new chapters get posted.`
+              : `Find this light novel on its original translation site to read the latest chapters.`}
+          </p>
+          <div class="flex flex-wrap justify-center gap-3">
+            {data.sourceUrl && (
+              <a href={data.sourceUrl} target="_blank" rel="noopener noreferrer"
+                class="px-4 py-2 rounded-lg bg-brand-coral text-white font-bold text-sm hover:bg-orange-400 transition-colors">
+                Read at {data.sourceLabel || 'source site'}
+              </a>
+            )}
+          </div>
         </div>
-      </div>
+      ) : (
+        <div class="mt-10 p-6 rounded-2xl border border-brand-coral/20 bg-brand-surface text-center">
+          <p class="font-display font-bold text-lg text-brand-white mb-1">Ready to start reading? 📖</p>
+          <p class="text-brand-dim text-sm mb-4">For Spanish readers, search Olympus Biblioteca. For official releases, check Webtoon, Tapas, or Lezhin Comics.</p>
+          <div class="flex flex-wrap justify-center gap-3">
+            <a href={olympusSearch} target="_blank" rel="noopener noreferrer"
+              class="px-4 py-2 rounded-lg bg-brand-coral text-white font-bold text-sm hover:bg-orange-400 transition-colors">
+              Olympus Biblioteca ES
+            </a>
+            <a href="https://www.webtoons.com" target="_blank" rel="noopener noreferrer"
+              class="px-4 py-2 rounded-lg bg-brand-surface border border-brand-border text-brand-text font-bold text-sm hover:border-brand-coral/40 transition-colors">
+              Webtoon
+            </a>
+            <a href="https://tapas.io" target="_blank" rel="noopener noreferrer"
+              class="px-4 py-2 rounded-lg bg-brand-surface border border-brand-border text-brand-text font-bold text-sm hover:border-brand-coral/40 transition-colors">
+              Tapas
+            </a>
+            <a href="https://www.lezhin.com" target="_blank" rel="noopener noreferrer"
+              class="px-4 py-2 rounded-lg bg-brand-surface border border-brand-border text-brand-text font-bold text-sm hover:border-brand-coral/40 transition-colors">
+              Lezhin
+            </a>
+          </div>
+        </div>
+      )}
 
       <!-- Manhwadaily products CTA -->
       <div class="mt-6 grid sm:grid-cols-2 gap-4">
@@ -275,7 +299,54 @@ const grad = GRAD[data.category] ?? GRAD.Rankings;
           <p class="text-brand-dim text-sm">Free open-world dungeon RPG, no sign-up. Farm loot, pick a class, fight in the Colosseum.</p>
         </a>
       </div>
+
+      <Comments />
     </div>
   </main>
+
+  <!-- Sticky mobile CTA — article pages only -->
+  <div class="md:hidden fixed bottom-0 inset-x-0 z-40 border-t border-brand-coral/30 bg-brand-bg/95 backdrop-blur-md p-3"
+       style="padding-bottom: max(0.75rem, env(safe-area-inset-bottom));">
+    <a href="/recommender/"
+       class="flex items-center justify-center gap-1.5 py-2.5 rounded-lg bg-brand-coral text-white font-bold text-sm">
+      ✨ Find your manhwa
+    </a>
+  </div>
+  <div class="md:hidden h-16" aria-hidden="true"></div>
+
+  <script>
+    import { getClerk } from '../lib/clerk-client';
+    const PUBLISHABLE_KEY = import.meta.env.PUBLIC_CLERK_PUBLISHABLE_KEY;
+    const btn = document.getElementById('btn-bookmark') as HTMLButtonElement | null;
+    const slug = btn?.dataset.slug;
+
+    if (PUBLISHABLE_KEY && btn && slug) {
+      (async () => {
+        const clerk = await getClerk(PUBLISHABLE_KEY);
+        if (!clerk) return;
+
+        function render() {
+          const saved: string[] = (clerk.user?.unsafeMetadata?.myList as string[]) || [];
+          const isSaved = saved.includes(slug!);
+          document.getElementById('bookmark-icon')!.textContent = isSaved ? '✅' : '🔖';
+          document.getElementById('bookmark-label')!.textContent = isSaved ? 'Saved' : 'Save';
+        }
+        render();
+        clerk.addListener(render);
+
+        btn.addEventListener('click', async () => {
+          if (!clerk.user) {
+            clerk.openSignIn({ afterSignInUrl: window.location.pathname });
+            return;
+          }
+          const saved: string[] = (clerk.user.unsafeMetadata?.myList as string[]) || [];
+          const next = saved.includes(slug!) ? saved.filter((s) => s !== slug) : [...saved, slug!];
+          await clerk.user.update({ unsafeMetadata: { ...clerk.user.unsafeMetadata, myList: next } });
+          render();
+        });
+      })();
+    }
+  </script>
+
   <Footer />
 </Base>

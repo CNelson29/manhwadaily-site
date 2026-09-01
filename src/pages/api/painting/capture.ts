@@ -35,6 +35,7 @@ export const POST: APIRoute = async ({ request }) => {
 
     return json({ downloadUrl: cleanDownloadUrl(payload.pid), viewUrl: cleanViewUrl(payload.pid) });
   } catch (err: any) {
-    return json({ error: err?.message || 'Error capturando el pago' }, 502);
+    console.error('capturePaintingOrder failed:', err?.message || err);
+    return json({ error: 'Could not verify your payment. Please contact support if you were charged.' }, 502);
   }
 };

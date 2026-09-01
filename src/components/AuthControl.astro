@@ -1,0 +1,37 @@
+<div id="auth-control" class="flex items-center flex-shrink-0"></div>
+
+<script>
+  import { getClerk } from '../lib/clerk-client';
+
+  const PUBLISHABLE_KEY = import.meta.env.PUBLIC_CLERK_PUBLISHABLE_KEY;
+
+  (async () => {
+    const clerk = await getClerk(PUBLISHABLE_KEY);
+    const mount = document.getElementById('auth-control');
+    if (!clerk || !mount) return;
+
+    function render() {
+      mount!.innerHTML = '';
+      if (clerk.user) {
+        const userButtonDiv = document.createElement('div');
+        mount!.appendChild(userButtonDiv);
+        clerk.mountUserButton(userButtonDiv, {
+          afterSignOutUrl: window.location.pathname,
+          userProfileMode: 'modal',
+        });
+      } else {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className =
+          'flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-brand-border text-brand-dim ' +
+          'hover:text-brand-white hover:border-brand-coral/40 transition-colors text-xs font-bold flex-shrink-0';
+        btn.textContent = '👤 Sign in';
+        btn.addEventListener('click', () => clerk.openSignIn({ afterSignInUrl: window.location.pathname }));
+        mount!.appendChild(btn);
+      }
+    }
+
+    clerk.addListener(render);
+    render();
+  })();
+</script>
