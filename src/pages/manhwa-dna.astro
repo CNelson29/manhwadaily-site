@@ -136,7 +136,7 @@ import Footer from '../components/Footer.astro';
         .filter(x => x.s > 0).sort((a,b)=>b.s-a.s).slice(0, 6);
       document.getElementById('recs').innerHTML = recs.map(({m}) =>
         `<a href="${m.url}" target="_blank" rel="noopener" class="flex items-center gap-2 rounded-xl border border-brand-border bg-brand-card p-2 no-underline hover:border-brand-coral/40 transition-colors">` +
-        `<img src="${m.cover}" alt="" class="w-9 h-12 object-cover rounded" referrerpolicy="no-referrer" />` +
+        `<img src="${m.cover}" alt="${esc(m.title)}" class="w-9 h-12 object-cover rounded" referrerpolicy="no-referrer" />` +
         `<span class="text-brand-white text-sm font-semibold truncate">${esc(m.title)}</span></a>`
       ).join('');
 

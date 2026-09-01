@@ -115,7 +115,7 @@ import Footer from '../components/Footer.astro';
       count.textContent = liked.length ? `(${liked.length})` : '';
       list.innerHTML = liked.map(m =>
         `<a href="${m.url}" target="_blank" rel="noopener" class="flex items-center gap-3 rounded-xl border border-brand-border bg-brand-card p-2 no-underline hover:border-brand-coral/40 transition-colors">` +
-        `<img src="${m.cover}" alt="" class="w-10 h-14 object-cover rounded" referrerpolicy="no-referrer" />` +
+        `<img src="${m.cover}" alt="${esc(m.title)}" class="w-10 h-14 object-cover rounded" referrerpolicy="no-referrer" />` +
         `<div class="min-w-0 flex-1"><div class="font-semibold text-brand-white text-sm truncate">${esc(m.title)}</div>` +
         `<div class="text-brand-dim text-xs truncate">${(m.tags||[]).slice(0,3).join(' · ')}</div></div>` +
         `<span class="text-brand-coral text-xs font-bold shrink-0">Read →</span></a>`

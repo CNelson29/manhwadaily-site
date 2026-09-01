@@ -95,7 +95,7 @@ import Footer from '../components/Footer.astro';
         el.href = m.url; el.target = '_blank'; el.rel = 'noopener';
         el.className = 'flex gap-3 rounded-xl border border-brand-border bg-brand-surface/60 p-3 no-underline hover:border-brand-coral/40 transition-colors';
         el.innerHTML =
-          (m.cover ? `<img src="${m.cover}.256.jpg" alt="" loading="lazy" class="w-16 h-24 object-cover rounded-lg flex-shrink-0" onerror="this.style.display='none'">` : '') +
+          (m.cover ? `<img src="${m.cover}.256.jpg" alt="${m.title}" loading="lazy" class="w-16 h-24 object-cover rounded-lg flex-shrink-0" onerror="this.style.display='none'">` : '') +
           `<div><h3 class="font-display font-bold text-brand-white text-sm leading-snug">${m.title}</h3>` +
           `<p class="text-brand-dim text-xs mt-1 line-clamp-3">${m.desc || ''}</p>` +
           `<span class="inline-block mt-2 text-[10px] text-brand-coral font-bold uppercase">${m.status || ''} · Read on MangaDex →</span></div>`;
