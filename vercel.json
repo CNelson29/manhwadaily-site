@@ -53,6 +53,8 @@
     { "source": "/manhwa-where-mc-is-op-from-the-start", "destination": "/best-manhwa-where-mc-is-op", "permanent": true },
     { "source": "/manhwa-where-mc-is-op-from-the-start/", "destination": "/best-manhwa-where-mc-is-op/", "permanent": true },
     { "source": "/best-manhwa-where-mc-becomes-op", "destination": "/best-manhwa-where-mc-is-op", "permanent": true },
-    { "source": "/best-manhwa-where-mc-becomes-op/", "destination": "/best-manhwa-where-mc-is-op/", "permanent": true }
+    { "source": "/best-manhwa-where-mc-becomes-op/", "destination": "/best-manhwa-where-mc-is-op/", "permanent": true },
+    { "source": "/manhwa-vs-manga-difference-guide", "destination": "/manhwa-vs-manga-difference-which-to-read", "permanent": true },
+    { "source": "/manhwa-vs-manga-difference-guide/", "destination": "/manhwa-vs-manga-difference-which-to-read/", "permanent": true }
   ]
 }

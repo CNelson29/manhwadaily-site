@@ -6,7 +6,7 @@ category: "Guides"
 tags: ["manhwa vs manga", "guide", "beginner", "webtoon", "manhwa"]
 type: "rankings"
 image: "/images/posts/manhwa-vs-manga-difference-guide-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## What Is Manhwa — And Why Is Everyone Suddenly Reading It?

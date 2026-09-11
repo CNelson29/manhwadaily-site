@@ -19,14 +19,25 @@ const matched   = coverForBody(post.body);
 const heroImage = matched?.cover ?? data.image;
 const allPosts = (await getCollection('posts', ({ data }) => !data.draft))
   .sort((a, b) => a.data.date < b.data.date ? 1 : -1);
+// Most topically similar first (shared tags, shared title keywords, same category), then
+// newest — so an isekai post suggests isekai lists, not just the latest post in the category.
+const STOP = new Set(['best','manhwa','manhwas','the','a','an','for','of','to','and','vs','is','it','in','on','with','how','what','which','top','read','ranked','2024','2025','2026','2027']);
+const words = (s: string) => new Set(s.toLowerCase().split(/[^a-z0-9]+/).filter(w => w.length > 2 && !STOP.has(w)));
+const tagSet = (t: string[] = []) => new Set(t.map(x => x.toLowerCase().replace(/[-_]/g, ' ').trim()));
+const myTags = tagSet(data.tags);
+const myWords = words(data.title);
+const relScore = (p: typeof post) => {
+  let s = p.data.category === data.category ? 2 : 0;
+  for (const t of tagSet(p.data.tags)) if (myTags.has(t)) s += 3;
+  for (const w of words(p.data.title)) if (myWords.has(w)) s += 2;
+  return s;
+};
 const relatedPosts = allPosts
   .filter(p => p.slug !== post.slug)
-  .sort((a, b) => {
-    const aScore = a.data.category === data.category ? 0 : 1;
-    const bScore = b.data.category === data.category ? 0 : 1;
-    return aScore - bScore || (a.data.date < b.data.date ? 1 : -1);
-  })
-  .slice(0, 4);
+  .map(p => ({ p, s: relScore(p) }))
+  .sort((a, b) => b.s - a.s || (a.p.data.date < b.p.data.date ? 1 : -1))
+  .slice(0, 4)
+  .map(({ p }) => p);
 
 const dateFormatted = new Date(data.date).toLocaleDateString('en-US', {
   month: 'long', day: 'numeric', year: 'numeric',
