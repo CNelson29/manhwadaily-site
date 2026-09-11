@@ -118,4 +118,8 @@ Our score: **8.3/10**
 [Read Who Made Me a Princess on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
 
 ## Sources Checked
-- [ChapterBrief — Best Manhwa Psychological Thrillers 2026](https://www.chapterbrief.net/blog/best-manhwa-psychological-thriller)- [Game Rant — Best Psychological Manhwa Ranked](https://gamerant.com/best-psychological-manhwa/)- [Game Rant — Best Psychological Horror Manhwa](https://gamerant.com/best-psychological-horror-manhwa/)- [AnimeMangaToon — 18 Best Psychological Manhwa](https://animemangatoon.com/best-psychological-manhwa-you-should-read-now/)- [CBR — Best Manhwa Recommendations](https://www.cbr.com/perfect-manhwa-recommendations)
+- [ChapterBrief — Best Manhwa Psychological Thrillers 2026](https://www.chapterbrief.net/blog/best-manhwa-psychological-thriller)
+- [Game Rant — Best Psychological Manhwa Ranked](https://gamerant.com/best-psychological-manhwa/)
+- [Game Rant — Best Psychological Horror Manhwa](https://gamerant.com/best-psychological-horror-manhwa/)
+- [AnimeMangaToon — 18 Best Psychological Manhwa](https://animemangatoon.com/best-psychological-manhwa-you-should-read-now/)
+- [CBR — Best Manhwa Recommendations](https://www.cbr.com/perfect-manhwa-recommendations)

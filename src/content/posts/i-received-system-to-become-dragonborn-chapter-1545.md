@@ -15,7 +15,11 @@ Long-running system fantasy light novels earn their readership the hard way — 
 
 ## Spotlight: I Received System to Become Dragonborn
 
-**Genre:** System Fantasy · Action · Adventure**Status:** Ongoing | Chapter 1545 now available**Read at:** [FreeWebNovel — Jump to Chapter 1545](https://freewebnovel.com/novel/i-received-system-to-become-dragonborn/chapter-1545)
+**Genre:** System Fantasy · Action · Adventure
+
+**Status:** Ongoing | Chapter 1545 now available
+
+**Read at:** [FreeWebNovel — Jump to Chapter 1545](https://freewebnovel.com/novel/i-received-system-to-become-dragonborn/chapter-1545)
 
 The premise is built on a class divide that feels genuinely hostile: Elves swept through Earth years ago, and the nation of Ascaria adapted by quietly deciding who gets to survive comfortably and who gets thrown at the front lines. The wealthy and well-connected shelter behind reinforced walls. Everyone else — the poor, the criminal, the politically convenient — bleeds in their place. Erend Drake is on the wrong side of that line, until a system activates in him and hands him access to Dragonborn power: the kind of ability that the world's gatekeepers never intended to reach someone in his position.
 
@@ -30,4 +34,7 @@ Also available to read at: [NovelLive](https://novellive.com/book/i-received-sys
 If the dual-progression angle appeals to you, **Murim Login** runs a similar satisfaction loop from a different angle: a low-rank modern hunter trains in a virtual murim world while his real body sleeps, and the martial arts skills he earns there start bleeding into real-world combat. Two tracks, one protagonist, and a very clean sense of earned competence. Highly regarded among system fantasy readers in 2026.
 
 ## Sources Checked
-- [FreeWebNovel — Chapter 1545](https://freewebnovel.com/novel/i-received-system-to-become-dragonborn/chapter-1545)- [NovelLive — Novel page](https://novellive.com/book/i-received-system-to-become-dragonborn)- [NowNovels — Reader info and ratings](https://www.nownovels.com/novelupdates/66576/)- [ChapterBrief — Best System Fantasy 2026](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)
+- [FreeWebNovel — Chapter 1545](https://freewebnovel.com/novel/i-received-system-to-become-dragonborn/chapter-1545)
+- [NovelLive — Novel page](https://novellive.com/book/i-received-system-to-become-dragonborn)
+- [NowNovels — Reader info and ratings](https://www.nownovels.com/novelupdates/66576/)
+- [ChapterBrief — Best System Fantasy 2026](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)

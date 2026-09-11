@@ -98,4 +98,8 @@ Han Jee-Han’s perception of reality shifts into something that functions exact
 [Search on Webtoon →](https://www.webtoons.com/en/search?keyword=The+Gamer)
 
 ## Sources Checked
-- [Chapter Brief — Best Long Running Manhwa: 10 Series Worth 300+ Chapters](https://www.chapterbrief.net/blog/best-manhwa-long-running)- [Chapter Brief — The Gamer Manhwa Review: 500 Chapters of System Fantasy](https://www.chapterbrief.net/blog/the-gamer-manhwa-review)- [Chapter Brief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Screen Rant — 20 Best Long Manhwa Every Fan Simply Must Read](https://screenrant.com/best-long-manhwa-binge-read/)- [Viewers Point — The 10 Best Manhwa of All Time (2026)](https://viewerspoint.com/anime/the-10-best-manhwa-of-all-time)
+- [Chapter Brief — Best Long Running Manhwa: 10 Series Worth 300+ Chapters](https://www.chapterbrief.net/blog/best-manhwa-long-running)
+- [Chapter Brief — The Gamer Manhwa Review: 500 Chapters of System Fantasy](https://www.chapterbrief.net/blog/the-gamer-manhwa-review)
+- [Chapter Brief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Screen Rant — 20 Best Long Manhwa Every Fan Simply Must Read](https://screenrant.com/best-long-manhwa-binge-read/)
+- [Viewers Point — The 10 Best Manhwa of All Time (2026)](https://viewerspoint.com/anime/the-10-best-manhwa-of-all-time)

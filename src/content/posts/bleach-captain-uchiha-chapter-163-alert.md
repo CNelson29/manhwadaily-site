@@ -24,6 +24,10 @@ For readers who love action-driven fan fiction that treats both source universes
 **Read at:** [FreeWebNovel — Bleach: This Captain is an Uchiha](https://freewebnovel.com/novel/bleach-this-captain-is-an-uchiha) · [Jump directly to Chapter 163](https://freewebnovel.com/novel/bleach-this-captain-is-an-uchiha/chapter-163)
 
 ## Also Available On
-- [WebNovel](https://m.webnovel.com/book/36156317000454905) (673K+ views, author: hollowborn2)- [NovelBuddy](https://novelbuddy.me/bleach-this-captain-is-an-uchiha) (updated regularly)
+- [WebNovel](https://m.webnovel.com/book/36156317000454905) (673K+ views, author: hollowborn2)
+- [NovelBuddy](https://novelbuddy.me/bleach-this-captain-is-an-uchiha) (updated regularly)
 ## Sources Checked
-- [FreeWebNovel — novel page](https://freewebnovel.com/novel/bleach-this-captain-is-an-uchiha)- [FreeWebNovel — Chapter 163 listing](https://freewebnovel.com/novel/bleach-this-captain-is-an-uchiha/chapter-163)- [WebNovel — novel page](https://m.webnovel.com/book/36156317000454905)- [NovelBuddy — novel listing](https://novelbuddy.me/bleach-this-captain-is-an-uchiha)
+- [FreeWebNovel — novel page](https://freewebnovel.com/novel/bleach-this-captain-is-an-uchiha)
+- [FreeWebNovel — Chapter 163 listing](https://freewebnovel.com/novel/bleach-this-captain-is-an-uchiha/chapter-163)
+- [WebNovel — novel page](https://m.webnovel.com/book/36156317000454905)
+- [NovelBuddy — novel listing](https://novelbuddy.me/bleach-this-captain-is-an-uchiha)

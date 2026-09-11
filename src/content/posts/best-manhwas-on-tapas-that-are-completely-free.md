@@ -2,7 +2,7 @@
 title: "Best Manhwas on Tapas That Are Completely Free"
 date: "2026-07-20"
 excerpt: "Discover the best free manhwa on Tapas in 2026 — action, romance, and BL series with hundreds of free episodes waiting for you to dive in today."
-category: "Guide"
+category: "Guides"
 tags: ["tapas", "free manhwa", "action", "romance", "isekai"]
 type: "rankings"
 image: "https://images.pexels.com/photos/27573818/pexels-photo-27573818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
@@ -82,4 +82,8 @@ A modern girl reincarnates as Melissa, the villainess of a romance novel, and im
 [Read Beware the Villainess! on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
 
 ## Sources Checked
-- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Tapas — Moonshine series page](https://tapas.io/series/Moonshine/info)- [Tapas — Past Life Returner series page](https://tapas.io/series/past-life-returner/info)- [Tapas — The Carefree Life of an SSS-Class Knight](https://tapas.io/series/the-carefree-life-of-an-sss-class-knight/info)- [Tapas — The Max Level Returner](https://tapas.io/series/the-max-level-returner/info)
+- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Tapas — Moonshine series page](https://tapas.io/series/Moonshine/info)
+- [Tapas — Past Life Returner series page](https://tapas.io/series/past-life-returner/info)
+- [Tapas — The Carefree Life of an SSS-Class Knight](https://tapas.io/series/the-carefree-life-of-an-sss-class-knight/info)
+- [Tapas — The Max Level Returner](https://tapas.io/series/the-max-level-returner/info)

@@ -38,4 +38,6 @@ The community rating of 9.7 out of 10, accumulated across more than 3,300 votes,
 **Read at:** [NowNovels — Into The Marvel Universe: A Reborn Sorcerer Novel](https://www.nownovels.com/novelupdates/320806/)
 
 ## Sources Checked
-- [Sorcerer In The Marvel Universe — WebNovel](https://m.webnovel.com/book/36378520600384205)- [Into The Marvel Universe: A Reborn Sorcerer Novel — NowNovels](https://www.nownovels.com/novelupdates/320806/)- [r/manhwa — Sorcerer King fan recommendations](https://www.reddit.com/r/manhwa/comments/hlhrj2/manhwa_like_im_the_sorcerer_king)
+- [Sorcerer In The Marvel Universe — WebNovel](https://m.webnovel.com/book/36378520600384205)
+- [Into The Marvel Universe: A Reborn Sorcerer Novel — NowNovels](https://www.nownovels.com/novelupdates/320806/)
+- [r/manhwa — Sorcerer King fan recommendations](https://www.reddit.com/r/manhwa/comments/hlhrj2/manhwa_like_im_the_sorcerer_king)

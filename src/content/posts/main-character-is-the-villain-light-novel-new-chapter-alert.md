@@ -28,4 +28,7 @@ The villain-protagonist romance angle that tends to pull readers toward titles i
 **Read it at:** [Dreamy Translations — The Main Character is the Villain](https://dreamy-translations.com/novel/tpiav) (231 free chapters + 20 premium). Chapter release updates are also tracked on [Novel Updates](https://www.novelupdates.com/series/the-main-character-is-the-villain/) for readers who prefer to follow there.
 
 ## Sources Checked
-- [Dreamy Translations — series page](https://dreamy-translations.com/novel/tpiav)- [Novel Updates — series listing and tag breakdown](https://www.novelupdates.com/series/the-main-character-is-the-villain/)- [Doujiva — manhwa adaptation (96 chapters, completed)](https://doujiva.com/manga/the-main-character-is-the-villain)- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Dreamy Translations — series page](https://dreamy-translations.com/novel/tpiav)
+- [Novel Updates — series listing and tag breakdown](https://www.novelupdates.com/series/the-main-character-is-the-villain/)
+- [Doujiva — manhwa adaptation (96 chapters, completed)](https://doujiva.com/manga/the-main-character-is-the-villain)
+- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)

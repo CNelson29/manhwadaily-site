@@ -98,4 +98,8 @@ Married into a powerful CEO's world under circumstances neither party fully chos
 [Read on Webtoon →](https://www.webtoons.com/en/search?keyword=The+Wicked+Wife+of+a+Scheming+CEO)
 
 ## Sources Checked
-- [Best CEO Male Leads In Manhwa — GameRant](https://gamerant.com/manhwa-best-ceo-male-leads/)- [Best Office and Workplace Romance Manhwa — GameRant](https://gamerant.com/best-office-workplace-romance-manhwa/)- [8 Best CEO Male Leads in Manhwa — MyAnimeList Interest Stacks](https://myanimelist.net/stacks/56347)- [CEO's Top Secret — MangaUpdates](https://www.mangaupdates.com/series/a6cup16/ceo-s-top-secret)- [A Business Proposal — MangaBaka](https://mangabaka.org/33768)
+- [Best CEO Male Leads In Manhwa — GameRant](https://gamerant.com/manhwa-best-ceo-male-leads/)
+- [Best Office and Workplace Romance Manhwa — GameRant](https://gamerant.com/best-office-workplace-romance-manhwa/)
+- [8 Best CEO Male Leads in Manhwa — MyAnimeList Interest Stacks](https://myanimelist.net/stacks/56347)
+- [CEO's Top Secret — MangaUpdates](https://www.mangaupdates.com/series/a6cup16/ceo-s-top-secret)
+- [A Business Proposal — MangaBaka](https://mangabaka.org/33768)

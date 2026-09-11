@@ -108,4 +108,8 @@ Firentia was born between two worlds and dismissed in both. After reincarnating 
 [Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
 
 ## Sources Checked
-- [Without Saying I Like You — atsu.moe](https://atsu.moe/manga/IulP)- [Without Saying I Like You — MangaNato](https://www.manganato.gg/manga/without-saying-i-like-you)- [Without Saying I Like You — MangaK](https://mangak.io/without-saying-i-like-you)- [30 Peak Enemies to Lovers Manhwa — BestInRomance](https://bestinromance.com/enemies-to-lovers-manhwa/)- [Best Manhwa Reviews 2026 — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-reviews-2026)
+- [Without Saying I Like You — atsu.moe](https://atsu.moe/manga/IulP)
+- [Without Saying I Like You — MangaNato](https://www.manganato.gg/manga/without-saying-i-like-you)
+- [Without Saying I Like You — MangaK](https://mangak.io/without-saying-i-like-you)
+- [30 Peak Enemies to Lovers Manhwa — BestInRomance](https://bestinromance.com/enemies-to-lovers-manhwa/)
+- [Best Manhwa Reviews 2026 — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-reviews-2026)

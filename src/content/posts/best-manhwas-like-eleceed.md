@@ -98,4 +98,8 @@ A skeleton soldier who exists only to protect its master Lady Succubus watches h
 [Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
 
 ## Sources Checked
-- [Manhwa Like Eleceed: 8 Series Sorted by What Hooked You — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-eleceed)- [Best Manhwa to Read in 2026: 20 Series Worth Your Time — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Best Manhwa Supernatural: 11 Series Worth Your Time — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-supernatural)- [Best Manhwa Like Eleceed — ObyWeb](https://obyweb.com/manhwa/eleceed/)- [The 15 Best Manhwa Like Eleceed You Must Read — HubPages](https://discover.hubpages.com/literature/the-best-manhwa-like-eleceed-you-must-read)
+- [Manhwa Like Eleceed: 8 Series Sorted by What Hooked You — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-eleceed)
+- [Best Manhwa to Read in 2026: 20 Series Worth Your Time — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Best Manhwa Supernatural: 11 Series Worth Your Time — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-supernatural)
+- [Best Manhwa Like Eleceed — ObyWeb](https://obyweb.com/manhwa/eleceed/)
+- [The 15 Best Manhwa Like Eleceed You Must Read — HubPages](https://discover.hubpages.com/literature/the-best-manhwa-like-eleceed-you-must-read)

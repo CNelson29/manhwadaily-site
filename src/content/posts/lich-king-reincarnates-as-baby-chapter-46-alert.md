@@ -24,7 +24,9 @@ What sets it apart from typical reincarnation stories is the weight of Lord Drea
 ## Why Chapter 46 Is a Good Entry Signal
 
 Reaching chapter 46 with active serialization and a dedicated Patreon following means *The Lich King Reincarnates as a Baby* has built a real readership. The chapter list through Book 3 shows titles like "Schemes Within Schemes" and "The Knowledge of Wizards" — exactly the kind of political intrigue and magical maneuvering that dark fantasy readers gravitate toward. Chapter 46, "Information and Hope," suggests the arc is moving into a phase where Lord Dread's long game starts bearing visible fruit.
-- **Strong isekai premise with a villain-protagonist twist** — satisfying if you enjoy series where the protagonist is the most dangerous person in the room, even when disguised as a child.- **Active serialization with a real archive** — plenty of chapters already available to binge before catching up to the latest releases.- **Dual-platform release** — Royal Road for free public chapters, Patreon for early access.
+- **Strong isekai premise with a villain-protagonist twist** — satisfying if you enjoy series where the protagonist is the most dangerous person in the room, even when disguised as a child.
+- **Active serialization with a real archive** — plenty of chapters already available to binge before catching up to the latest releases.
+- **Dual-platform release** — Royal Road for free public chapters, Patreon for early access.
 If villain-protagonist stories, slow-burn power rebuilding, or dark fantasy with political scheming are your genre, this one belongs on your reading list.
 
 **Read it at Royal Road:** [The Lich King Reincarnates as a Baby on Royal Road](https://www.royalroad.com/fiction/154956/the-lich-king-reincarnates-as-a-baby)
@@ -32,4 +34,7 @@ If villain-protagonist stories, slow-burn power rebuilding, or dark fantasy with
 Early chapters and advance releases are also available on the [authors' Patreon (TheBooksofORAR)](https://www.patreon.com/TheBooksofORAR).
 
 ## Sources Checked
-- [Royal Road — Series Page](https://www.royalroad.com/fiction/154956/the-lich-king-reincarnates-as-a-baby)- [Royal Road — Book 3 Chapter 46: Prodigious](https://www.royalroad.com/fiction/154956/the-lich-king-reincarnates-as-a-baby/chapter/3892839/book-3-chapter-46-prodigious)- [Patreon — Chapter 46 post](https://www.patreon.com/TheBooksofORAR/posts/lich-king-as-46-153493934)- [ProgressReads — Synopsis & Review](https://progressreads.com/novels/the-lich-king-reincarnates-as-a-baby)
+- [Royal Road — Series Page](https://www.royalroad.com/fiction/154956/the-lich-king-reincarnates-as-a-baby)
+- [Royal Road — Book 3 Chapter 46: Prodigious](https://www.royalroad.com/fiction/154956/the-lich-king-reincarnates-as-a-baby/chapter/3892839/book-3-chapter-46-prodigious)
+- [Patreon — Chapter 46 post](https://www.patreon.com/TheBooksofORAR/posts/lich-king-as-46-153493934)
+- [ProgressReads — Synopsis & Review](https://progressreads.com/novels/the-lich-king-reincarnates-as-a-baby)

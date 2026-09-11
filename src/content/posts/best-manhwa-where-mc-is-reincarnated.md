@@ -118,4 +118,7 @@ Powerless Prince Davey O'Rowane is struck by an enemy's arrow and falls into a c
 [Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
 
 ## Sources Checked
-- [Best Reincarnation Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-reincarnation)- [Best Isekai Manhwa Ranked for 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-isekai-manhwa)- [Popular Reincarnation Manhwa Stack — MyAnimeList](https://myanimelist.net/stacks/55486)- [Top 5 Best Reincarnation Manhwa 2026 — The Manhwa Dude](https://www.themanhwadude.com/blog/top-5-best-reincarnation-manhwa-to-read-in-2026)
+- [Best Reincarnation Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-reincarnation)
+- [Best Isekai Manhwa Ranked for 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-isekai-manhwa)
+- [Popular Reincarnation Manhwa Stack — MyAnimeList](https://myanimelist.net/stacks/55486)
+- [Top 5 Best Reincarnation Manhwa 2026 — The Manhwa Dude](https://www.themanhwadude.com/blog/top-5-best-reincarnation-manhwa-to-read-in-2026)

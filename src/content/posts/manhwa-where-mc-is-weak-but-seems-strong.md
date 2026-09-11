@@ -108,4 +108,7 @@ Sung Jinwoo begins as the weakest E-rank hunter in a world overrun by monsters s
 [Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
 
 ## Sources Checked
-- [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [Secretly More Powerful than the Hero — MyAnimeList](https://myanimelist.net/manga/165324/Secretly_More_Powerful_than_the_Hero)- [Weak but acts strong discussion — Quora](https://www.quora.com/What-is-the-manga-where-MC-is-weak-but-acts-strong-or-everyone-thinks-he-is-strong-I-have-already-read-High-School-Stormbringer-and-MX0)- [MangaDex — verified title pages](https://mangadex.org)
+- [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [Secretly More Powerful than the Hero — MyAnimeList](https://myanimelist.net/manga/165324/Secretly_More_Powerful_than_the_Hero)
+- [Weak but acts strong discussion — Quora](https://www.quora.com/What-is-the-manga-where-MC-is-weak-but-acts-strong-or-everyone-thinks-he-is-strong-I-have-already-read-High-School-Stormbringer-and-MX0)
+- [MangaDex — verified title pages](https://mangadex.org)

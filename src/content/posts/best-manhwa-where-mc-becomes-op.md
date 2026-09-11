@@ -98,4 +98,7 @@ Penelope Eckart is reincarnated as the adopted villainess of a reverse-harem dat
 Read on [MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23) · [Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
 
 ## Sources Checked
-- [Best Manhwa with OP MC: 10 Must-Read Series in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [10 Best System Manhwa with OP MC (2026) — NovelNodes](https://novelnodes.com/best-system-manhwa-op-mc)- [Best Manhwa With OP MCs — Game Rant](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)- [10 Best Isekai Manhwa with OP MC — NovelNodes](https://novelnodes.com/best-isekai-manhwa-op-mc/)
+- [Best Manhwa with OP MC: 10 Must-Read Series in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [10 Best System Manhwa with OP MC (2026) — NovelNodes](https://novelnodes.com/best-system-manhwa-op-mc)
+- [Best Manhwa With OP MCs — Game Rant](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)
+- [10 Best Isekai Manhwa with OP MC — NovelNodes](https://novelnodes.com/best-isekai-manhwa-op-mc/)

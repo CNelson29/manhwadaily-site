@@ -116,4 +116,8 @@ Sung Jinwoo started as the weakest hunter in a world where Gates connect humanit
 [Read on MangaDex →](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Physical volumes on Amazon →](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20)
 
 ## Sources Checked
-- [Game Rant — Best Complete Isekai Manhwa](https://gamerant.com/best-complete-isekai-manhwa/)- [MyAnimeList — Best Completed Isekai Manhwa Stack](https://myanimelist.net/stacks/44019)- [ChapterBrief — Best Isekai Manhwa Ranked for 2026](https://www.chapterbrief.net/blog/best-isekai-manhwa)- [YouTube — Top 10 Complete Manhwa You Can Binge in 2026](https://www.youtube.com/watch?v=VDVsawJOB0E)- [ChapterBrief — Best Completed Manhwa to Binge Now](https://www.chapterbrief.net/blog/best-completed-manhwa)
+- [Game Rant — Best Complete Isekai Manhwa](https://gamerant.com/best-complete-isekai-manhwa/)
+- [MyAnimeList — Best Completed Isekai Manhwa Stack](https://myanimelist.net/stacks/44019)
+- [ChapterBrief — Best Isekai Manhwa Ranked for 2026](https://www.chapterbrief.net/blog/best-isekai-manhwa)
+- [YouTube — Top 10 Complete Manhwa You Can Binge in 2026](https://www.youtube.com/watch?v=VDVsawJOB0E)
+- [ChapterBrief — Best Completed Manhwa to Binge Now](https://www.chapterbrief.net/blog/best-completed-manhwa)

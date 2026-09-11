@@ -122,4 +122,8 @@ Leslie Sperado's entire life has been sacrificed for her sister's social advance
 2025 proved that manhwa's range is its greatest strength. Action readers, romance readers, and fans of psychological storytelling all had more than enough to love — and with several of these series now fully completed, there has never been a better moment to binge the entries you missed. Work through this list in any order; every title here earns its place.
 
 ## Sources checked
-- [CBR — 10 Best New Manhwa of 2025, Officially Ranked](https://www.cbr.com/best-new-manhwa-ranking-2025/)- [K-Comics Beat — Best Manga & Manhwa of 2025](https://kcomicsbeat.com/2025/12/12/best-manga-and-manhwa-of-2025/)- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Game Rant — Best Manhwa to Start Reading in 2025](https://gamerant.com/best-manhwa-to-start-reading-in-2025/)- [Webtoon — Popular Series Rankings](https://www.webtoons.com/en/ranking)
+- [CBR — 10 Best New Manhwa of 2025, Officially Ranked](https://www.cbr.com/best-new-manhwa-ranking-2025/)
+- [K-Comics Beat — Best Manga & Manhwa of 2025](https://kcomicsbeat.com/2025/12/12/best-manga-and-manhwa-of-2025/)
+- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Game Rant — Best Manhwa to Start Reading in 2025](https://gamerant.com/best-manhwa-to-start-reading-in-2025/)
+- [Webtoon — Popular Series Rankings](https://www.webtoons.com/en/ranking)

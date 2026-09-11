@@ -104,4 +104,7 @@ The best entries share a few traits worth watching for when you pick your next r
 If you've already finished Solo Leveling and ORV, SSS-Class Revival Hunter is the natural next step — it delivers the same tower-climbing satisfaction with a time-loop twist that keeps the progression feeling fresh across its full run.
 
 ## Sources Checked
-- [Best System Fantasy Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)- [10 Best System Manhwa with OP MC — NovelNodes](https://novelnodes.com/best-system-manhwa-op-mc/)- [MangaDex (title verification)](https://mangadex.org)- [The Ultimate Wantless Godly Rich System — ManhwaBato](https://www.manhwabato.com/manga/the-ultimate-wantless-godly-rich-system)
+- [Best System Fantasy Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)
+- [10 Best System Manhwa with OP MC — NovelNodes](https://novelnodes.com/best-system-manhwa-op-mc/)
+- [MangaDex (title verification)](https://mangadex.org)
+- [The Ultimate Wantless Godly Rich System — ManhwaBato](https://www.manhwabato.com/manga/the-ultimate-wantless-godly-rich-system)

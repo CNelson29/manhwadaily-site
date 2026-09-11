@@ -80,6 +80,12 @@ A modern woman wakes up as the villain of a clichéd romance novel and immediate
 **Why it's great:** Completed from start to finish, genuinely funny, and tonally distinct enough to feel like a palette cleanser. The best pick on this list if you want something lighter that still delivers a protagonist who refuses to stay weak.
 
 ## Completion Status at a Glance
-- **Completed:** Solo Leveling, A Returner's Magic Should Be Special, Beware the Villainess!- **Ongoing (top tier):** Omniscient Reader's Viewpoint, SSS-Class Revival Hunter, The Skeleton Soldier Failed to Defend the Dungeon, The Max Level Hero Strikes Back- **Hiatus / Seasonal:** Second Life Ranker
+- **Completed:** Solo Leveling, A Returner's Magic Should Be Special, Beware the Villainess!
+- **Ongoing (top tier):** Omniscient Reader's Viewpoint, SSS-Class Revival Hunter, The Skeleton Soldier Failed to Defend the Dungeon, The Max Level Hero Strikes Back
+- **Hiatus / Seasonal:** Second Life Ranker
 ## Sources Checked
-- [Chapterbrief: Completed Manhwa Like Solo Leveling (May 2026)](https://www.chapterbrief.net/blog/completed-manhwa-like-solo-leveling)- [Chapterbrief: 16 Best Manhwa Like Solo Leveling for 2026](https://www.chapterbrief.net/blog/manhwa-like-solo-leveling)- [Novelnodes: 15 Best Manhwa Like Solo Leveling — OP MC + Systems Ranked](https://novelnodes.com/manhwa-like-solo-leveling/)- [Chapterbrief: Best Action Manhwa 2026](https://www.chapterbrief.net/blog/best-action-manhwa-2026)- [CBR: 10 Greatest Manhwa for Action Anime Fans (July 2026)](https://www.cbr.com/official-greatest-manhwa-for-action-anime-fans/)
+- [Chapterbrief: Completed Manhwa Like Solo Leveling (May 2026)](https://www.chapterbrief.net/blog/completed-manhwa-like-solo-leveling)
+- [Chapterbrief: 16 Best Manhwa Like Solo Leveling for 2026](https://www.chapterbrief.net/blog/manhwa-like-solo-leveling)
+- [Novelnodes: 15 Best Manhwa Like Solo Leveling — OP MC + Systems Ranked](https://novelnodes.com/manhwa-like-solo-leveling/)
+- [Chapterbrief: Best Action Manhwa 2026](https://www.chapterbrief.net/blog/best-action-manhwa-2026)
+- [CBR: 10 Greatest Manhwa for Action Anime Fans (July 2026)](https://www.cbr.com/official-greatest-manhwa-for-action-anime-fans/)

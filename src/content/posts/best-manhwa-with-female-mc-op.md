@@ -88,4 +88,8 @@ For this list, OP means the protagonist is systematically ahead of her situation
 Most of these titles are isekai or reincarnation stories, which is where the genre concentrates its strongest female OP protagonists. The villainess-to-mastermind arc is especially well-represented because the trope rewards exactly the kind of strategic, ahead-of-the-curve play readers come to this genre for. If you enjoy any title on this list, working through the others is worth your time.
 
 ## Sources checked
-- [Best Manhwa With OP Female Lead — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-with-op-female-lead)- [Romance Manhwa with an OP Female MC — BestInRomance](https://bestinromance.com/romance-manhwa-with-an-op-female-mc-16-recommendations/)- [Best Isekai Manhwa With OP Female MC — Game Rant](https://gamerant.com/best-isekai-manhwa-with-op-female-mc/)- [Badass Female Protagonists After Reincarnation — CBR](https://www.cbr.com/best-manhwas-female-protagonists-badass-after-reincarnation/)- [MangaDex — verified title pages](https://mangadex.org)
+- [Best Manhwa With OP Female Lead — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-with-op-female-lead)
+- [Romance Manhwa with an OP Female MC — BestInRomance](https://bestinromance.com/romance-manhwa-with-an-op-female-mc-16-recommendations/)
+- [Best Isekai Manhwa With OP Female MC — Game Rant](https://gamerant.com/best-isekai-manhwa-with-op-female-mc/)
+- [Badass Female Protagonists After Reincarnation — CBR](https://www.cbr.com/best-manhwas-female-protagonists-badass-after-reincarnation/)
+- [MangaDex — verified title pages](https://mangadex.org)

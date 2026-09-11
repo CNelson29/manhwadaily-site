@@ -34,4 +34,7 @@ Across multiple reading platforms the novel holds a consistent 8.5/10 from well 
 Readers who enjoy high-concept survival premises in this vein often point toward *Tower of God* and *Solo Leveling* for their intense world-building and lone-protagonist dynamics. For long-form light novel ambition, *Mushoku Tensei* is frequently cited as a benchmark for stories that balance scope with character depth.
 
 ## Sources Checked
-- [Novellaaa.com — novel listing and ratings](https://www.novellaaa.com/bk/the-first-superhuman-rebuilding-civilization-from-the-moon/)- [LightReader.com — author and release cadence](https://www.lightreader.com/story/34781775208263105)- [Area51Novel.com — community ratings and chapter index](https://www.area51novel.com/novelupdates/372688/)- [BoxNovela.com — novel summary and status](https://boxnovela.com/novel/the-first-superhuman-rebuilding-civilization-from-the-moon/)
+- [Novellaaa.com — novel listing and ratings](https://www.novellaaa.com/bk/the-first-superhuman-rebuilding-civilization-from-the-moon/)
+- [LightReader.com — author and release cadence](https://www.lightreader.com/story/34781775208263105)
+- [Area51Novel.com — community ratings and chapter index](https://www.area51novel.com/novelupdates/372688/)
+- [BoxNovela.com — novel summary and status](https://boxnovela.com/novel/the-first-superhuman-rebuilding-civilization-from-the-moon/)

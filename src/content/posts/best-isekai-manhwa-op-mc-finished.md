@@ -114,4 +114,8 @@ Yeonwoo discovers his twin brother was betrayed and murdered inside a mysterious
 [Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
 
 ## Sources Checked
-- [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [The Greatest Estate Developer Review — ChapterBrief](https://www.chapterbrief.net/blog/the-greatest-estate-developer-review)- [The Greatest Estate Developer — MyAnimeList](https://myanimelist.net/manga/147272/The_Greatest_Estate_Developer)- [30 Best Isekai Manhwa Recommendations — CBR](https://www.cbr.com/best-isekai-manhwa-recommendations/)- [Recently Completed Manhwa (Jan 2026) — MyAnimeList](https://myanimelist.net/stacks/80030)
+- [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [The Greatest Estate Developer Review — ChapterBrief](https://www.chapterbrief.net/blog/the-greatest-estate-developer-review)
+- [The Greatest Estate Developer — MyAnimeList](https://myanimelist.net/manga/147272/The_Greatest_Estate_Developer)
+- [30 Best Isekai Manhwa Recommendations — CBR](https://www.cbr.com/best-isekai-manhwa-recommendations/)
+- [Recently Completed Manhwa (Jan 2026) — MyAnimeList](https://myanimelist.net/stacks/80030)

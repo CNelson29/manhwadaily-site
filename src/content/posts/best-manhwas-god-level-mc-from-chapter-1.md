@@ -82,4 +82,7 @@ Aria lives as a villain's daughter, dies unjustly, and is given one chance to re
 [Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
 
 ## Sources Checked
-- [Best Manhwa with OP MC: 10 Must-Read Series in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [Best Manhwa to Read in 2026: 30 Series — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Best Manhwa With OP MCs — Game Rant](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)- [8 Best System Manhwa for Solo Leveling Fans — MangaTime](https://mangatime.app/en/articles/%D8%A3%D9%81%D8%B6%D9%84-8-%D9%85%D8%A7%D9%86%D9%87%D9%88%D8%A7-system-%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%84%D8%B9%D8%B4%D8%A7%D9%82-solo-leveling-%D9%88-tomb-raider-king)
+- [Best Manhwa with OP MC: 10 Must-Read Series in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [Best Manhwa to Read in 2026: 30 Series — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Best Manhwa With OP MCs — Game Rant](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)
+- [8 Best System Manhwa for Solo Leveling Fans — MangaTime](https://mangatime.app/en/articles/%D8%A3%D9%81%D8%B6%D9%84-8-%D9%85%D8%A7%D9%86%D9%87%D9%88%D8%A7-system-%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%84%D8%B9%D8%B4%D8%A7%D9%82-solo-leveling-%D9%88-tomb-raider-king)

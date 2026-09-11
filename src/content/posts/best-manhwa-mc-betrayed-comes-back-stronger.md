@@ -118,4 +118,8 @@ Leslie's entire childhood was spent being used as a stepping stone for her siste
 [Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
 
 ## Sources Checked
-- [MyAnimeGuru — Best Manhwa Where MC Gets Betrayed (Ranked)](https://myanimeguru.com/manhwa-where-mc-gets-betrayed/)- [NovelNodes — Best Revenge Manhwa with Ruthless OP MC (2026)](https://novelnodes.com/best-revenge-manhwa/)- [AnimeWelt — Manhwa Where MC Is Betrayed and Becomes OP](https://animewelt.com/manhwa-where-mc-is-betrayed-and-becomes-op/)- [Game Rant — Best Isekai Manhwa Where the MC Is Betrayed](https://gamerant.com/best-isekai-manhwa-protagonist-betrayed/)- [Screen Rant — 15 Greatest Revenge Manhwa on Webtoon](https://screenrant.com/best-revenge-manhwa-webtoons/)
+- [MyAnimeGuru — Best Manhwa Where MC Gets Betrayed (Ranked)](https://myanimeguru.com/manhwa-where-mc-gets-betrayed/)
+- [NovelNodes — Best Revenge Manhwa with Ruthless OP MC (2026)](https://novelnodes.com/best-revenge-manhwa/)
+- [AnimeWelt — Manhwa Where MC Is Betrayed and Becomes OP](https://animewelt.com/manhwa-where-mc-is-betrayed-and-becomes-op/)
+- [Game Rant — Best Isekai Manhwa Where the MC Is Betrayed](https://gamerant.com/best-isekai-manhwa-protagonist-betrayed/)
+- [Screen Rant — 15 Greatest Revenge Manhwa on Webtoon](https://screenrant.com/best-revenge-manhwa-webtoons/)

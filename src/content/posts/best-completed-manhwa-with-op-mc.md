@@ -88,4 +88,8 @@ Leslie, the overlooked youngest daughter of a noble family whose talents were qu
 Read on [MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
 
 ## Sources Checked
-- [ChapterBrief — Best Manhwa with OP MC 2026](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [ChapterBrief — Best Completed Manhwa 2026](https://www.chapterbrief.net/blog/best-completed-manhwa)- [Game Rant — Best Manhwa With OP MCs (updated Feb 2026)](https://gamerant.com/best-manhwa-with-overpowered-main-characters)- [Screen Rant — 15 Best Completed Manhwa](https://screenrant.com/best-completed-manhwa)- [MangaDex — all title pages verified](https://mangadex.org)
+- [ChapterBrief — Best Manhwa with OP MC 2026](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [ChapterBrief — Best Completed Manhwa 2026](https://www.chapterbrief.net/blog/best-completed-manhwa)
+- [Game Rant — Best Manhwa With OP MCs (updated Feb 2026)](https://gamerant.com/best-manhwa-with-overpowered-main-characters)
+- [Screen Rant — 15 Best Completed Manhwa](https://screenrant.com/best-completed-manhwa)
+- [MangaDex — all title pages verified](https://mangadex.org)

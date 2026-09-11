@@ -106,4 +106,8 @@ Penelope Eckart wakes up inside a reverse harem dating sim as the game's villain
 **Our score: 8.6/10** — [Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
 
 ## Sources Checked
-- [10 Best Villain MC Manhwa Ranked — NovelNodes](https://novelnodes.com/best-villain-mc-manhwa/)- [Best Manhwa With Pure Evil Protagonists — Game Rant](https://gamerant.com/best-manhwa-with-evil-protagonists/)- [Best Manhwa With Villainous Protagonists — Game Rant](https://gamerant.com/best-manhwa-with-villainous-protagonists/)- [Webtoon Popular Rankings](https://m.webtoons.com/en/ranking/popular)- [The 21 Best Villain Manhwa — HubPages](https://discover.hubpages.com/literature/the-best-villain-manhwa-webtoons-you-must-read)
+- [10 Best Villain MC Manhwa Ranked — NovelNodes](https://novelnodes.com/best-villain-mc-manhwa/)
+- [Best Manhwa With Pure Evil Protagonists — Game Rant](https://gamerant.com/best-manhwa-with-evil-protagonists/)
+- [Best Manhwa With Villainous Protagonists — Game Rant](https://gamerant.com/best-manhwa-with-villainous-protagonists/)
+- [Webtoon Popular Rankings](https://m.webtoons.com/en/ranking/popular)
+- [The 21 Best Villain Manhwa — HubPages](https://discover.hubpages.com/literature/the-best-villain-manhwa-webtoons-you-must-read)

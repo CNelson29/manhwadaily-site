@@ -82,4 +82,8 @@ A hundred children are trapped together and forged through brutal hardship into 
 [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Demon+God)
 
 ## Sources Checked
-- [Best Manhwa with OP MC: 10 Must-Read Series in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [10 Best System Manhwa with OP MC (2026) — NovelNodes](https://novelnodes.com/best-system-manhwa-op-mc)- [Level Up With the Gods — MangaUpdates](https://www.mangaupdates.com/series/his7tyi/level-up-with-the-gods)- [The Knight King Who Returned With a God — MangaUpdates](https://www.mangaupdates.com/series/sdog92t/the-knight-king-who-returned-with-a-god)- [The Demon God — Era Scans](https://erascans.com/series/the-demon-god/)
+- [Best Manhwa with OP MC: 10 Must-Read Series in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [10 Best System Manhwa with OP MC (2026) — NovelNodes](https://novelnodes.com/best-system-manhwa-op-mc)
+- [Level Up With the Gods — MangaUpdates](https://www.mangaupdates.com/series/his7tyi/level-up-with-the-gods)
+- [The Knight King Who Returned With a God — MangaUpdates](https://www.mangaupdates.com/series/sdog92t/the-knight-king-who-returned-with-a-god)
+- [The Demon God — Era Scans](https://erascans.com/series/the-demon-god/)

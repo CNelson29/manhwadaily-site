@@ -102,4 +102,8 @@ The strongest swordsman of a dying martial sect dies of exhaustion after winning
 **The Tutorial Tower of the Advanced Player** and **Lout of Count's Family** are also worth a look for the same useless-noble-to-prodigy arc — both are frequently recommended alongside TBATE in fan tier lists.
 
 ## Sources checked
-- [The Escapist — 10 Best Manhwa Like The Beginning After The End](https://www.escapistmagazine.com/best-manhwa-like-the-beginning-after-the-end)- [Book Riot via PublishersGlobal — 6 Manhwa and Manga Like TBATE](https://news.publishersglobal.com/story/show/6-manhwa-and-manga-like-the-beginning-after-the-end)- [Mystiqora — Top 15 Best Manhwa Like TBATE (2026)](https://mystiqora.com/top-15-best-manhwa-like-the-beginning-after-the-end-2026-recommendations/)- [Game Rant — Manhwa Like The Beginning After The End You Should Read](https://gamerant.com/best-manhwa-like-the-beginning-after-the-end/)- [Anime-Planet — 56 Manga Like The Beginning After the End](https://www.anime-planet.com/manga/the-beginning-after-the-end/recommendations)
+- [The Escapist — 10 Best Manhwa Like The Beginning After The End](https://www.escapistmagazine.com/best-manhwa-like-the-beginning-after-the-end)
+- [Book Riot via PublishersGlobal — 6 Manhwa and Manga Like TBATE](https://news.publishersglobal.com/story/show/6-manhwa-and-manga-like-the-beginning-after-the-end)
+- [Mystiqora — Top 15 Best Manhwa Like TBATE (2026)](https://mystiqora.com/top-15-best-manhwa-like-the-beginning-after-the-end-2026-recommendations/)
+- [Game Rant — Manhwa Like The Beginning After The End You Should Read](https://gamerant.com/best-manhwa-like-the-beginning-after-the-end/)
+- [Anime-Planet — 56 Manga Like The Beginning After the End](https://www.anime-planet.com/manga/the-beginning-after-the-end/recommendations)

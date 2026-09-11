@@ -36,4 +36,7 @@ There is a corner of the light novel world where wizards, warlocks, and reborn s
 The wizard-in-Marvel formula works because it creates a specific kind of power gap that serial fiction handles well. These protagonists are almost never the strongest person in the room — they are outmatched in raw output by the heavy-hitters of the Marvel roster — but they arrive with a depth of magical knowledge and resourcefulness that pure strength cannot match. That underdog tension, stretched across hundreds of chapters, gives readers a satisfying long-form arc that single-volume fantasy rarely has room for. Fans of titles like *I'm the Sorcerer King* or *Solo Leveling* looking for their next extended read will find the premise familiar and the execution varied enough across these three titles to justify sampling more than one.
 
 ## Sources checked
-- [NovelCool — Marvel's Hogwarts Wizard (Ch. 469)](https://www.novelcool.com/novel/original/id-275378.html)- [NovelLunar — Into The Marvel Universe: A Reborn Sorcerer](https://novellunar.com/novel/into-the-marvel-universe-a-reborn-sorcerer)- [NowNovels — Into The Marvel Universe (Chapter 244 data)](https://www.nownovels.com/novelupdates/320806/)- [WebNovel — Sorcerer In The Marvel Universe](https://m.webnovel.com/book/36378520600384205)
+- [NovelCool — Marvel's Hogwarts Wizard (Ch. 469)](https://www.novelcool.com/novel/original/id-275378.html)
+- [NovelLunar — Into The Marvel Universe: A Reborn Sorcerer](https://novellunar.com/novel/into-the-marvel-universe-a-reborn-sorcerer)
+- [NowNovels — Into The Marvel Universe (Chapter 244 data)](https://www.nownovels.com/novelupdates/320806/)
+- [WebNovel — Sorcerer In The Marvel Universe](https://m.webnovel.com/book/36378520600384205)

@@ -128,4 +128,8 @@ Completed and bingeable in a weekend. ChapterBrief ranks it first among OP MC ma
 [Read on MangaDex →](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
 
 ## Sources Checked
-- [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [The Ranker Who Just Wants to Retire — UTOON](https://utoon.net/manga/the-ranker-who-just-wants-to-retire/)- [The Genius Wants to be Ordinary — Kenmei](https://www.kenmei.co/series/the-genius-wants-to-be-ordinary)- [I Have an SSS-Rank Trait — Raven Scans](https://ravenscans.org/manga/i-have-an-sss-rank-trait-but-i-want-a-normal-life/)- [Best Manhwa With OP MCs — Game Rant](https://gamerant.com/best-manhwa-with-overpowered-main-characters)
+- [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [The Ranker Who Just Wants to Retire — UTOON](https://utoon.net/manga/the-ranker-who-just-wants-to-retire/)
+- [The Genius Wants to be Ordinary — Kenmei](https://www.kenmei.co/series/the-genius-wants-to-be-ordinary)
+- [I Have an SSS-Rank Trait — Raven Scans](https://ravenscans.org/manga/i-have-an-sss-rank-trait-but-i-want-a-normal-life/)
+- [Best Manhwa With OP MCs — Game Rant](https://gamerant.com/best-manhwa-with-overpowered-main-characters)

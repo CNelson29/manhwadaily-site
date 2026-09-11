@@ -98,4 +98,8 @@ Reborn as the daughter of a cold emperor who — in the novel she once read — 
 **Our rating: 8.0/10**
 
 ## Sources Checked
-- [Best Romance Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-romance-manhwa-2026)- [Slow-Burn Romance Manhwa Stack — MyAnimeList](https://myanimelist.net/stacks/49579)- [Webtoon's Best Romance Manhwas — MyAnimeList](https://myanimelist.net/stacks/53116)- [10 Slow Burn Romances Worth Reading — All Anime Mags](https://allanimemags.com/slow-burn-romance-read/)- [Teach Me First Deep Dive — Manzuki](https://manzuki.com/)
+- [Best Romance Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-romance-manhwa-2026)
+- [Slow-Burn Romance Manhwa Stack — MyAnimeList](https://myanimelist.net/stacks/49579)
+- [Webtoon's Best Romance Manhwas — MyAnimeList](https://myanimelist.net/stacks/53116)
+- [10 Slow Burn Romances Worth Reading — All Anime Mags](https://allanimemags.com/slow-burn-romance-read/)
+- [Teach Me First Deep Dive — Manzuki](https://manzuki.com/)

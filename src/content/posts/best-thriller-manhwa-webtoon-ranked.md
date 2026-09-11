@@ -96,4 +96,8 @@ The current top-ranked series on Webtoon's live thriller popularity charts, *Han
 [Read Hand Jumper on Webtoon →](https://www.webtoons.com/en/search?keyword=Hand+Jumper)
 
 ## Sources Checked
-- [Webtoon Thriller Genre Rankings (by subscribers)](https://www.webtoons.com/en/genres/thriller?sortOrder=LIKEIT)- [Webtoon Popular Thriller Series (live chart)](https://www.webtoons.com/en/ranking/originals?subTabGenreCode=THRILLER)- [ChapterBrief: Best Thriller Manhwa Ranked by Tension (2026)](https://www.chapterbrief.net/blog/best-thriller-manhwa)- [DK Blog: 30 Best Korean Thriller Webtoons 2026](https://blog.delivered.co.kr/k-webtoon/30-best-korean-thriller-webtoons-to-read-online-in-2026/)- [HubPages: The 21 Best Thriller Manhwa You Must Read](https://discover.hubpages.com/literature/the-best-thriller-manhwa-webtoons-you-must-read)
+- [Webtoon Thriller Genre Rankings (by subscribers)](https://www.webtoons.com/en/genres/thriller?sortOrder=LIKEIT)
+- [Webtoon Popular Thriller Series (live chart)](https://www.webtoons.com/en/ranking/originals?subTabGenreCode=THRILLER)
+- [ChapterBrief: Best Thriller Manhwa Ranked by Tension (2026)](https://www.chapterbrief.net/blog/best-thriller-manhwa)
+- [DK Blog: 30 Best Korean Thriller Webtoons 2026](https://blog.delivered.co.kr/k-webtoon/30-best-korean-thriller-webtoons-to-read-online-in-2026/)
+- [HubPages: The 21 Best Thriller Manhwa You Must Read](https://discover.hubpages.com/literature/the-best-thriller-manhwa-webtoons-you-must-read)

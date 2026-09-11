@@ -110,4 +110,8 @@ Leslie's life in the Sperado noble family was always spent serving her sister El
 [Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
 
 ## Sources Checked
-- [Best Villainess Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-villainess-manhwa-2026)- [Best Reincarnation Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-reincarnation)- [Best Reincarnation Manhwa Where Villains Become Heroes — Game Rant](https://gamerant.com/best-reincarnation-manhwa-villain-mc-become-hero/)- [Best Villainess Manhwas Stack — MyAnimeList](https://myanimelist.net/stacks/44910)- [30 Best Villainess Manhwa — CBR](https://www.cbr.com/manhwa-like-next-life-villainess/)
+- [Best Villainess Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-villainess-manhwa-2026)
+- [Best Reincarnation Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-reincarnation)
+- [Best Reincarnation Manhwa Where Villains Become Heroes — Game Rant](https://gamerant.com/best-reincarnation-manhwa-villain-mc-become-hero/)
+- [Best Villainess Manhwas Stack — MyAnimeList](https://myanimelist.net/stacks/44910)
+- [30 Best Villainess Manhwa — CBR](https://www.cbr.com/manhwa-like-next-life-villainess/)

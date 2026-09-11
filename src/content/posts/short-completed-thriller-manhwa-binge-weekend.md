@@ -96,4 +96,8 @@ When interdimensional creatures invade South Korea, the military mobilizes high 
 [Find on Webtoon →](https://www.webtoons.com/en/search?keyword=Duty+After+School)
 
 ## Sources Checked
-- [ChapterBrief — Best Completed Manhwa (2026)](https://www.chapterbrief.net/blog/best-completed-manhwa)- [ChapterBrief — Best Thriller Manhwa: 10 Series Ranked by Tension (2026)](https://www.chapterbrief.net/blog/best-thriller-manhwa)- [ChapterBrief — Best Short Manhwa Completed (Jun 2026)](https://www.chapterbrief.net/blog/best-short-manhwa-completed)- [Kenmei — Lovers, Cats, and the Killer series page](https://www.kenmei.co/series/lovers-cats-and-the-killer)- [MyAnimeList — Webtoon's Best Thriller Manhwa interest stack](https://myanimelist.net/stacks/53121)
+- [ChapterBrief — Best Completed Manhwa (2026)](https://www.chapterbrief.net/blog/best-completed-manhwa)
+- [ChapterBrief — Best Thriller Manhwa: 10 Series Ranked by Tension (2026)](https://www.chapterbrief.net/blog/best-thriller-manhwa)
+- [ChapterBrief — Best Short Manhwa Completed (Jun 2026)](https://www.chapterbrief.net/blog/best-short-manhwa-completed)
+- [Kenmei — Lovers, Cats, and the Killer series page](https://www.kenmei.co/series/lovers-cats-and-the-killer)
+- [MyAnimeList — Webtoon's Best Thriller Manhwa interest stack](https://myanimelist.net/stacks/53121)

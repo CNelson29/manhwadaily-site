@@ -26,4 +26,7 @@ The series has logged well over 40 chapters of consistent storytelling, earned a
 **Read at Royal Road:** [The Lich King Reincarnates as a Baby — Royal Road](https://www.royalroad.com/fiction/154956/the-lich-king-reincarnates-as-a-baby)
 
 ## Sources Checked
-- [Royal Road — The Lich King Reincarnates as a Baby (official chapter list)](https://www.royalroad.com/fiction/154956/the-lich-king-reincarnates-as-a-baby)- [Novel Trust — Synopsis & series info](https://noveltrust.com/book/the-lich-king-reincarnates-as-a-baby)- [Progress Reads — Review & similar reads](https://progressreads.com/novels/the-lich-king-reincarnates-as-a-baby)- [WebNovelFinder — Score & genre tags](https://x.com/webnovelfinder/status/2089036969036952048)
+- [Royal Road — The Lich King Reincarnates as a Baby (official chapter list)](https://www.royalroad.com/fiction/154956/the-lich-king-reincarnates-as-a-baby)
+- [Novel Trust — Synopsis & series info](https://noveltrust.com/book/the-lich-king-reincarnates-as-a-baby)
+- [Progress Reads — Review & similar reads](https://progressreads.com/novels/the-lich-king-reincarnates-as-a-baby)
+- [WebNovelFinder — Score & genre tags](https://x.com/webnovelfinder/status/2089036969036952048)

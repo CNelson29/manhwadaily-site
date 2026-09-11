@@ -128,4 +128,7 @@ A skeleton soldier bound in loyalty to Lady Succubus watches her die, then loops
 [Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
 
 ## Sources Checked
-- [Best Isekai Manhwa Ranked for 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-isekai-manhwa)- [8 Best New Manhwa to Read in January 2026 — Screen Rant](https://screenrant.com/best-new-manhwa-january-2026-webtoon)- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [The Beginning After the End Review — ChapterBrief](https://www.chapterbrief.net/blog/the-beginning-after-the-end-review)
+- [Best Isekai Manhwa Ranked for 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-isekai-manhwa)
+- [8 Best New Manhwa to Read in January 2026 — Screen Rant](https://screenrant.com/best-new-manhwa-january-2026-webtoon)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [The Beginning After the End Review — ChapterBrief](https://www.chapterbrief.net/blog/the-beginning-after-the-end-review)

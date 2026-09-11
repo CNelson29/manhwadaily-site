@@ -98,4 +98,8 @@ Penelope Eckart wakes up reincarnated as the adopted daughter of Duke Eckart —
 [Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
 
 ## Sources Checked
-- [Best System Fantasy Manhwa: 16 Series to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)- [Manhwa Like Solo Leveling: 16 Best Series for 2026 — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-solo-leveling)- [10 Best Manhwa Where the Main Character Can Level Up — CBR](https://www.cbr.com/best-manhwa-protagonist-level-up/)- [15 Best Manhwa Like Solo Leveling: OP MC + Systems Ranked — NovelNodes](https://novelnodes.com/manhwa-like-solo-leveling/)- [Best Manhwa Dungeon Picks: 8 Series Worth Reading in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-dungeon)
+- [Best System Fantasy Manhwa: 16 Series to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)
+- [Manhwa Like Solo Leveling: 16 Best Series for 2026 — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-solo-leveling)
+- [10 Best Manhwa Where the Main Character Can Level Up — CBR](https://www.cbr.com/best-manhwa-protagonist-level-up/)
+- [15 Best Manhwa Like Solo Leveling: OP MC + Systems Ranked — NovelNodes](https://novelnodes.com/manhwa-like-solo-leveling/)
+- [Best Manhwa Dungeon Picks: 8 Series Worth Reading in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-dungeon)

@@ -82,4 +82,8 @@ Young and inexperienced, Shuri is left to manage her late husband's vast estate 
 [Read on MangaDex](https://mangadex.org/title/73886188-f459-4b80-8781-66a60520b420) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Fantasie+of+a+Stepmother)
 
 ## Sources Checked
-- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Best Ongoing Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-ongoing-2026)- [Best Manhwa June 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-june-2026)- [The 40 Best Manhwa to Read in 2026 — NovelNodes](https://novelnodes.com/best-manhwa-to-read-2026/)- [MangaDex — verified series pages](https://mangadex.org)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Best Ongoing Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-ongoing-2026)
+- [Best Manhwa June 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-june-2026)
+- [The 40 Best Manhwa to Read in 2026 — NovelNodes](https://novelnodes.com/best-manhwa-to-read-2026/)
+- [MangaDex — verified series pages](https://mangadex.org)

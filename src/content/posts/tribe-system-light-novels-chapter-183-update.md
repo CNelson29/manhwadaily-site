@@ -34,4 +34,6 @@ Read it at: [Chsdbacks — Tribal Lord](https://www.chsdbacks.com/webnovel/34552
 Community tier lists and recommendation threads have highlighted several other series as standouts this cycle — *Levelling Up With Gods*, *Myst, Might and Mayhem*, and *Returner's Magic Should Be Special* keep appearing across discussion boards. If tribal-world or return-system stories are your focus, those titles share enough genre DNA to be worth queuing once you're caught up on the above.
 
 ## Sources Checked
-- [Free Web Novel — Tribe Ch. 183](https://freewebnovel.com/novel/tribe-i-become-invincible-with-my-10000x-bonus-from-the-start-novel/chapter-183)- [Chsdbacks — Tribal Lord](https://www.chsdbacks.com/webnovel/345526/)- [ChapterBrief — Best Manhwa 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Free Web Novel — Tribe Ch. 183](https://freewebnovel.com/novel/tribe-i-become-invincible-with-my-10000x-bonus-from-the-start-novel/chapter-183)
+- [Chsdbacks — Tribal Lord](https://www.chsdbacks.com/webnovel/345526/)
+- [ChapterBrief — Best Manhwa 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)

@@ -102,4 +102,7 @@ Penelope Eckart renace como la villana de un otome game bloqueado en el modo de 
 Los sistemas de habilidades únicos son el corazón del manhwa de fantasía moderno. Desde el icónico sistema de Solo Leveling hasta la mecánica de copia de SSS-Class Revival Hunter, cada serie de esta lista ofrece algo que no encontrarás en otro lugar. Si buscas una lectura que te sorprenda y te haga pensar, cualquiera de estas ocho es un punto de entrada excelente.
 
 ## Fuentes consultadas
-- [10 Best System Manhwa with OP MC (2026) — NovelNodes](https://novelnodes.com/best-system-manhwa-op-mc)- [Best System Fantasy Manhwa — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)- [The 40 Best Manhwa to Read in 2026 — NovelNodes](https://novelnodes.com/best-manhwa-to-read-2026)- [MangaDex — Base de datos oficial de manhwa](https://mangadex.org)
+- [10 Best System Manhwa with OP MC (2026) — NovelNodes](https://novelnodes.com/best-system-manhwa-op-mc)
+- [Best System Fantasy Manhwa — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)
+- [The 40 Best Manhwa to Read in 2026 — NovelNodes](https://novelnodes.com/best-manhwa-to-read-2026)
+- [MangaDex — Base de datos oficial de manhwa](https://mangadex.org)

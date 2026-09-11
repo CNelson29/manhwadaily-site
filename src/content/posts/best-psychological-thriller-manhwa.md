@@ -98,4 +98,8 @@ A 70-chapter completed psychological horror-mystery in which characters excavate
 [Read Memorial →](https://www.webtoons.com/en/search?keyword=Memorial+manhwa)
 
 ## Sources Checked
-- [Best Manhwa Psychological Thrillers 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-psychological-thriller)- [Bastard — Kenmei](https://www.kenmei.co/series/bastard)- [Best Thriller Manhwa: 10 Series Ranked by Tension — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)- [Thriller Genre — Webtoon](https://www.webtoons.com/en/genres/thriller?sortOrder=LIKEIT)- [Thriller — ManhwaTracker](https://manhwatracker.com/genre/thriller)
+- [Best Manhwa Psychological Thrillers 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-psychological-thriller)
+- [Bastard — Kenmei](https://www.kenmei.co/series/bastard)
+- [Best Thriller Manhwa: 10 Series Ranked by Tension — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)
+- [Thriller Genre — Webtoon](https://www.webtoons.com/en/genres/thriller?sortOrder=LIKEIT)
+- [Thriller — ManhwaTracker](https://manhwatracker.com/genre/thriller)

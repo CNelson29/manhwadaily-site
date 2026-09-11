@@ -90,4 +90,8 @@ A modern woman wakes up as Melissa, the villain of a romance novel, and immediat
 **Why we love it:** A satirical deconstruction of isekai tropes that doubles as a genuinely enjoyable action-comedy. Worth the whole run.
 
 ## Sources Checked
-- [Where to Read Manhwa Legally in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/where-to-read-manhwa-legally-2026)- [Best Action Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-action-manhwa-2026)- [Action Manhwa Rankings — ManhwaTracker](https://manhwatracker.com/genre/action)- [16 Best Manhwa Websites 2026 — HitPaw](https://edimakor.hitpaw.com/video-editing-footage/best-manhwa-website.html)- [Top 12 Best Websites To Read Manhwa in 2026 — YouTube](https://www.youtube.com/watch?v=0lDT23Z7xow)
+- [Where to Read Manhwa Legally in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/where-to-read-manhwa-legally-2026)
+- [Best Action Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-action-manhwa-2026)
+- [Action Manhwa Rankings — ManhwaTracker](https://manhwatracker.com/genre/action)
+- [16 Best Manhwa Websites 2026 — HitPaw](https://edimakor.hitpaw.com/video-editing-footage/best-manhwa-website.html)
+- [Top 12 Best Websites To Read Manhwa in 2026 — YouTube](https://www.youtube.com/watch?v=0lDT23Z7xow)

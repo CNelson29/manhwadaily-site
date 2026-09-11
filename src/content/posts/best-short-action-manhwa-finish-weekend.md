@@ -98,4 +98,8 @@ After an accident, a modern woman wakes up inside a romance novel as Melissa —
 [Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Beware+the+Villainess)
 
 ## Sources Checked
-- [Best Short Manhwa Completed — ChapterBrief](https://www.chapterbrief.net/blog/best-short-manhwa-completed)- [10 Brilliant Manhwa Under 100 Chapters — Screen Rant](https://screenrant.com/manhwa-under-100-chapters-bingeable-one-weekend/)- [Best Action Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-action-manhwa-2026)- [10 Best Manhwa You Can Binge in 1 Weekend — CBR](https://www.cbr.com/best-manhwa-perfect-binge-weekend/)- [13 Short Manhwa for a Single Sitting — Otaku Fanatic](https://otakufanatic.com/blogs/anime/greatest-13-short-manhwa-recommendations-perfect-for-single-sitting-otaku-fanatic)
+- [Best Short Manhwa Completed — ChapterBrief](https://www.chapterbrief.net/blog/best-short-manhwa-completed)
+- [10 Brilliant Manhwa Under 100 Chapters — Screen Rant](https://screenrant.com/manhwa-under-100-chapters-bingeable-one-weekend/)
+- [Best Action Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-action-manhwa-2026)
+- [10 Best Manhwa You Can Binge in 1 Weekend — CBR](https://www.cbr.com/best-manhwa-perfect-binge-weekend/)
+- [13 Short Manhwa for a Single Sitting — Otaku Fanatic](https://otakufanatic.com/blogs/anime/greatest-13-short-manhwa-recommendations-perfect-for-single-sitting-otaku-fanatic)

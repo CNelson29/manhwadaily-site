@@ -112,4 +112,8 @@ A weak, bullied student discovers that raw, unscripted fight videos go viral —
 [Read Viral Hit on WEBTOON →](https://www.webtoons.com/en/search?keyword=Viral+Hit)
 
 ## Sources Checked
-- [Pyramid Game — WEBTOON Official](https://www.webtoons.com/en/drama/pyramid-game/list?title_no=2277)- [Pyramid Game — Binge Senpai](https://bingesenpai.com/mangas/manga_6j4YnMgRkJK1hmjXbLmvOEGV)- [Pyramid Game — Kenmei](https://www.kenmei.co/series/pyramid-game)- [Best Thriller Manhwa: 10 Series Ranked — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)- [WEBTOON Thriller Genre Page](https://www.webtoons.com/en/genres/thriller?sortOrder=LIKEIT)
+- [Pyramid Game — WEBTOON Official](https://www.webtoons.com/en/drama/pyramid-game/list?title_no=2277)
+- [Pyramid Game — Binge Senpai](https://bingesenpai.com/mangas/manga_6j4YnMgRkJK1hmjXbLmvOEGV)
+- [Pyramid Game — Kenmei](https://www.kenmei.co/series/pyramid-game)
+- [Best Thriller Manhwa: 10 Series Ranked — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)
+- [WEBTOON Thriller Genre Page](https://www.webtoons.com/en/genres/thriller?sortOrder=LIKEIT)

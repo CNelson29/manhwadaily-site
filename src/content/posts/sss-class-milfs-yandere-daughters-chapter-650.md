@@ -36,4 +36,6 @@ Chapter 650, titled *The Truth And Only The Truth*, is available now.
 **Read at:** [FreeWebNovel — Chapter 650](https://freewebnovel.com/novel/sss-class-milfs-and-their-yandere-daughters-i-want-them-all/chapter-650)
 
 ## Sources Checked
-- [FreeWebNovel — Chapter 650: The Truth And Only The Truth](https://freewebnovel.com/novel/sss-class-milfs-and-their-yandere-daughters-i-want-them-all/chapter-650)- [FreeWebNovel — Novel Overview](https://freewebnovel.com/novel/sss-class-milfs-and-their-yandere-daughters-i-want-them-all)- [WebNovelVip — Reader Ratings (8.3/10, 9,625 ratings)](https://webnovelvip.com/bin/sss-class-milfs-and-their-yandere-daughters-i-want-them-all-2/)
+- [FreeWebNovel — Chapter 650: The Truth And Only The Truth](https://freewebnovel.com/novel/sss-class-milfs-and-their-yandere-daughters-i-want-them-all/chapter-650)
+- [FreeWebNovel — Novel Overview](https://freewebnovel.com/novel/sss-class-milfs-and-their-yandere-daughters-i-want-them-all)
+- [WebNovelVip — Reader Ratings (8.3/10, 9,625 ratings)](https://webnovelvip.com/bin/sss-class-milfs-and-their-yandere-daughters-i-want-them-all-2/)

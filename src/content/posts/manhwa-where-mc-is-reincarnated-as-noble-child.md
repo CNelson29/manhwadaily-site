@@ -82,6 +82,20 @@ The protagonist is reincarnated as Canaria, the villain of a popular romance nov
 Our score: **8.2/10** — [Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
 
 ## Quick Reference
-RankTitleScoreStatus1Who Made Me a Princess9.1/10Ongoing2Villains Are Destined to Die8.9/10Ongoing3I Shall Master This Family8.8/10Ongoing4The Villainess Turns the Hourglass8.7/10Completed5The Max Level Hero Strikes Back8.5/10Ongoing6Beware the Villainess!8.4/10Completed7The Monstrous Duke's Adopted Daughter8.3/10Completed8This Villainess Wants a Divorce!8.2/10Completed
+
+| Rank | Title | Score | Status |
+| --- | --- | --- | --- |
+| 1 | Who Made Me a Princess | 9.1/10 | Ongoing |
+| 2 | Villains Are Destined to Die | 8.9/10 | Ongoing |
+| 3 | I Shall Master This Family | 8.8/10 | Ongoing |
+| 4 | The Villainess Turns the Hourglass | 8.7/10 | Completed |
+| 5 | The Max Level Hero Strikes Back | 8.5/10 | Ongoing |
+| 6 | Beware the Villainess! | 8.4/10 | Completed |
+| 7 | The Monstrous Duke's Adopted Daughter | 8.3/10 | Completed |
+| 8 | This Villainess Wants a Divorce! | 8.2/10 | Completed |
+
 ## Sources Checked
-- [Noble Suggestions — 25+ Best Manhwa Where MC is Reincarnated as Noble Child](https://noblesuggestions.com/manhwa-where-mc-is-reincarnated-as-noble-child/)- [Game Rant — Best Isekai Manhwa With OP MC Reincarnated As A Child, Ranked](https://gamerant.com/best-isekai-manhwa-with-op-mc-reincarnated-child)- [ChapterBrief — Best Isekai Manhwa Ranked for 2026](https://www.chapterbrief.net/blog/best-isekai-manhwa)- [MangaDex — Official title pages used for all links above](https://mangadex.org)
+- [Noble Suggestions — 25+ Best Manhwa Where MC is Reincarnated as Noble Child](https://noblesuggestions.com/manhwa-where-mc-is-reincarnated-as-noble-child/)
+- [Game Rant — Best Isekai Manhwa With OP MC Reincarnated As A Child, Ranked](https://gamerant.com/best-isekai-manhwa-with-op-mc-reincarnated-child)
+- [ChapterBrief — Best Isekai Manhwa Ranked for 2026](https://www.chapterbrief.net/blog/best-isekai-manhwa)
+- [MangaDex — Official title pages used for all links above](https://mangadex.org)

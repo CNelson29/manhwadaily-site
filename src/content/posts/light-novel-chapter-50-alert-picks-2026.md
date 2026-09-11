@@ -26,8 +26,13 @@ What makes this Korean web novel stand out from the crowded isekai nobility genr
 ## Also on the Radar
 
 The isekai light novel and webtoon-adjacent space in 2026 has a few perennial recommendations worth knowing if you are new to the genre or looking to branch out.
-- **Who Made Me a Princess** — A reincarnation story with sharp political drama and a father-daughter dynamic that earns genuine emotional investment. Frequently cited across reader communities as an accessible entry point for the noble-isekai genre.- **The Reason Why Raeliana Ended up at the Duke's Mansion** — A survival story dressed up in romance. The protagonist knows she is in a novel and knows she is slated to die, which gives every social interaction a delicious layer of dramatic irony.- **By the Grace of the Gods** — A quieter, warmer tone compared to the betrayal-heavy titles above. A reincarnated protagonist rebuilds a gentle life using magic and slime taming, which sounds absurd and turns out to be oddly comforting.- **Marriage of Convenience** — Another title with strong Reddit community backing in the isekai romance space. A cold arrangement between two people who both have reasons to distrust turns into something more layered as the story progresses.
+- **Who Made Me a Princess** — A reincarnation story with sharp political drama and a father-daughter dynamic that earns genuine emotional investment. Frequently cited across reader communities as an accessible entry point for the noble-isekai genre.
+- **The Reason Why Raeliana Ended up at the Duke's Mansion** — A survival story dressed up in romance. The protagonist knows she is in a novel and knows she is slated to die, which gives every social interaction a delicious layer of dramatic irony.
+- **By the Grace of the Gods** — A quieter, warmer tone compared to the betrayal-heavy titles above. A reincarnated protagonist rebuilds a gentle life using magic and slime taming, which sounds absurd and turns out to be oddly comforting.
+- **Marriage of Convenience** — Another title with strong Reddit community backing in the isekai romance space. A cold arrangement between two people who both have reasons to distrust turns into something more layered as the story progresses.
 These titles appear in reader recommendation threads and community discussions across platforms like Reddit's r/LightNovels as consistent standouts in the genre.
 
 ## Sources Checked
-- [NovelVibes — BUEC Chapter 50](https://novelvibes.com/buec-50/)- [Reddit r/LightNovels — Isekai Recommendations Thread](https://www.reddit.com/r/LightNovels/comments/1naqwqs/rec_webtoon_isekai_light_novels)- [Yatta-Tachi — May 2026 Light Novel Releases](https://yattatachi.com/may-2026-manga-manhwa-light-novel-book-releases)
+- [NovelVibes — BUEC Chapter 50](https://novelvibes.com/buec-50/)
+- [Reddit r/LightNovels — Isekai Recommendations Thread](https://www.reddit.com/r/LightNovels/comments/1naqwqs/rec_webtoon_isekai_light_novels)
+- [Yatta-Tachi — May 2026 Light Novel Releases](https://yattatachi.com/may-2026-manga-manhwa-light-novel-book-releases)

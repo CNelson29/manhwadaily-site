@@ -82,4 +82,8 @@ Transmigrated into the body of a princess doomed to die at her cold emperor fath
 📖 [Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb) | [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
 
 ## Sources Checked
-- [GoodNovel — Best Manhwa Under 50 Chapters](https://www.goodnovel.com/qa/best-manhwa-read-50-chapters)- [ChapterBrief — Best Short Manhwa Completed](https://www.chapterbrief.net/blog/best-short-manhwa-completed)- [Screen Rant — Bingeable Manhwa Under 100 Chapters](https://screenrant.com/manhwa-under-100-chapters-bingeable-one-weekend/)- [ChapterBrief — Best Completed Manhwa](https://www.chapterbrief.net/blog/best-completed-manhwa)- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [GoodNovel — Best Manhwa Under 50 Chapters](https://www.goodnovel.com/qa/best-manhwa-read-50-chapters)
+- [ChapterBrief — Best Short Manhwa Completed](https://www.chapterbrief.net/blog/best-short-manhwa-completed)
+- [Screen Rant — Bingeable Manhwa Under 100 Chapters](https://screenrant.com/manhwa-under-100-chapters-bingeable-one-weekend/)
+- [ChapterBrief — Best Completed Manhwa](https://www.chapterbrief.net/blog/best-completed-manhwa)
+- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)

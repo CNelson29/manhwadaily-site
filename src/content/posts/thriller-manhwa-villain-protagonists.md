@@ -108,4 +108,8 @@ The thriller tension here is quieter but persistent — every warm interaction w
 [Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
 
 ## Sources Checked
-- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Best Villainess Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-villainess-manhwa-2026)- [The 21 Best Thriller Manhwa — HubPages](https://discover.hubpages.com/literature/the-best-thriller-manhwa-webtoons-you-must-read)- [Webtoon's Best Thriller Manhwa — MyAnimeList](https://myanimelist.net/stacks/53121)- [The Villain Profiler — Webtoon](https://www.webtoons.com/en/search?keyword=The+Villain+Profiler)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Best Villainess Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-villainess-manhwa-2026)
+- [The 21 Best Thriller Manhwa — HubPages](https://discover.hubpages.com/literature/the-best-thriller-manhwa-webtoons-you-must-read)
+- [Webtoon's Best Thriller Manhwa — MyAnimeList](https://myanimelist.net/stacks/53121)
+- [The Villain Profiler — Webtoon](https://www.webtoons.com/en/search?keyword=The+Villain+Profiler)

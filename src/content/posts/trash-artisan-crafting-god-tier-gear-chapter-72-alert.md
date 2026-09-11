@@ -26,4 +26,7 @@ With an active release schedule and a chapter count that keeps growing, now is a
 **Read it at:** [NovelBuddy](https://novelbuddy.me/trash-artisan-crafting-god-tier-gear-from-garbage)  ·  [Wuxia.City](https://wuxia.city/book/trash-artisan-crafting-god-tier-gear-from-garbage)  ·  [LightNovelPub](https://lightnovelpub.me/book/trash-artisan-crafting-god-tier-gear-from-garbage)
 
 ## Sources Checked
-- [NovelBuddy — Trash Artisan listing](https://novelbuddy.me/trash-artisan-crafting-god-tier-gear-from-garbage)- [Wuxia.City — Trash Artisan chapter list](https://wuxia.city/book/trash-artisan-crafting-god-tier-gear-from-garbage)- [LightNovelPub — Trash Artisan](https://lightnovelpub.me/book/trash-artisan-crafting-god-tier-gear-from-garbage)- [Webnovel — Trash Artisan (early chapters)](https://www.webnovel.com/book/trash-artisan-crafting-god-tier-gear-from-garbage_36458692008932205)
+- [NovelBuddy — Trash Artisan listing](https://novelbuddy.me/trash-artisan-crafting-god-tier-gear-from-garbage)
+- [Wuxia.City — Trash Artisan chapter list](https://wuxia.city/book/trash-artisan-crafting-god-tier-gear-from-garbage)
+- [LightNovelPub — Trash Artisan](https://lightnovelpub.me/book/trash-artisan-crafting-god-tier-gear-from-garbage)
+- [Webnovel — Trash Artisan (early chapters)](https://www.webnovel.com/book/trash-artisan-crafting-god-tier-gear-from-garbage_36458692008932205)

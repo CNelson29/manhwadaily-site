@@ -120,4 +120,8 @@ On the remote Laniakea Kingdom archipelago, humans live alongside "dragonfolk" �
 Whether you want a System-driven monster-slaying power fantasy (Solo Leveling, Logging 10,000 Years) or dragon-centered political fantasy (TBATE, Galaxias!), this list covers the full range of what "epic world-building" can mean in manhwa right now. Start with whichever rating matches your patience for slow-burn lore versus instant monster-fight payoff.
 
 ## Sources Checked
-- [ComicsBeat — 30 Anticipated Manga for Winter 2026](https://www.comicsbeat.com/30-anticipated-manga-for-winter-2026)- [HubPages — The 15 Best Dragon Manhwa (Webtoons)](https://discover.hubpages.com/literature/the-best-dragon-manhwa-webtoons-you-must-read)- [ChapterBrief — Best Manhwa Fantasy in 2026](https://www.chapterbrief.net/blog/best-manhwa-fantasy)- [GameRant — Manhwa With The Best World-Building](https://gamerant.com/manhwa-best-world-building/)- [100 Manhwa/Manhua Tier List 2026 Edition Part 1](https://www.youtube.com/watch?v=YsPPMNtRc3k)
+- [ComicsBeat — 30 Anticipated Manga for Winter 2026](https://www.comicsbeat.com/30-anticipated-manga-for-winter-2026)
+- [HubPages — The 15 Best Dragon Manhwa (Webtoons)](https://discover.hubpages.com/literature/the-best-dragon-manhwa-webtoons-you-must-read)
+- [ChapterBrief — Best Manhwa Fantasy in 2026](https://www.chapterbrief.net/blog/best-manhwa-fantasy)
+- [GameRant — Manhwa With The Best World-Building](https://gamerant.com/manhwa-best-world-building/)
+- [100 Manhwa/Manhua Tier List 2026 Edition Part 1](https://www.youtube.com/watch?v=YsPPMNtRc3k)

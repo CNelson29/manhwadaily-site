@@ -118,4 +118,8 @@ In a world where everyone has a superpower, John Doe appears to have none — ma
 **Our score: 8.0/10**
 
 ## Sources Checked
-- [GameRant — Best Weak to Strong Manhwa](https://gamerant.com/best-weak-to-strong-manhwa/)- [ChapterBrief — Best Action Manhwa 2026](https://www.chapterbrief.net/blog/best-action-manhwa-2026)- [ChapterBrief — Weak Hero Review (8.8/10)](https://www.chapterbrief.net/blog/weak-hero-review)- [ChapterBrief — Best Manhwa with OP MC](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [GameRant — 7 Manhwa That Can Become the Next Solo Leveling](https://gamerant.com/manhwa-become-next-solo-leveling/)
+- [GameRant — Best Weak to Strong Manhwa](https://gamerant.com/best-weak-to-strong-manhwa/)
+- [ChapterBrief — Best Action Manhwa 2026](https://www.chapterbrief.net/blog/best-action-manhwa-2026)
+- [ChapterBrief — Weak Hero Review (8.8/10)](https://www.chapterbrief.net/blog/weak-hero-review)
+- [ChapterBrief — Best Manhwa with OP MC](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [GameRant — 7 Manhwa That Can Become the Next Solo Leveling](https://gamerant.com/manhwa-become-next-solo-leveling/)

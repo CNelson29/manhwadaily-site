@@ -30,4 +30,5 @@ With 194 chapters currently available and the story still in motion, there is pl
 The novel is officially licensed and available at its Wuxiaworld home:
 - **Read at:** [Blade – Unbound on Wuxiaworld](https://www.wuxiaworld.com/novel/blade-unbound)
 ## Sources Checked
-- [Blade – Unbound — Wuxiaworld novel page](https://www.wuxiaworld.com/novel/blade-unbound)- [BU Official Release Schedule — Wuxiaworld](https://www.wuxiaworld.com/announcements/blade-unbound/bu-official-release-schedule)
+- [Blade – Unbound — Wuxiaworld novel page](https://www.wuxiaworld.com/novel/blade-unbound)
+- [BU Official Release Schedule — Wuxiaworld](https://www.wuxiaworld.com/announcements/blade-unbound/bu-official-release-schedule)

@@ -28,4 +28,7 @@ With well over 1,190 chapters released and still updating regularly, this is a s
 📖 **Read Chapter 1698 at:** [FreeWebNovel — Blood Hounds Ambush (4)](https://freewebnovel.com/novel/the-last-paragon-in-the-apocalypse/chapter-1698)
 
 ## Sources Checked
-- [FreeWebNovel — Chapter 1698: Blood Hounds Ambush (4)](https://freewebnovel.com/novel/the-last-paragon-in-the-apocalypse/chapter-1698)- [NovelRoll — Chapter 1698](https://novelroll.com/book/the-last-paragon-in-the-apocalypse/chapter-1698-blood-hounds-ambush-4)- [LightReader — The Last Paragon in the Apocalypse](https://www.lightreader.com/story/30423412505255705)- [NovelShadow — Novel Overview](https://novelshadow.com/novel/the-last-paragon-in-the-apocalypse)
+- [FreeWebNovel — Chapter 1698: Blood Hounds Ambush (4)](https://freewebnovel.com/novel/the-last-paragon-in-the-apocalypse/chapter-1698)
+- [NovelRoll — Chapter 1698](https://novelroll.com/book/the-last-paragon-in-the-apocalypse/chapter-1698-blood-hounds-ambush-4)
+- [LightReader — The Last Paragon in the Apocalypse](https://www.lightreader.com/story/30423412505255705)
+- [NovelShadow — Novel Overview](https://novelshadow.com/novel/the-last-paragon-in-the-apocalypse)

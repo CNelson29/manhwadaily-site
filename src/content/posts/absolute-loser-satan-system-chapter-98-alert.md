@@ -30,4 +30,7 @@ If the regression-plus-underdog-to-powerhouse formula is what drew you in, **Reg
 [Read Regressing with the King's Power →](https://kingofshojo.com/manga/regressing-with-the-kings-power/)
 
 ## Sources Checked
-- [WebNovel — series page](https://www.webnovel.com/book/absolute-loser-becomes-the-pleasure-king-using-satan-system_36354633900988805/)- [All Novel Updates — entry](https://allnovelupdates.com/book/absolute-loser-becomes-the-pleasure-king-using-satan-system)- [FreeWebNovel — chapter listing](https://freewebnovel.com/novel/absolute-loser-becomes-the-pleasure-king-using-satan-system/)- [King of Shojo — Regressing with the King's Power](https://kingofshojo.com/manga/regressing-with-the-kings-power/)
+- [WebNovel — series page](https://www.webnovel.com/book/absolute-loser-becomes-the-pleasure-king-using-satan-system_36354633900988805/)
+- [All Novel Updates — entry](https://allnovelupdates.com/book/absolute-loser-becomes-the-pleasure-king-using-satan-system)
+- [FreeWebNovel — chapter listing](https://freewebnovel.com/novel/absolute-loser-becomes-the-pleasure-king-using-satan-system/)
+- [King of Shojo — Regressing with the King's Power](https://kingofshojo.com/manga/regressing-with-the-kings-power/)

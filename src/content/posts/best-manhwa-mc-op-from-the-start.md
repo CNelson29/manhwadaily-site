@@ -66,4 +66,7 @@ After her mother's marriage to a Count lifts Aria into nobility, she's eventuall
 **Why it's great:** A refreshing entry on any OP-MC list because the power is entirely social and strategic. Aria's calm, patient dismantling of her enemies is deeply satisfying, and the time-travel mechanic is deployed more cleverly here than in most manhwa that rely on the same device. [Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
 
 ## Sources Checked
-- [ChapterBrief — Best Manhwa with OP MC (2026)](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [ChapterBrief — Manhwa Overpowered MC Types Explained](https://www.chapterbrief.net/blog/best-manhwa-overpowered-mc)- [Game Rant — Best Manhwa With Overpowered Main Characters](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)- [MangaDex — Official series pages linked per title above](https://mangadex.org)
+- [ChapterBrief — Best Manhwa with OP MC (2026)](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [ChapterBrief — Manhwa Overpowered MC Types Explained](https://www.chapterbrief.net/blog/best-manhwa-overpowered-mc)
+- [Game Rant — Best Manhwa With Overpowered Main Characters](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)
+- [MangaDex — Official series pages linked per title above](https://mangadex.org)

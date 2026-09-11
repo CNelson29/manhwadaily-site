@@ -122,4 +122,7 @@ Our score: **9.5/10**
 Psychological thriller manhwa work precisely because the format strips away distance. No turning pages, no breathing room — just the next panel, right there, waiting. The best series on this list use that claustrophobia deliberately. If you're new to the genre, start with Bastard: 92 chapters, fully complete, zero wasted panels. If you want scope alongside the dread, Omniscient Reader's Viewpoint is the most ambitious manhwa on the list. Either way: don't start after midnight. You've been warned.
 
 ## Sources Checked
-- [Best Thriller Manhwa: 10 Series Ranked by Tension — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)- [The Best Psychological Horror Manhwa — Game Rant](https://gamerant.com/best-psychological-horror-manhwa/)- [18 Best Psychological Manhwa You Should Read Now — AnimeMangaToon](https://animemangatoon.com/best-psychological-manhwa-you-should-read-now/)- [Webtoon's Best Thriller Manhwa — MyAnimeList](https://myanimelist.net/stacks/53121)
+- [Best Thriller Manhwa: 10 Series Ranked by Tension — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)
+- [The Best Psychological Horror Manhwa — Game Rant](https://gamerant.com/best-psychological-horror-manhwa/)
+- [18 Best Psychological Manhwa You Should Read Now — AnimeMangaToon](https://animemangatoon.com/best-psychological-manhwa-you-should-read-now/)
+- [Webtoon's Best Thriller Manhwa — MyAnimeList](https://myanimelist.net/stacks/53121)

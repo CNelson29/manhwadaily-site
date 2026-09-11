@@ -58,6 +58,9 @@ const canonical = slug ? `${siteUrl}/${slug}/` : siteUrl;
   })} />
   <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}></script>
   <script define:vars={{ GA_ID }}>
+    // Headless crawler hitting both sites since Aug 2026 (Singapore, Windows/Chrome, 1280x1200
+    // screen, 0s sessions) was ~15% of GA4 sessions here. Official GA opt-out flag keeps it out.
+    if (navigator.webdriver || (screen.width === 1280 && screen.height === 1200)) window['ga-disable-' + GA_ID] = true;
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date()); gtag('config', GA_ID);

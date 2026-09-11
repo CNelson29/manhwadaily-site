@@ -106,4 +106,8 @@ A romance about the complicated feelings that come from growing up alongside som
 [Read on Webtoon →](https://www.webtoons.com/en/search?keyword=Childhood+Friend+Complex)
 
 ## Sources Checked
-- [Best Romance Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-romance-manhwa-2026)- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Best Manhwa on WEBTOON 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-webtoon-2026)- [Maybe Meant to Be — WEBTOON (190M+ views)](https://m.webtoons.com/en/romance/maybe-meant-to-be/list?title_no=4208)- [WEBTOON Romance Category (live listing)](https://www.webtoon.com/en/romance)
+- [Best Romance Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-romance-manhwa-2026)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Best Manhwa on WEBTOON 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-webtoon-2026)
+- [Maybe Meant to Be — WEBTOON (190M+ views)](https://m.webtoons.com/en/romance/maybe-meant-to-be/list?title_no=4208)
+- [WEBTOON Romance Category (live listing)](https://www.webtoon.com/en/romance)

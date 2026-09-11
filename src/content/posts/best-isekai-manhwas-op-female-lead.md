@@ -82,4 +82,8 @@ Penelope Eckart reincarnates as the adopted-daughter villainess of a reverse har
 **Our score: 9.3/10**
 
 ## Sources checked
-- [ChapterBrief — Best Isekai Manhwa Ranked for 2026](https://www.chapterbrief.net/blog/best-isekai-manhwa)- [ChapterBrief — Best Manhwa With OP Female Lead](https://www.chapterbrief.net/blog/best-manhwa-with-op-female-lead)- [Game Rant — Best Isekai Manhwa With OP Female MC](https://gamerant.com/best-isekai-manhwa-with-op-female-mc/)- [CBR — The 30 Best Isekai Manhwa Recommendations](https://www.cbr.com/best-isekai-manhwa-recommendations/)- [Fyuu — Best Isekai Manhwa With OP Female MC](https://fyuu.net/best-isekai-manhwa-with-op-female-mc/)
+- [ChapterBrief — Best Isekai Manhwa Ranked for 2026](https://www.chapterbrief.net/blog/best-isekai-manhwa)
+- [ChapterBrief — Best Manhwa With OP Female Lead](https://www.chapterbrief.net/blog/best-manhwa-with-op-female-lead)
+- [Game Rant — Best Isekai Manhwa With OP Female MC](https://gamerant.com/best-isekai-manhwa-with-op-female-mc/)
+- [CBR — The 30 Best Isekai Manhwa Recommendations](https://www.cbr.com/best-isekai-manhwa-recommendations/)
+- [Fyuu — Best Isekai Manhwa With OP Female MC](https://fyuu.net/best-isekai-manhwa-with-op-female-mc/)

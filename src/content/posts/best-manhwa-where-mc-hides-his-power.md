@@ -82,4 +82,8 @@ Firentia is born into the great Lombardi family as its lowest-ranked member — 
 [Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
 
 ## Sources Checked
-- [ChapterBrief — Best Manhwa with OP MC (2026)](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [Game Rant — Best Manhwa With OP MCs](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)- [YouTube — Top 10 Manhwa Where OP MC Hides His Power](https://www.youtube.com/watch?v=VSpZZRoi_F8)- [MyAnimeList — Hidden Power Manhwa Recommendations](https://myanimelist.net/manga/165324/Secretly_More_Powerful_than_the_Hero)- [MangaDex — Official Series Pages](https://mangadex.org)
+- [ChapterBrief — Best Manhwa with OP MC (2026)](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [Game Rant — Best Manhwa With OP MCs](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)
+- [YouTube — Top 10 Manhwa Where OP MC Hides His Power](https://www.youtube.com/watch?v=VSpZZRoi_F8)
+- [MyAnimeList — Hidden Power Manhwa Recommendations](https://myanimelist.net/manga/165324/Secretly_More_Powerful_than_the_Hero)
+- [MangaDex — Official Series Pages](https://mangadex.org)

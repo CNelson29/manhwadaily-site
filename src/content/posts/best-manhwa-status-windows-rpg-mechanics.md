@@ -82,4 +82,8 @@ Penelope Eckart wakes up as the villainess of a reverse harem dating sim set to 
 **Our score: 7.5 / 10** — [Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
 
 ## Sources Checked
-- [Best System Fantasy Manhwa: 10 Series to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)- [The Gamer Manhwa Review: 500 Chapters of System Fantasy — ChapterBrief](https://www.chapterbrief.net/blog/the-gamer-manhwa-review)- [Status Windows Manhwa Interest Stack — MyAnimeList](https://myanimelist.net/stacks/32786)- [10 Best Manhwa Where the Main Character Can Level Up — CBR](https://www.cbr.com/best-manhwa-protagonist-level-up/)- [Best Game System / RPG Interface Manhwa — Anime-Planet](https://www.anime-planet.com/users/GoldenFury/lists/best-game-system--rpg-interface-manhwa-a-902439)
+- [Best System Fantasy Manhwa: 10 Series to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)
+- [The Gamer Manhwa Review: 500 Chapters of System Fantasy — ChapterBrief](https://www.chapterbrief.net/blog/the-gamer-manhwa-review)
+- [Status Windows Manhwa Interest Stack — MyAnimeList](https://myanimelist.net/stacks/32786)
+- [10 Best Manhwa Where the Main Character Can Level Up — CBR](https://www.cbr.com/best-manhwa-protagonist-level-up/)
+- [Best Game System / RPG Interface Manhwa — Anime-Planet](https://www.anime-planet.com/users/GoldenFury/lists/best-game-system--rpg-interface-manhwa-a-902439)

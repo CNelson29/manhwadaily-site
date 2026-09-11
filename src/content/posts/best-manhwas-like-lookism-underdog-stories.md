@@ -98,4 +98,8 @@ Prince Davey is powerless in a kingdom that respects only strength. After being 
 [Read The Max Level Hero Strikes Back on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
 
 ## Sources Checked
-- [ChapterBrief: Manhwa Like Lookism (2026)](https://www.chapterbrief.net/blog/manhwa-like-lookism)- [CBR: Best Manhwa Recommendations](https://www.cbr.com/perfect-manhwa-recommendations)- [ChapterBrief: Best Manhwa Coming of Age](https://www.chapterbrief.net/blog/best-manhwa-coming-of-age)- [ChapterBrief: Manhwa Like Mercenary Enrollment](https://www.chapterbrief.net/blog/manhwa-like-mercenary-enrollment)- [MangaDex verified series pages](https://mangadex.org)
+- [ChapterBrief: Manhwa Like Lookism (2026)](https://www.chapterbrief.net/blog/manhwa-like-lookism)
+- [CBR: Best Manhwa Recommendations](https://www.cbr.com/perfect-manhwa-recommendations)
+- [ChapterBrief: Best Manhwa Coming of Age](https://www.chapterbrief.net/blog/best-manhwa-coming-of-age)
+- [ChapterBrief: Manhwa Like Mercenary Enrollment](https://www.chapterbrief.net/blog/manhwa-like-mercenary-enrollment)
+- [MangaDex verified series pages](https://mangadex.org)

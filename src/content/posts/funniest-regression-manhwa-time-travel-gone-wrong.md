@@ -118,4 +118,8 @@ A meek skeleton soldier swears fierce loyalty to Lady Succubus and dreams of a p
 [Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
 
 ## Sources Checked
-- [Raven Scans — I Regressed, but the World Didn't End](https://ravenscans.org/series/i-regressed-but-the-world-didnt-end/)- [Thunderscans — I Regressed But The World Didn't Fall Apart (synopsis)](https://en-thunderscans.com/comics/i-regressed-but-the-worid-didnt-faii-apart/)- [Tapas — The Martial God Who Regressed Back to Level 2](https://tapas.io/series/the-martial-god-who-regressed-back-to-level-2/info)- [ChapterBrief — Best Manhwa Time Travel Picks Ranked](https://www.chapterbrief.net/blog/best-manhwa-time-travel)- [Screen Rant — 10 Funniest Comedy Manhwa You Should Be Reading](https://screenrant.com/funniest-comedy-manhwa-you-should-be-reading/)
+- [Raven Scans — I Regressed, but the World Didn't End](https://ravenscans.org/series/i-regressed-but-the-world-didnt-end/)
+- [Thunderscans — I Regressed But The World Didn't Fall Apart (synopsis)](https://en-thunderscans.com/comics/i-regressed-but-the-worid-didnt-faii-apart/)
+- [Tapas — The Martial God Who Regressed Back to Level 2](https://tapas.io/series/the-martial-god-who-regressed-back-to-level-2/info)
+- [ChapterBrief — Best Manhwa Time Travel Picks Ranked](https://www.chapterbrief.net/blog/best-manhwa-time-travel)
+- [Screen Rant — 10 Funniest Comedy Manhwa You Should Be Reading](https://screenrant.com/funniest-comedy-manhwa-you-should-be-reading/)

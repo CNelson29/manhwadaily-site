@@ -30,4 +30,6 @@ As of this writing, Novel Bin carries the series to **V2. Chapter 29**, while Ro
 **Read it at:** [Novel Bin — I Tricked a God](https://novelbin.me/novel-book/i-tricked-a-god) · [Royal Road — I Tricked a God](https://www.royalroad.com/fiction/132818/i-tricked-a-god-regression-weak-to-op)
 
 ## Sources Checked
-- [Novel Bin — I Tricked a God](https://novelbin.me/novel-book/i-tricked-a-god)- [Royal Road — I Tricked a God [Regression] [Weak to OP]](https://www.royalroad.com/fiction/132818/i-tricked-a-god-regression-weak-to-op)- [LitRPG Toolkit — tracking page](https://litrpgtoolkit.com/books/132818)
+- [Novel Bin — I Tricked a God](https://novelbin.me/novel-book/i-tricked-a-god)
+- [Royal Road — I Tricked a God [Regression] [Weak to OP]](https://www.royalroad.com/fiction/132818/i-tricked-a-god-regression-weak-to-op)
+- [LitRPG Toolkit — tracking page](https://litrpgtoolkit.com/books/132818)

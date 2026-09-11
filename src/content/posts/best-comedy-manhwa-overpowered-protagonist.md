@@ -96,4 +96,8 @@ A delivery worker obsessed with a romantasy novel wakes up inside it — not as 
 [Read on Webtoon →](https://www.webtoons.com/en/search?keyword=Mr.+Delivery+Knight)
 
 ## Sources Checked
-- [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [I Was More Overpowered Than the Hero — PanelVerse](https://www.thepanelverse.com/series/i-was-more-overpowered-than-hero)- [Best Manhwa With OP MCs — Game Rant](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)- [Popular Comedy Manhwa Stack — MyAnimeList](https://myanimelist.net/stacks/55489)- [I Was More Overpowered Than the Hero — Arenascans](https://arenascan.com/manga/i-was-more-overpowered-than-the-hero-so-i-hid-my-power/)
+- [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [I Was More Overpowered Than the Hero — PanelVerse](https://www.thepanelverse.com/series/i-was-more-overpowered-than-hero)
+- [Best Manhwa With OP MCs — Game Rant](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)
+- [Popular Comedy Manhwa Stack — MyAnimeList](https://myanimelist.net/stacks/55489)
+- [I Was More Overpowered Than the Hero — Arenascans](https://arenascan.com/manga/i-was-more-overpowered-than-the-hero-so-i-hid-my-power/)

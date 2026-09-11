@@ -78,4 +78,8 @@ After a failed assassination attempt by her own family, Leslie is saved and adop
 **Why it is great:** A heartfelt story that balances family dynamics with romance and court intrigue. Leslie's journey from victim to someone who commands the affection and respect of everyone around her is deeply satisfying to watch, making it a strong close to this list.
 
 ## Sources Checked
-- [The Best Reverse Harem Manhwa — Game Rant](https://gamerant.com/best-reverse-harem-manhwa/)- [Villains Are Destined to Die — MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)- [Reverse Harem Manga — Anime-Planet](https://www.anime-planet.com/manga/tags/reverse-harem)- [Top 20 Reverse Harem Manga 2026 — GuessAnime](https://guessanime.com/manga-with-reverse-harem)- [Manhwa — Multiple Choice for Her (Reverse Harem) — MyAnimeList](https://myanimelist.net/stacks/79904)
+- [The Best Reverse Harem Manhwa — Game Rant](https://gamerant.com/best-reverse-harem-manhwa/)
+- [Villains Are Destined to Die — MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+- [Reverse Harem Manga — Anime-Planet](https://www.anime-planet.com/manga/tags/reverse-harem)
+- [Top 20 Reverse Harem Manga 2026 — GuessAnime](https://guessanime.com/manga-with-reverse-harem)
+- [Manhwa — Multiple Choice for Her (Reverse Harem) — MyAnimeList](https://myanimelist.net/stacks/79904)

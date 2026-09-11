@@ -82,4 +82,7 @@ A nameless skeleton soldier serves Lady Succubus with absolute loyalty — until
 [Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
 
 ## Sources Checked
-- [MangaDex](https://mangadex.org) — series pages and publication data used throughout- [Chapter Brief — Best System Fantasy Manhwa 2026](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)- [CBR — Virtual Reality MMORPG Manhwa](https://www.cbr.com/virtual-reality-mmorpg-manhwa-like-sword-art-online/)- [MyAnimeList — genre context and community ratings](https://myanimelist.net/manga/151157/Reality_Quest)
+- [MangaDex](https://mangadex.org) — series pages and publication data used throughout
+- [Chapter Brief — Best System Fantasy Manhwa 2026](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)
+- [CBR — Virtual Reality MMORPG Manhwa](https://www.cbr.com/virtual-reality-mmorpg-manhwa-like-sword-art-online/)
+- [MyAnimeList — genre context and community ratings](https://myanimelist.net/manga/151157/Reality_Quest)

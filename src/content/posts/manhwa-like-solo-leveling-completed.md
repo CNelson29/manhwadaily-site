@@ -138,4 +138,8 @@ Vampires have overrun the world, and only one half-vampire with extraordinary po
 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Unholy+Blood)
 
 ## Sources Checked
-- [Completed Manhwa Like Solo Leveling — ChapterBrief (May 2026)](https://www.chapterbrief.net/blog/completed-manhwa-like-solo-leveling)- [Manhwa Like Solo Leveling: 12 Best Series for 2026 — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-solo-leveling)- [Best Manhwa Like Solo Leveling — Game Rant (updated July 2026)](https://gamerant.com/best-manhwa-like-solo-leveling)- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [MangaDex (title and completion status verification)](https://mangadex.org)
+- [Completed Manhwa Like Solo Leveling — ChapterBrief (May 2026)](https://www.chapterbrief.net/blog/completed-manhwa-like-solo-leveling)
+- [Manhwa Like Solo Leveling: 12 Best Series for 2026 — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-solo-leveling)
+- [Best Manhwa Like Solo Leveling — Game Rant (updated July 2026)](https://gamerant.com/best-manhwa-like-solo-leveling)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [MangaDex (title and completion status verification)](https://mangadex.org)

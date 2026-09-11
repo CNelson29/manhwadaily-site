@@ -98,4 +98,7 @@ Aria clawed her way from poverty to nobility — only to be executed after years
 [Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
 
 ## Sources Checked
-- [Best Completed Manhwa: 20 Series You Can Binge Now — ChapterBrief](https://www.chapterbrief.net/blog/best-completed-manhwa)- [Best Sci-Fi Manhwa: 9 Space, AI, and Dystopia Picks — ChapterBrief](https://www.chapterbrief.net/blog/best-sci-fi-manhwa)- [25 Best Completed Manhwa to Binge in 2026 — AnimeUma](https://animeuma.com/best-completed-manhwa-masterpieces-2026/)- [The 21 Best Sci-Fi Manhwa (Webtoons) You Must Read — HubPages](https://discover.hubpages.com/literature/the-best-sci-fi-manhwa-webtoons-you-must-read)
+- [Best Completed Manhwa: 20 Series You Can Binge Now — ChapterBrief](https://www.chapterbrief.net/blog/best-completed-manhwa)
+- [Best Sci-Fi Manhwa: 9 Space, AI, and Dystopia Picks — ChapterBrief](https://www.chapterbrief.net/blog/best-sci-fi-manhwa)
+- [25 Best Completed Manhwa to Binge in 2026 — AnimeUma](https://animeuma.com/best-completed-manhwa-masterpieces-2026/)
+- [The 21 Best Sci-Fi Manhwa (Webtoons) You Must Read — HubPages](https://discover.hubpages.com/literature/the-best-sci-fi-manhwa-webtoons-you-must-read)

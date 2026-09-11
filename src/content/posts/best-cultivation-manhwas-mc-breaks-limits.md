@@ -78,4 +78,8 @@ A skeleton soldier watches his master get murdered — and resets to the beginni
 **Why it's great:** Cultivation through relentless iteration. The MC grows by dying and learning — and each cycle adds emotional weight that makes the eventual payoff devastating. Underrated gem. [Read on MangaDex →](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
 
 ## Sources Checked
-- [ChapterBrief: Best Cultivation Manhwa — 10 Murim Series Ranked 2026](https://www.chapterbrief.net/blog/best-cultivation-manhwa)- [ChapterBrief: Best Cultivation Manhwa 2026 — 8 Series Worth Reading](https://www.chapterbrief.net/blog/best-cultivation-manhwa-2026)- [ChapterBrief: Best Murim Manhwa in 2026 — 6 Ranked Series](https://www.chapterbrief.net/blog/best-murim-manhwa-2026)- [NovelNodes: 10 Best Murim Manhwa with OP MCs You Must Read (2026)](https://novelnodes.com/best-murim-manhwa-op-mc/)- [YouTube: Best Murim Manhwa Recommendations 2026 — Top 10 With Overpowered Badass MC](https://www.youtube.com/watch?v=gWBgdKfRUwc)
+- [ChapterBrief: Best Cultivation Manhwa — 10 Murim Series Ranked 2026](https://www.chapterbrief.net/blog/best-cultivation-manhwa)
+- [ChapterBrief: Best Cultivation Manhwa 2026 — 8 Series Worth Reading](https://www.chapterbrief.net/blog/best-cultivation-manhwa-2026)
+- [ChapterBrief: Best Murim Manhwa in 2026 — 6 Ranked Series](https://www.chapterbrief.net/blog/best-murim-manhwa-2026)
+- [NovelNodes: 10 Best Murim Manhwa with OP MCs You Must Read (2026)](https://novelnodes.com/best-murim-manhwa-op-mc/)
+- [YouTube: Best Murim Manhwa Recommendations 2026 — Top 10 With Overpowered Badass MC](https://www.youtube.com/watch?v=gWBgdKfRUwc)

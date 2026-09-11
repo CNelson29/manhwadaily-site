@@ -88,4 +88,8 @@ A recent addition to the subgenre — launched in 2025 — that puts the premise
 [Read here](https://www.webtoons.com/en/search?keyword=I+Was+More+Overpowered+Than+the+Hero+so+I+Hid+My+Power)
 
 ## Sources Checked
-- [Secretly More Powerful than the Hero — Webtoon](https://m.webtoons.com/en/fantasy/secretly-more-powerful-than-the-hero/list?title_no=5845)- [Secretly More Powerful than the Hero — MyAnimeList](https://myanimelist.net/manga/165324/Secretly_More_Powerful_than_the_Hero)- [The Main Character Hides His Strength — Manhwa Bato](https://www.manhwabato.com/manga/the-main-character-hides-his-strength)- [I Was More Overpowered Than the Hero — Raven Scans](https://ravenscans.org/manga/i-was-more-overpowered-than-the-hero-so-i-hid-my-power/)- [Best Manhwa with OP MC 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [Secretly More Powerful than the Hero — Webtoon](https://m.webtoons.com/en/fantasy/secretly-more-powerful-than-the-hero/list?title_no=5845)
+- [Secretly More Powerful than the Hero — MyAnimeList](https://myanimelist.net/manga/165324/Secretly_More_Powerful_than_the_Hero)
+- [The Main Character Hides His Strength — Manhwa Bato](https://www.manhwabato.com/manga/the-main-character-hides-his-strength)
+- [I Was More Overpowered Than the Hero — Raven Scans](https://ravenscans.org/manga/i-was-more-overpowered-than-the-hero-so-i-hid-my-power/)
+- [Best Manhwa with OP MC 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)

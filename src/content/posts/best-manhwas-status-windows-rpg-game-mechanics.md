@@ -98,4 +98,8 @@ Penelope Eckart wakes up inside a reverse-harem dating sim as the villainess —
 [Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
 
 ## Sources Checked
-- [10 Best System Manhwa with OP MC (2026) — novelnodes.com](https://novelnodes.com/best-system-manhwa-op-mc)- [Best System Fantasy Manhwa: 10 Series to Read in 2026 — chapterbrief.net](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)- [Second Life Ranker Manhwa Review (2026) — controllerandcape.com](https://controllerandcape.com/second-life-ranker-manhwa-review-2026/)- [Best Game System / RPG Interface Manhwa — Anime-Planet](https://www.anime-planet.com/users/GoldenFury/lists/best-game-system--rpg-interface-manhwa-a-902439)- [Webtoon's Isekai Manhwas — MyAnimeList](https://myanimelist.net/stacks/67524)
+- [10 Best System Manhwa with OP MC (2026) — novelnodes.com](https://novelnodes.com/best-system-manhwa-op-mc)
+- [Best System Fantasy Manhwa: 10 Series to Read in 2026 — chapterbrief.net](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)
+- [Second Life Ranker Manhwa Review (2026) — controllerandcape.com](https://controllerandcape.com/second-life-ranker-manhwa-review-2026/)
+- [Best Game System / RPG Interface Manhwa — Anime-Planet](https://www.anime-planet.com/users/GoldenFury/lists/best-game-system--rpg-interface-manhwa-a-902439)
+- [Webtoon's Isekai Manhwas — MyAnimeList](https://myanimelist.net/stacks/67524)

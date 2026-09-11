@@ -86,4 +86,8 @@ Leslie is adopted into the powerful Sperado noble family to serve as a stand-in 
 For pure, uncut comedy: start with **Beware the Villainess!** or **Normal Duke** — both are engineered for laughs first, everything else second. If you prefer humor delivered through an isekai or action framework, **The Greatest Estate Developer** and **A Returner's Magic Should Be Special** use genre subversion rather than gag setups. For darker comedic satisfaction, **The Villainess Turns the Hourglass** rewards patience with a revenge arc you can watch snap shut in a single sitting. All eight are done. No waiting required.
 
 ## Sources Checked
-- [Best Comedy Manhwa: 7 Picks Sorted by Tone and Style — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-comedy)- [Best Completed Manhwa: 19 Series You Can Binge Now — ChapterBrief](https://www.chapterbrief.net/blog/best-completed-manhwa)- [Popular Comedy Manhwa Stack — MyAnimeList](https://myanimelist.net/stacks/55489)- [Normal Duke Series Page — WEBTOON](https://www.webtoons.com/en/comedy/normal-duke/list?title_no=8513)- [Best Manhwa to Read in 2026: 32 Series — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Best Comedy Manhwa: 7 Picks Sorted by Tone and Style — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-comedy)
+- [Best Completed Manhwa: 19 Series You Can Binge Now — ChapterBrief](https://www.chapterbrief.net/blog/best-completed-manhwa)
+- [Popular Comedy Manhwa Stack — MyAnimeList](https://myanimelist.net/stacks/55489)
+- [Normal Duke Series Page — WEBTOON](https://www.webtoons.com/en/comedy/normal-duke/list?title_no=8513)
+- [Best Manhwa to Read in 2026: 32 Series — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)

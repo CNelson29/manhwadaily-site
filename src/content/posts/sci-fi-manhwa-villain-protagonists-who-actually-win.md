@@ -66,4 +66,7 @@ Prince Davey O'Rowane was powerless and dismissed — until his soul traveled to
 **Why it's great:** The gap between how everyone perceives Davey and what he's actually capable of creates sustained dramatic tension across every arc. When he stops holding back, the payoff is enormous and entirely earned.
 
 ## Sources Checked
-- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Top 10 Manhwa With a Psycho MC & Ruthless Anti-Hero 2026](https://www.youtube.com/watch?v=6yQeL5-_ldE)- [100 Manhwa/Manhua Tier List 2026 Edition](https://www.youtube.com/watch?v=YsPPMNtRc3k)- [I Am The Fated Villain on Tappytoon](https://www.tappytoon.com/en/book/i-am-the-fated-villain)
+- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Top 10 Manhwa With a Psycho MC & Ruthless Anti-Hero 2026](https://www.youtube.com/watch?v=6yQeL5-_ldE)
+- [100 Manhwa/Manhua Tier List 2026 Edition](https://www.youtube.com/watch?v=YsPPMNtRc3k)
+- [I Am The Fated Villain on Tappytoon](https://www.tappytoon.com/en/book/i-am-the-fated-villain)

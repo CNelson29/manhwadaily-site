@@ -72,4 +72,8 @@ Desir Arman is one of six survivors at the end of humanity — the last people s
 [Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
 
 ## Sources Checked
-- [Controller and Cape — Best Dark Fantasy Manhwa: Panel Pacing and LitRPG Mechanics](https://controllerandcape.com/best-dark-fantasy-manhwa-analyzing-panel-pacing-and-litrpg-mechanics/)- [ChapterBrief — Best Action Manhwa 2026](https://www.chapterbrief.net/blog/best-action-manhwa-2026)- [ChapterBrief — Revenge of the Baskerville Bloodhound Review (8.0/10)](https://www.chapterbrief.net/blog/revenge-of-the-baskerville-bloodhound-review)- [Screen Rant — 10 Best Dark Fantasy Manhwa You Need to Be Reading](https://screenrant.com/best-dark-fantasy-manhwa/)- [Tappytoon — Legend of the Northern Blade Official Page](https://www.tappytoon.com/en/book/legend-of-northern-blade)
+- [Controller and Cape — Best Dark Fantasy Manhwa: Panel Pacing and LitRPG Mechanics](https://controllerandcape.com/best-dark-fantasy-manhwa-analyzing-panel-pacing-and-litrpg-mechanics/)
+- [ChapterBrief — Best Action Manhwa 2026](https://www.chapterbrief.net/blog/best-action-manhwa-2026)
+- [ChapterBrief — Revenge of the Baskerville Bloodhound Review (8.0/10)](https://www.chapterbrief.net/blog/revenge-of-the-baskerville-bloodhound-review)
+- [Screen Rant — 10 Best Dark Fantasy Manhwa You Need to Be Reading](https://screenrant.com/best-dark-fantasy-manhwa/)
+- [Tappytoon — Legend of the Northern Blade Official Page](https://www.tappytoon.com/en/book/legend-of-northern-blade)

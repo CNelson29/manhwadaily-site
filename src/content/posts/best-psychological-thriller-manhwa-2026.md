@@ -92,4 +92,8 @@ Seon Jin is the quiet, isolated son of a successful businessman. He is also comp
 We weighted three factors: sustained psychological tension across the full run (not just isolated shocking moments), narrative complexity, and how actively the story manipulates the reader's perception of events and morality. A series that lands one great twist scored lower than a series that maintains pressure from chapter one to the last page.
 
 ## Sources Checked
-- [ChapterBrief: Best Manhwa Psychological Thrillers to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-psychological-thriller)- [ChapterBrief: Best Thriller Manhwa: 10 Series Ranked by Tension (2026)](https://www.chapterbrief.net/blog/best-thriller-manhwa)- [Game Rant: Best Psychological Manhwa Ranked](https://gamerant.com/best-psychological-manhwa/)- [AnimeMangaToon: 18 Best Psychological Manhwa You Should Read Now](https://animemangatoon.com/best-psychological-manhwa-you-should-read-now/)- [MyAnimeList: Webtoon's Best Thriller Manhwa Stack](https://myanimelist.net/stacks/53121)
+- [ChapterBrief: Best Manhwa Psychological Thrillers to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-psychological-thriller)
+- [ChapterBrief: Best Thriller Manhwa: 10 Series Ranked by Tension (2026)](https://www.chapterbrief.net/blog/best-thriller-manhwa)
+- [Game Rant: Best Psychological Manhwa Ranked](https://gamerant.com/best-psychological-manhwa/)
+- [AnimeMangaToon: 18 Best Psychological Manhwa You Should Read Now](https://animemangatoon.com/best-psychological-manhwa-you-should-read-now/)
+- [MyAnimeList: Webtoon's Best Thriller Manhwa Stack](https://myanimelist.net/stacks/53121)

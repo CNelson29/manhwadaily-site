@@ -82,4 +82,8 @@ A necromancer MC who advances through a dungeon system by evolving and specializ
 **Our score: 8.0/10** | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Necromancer%27s+Evolutionary+Trait)
 
 ## Sources Checked
-- [Game Rant — Best Manhwa With Necromancer Protagonists](https://gamerant.com/best-manhwa-necromancer-protagonists/)- [Webtoon — The Lone Necromancer (official series page)](https://m.webtoons.com/en/fantasy/the-lone-necromancer/list?title_no=3690)- [Blogarama — Best 10+ Necromancer Manhwa (July 2026)](https://www.blogarama.com/arts-and-entertainment-blogs/1437095-animewelt-blog/78296583-best-necromancer-manhwa-you-need-read-right-now)- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [YouTube — Forcing Myself to Read 30 Necromancer Manhwa (Dec 2025)](https://www.youtube.com/watch?v=Znt2k54KrDs)
+- [Game Rant — Best Manhwa With Necromancer Protagonists](https://gamerant.com/best-manhwa-necromancer-protagonists/)
+- [Webtoon — The Lone Necromancer (official series page)](https://m.webtoons.com/en/fantasy/the-lone-necromancer/list?title_no=3690)
+- [Blogarama — Best 10+ Necromancer Manhwa (July 2026)](https://www.blogarama.com/arts-and-entertainment-blogs/1437095-animewelt-blog/78296583-best-necromancer-manhwa-you-need-read-right-now)
+- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [YouTube — Forcing Myself to Read 30 Necromancer Manhwa (Dec 2025)](https://www.youtube.com/watch?v=Znt2k54KrDs)

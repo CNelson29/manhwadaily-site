@@ -28,4 +28,6 @@ The combination of high-stakes world-building and slow-burn romance is a reliabl
 Pick up Chapter 147 or start from the beginning at [NovelBuddy](https://novelbuddy.me/the-dragon-kings-forbidden-witch/chapter-147-how-long-do-you-expect-us-to-wait-draeven). The full novel is also available at [LightNovelPub](https://lightnovelpub.me/book/the-dragon-kings-forbidden-witch) if you prefer that reader.
 
 ## Sources Checked
-- [NovelBuddy — Chapter 147 page](https://novelbuddy.me/the-dragon-kings-forbidden-witch/chapter-147-how-long-do-you-expect-us-to-wait-draeven)- [LightNovelPub — novel listing](https://lightnovelpub.me/book/the-dragon-kings-forbidden-witch)- [TikTok Discover — community synopsis and discussion](https://www.tiktok.com/discover/the-dragon-kings-forbidden-witch)
+- [NovelBuddy — Chapter 147 page](https://novelbuddy.me/the-dragon-kings-forbidden-witch/chapter-147-how-long-do-you-expect-us-to-wait-draeven)
+- [LightNovelPub — novel listing](https://lightnovelpub.me/book/the-dragon-kings-forbidden-witch)
+- [TikTok Discover — community synopsis and discussion](https://www.tiktok.com/discover/the-dragon-kings-forbidden-witch)

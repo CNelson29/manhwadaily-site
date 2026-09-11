@@ -80,4 +80,8 @@ The protagonist wakes up as Princess Athanasia — the girl who, in the novel sh
 [Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
 
 ## Sources Checked
-- [ChapterBrief — Best Manhwa with OP MC](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [QuoteTheAnime — 10+ Manhwa with OP MC from the Start](https://quotetheanime.com/recommendations/manhwa-with-op-mc-from-the-start/)- [NovelNodes — Best Isekai Manhwa with OP MC](https://novelnodes.com/best-isekai-manhwa-op-mc/)- [ChapterBrief — Manhwa Overpowered MC Types Explained](https://www.chapterbrief.net/blog/best-manhwa-overpowered-mc)- [MangaDex — Verified official title pages](https://mangadex.org)
+- [ChapterBrief — Best Manhwa with OP MC](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [QuoteTheAnime — 10+ Manhwa with OP MC from the Start](https://quotetheanime.com/recommendations/manhwa-with-op-mc-from-the-start/)
+- [NovelNodes — Best Isekai Manhwa with OP MC](https://novelnodes.com/best-isekai-manhwa-op-mc/)
+- [ChapterBrief — Manhwa Overpowered MC Types Explained](https://www.chapterbrief.net/blog/best-manhwa-overpowered-mc)
+- [MangaDex — Verified official title pages](https://mangadex.org)

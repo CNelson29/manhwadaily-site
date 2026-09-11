@@ -28,4 +28,8 @@ The novel is publishing new chapters on NovelBuddy, with the chapter count conti
 **Read it at:** [NovelBuddy — Crafting Gear From Monster Genes](https://novelbuddy.me/crafting-gear-from-monster-genes/)
 
 ## Sources Checked
-- [NovelBuddy — Chapter 41](https://novelbuddy.me/crafting-gear-from-monster-genes/chapter-41-most-important-and-lonely-monster)- [NovelBuddy — Chapter 51](https://novelbuddy.me/crafting-gear-from-monster-genes/chapter-51-an-unfair-fight-in-a-fair-fight)- [NovelBuddy — Chapter 52](https://novelbuddy.me/crafting-gear-from-monster-genes/chapter-52-jar-with-a-rare-piece)- [NovelBuddy — Chapter 53](https://novelbuddy.me/crafting-gear-from-monster-genes/chapter-53-a-lonely-traveler-and-two-heads)- [ChapterBrief — Best System Fantasy Manhwa 2026](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)
+- [NovelBuddy — Chapter 41](https://novelbuddy.me/crafting-gear-from-monster-genes/chapter-41-most-important-and-lonely-monster)
+- [NovelBuddy — Chapter 51](https://novelbuddy.me/crafting-gear-from-monster-genes/chapter-51-an-unfair-fight-in-a-fair-fight)
+- [NovelBuddy — Chapter 52](https://novelbuddy.me/crafting-gear-from-monster-genes/chapter-52-jar-with-a-rare-piece)
+- [NovelBuddy — Chapter 53](https://novelbuddy.me/crafting-gear-from-monster-genes/chapter-53-a-lonely-traveler-and-two-heads)
+- [ChapterBrief — Best System Fantasy Manhwa 2026](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)

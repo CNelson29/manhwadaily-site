@@ -88,4 +88,8 @@ Firentia, the illegitimate Lombardi daughter, watches her family collapse after 
 [Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=I+Shall+Master+This+Family)
 
 ## Sources Checked
-- [10 Best Villain MC Manhwa — NovelNodes (2026)](https://novelnodes.com/best-villain-mc-manhwa/)- [Best Villainess Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-villainess-manhwa-2026)- [Manhwas Where MC is Villain — MyAnimeList Interest Stack](https://myanimelist.net/stacks/64073)- [Manhwa with Evil/Antihero/Villain MC — MyAnimeList](https://myanimelist.net/stacks/13494)- [MangaDex — Verified manhwa title database](https://mangadex.org)
+- [10 Best Villain MC Manhwa — NovelNodes (2026)](https://novelnodes.com/best-villain-mc-manhwa/)
+- [Best Villainess Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-villainess-manhwa-2026)
+- [Manhwas Where MC is Villain — MyAnimeList Interest Stack](https://myanimelist.net/stacks/64073)
+- [Manhwa with Evil/Antihero/Villain MC — MyAnimeList](https://myanimelist.net/stacks/13494)
+- [MangaDex — Verified manhwa title database](https://mangadex.org)

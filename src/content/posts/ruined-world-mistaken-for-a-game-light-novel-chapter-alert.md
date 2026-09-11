@@ -17,7 +17,11 @@ Rated 4.1 out of 5 from over a hundred votes on Novel Updates and carrying high 
 
 ## Spotlight: The Ruined World Was Mistaken for a Game
 
-**Authors:** Credo, Kwon Ki-Joon**Status:** Ongoing**Genres:** Fantasy, Action, Game Elements
+**Authors:** Credo, Kwon Ki-Joon
+
+**Status:** Ongoing
+
+**Genres:** Fantasy, Action, Game Elements
 
 Kim Jin-woo spent his career building fictional worlds for players — balancing systems, designing progression loops, engineering the feeling that a simulated reality is alive and meaningful. When he is suddenly summoned into a devastated alternate world as an otherworlder, none of that experience vanishes. Instead of adapting to his new surroundings, he turns his professional instincts outward: his plan is to make this broken civilization *believe* it lives inside a game.
 
@@ -28,4 +32,7 @@ The series rewards readers who enjoy isekai with a political or systems-design a
 **Read it at:** [Novel Shadow](https://novelshadow.com/novel/the-ruined-world-was-mistaken-for-a-game) | Also tracked and rated at [Novel Updates](https://www.novelupdates.com/series/the-ruined-world-was-mistaken-for-a-game/)
 
 ## Sources Checked
-- [Novel Shadow — series page and chapter list](https://novelshadow.com/novel/the-ruined-world-was-mistaken-for-a-game)- [Novel Updates — community ratings and metadata](https://www.novelupdates.com/series/the-ruined-world-was-mistaken-for-a-game/)- [Raven Scans — manhwa adaptation page](https://exitranch.com/series/the-ruined-world-was-mistaken-for-a-game/)- [Mangabat — chapter updates and reader ratings](https://www.mangabats.com/manga/the-ruined-world-was-mistaken-for-a-game)
+- [Novel Shadow — series page and chapter list](https://novelshadow.com/novel/the-ruined-world-was-mistaken-for-a-game)
+- [Novel Updates — community ratings and metadata](https://www.novelupdates.com/series/the-ruined-world-was-mistaken-for-a-game/)
+- [Raven Scans — manhwa adaptation page](https://exitranch.com/series/the-ruined-world-was-mistaken-for-a-game/)
+- [Mangabat — chapter updates and reader ratings](https://www.mangabats.com/manga/the-ruined-world-was-mistaken-for-a-game)

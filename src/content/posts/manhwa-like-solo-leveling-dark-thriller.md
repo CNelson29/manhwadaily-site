@@ -90,4 +90,7 @@ If the early horror of Solo Leveling is what you want recreated, start with **Th
 Completed series for binge reads: Solo Leveling, A Returner's Magic Should Be Special. Ongoing with consistent output: Omniscient Reader's Viewpoint, SSS-Class Revival Hunter, The Skeleton Soldier, The Max Level Hero Strikes Back.
 
 ## Sources Checked
-- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Best Manhwa Psychological Thrillers 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-psychological-thriller)- [Top 10 Manhwa Like Solo Leveling — MagicStark](https://magicstark.cz/en/anime-manhwa-manga/top-10-manhwa-like-solo-leveling-you-must-read/)- [15 Best Manhwa Like Solo Leveling Ranked — Medium](https://medium.com/@amman8740/15-best-manhwa-like-solo-leveling-ranked-26ba2e4149d7)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Best Manhwa Psychological Thrillers 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-psychological-thriller)
+- [Top 10 Manhwa Like Solo Leveling — MagicStark](https://magicstark.cz/en/anime-manhwa-manga/top-10-manhwa-like-solo-leveling-you-must-read/)
+- [15 Best Manhwa Like Solo Leveling Ranked — Medium](https://medium.com/@amman8740/15-best-manhwa-like-solo-leveling-ranked-26ba2e4149d7)

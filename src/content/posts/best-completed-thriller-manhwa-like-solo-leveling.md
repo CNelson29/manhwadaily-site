@@ -116,4 +116,8 @@ If you are willing to follow ongoing series for quality: **Omniscient Reader's V
 If you want pure thriller with less system fantasy: **Killing Killer** is the furthest from the Solo Leveling template and the most satisfying as a crime thriller in its own right.
 
 ## Sources Checked
-- [Completed Manhwa Like Solo Leveling — ChapterBrief](https://www.chapterbrief.net/blog/completed-manhwa-like-solo-leveling)- [Best Thriller Manhwa Ranked by Tension — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)- [Manhwa Like Liar Game — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-liar-game)- [I Am the Sorcerer King Review — MangaNest](https://www.manganest.org/i-am-the-sorcerer-king-manhwa-review/)- [Killing Killer — MangaBaka](https://mangabaka.org/55394)
+- [Completed Manhwa Like Solo Leveling — ChapterBrief](https://www.chapterbrief.net/blog/completed-manhwa-like-solo-leveling)
+- [Best Thriller Manhwa Ranked by Tension — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)
+- [Manhwa Like Liar Game — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-liar-game)
+- [I Am the Sorcerer King Review — MangaNest](https://www.manganest.org/i-am-the-sorcerer-king-manhwa-review/)
+- [Killing Killer — MangaBaka](https://mangabaka.org/55394)

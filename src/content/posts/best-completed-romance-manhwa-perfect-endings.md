@@ -96,4 +96,7 @@ The title delivers on its promise: this completed romance manhwa actively subver
 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Not+Your+Typical+Reincarnation+Story)
 
 ## Sources Checked
-- [BestInRomance — 60+ Best Completed Romance Manhwa 2026](https://bestinromance.com/best-completed-romance-manhwa/)- [ChapterBrief — Best Completed Manhwa You Can Binge Now](https://www.chapterbrief.net/blog/best-completed-manhwa)- [Dashtoon — Best Completed Romance Manhwa Recommendations](https://dashtoon.com/blog/completed-romance-manhwa-recommendations/)- [GoodNovel — Best Completed Romance Manhwa With Happy Endings](https://www.goodnovel.com/qa/best-completed-romance-manhwa-happy-endings)
+- [BestInRomance — 60+ Best Completed Romance Manhwa 2026](https://bestinromance.com/best-completed-romance-manhwa/)
+- [ChapterBrief — Best Completed Manhwa You Can Binge Now](https://www.chapterbrief.net/blog/best-completed-manhwa)
+- [Dashtoon — Best Completed Romance Manhwa Recommendations](https://dashtoon.com/blog/completed-romance-manhwa-recommendations/)
+- [GoodNovel — Best Completed Romance Manhwa With Happy Endings](https://www.goodnovel.com/qa/best-completed-romance-manhwa-happy-endings)

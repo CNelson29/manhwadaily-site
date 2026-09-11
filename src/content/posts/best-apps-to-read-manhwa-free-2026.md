@@ -106,4 +106,8 @@ Yeonwoo learns his twin brother was murdered after being betrayed by allies insi
 *Why it's great:* The emotional core — grief channeled into methodical vengeance — grounds what could be generic power scaling into something more compelling. → [Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
 
 ## Sources Checked
-- [Top 5 Manga & Manhwa Reader Apps 2026 — mangadownload.io](https://mangadownload.io/blog/top-5-manga-manhwa-reader-apps/)- [Best Manhwa to Read in 2026 — chapterbrief.net](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Best Manhwa Websites in 2026 — mangatranslate.online](https://www.mangatranslate.online/blog/manhwa-websites)- [WEBTOON on Google Play](https://play.google.com/store/apps/details?hl=en_US&id=com.naver.linewebtoon)- [Tappytoon on Google Play](https://play.google.com/store/apps/details?id=com.contentsfirst.tappytoon&hl=en)
+- [Top 5 Manga & Manhwa Reader Apps 2026 — mangadownload.io](https://mangadownload.io/blog/top-5-manga-manhwa-reader-apps/)
+- [Best Manhwa to Read in 2026 — chapterbrief.net](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Best Manhwa Websites in 2026 — mangatranslate.online](https://www.mangatranslate.online/blog/manhwa-websites)
+- [WEBTOON on Google Play](https://play.google.com/store/apps/details?hl=en_US&id=com.naver.linewebtoon)
+- [Tappytoon on Google Play](https://play.google.com/store/apps/details?id=com.contentsfirst.tappytoon&hl=en)

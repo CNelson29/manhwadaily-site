@@ -118,4 +118,8 @@ The Villainess Turns the Hourglass is the gold standard of the genre for a reaso
 [Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
 
 ## Sources Checked
-- [10 Best Villain MC Manhwa Ranked — Novel Nodes](https://novelnodes.com/best-villain-mc-manhwa/)- [Best Manhwa With Villainous Protagonists — Game Rant](https://gamerant.com/best-manhwa-with-villainous-protagonists/)- [The Patron of Villains Official Page — WEBTOON](https://www.webtoons.com/en/fantasy/the-patron-of-villains/list?title_no=9321)- [I Am the Fated Villain Official Page — Tappytoon](https://www.tappytoon.com/en/book/i-am-the-fated-villain)- [The 21 Best Villain Manhwa — HubPages](https://discover.hubpages.com/literature/the-best-villain-manhwa-webtoons-you-must-read)
+- [10 Best Villain MC Manhwa Ranked — Novel Nodes](https://novelnodes.com/best-villain-mc-manhwa/)
+- [Best Manhwa With Villainous Protagonists — Game Rant](https://gamerant.com/best-manhwa-with-villainous-protagonists/)
+- [The Patron of Villains Official Page — WEBTOON](https://www.webtoons.com/en/fantasy/the-patron-of-villains/list?title_no=9321)
+- [I Am the Fated Villain Official Page — Tappytoon](https://www.tappytoon.com/en/book/i-am-the-fated-villain)
+- [The 21 Best Villain Manhwa — HubPages](https://discover.hubpages.com/literature/the-best-villain-manhwa-webtoons-you-must-read)

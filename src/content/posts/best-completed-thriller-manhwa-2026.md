@@ -98,4 +98,8 @@ Solo Leveling is not a pure thriller, but its opening survival arc — an underp
 [Read Solo Leveling on MangaDex →](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
 
 ## Sources Checked
-- [Best Thriller Manhwa: 10 Series Ranked by Tension — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Manhwa Like Liar Game: 6 Picks for Game Thriller Fans — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-liar-game)- [Best Korean Webtoons 2026 — Seoul Signal](https://seoulsignal.co/culture/korean-webtoon-recommendations-2026)- [Webtoon's Best Thriller Manhwa — MyAnimeList](https://myanimelist.net/stacks/53121)
+- [Best Thriller Manhwa: 10 Series Ranked by Tension — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Manhwa Like Liar Game: 6 Picks for Game Thriller Fans — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-liar-game)
+- [Best Korean Webtoons 2026 — Seoul Signal](https://seoulsignal.co/culture/korean-webtoon-recommendations-2026)
+- [Webtoon's Best Thriller Manhwa — MyAnimeList](https://myanimelist.net/stacks/53121)

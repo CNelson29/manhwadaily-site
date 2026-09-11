@@ -56,4 +56,8 @@ A murim orphan receives a nanomachine implant from a future descendant, gaining 
 A veteran gamer is summoned into his own gacha game as a low-rarity unit and must survive and rise through a system built to discard the weak. The premise flips the isekai formula, and the action benefits from game-mechanic scaffolding that makes power differences feel concrete and earned rather than arbitrary. Recommended alongside Eleceed in multiple 2026 roundups as a strong ongoing series with strategic depth beneath its battles. [MangaDex](https://mangadex.org/search?q=Pick+Me+Up+Infinite+Gacha)
 
 ## Sources Checked
-- [ChapterBrief — Manhwa Like Eleceed: 8 Series Sorted by What Hooked You](https://www.chapterbrief.net/blog/manhwa-like-eleceed)- [Game Rant — Best Manhwa Like Eleceed](https://gamerant.com/best-manhwa-like-eleceed/)- [CBR — 12 Best Manhwa Recommendations](https://www.cbr.com/perfect-manhwa-recommendations)- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [HubPages — The 15 Best Manhwa Like Eleceed](https://discover.hubpages.com/literature/the-best-manhwa-like-eleceed-you-must-read)
+- [ChapterBrief — Manhwa Like Eleceed: 8 Series Sorted by What Hooked You](https://www.chapterbrief.net/blog/manhwa-like-eleceed)
+- [Game Rant — Best Manhwa Like Eleceed](https://gamerant.com/best-manhwa-like-eleceed/)
+- [CBR — 12 Best Manhwa Recommendations](https://www.cbr.com/perfect-manhwa-recommendations)
+- [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [HubPages — The 15 Best Manhwa Like Eleceed](https://discover.hubpages.com/literature/the-best-manhwa-like-eleceed-you-must-read)

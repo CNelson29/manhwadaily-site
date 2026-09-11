@@ -98,4 +98,7 @@ After an accident, a woman wakes up inside a romance novel as the story's villai
 [Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
 
 ## Sources Checked
-- [Game Rant — Best Isekai Manhwa With OP MC Reincarnated As A Child, Ranked](https://gamerant.com/best-isekai-manhwa-with-op-mc-reincarnated-child)- [Noleep — Manhwa Where MC is Reincarnated as a Child and Overpowered](https://noleep.com/en/manhwa-where-mc-is-reincarnated-as-a-child-and-overpowered/)- [MyAnimeList — Action Manhwa Where the MC Returns or Gets Reincarnated as a Child](https://myanimelist.net/stacks/36612)- [MangaDex — Verified title pages and series metadata](https://mangadex.org)
+- [Game Rant — Best Isekai Manhwa With OP MC Reincarnated As A Child, Ranked](https://gamerant.com/best-isekai-manhwa-with-op-mc-reincarnated-child)
+- [Noleep — Manhwa Where MC is Reincarnated as a Child and Overpowered](https://noleep.com/en/manhwa-where-mc-is-reincarnated-as-a-child-and-overpowered/)
+- [MyAnimeList — Action Manhwa Where the MC Returns or Gets Reincarnated as a Child](https://myanimelist.net/stacks/36612)
+- [MangaDex — Verified title pages and series metadata](https://mangadex.org)

@@ -36,4 +36,7 @@ Community reception has been notably strong: the novel holds a 9.7 out of 10 fro
 **Read at:** [Marvel's Master of Heavenly Magic — Chapter 465](https://www.novelty-marketing.com/webnovel/361402/51304.html)
 
 ## Sources Checked
-- [Webnovel — Sorcerer in the Marvel Universe, Ch. 465](https://dynamic.webnovel.com/story/30711495308196305/85843780317528722)- [NovelBin — Into The Marvel Universe: A Reborn Sorcerer Novel](https://www.novelbin.cc/book/into-the-marvel-universe-a-reborn-sorcerer-novel/)- [Marvel's Master of Heavenly Magic — Ch. 465](https://www.novelty-marketing.com/webnovel/361402/51304.html)- [Marvel Comics — Scarlet Witch as Sorcerer Supreme (Jan 2026)](https://www.instagram.com/reel/DTOGzwskibx?hl=en)
+- [Webnovel — Sorcerer in the Marvel Universe, Ch. 465](https://dynamic.webnovel.com/story/30711495308196305/85843780317528722)
+- [NovelBin — Into The Marvel Universe: A Reborn Sorcerer Novel](https://www.novelbin.cc/book/into-the-marvel-universe-a-reborn-sorcerer-novel/)
+- [Marvel's Master of Heavenly Magic — Ch. 465](https://www.novelty-marketing.com/webnovel/361402/51304.html)
+- [Marvel Comics — Scarlet Witch as Sorcerer Supreme (Jan 2026)](https://www.instagram.com/reel/DTOGzwskibx?hl=en)

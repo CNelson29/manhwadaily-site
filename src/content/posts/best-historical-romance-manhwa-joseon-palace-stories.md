@@ -114,4 +114,8 @@ Palace intrigue surrounds the crown princess in this court drama built around se
 [Read on MangaDex →](https://mangadex.org/title/73886188-f459-4b80-8781-66a60520b420)
 
 ## Sources Checked
-- [50 Best Historical Romance Manhwa — Best in Romance](https://bestinromance.com/historical-romance-manhwa-50-royal-recommendations/)- [The Case of Selecting a Joseon Queen — MangaUpdates](https://www.mangaupdates.com/series/zlrmdi4/the-case-of-selecting-a-joseon-queen)- [The Crown Princess Scandal — MyAnimeList](https://myanimelist.net/manga/162043/The_Crown_Princess_Scandal)- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Best Historical Manhwa You Should Read — Game Rant](https://gamerant.com/best-historical-manhwa/)
+- [50 Best Historical Romance Manhwa — Best in Romance](https://bestinromance.com/historical-romance-manhwa-50-royal-recommendations/)
+- [The Case of Selecting a Joseon Queen — MangaUpdates](https://www.mangaupdates.com/series/zlrmdi4/the-case-of-selecting-a-joseon-queen)
+- [The Crown Princess Scandal — MyAnimeList](https://myanimelist.net/manga/162043/The_Crown_Princess_Scandal)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Best Historical Manhwa You Should Read — Game Rant](https://gamerant.com/best-historical-manhwa/)

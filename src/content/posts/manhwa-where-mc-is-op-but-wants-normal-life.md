@@ -82,4 +82,8 @@ Yeonwoo discovers his brother was betrayed and killed inside the brutal Tower, a
 [Read on MangaDex ↗](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
 
 ## Sources Checked
-- [The Heavenly Demon Wants a Quiet Life — Webtoon](https://www.webtoons.com/en/action/the-heavenly-demon-wants-a-quiet-life/list?title_no=7501)- [The Genius Wants an Ordinary Life — Webtoon](https://www.webtoons.com/en/slice-of-life/the-genius-wants-an-ordinary-life/list?title_no=7634)- [I Have an SSS-Rank Trait, but I Want a Normal Life — Kenmei](https://www.kenmei.co/series/i-have-an-sss-rank-trait-but-i-want-a-normal-life)- [Solo Leveling — MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)- [SSS-Class Revival Hunter — MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+- [The Heavenly Demon Wants a Quiet Life — Webtoon](https://www.webtoons.com/en/action/the-heavenly-demon-wants-a-quiet-life/list?title_no=7501)
+- [The Genius Wants an Ordinary Life — Webtoon](https://www.webtoons.com/en/slice-of-life/the-genius-wants-an-ordinary-life/list?title_no=7634)
+- [I Have an SSS-Rank Trait, but I Want a Normal Life — Kenmei](https://www.kenmei.co/series/i-have-an-sss-rank-trait-but-i-want-a-normal-life)
+- [Solo Leveling — MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+- [SSS-Class Revival Hunter — MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)

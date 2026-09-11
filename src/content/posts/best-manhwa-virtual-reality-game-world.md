@@ -76,4 +76,7 @@ A skeleton soldier exists only to protect Lady Succubus — but when they are bo
 **Why it makes this list:** The respawn loop mirrors game mechanics precisely — die, learn, adapt, retry. Reading it feels like watching someone slowly master a difficult dungeon, with surprising emotional depth underneath the dark fantasy surface.
 
 ## Sources Checked
-- [CBR — 15 Must-Read Virtual Reality MMORPG Manhwa For Fans of Sword Art Online](https://www.cbr.com/virtual-reality-mmorpg-manhwa-like-sword-art-online/)- [HubPages — The 15 Best Virtual Reality Manhwa (Webtoons) You Must Read](https://discover.hubpages.com/literature/the-best-virtual-reality-manhwa-webtoons-you-must-read)- [MyAnimeList — VR MMORPG Manhwa Interest Stack](https://myanimelist.net/stacks/25387)- [Webtoon — Surviving the Game as a Barbarian (official page)](https://ai.webtoons.com/en/fantasy/surviving-the-game-as-a-barbarian/list?title_no=5515)
+- [CBR — 15 Must-Read Virtual Reality MMORPG Manhwa For Fans of Sword Art Online](https://www.cbr.com/virtual-reality-mmorpg-manhwa-like-sword-art-online/)
+- [HubPages — The 15 Best Virtual Reality Manhwa (Webtoons) You Must Read](https://discover.hubpages.com/literature/the-best-virtual-reality-manhwa-webtoons-you-must-read)
+- [MyAnimeList — VR MMORPG Manhwa Interest Stack](https://myanimelist.net/stacks/25387)
+- [Webtoon — Surviving the Game as a Barbarian (official page)](https://ai.webtoons.com/en/fantasy/surviving-the-game-as-a-barbarian/list?title_no=5515)

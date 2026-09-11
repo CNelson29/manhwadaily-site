@@ -96,4 +96,7 @@ Firentia, the illegitimate daughter of the once-mighty Lombardi family, reincarn
 [Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
 
 ## Sources Checked
-- [Best Reincarnation Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-reincarnation)- [Best Reincarnation Manhwa, Ranked — Game Rant](https://gamerant.com/best-reincarnation-manhwa/)- [Top 10 Best Reincarnation Manhwa with OP MC — AniFlixy](https://aniflixy.com/top-10-best-reincarnation-manhwa-with-op-mc-like-the-beginning-after-the-end-2026-guide/)- [Return To Player — ManhuaSite](https://manhuasite.com/return-to-player)
+- [Best Reincarnation Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-reincarnation)
+- [Best Reincarnation Manhwa, Ranked — Game Rant](https://gamerant.com/best-reincarnation-manhwa/)
+- [Top 10 Best Reincarnation Manhwa with OP MC — AniFlixy](https://aniflixy.com/top-10-best-reincarnation-manhwa-with-op-mc-like-the-beginning-after-the-end-2026-guide/)
+- [Return To Player — ManhuaSite](https://manhuasite.com/return-to-player)

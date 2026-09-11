@@ -82,4 +82,8 @@ A lighter, self-aware take on the trope. The protagonist reincarnates having wis
 ⭐ Our score: 7.7/10 | [Search on MangaDex](https://mangadex.org/search?q=I+Was+More+Overpowered+Than+the+Hero+so+I+Hid+My+Power)
 
 ## Sources Checked
-- [Kenmei — The Main Character Hides His Strength](https://www.kenmei.co/series/the-main-character-hides-his-strength)- [ComicK — The Protagonist's Hidden Strength](https://comick.dev/comic/the-protagonist-s-hidden-strength)- [Kenmei — I Was More Overpowered Than the Hero, so I Hid My Power!](https://www.kenmei.co/series/i-was-more-overpowered-than-the-hero-so-i-hid-my-power)- [ChapterBrief — Best Manhwa With OP MC 2026](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [Game Rant — Best Manhwa With Overpowered Main Characters](https://gamerant.com/best-manhwa-with-overpowered-main-characters)
+- [Kenmei — The Main Character Hides His Strength](https://www.kenmei.co/series/the-main-character-hides-his-strength)
+- [ComicK — The Protagonist's Hidden Strength](https://comick.dev/comic/the-protagonist-s-hidden-strength)
+- [Kenmei — I Was More Overpowered Than the Hero, so I Hid My Power!](https://www.kenmei.co/series/i-was-more-overpowered-than-the-hero-so-i-hid-my-power)
+- [ChapterBrief — Best Manhwa With OP MC 2026](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [Game Rant — Best Manhwa With Overpowered Main Characters](https://gamerant.com/best-manhwa-with-overpowered-main-characters)

@@ -2,7 +2,7 @@
 title: "Manhwa vs Manga: Which Should You Read?"
 date: "2026-06-02"
 excerpt: "Discover the real differences between manhwa and manga — art, color, format — plus 10 must-read manhwa picks to start your journey right."
-category: "Guide"
+category: "Guides"
 tags: ["manhwa vs manga", "manhwa guide", "webtoon beginner", "manga comparison", "manhwa recommendations"]
 type: "rankings"
 image: "/images/posts/manhwa-vs-manga-difference-which-to-read-hero.jpg"

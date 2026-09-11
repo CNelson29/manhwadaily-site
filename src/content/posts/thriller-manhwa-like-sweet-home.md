@@ -98,4 +98,8 @@ A psychological thriller from Webtoon that has accumulated 6.5 million reads thr
 [Read Hand Jumper on Webtoon](https://www.webtoons.com/en/search?keyword=Hand+Jumper)
 
 ## Sources Checked
-- [Sweet Home — Webtoon Official Page](https://www.webtoons.com/en/thriller/sweethome/list?title_no=1285)- [Hell Is Other People — Webtoon Official Page](https://m.webtoons.com/en/thriller/hell-is-other-people/list?title_no=3176)- [One Day, Suddenly, Seoul Is — MangaBaka](https://mangabaka.org/6366)- [Best Horror Manhwa: 9 Series Ranked — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-horror-2026)- [Best Thriller Manhwa: 10 Series Ranked — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)
+- [Sweet Home — Webtoon Official Page](https://www.webtoons.com/en/thriller/sweethome/list?title_no=1285)
+- [Hell Is Other People — Webtoon Official Page](https://m.webtoons.com/en/thriller/hell-is-other-people/list?title_no=3176)
+- [One Day, Suddenly, Seoul Is — MangaBaka](https://mangabaka.org/6366)
+- [Best Horror Manhwa: 9 Series Ranked — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-horror-2026)
+- [Best Thriller Manhwa: 10 Series Ranked — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)

@@ -98,4 +98,7 @@ Six of the eight entries on this list are fully completed, making them perfect b
 [Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=This+Villainess+Wants+a+Divorce%21)
 
 ## Sources Checked
-- [15 Best Completed Manhwa No Fan Can Skip — Screen Rant](https://screenrant.com/best-completed-manhwa/)- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [15 Manhwa Worth Reading Just for Their Gorgeous Artwork — Game Rant](https://gamerant.com/manhwa-worth-reading-just-for-their-gorgeous-artwork/)- [12 Best Manhwa Recommendations — CBR](https://www.cbr.com/perfect-manhwa-recommendations)
+- [15 Best Completed Manhwa No Fan Can Skip — Screen Rant](https://screenrant.com/best-completed-manhwa/)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [15 Manhwa Worth Reading Just for Their Gorgeous Artwork — Game Rant](https://gamerant.com/manhwa-worth-reading-just-for-their-gorgeous-artwork/)
+- [12 Best Manhwa Recommendations — CBR](https://www.cbr.com/perfect-manhwa-recommendations)

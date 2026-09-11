@@ -98,4 +98,8 @@ A skeleton soldier — literally one of the weakest undead creatures imaginable 
 [Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
 
 ## Sources Checked
-- [I'm Not That Kind of Talent — MangaK](https://mangak.io/im-not-that-kind-of-talent)- [I'm Not That Kind of Talent — Manhwa Bato](https://www.manhwabato.com/manga/im-not-that-kind-of-talent)- [Top 10 Manhwa Where MC Is Misunderstood As Strong — YouTube](https://www.youtube.com/watch?v=37zAvEvvWz8)- [Manhwas with Misunderstood MC — MyAnimeList](https://myanimelist.net/stacks/85886)- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [I'm Not That Kind of Talent — MangaK](https://mangak.io/im-not-that-kind-of-talent)
+- [I'm Not That Kind of Talent — Manhwa Bato](https://www.manhwabato.com/manga/im-not-that-kind-of-talent)
+- [Top 10 Manhwa Where MC Is Misunderstood As Strong — YouTube](https://www.youtube.com/watch?v=37zAvEvvWz8)
+- [Manhwas with Misunderstood MC — MyAnimeList](https://myanimelist.net/stacks/85886)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)

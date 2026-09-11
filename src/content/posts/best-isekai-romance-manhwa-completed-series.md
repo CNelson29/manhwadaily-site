@@ -86,4 +86,8 @@ Young widow Shuri inherits not only her late husband's vast noble holdings but a
 Most titles are available on [MangaDex](https://mangadex.org) (free, fan-translated) and [WEBTOON](https://www.webtoons.com) (official, free with ads). Completed series are typically fully available on MangaDex. For official English releases, Tappytoon and Tapas carry several of these titles with higher translation quality.
 
 ## Sources Checked
-- [ChapterBrief — Best Romance Manhwa 2026](https://www.chapterbrief.net/blog/best-romance-manhwa-2026)- [ChapterBrief — Best Isekai Manhwa 2026](https://www.chapterbrief.net/blog/best-isekai-manhwa)- [CBR — 30 Best Isekai Manhwa Recommendations](https://www.cbr.com/best-isekai-manhwa-recommendations/)- [MyAnimeList — Romantic Isekai Manhwa Stack](https://myanimelist.net/stacks/10259)- [MangaDex — series pages verified against official database](https://mangadex.org)
+- [ChapterBrief — Best Romance Manhwa 2026](https://www.chapterbrief.net/blog/best-romance-manhwa-2026)
+- [ChapterBrief — Best Isekai Manhwa 2026](https://www.chapterbrief.net/blog/best-isekai-manhwa)
+- [CBR — 30 Best Isekai Manhwa Recommendations](https://www.cbr.com/best-isekai-manhwa-recommendations/)
+- [MyAnimeList — Romantic Isekai Manhwa Stack](https://myanimelist.net/stacks/10259)
+- [MangaDex — series pages verified against official database](https://mangadex.org)

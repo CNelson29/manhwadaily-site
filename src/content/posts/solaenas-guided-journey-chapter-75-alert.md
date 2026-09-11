@@ -32,4 +32,7 @@ Editorially, non-human protagonists in LitRPG remain underused relative to how i
 If you're deep into progression fantasy and looking for more while waiting for new chapters, *The Path of Ascension* is a widely recommended series that appears in multiple 2026 LitRPG roundups — also available on Royal Road and covered by IGN's best-of list for the genre this year.
 
 ## Sources Checked
-- [Solaena's [Guided] Journey — Royal Road](https://www.royalroad.com/fiction/164088/solaenas-guided-journey-fantasy-litrpg)- [Solaena's [Guided] Journey — WebNovelFinder](https://webnovelfinder.com/novel/b20a939f-0dcd-5fde-9a70-7c102168a577)- [Chapter 75 confirmation — Royal Road Draft](https://www.royalroad.com/fiction/164088/solaenas-guided-journey-draft/chapter/3817505/chapter-75)- [Best LitRPG Series 2026 — IGN](https://www.ign.com/articles/best-litrpg-book-series)
+- [Solaena's [Guided] Journey — Royal Road](https://www.royalroad.com/fiction/164088/solaenas-guided-journey-fantasy-litrpg)
+- [Solaena's [Guided] Journey — WebNovelFinder](https://webnovelfinder.com/novel/b20a939f-0dcd-5fde-9a70-7c102168a577)
+- [Chapter 75 confirmation — Royal Road Draft](https://www.royalroad.com/fiction/164088/solaenas-guided-journey-draft/chapter/3817505/chapter-75)
+- [Best LitRPG Series 2026 — IGN](https://www.ign.com/articles/best-litrpg-book-series)

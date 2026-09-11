@@ -96,4 +96,7 @@ The gap between how others still perceive Davey and what he is actually capable 
 [Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
 
 ## Sources Checked
-- [Best Manhwa with OP MC: 10 Must-Read Series in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Best Manhwa With OP MCs — Game Rant](https://gamerant.com/best-manhwa-with-overpowered-main-characters)- [Weak to Strong Manhwa Stack — MyAnimeList](https://myanimelist.net/stacks/61345)
+- [Best Manhwa with OP MC: 10 Must-Read Series in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Best Manhwa With OP MCs — Game Rant](https://gamerant.com/best-manhwa-with-overpowered-main-characters)
+- [Weak to Strong Manhwa Stack — MyAnimeList](https://myanimelist.net/stacks/61345)

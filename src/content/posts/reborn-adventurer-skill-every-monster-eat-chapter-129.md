@@ -26,4 +26,7 @@ With 129 chapters in, this is a story that has had room to breathe and develop. 
 **Read it at:** [WebNovel](https://www.webnovel.com/book/reborn-as-an-adventurer-i-gain-a-skill-from-every-monster-i-eat_36363282700144205) — also mirrored on [NovelTrust](https://noveltrust.com/book/reborn-as-an-adventurer-i-gain-a-skill-from-every-monster-i-eat) and [FreeWebNovel](https://freewebnovel.com/novel/reborn-as-an-adventurer-i-gain-a-skill-from-every-monster-i-eat).
 
 ## Sources Checked
-- [WebNovel — novel page and chapters](https://www.webnovel.com/book/reborn-as-an-adventurer-i-gain-a-skill-from-every-monster-i-eat_36363282700144205)- [NovelTrust — synopsis and chapter list](https://noveltrust.com/book/reborn-as-an-adventurer-i-gain-a-skill-from-every-monster-i-eat)- [FreeWebNovel — free reading](https://freewebnovel.com/novel/reborn-as-an-adventurer-i-gain-a-skill-from-every-monster-i-eat)- [LightNovelPub — reader community](https://lightnovelpub.me/book/reborn-as-an-adventurer-i-gain-a-skill-from-every-monster-i-eat)
+- [WebNovel — novel page and chapters](https://www.webnovel.com/book/reborn-as-an-adventurer-i-gain-a-skill-from-every-monster-i-eat_36363282700144205)
+- [NovelTrust — synopsis and chapter list](https://noveltrust.com/book/reborn-as-an-adventurer-i-gain-a-skill-from-every-monster-i-eat)
+- [FreeWebNovel — free reading](https://freewebnovel.com/novel/reborn-as-an-adventurer-i-gain-a-skill-from-every-monster-i-eat)
+- [LightNovelPub — reader community](https://lightnovelpub.me/book/reborn-as-an-adventurer-i-gain-a-skill-from-every-monster-i-eat)

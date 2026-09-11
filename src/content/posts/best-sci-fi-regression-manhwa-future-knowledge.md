@@ -98,4 +98,8 @@ Kim Dokja is the only person alive who has read all 3,149 chapters of *Three Way
 [Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
 
 ## Sources Checked
-- [Absolute Regression — WEBTOON (100 episodes, Aug 2026)](https://www.webtoons.com/en/fantasy/absolute-regression/list?title_no=7004)- [The God of War Who Regressed to Level 2 — Kenmei](https://www.kenmei.co/series/the-god-of-war-who-regressed-to-level-2)- [Best Manhwa to Read in 2026: 32 Series Worth Your Time — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Best 26 Regression Manhwa Where MC Time Travels to the Past](https://sorarusairs.com/regression-manhwa)- [MangaDex — Verified series metadata](https://mangadex.org)
+- [Absolute Regression — WEBTOON (100 episodes, Aug 2026)](https://www.webtoons.com/en/fantasy/absolute-regression/list?title_no=7004)
+- [The God of War Who Regressed to Level 2 — Kenmei](https://www.kenmei.co/series/the-god-of-war-who-regressed-to-level-2)
+- [Best Manhwa to Read in 2026: 32 Series Worth Your Time — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Best 26 Regression Manhwa Where MC Time Travels to the Past](https://sorarusairs.com/regression-manhwa)
+- [MangaDex — Verified series metadata](https://mangadex.org)

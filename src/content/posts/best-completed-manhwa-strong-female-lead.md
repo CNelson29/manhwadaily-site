@@ -82,4 +82,8 @@ After dying and reincarnating as a villainess, the protagonist decides to skip t
 [Read Master Villainess the Invincible! on Tapas →](https://tapas.io/series/master-villainess-the-invincible/info)
 
 ## Sources Checked
-- [ChapterBrief — Best Manhwa With Strong Female Lead](https://www.chapterbrief.net/blog/best-manhwa-with-strong-female-lead)- [ChapterBrief — The Remarried Empress Review (247 chapters, completed January 2026)](https://www.chapterbrief.net/blog/the-remarried-empress-review)- [ChapterBrief — Best Manhwa With OP Female Lead](https://www.chapterbrief.net/blog/best-manhwa-with-op-female-lead)- [HubPages — The 21 Best Manhwa With Strong Female Leads](https://discover.hubpages.com/literature/the-best-strong-female-lead-manhwa-webtoons-you-must-read)- [Tapas — Master Villainess the Invincible!](https://tapas.io/series/master-villainess-the-invincible/info)
+- [ChapterBrief — Best Manhwa With Strong Female Lead](https://www.chapterbrief.net/blog/best-manhwa-with-strong-female-lead)
+- [ChapterBrief — The Remarried Empress Review (247 chapters, completed January 2026)](https://www.chapterbrief.net/blog/the-remarried-empress-review)
+- [ChapterBrief — Best Manhwa With OP Female Lead](https://www.chapterbrief.net/blog/best-manhwa-with-op-female-lead)
+- [HubPages — The 21 Best Manhwa With Strong Female Leads](https://discover.hubpages.com/literature/the-best-strong-female-lead-manhwa-webtoons-you-must-read)
+- [Tapas — Master Villainess the Invincible!](https://tapas.io/series/master-villainess-the-invincible/info)

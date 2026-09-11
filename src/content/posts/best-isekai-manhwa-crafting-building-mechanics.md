@@ -82,4 +82,8 @@ Toji, a 29-year-old part-timer, gets swept up in a summoning accident, declared 
 [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Live+Freely+Another+World+Equipment+Manufacturing)
 
 ## Sources Checked
-- [Best Isekai Manhwa Ranked for 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-isekai-manhwa)- [10 Best Isekai Manhwa with OP MC (2026) — NovelNodes](https://novelnodes.com/best-isekai-manhwa-op-mc)- [Best System Fantasy Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)- [Nation-Class Dungeon Architect — UToon](https://utoon.net/manga/nation-class-dungeon-architect/)- [The Reincarnated Master Craftsman — Kenmei](https://www.kenmei.co/series/the-reincarnated-master-craftsman)
+- [Best Isekai Manhwa Ranked for 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-isekai-manhwa)
+- [10 Best Isekai Manhwa with OP MC (2026) — NovelNodes](https://novelnodes.com/best-isekai-manhwa-op-mc)
+- [Best System Fantasy Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)
+- [Nation-Class Dungeon Architect — UToon](https://utoon.net/manga/nation-class-dungeon-architect/)
+- [The Reincarnated Master Craftsman — Kenmei](https://www.kenmei.co/series/the-reincarnated-master-craftsman)

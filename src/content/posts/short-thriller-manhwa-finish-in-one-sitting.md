@@ -66,4 +66,8 @@ Yeonwoo discovers that his twin brother was betrayed and murdered inside a deadl
 **Why it's great:** The betrayal-and-investigation structure gives it a genuine thriller backbone beneath the dungeon-action surface. Knowing who the enemy is from the beginning makes every encounter feel like another piece of a larger reckoning.
 
 ## Sources Checked
-- [The 40 Best Manhwa to Read in 2026 — Novel Nodes](https://novelnodes.com/best-manhwa-to-read-2026)- [Best Thriller Manhwa: 10 Series Ranked by Tension — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)- [Best Manhwa Psychological Thrillers 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-psychological-thriller)- [Manhwa Like Liar Game: Game Thriller Picks — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-liar-game)- [The 21 Best Thriller Manhwa Webtoons — HubPages](https://discover.hubpages.com/literature/the-best-thriller-manhwa-webtoons-you-must-read)
+- [The 40 Best Manhwa to Read in 2026 — Novel Nodes](https://novelnodes.com/best-manhwa-to-read-2026)
+- [Best Thriller Manhwa: 10 Series Ranked by Tension — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)
+- [Best Manhwa Psychological Thrillers 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-psychological-thriller)
+- [Manhwa Like Liar Game: Game Thriller Picks — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-liar-game)
+- [The 21 Best Thriller Manhwa Webtoons — HubPages](https://discover.hubpages.com/literature/the-best-thriller-manhwa-webtoons-you-must-read)

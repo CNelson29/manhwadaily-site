@@ -80,4 +80,8 @@ A humble skeleton soldier serves the Lady Succubus loyally — until they're bot
 [Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
 
 ## Sources Checked
-- [NovelNodes — 10 Best System Manhwa with OP MC (2026)](https://novelnodes.com/best-system-manhwa-op-mc/)- [ChapterBrief — Best Manhwa with OP MC: 10 Must-Read Series in 2026](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [ChapterBrief — Best Action Manhwa 2026: 12 Series Worth Your Time](https://www.chapterbrief.net/blog/best-action-manhwa-2026)- [Game Rant — Best Manhwa With OP MCs](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)- [Asura Scans — Overgeared series page](https://asurascans.com/comics/overgeared-7b57f74d)
+- [NovelNodes — 10 Best System Manhwa with OP MC (2026)](https://novelnodes.com/best-system-manhwa-op-mc/)
+- [ChapterBrief — Best Manhwa with OP MC: 10 Must-Read Series in 2026](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [ChapterBrief — Best Action Manhwa 2026: 12 Series Worth Your Time](https://www.chapterbrief.net/blog/best-action-manhwa-2026)
+- [Game Rant — Best Manhwa With OP MCs](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)
+- [Asura Scans — Overgeared series page](https://asurascans.com/comics/overgeared-7b57f74d)

@@ -76,4 +76,8 @@ A skeleton soldier inside a dungeon fails to protect its master — and resets. 
 We focused on series where the dungeon or tower structure directly drives character growth — not just as a backdrop, but as a mechanic. Series where progression stalls mid-run, power spikes arrive without setup, or the dungeon is pure set dressing were cut from contention. Everything on this list earns its moments.
 
 ## Sources Checked
-- [Best Manhwa Dungeon Picks: 8 Series Worth Reading in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-dungeon)- [10 Best Manhwa Where the Main Character Can Level Up — CBR](https://www.cbr.com/best-manhwa-protagonist-level-up/)- [The 20 Best Manhwa With Leveling Systems to Binge Read — HubPages](https://discover.hubpages.com/literature/The-20-Best-Manhwa-With-Leveling-System-to-Binge-Read)- [Tower of God — Webtoon Official](https://m.webtoons.com/en/fantasy/tower-of-god/list?title_no=95)- [Overgeared — Asura Scans](https://asurascans.com/comics/overgeared-7b57f74d)
+- [Best Manhwa Dungeon Picks: 8 Series Worth Reading in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-dungeon)
+- [10 Best Manhwa Where the Main Character Can Level Up — CBR](https://www.cbr.com/best-manhwa-protagonist-level-up/)
+- [The 20 Best Manhwa With Leveling Systems to Binge Read — HubPages](https://discover.hubpages.com/literature/The-20-Best-Manhwa-With-Leveling-System-to-Binge-Read)
+- [Tower of God — Webtoon Official](https://m.webtoons.com/en/fantasy/tower-of-god/list?title_no=95)
+- [Overgeared — Asura Scans](https://asurascans.com/comics/overgeared-7b57f74d)

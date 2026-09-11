@@ -82,4 +82,7 @@ Desir Arman survives the Shadow Labyrinth — humanity's final dungeon — as on
 Our score: **7.8/10** | [Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
 
 ## Sources Checked
-- [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)- [10 Best System Manhwa with OP MC (2026) — NovelNodes](https://novelnodes.com/best-system-manhwa-op-mc/)- [Best System Fantasy Manhwa — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)- [Nano Machine Review — ChapterBrief](https://www.chapterbrief.net/blog/nano-machine-review)
+- [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
+- [10 Best System Manhwa with OP MC (2026) — NovelNodes](https://novelnodes.com/best-system-manhwa-op-mc/)
+- [Best System Fantasy Manhwa — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)
+- [Nano Machine Review — ChapterBrief](https://www.chapterbrief.net/blog/nano-machine-review)

@@ -76,4 +76,8 @@ Canaria wakes up reincarnated as the novel's villain, scheduled to be executed b
 **Why it's great:** The comedy flows directly from the dramatic irony of her situation. She is always acting on information no one else has, which makes every interaction either tense, funny, or both. [Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
 
 ## Sources Checked
-- [13+ Manhwa Where the MC Hides His Powers/Identity — QuoteTheAnime](https://quotetheanime.com/recommendations/manhwa-where-the-mc-hides-his-powers/)- [The Academy's Undercover Professor — MyAnimeList](https://myanimelist.net/manga/149801/The_Academys_Undercover_Professor)- [The Main Character Hides His Strength — Kenmei](https://www.kenmei.co/series/the-main-character-hides-his-strength)- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [Secret Identity Manga — Anime-Planet](https://www.anime-planet.com/manga/tags/secret-identity)
+- [13+ Manhwa Where the MC Hides His Powers/Identity — QuoteTheAnime](https://quotetheanime.com/recommendations/manhwa-where-the-mc-hides-his-powers/)
+- [The Academy's Undercover Professor — MyAnimeList](https://myanimelist.net/manga/149801/The_Academys_Undercover_Professor)
+- [The Main Character Hides His Strength — Kenmei](https://www.kenmei.co/series/the-main-character-hides-his-strength)
+- [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [Secret Identity Manga — Anime-Planet](https://www.anime-planet.com/manga/tags/secret-identity)

@@ -82,4 +82,7 @@ The powerless Prince Davey falls into a coma and his soul travels to a legendary
 [Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
 
 ## Sources Checked
-- [ChapterBrief — Best Thriller Manhwa: 10 Series Ranked by Tension (2026)](https://www.chapterbrief.net/blog/best-thriller-manhwa)- [ChapterBrief — Best Manhwa to Read in 2026: 32 Series Worth Your Time](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)- [CultivatorOnline — Top 20 Awesome Action Manhwa to Read in 2026](https://cultivatoronline.in/top-20-awesome-action-manhwa-to-read-in-2026)- [MangaDex — Series data and official pages](https://mangadex.org)
+- [ChapterBrief — Best Thriller Manhwa: 10 Series Ranked by Tension (2026)](https://www.chapterbrief.net/blog/best-thriller-manhwa)
+- [ChapterBrief — Best Manhwa to Read in 2026: 32 Series Worth Your Time](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
+- [CultivatorOnline — Top 20 Awesome Action Manhwa to Read in 2026](https://cultivatoronline.in/top-20-awesome-action-manhwa-to-read-in-2026)
+- [MangaDex — Series data and official pages](https://mangadex.org)

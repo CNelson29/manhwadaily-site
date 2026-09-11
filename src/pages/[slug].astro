@@ -266,7 +266,12 @@ const grad = GRAD[data.category] ?? GRAD.Rankings;
       ) : (
         <div class="mt-10 p-6 rounded-2xl border border-brand-coral/20 bg-brand-surface text-center">
           <p class="font-display font-bold text-lg text-brand-white mb-1">Ready to start reading? 📖</p>
-          <p class="text-brand-dim text-sm mb-4">For Spanish readers, search Olympus Biblioteca. For official releases, check Webtoon, Tapas, or Lezhin Comics.</p>
+          <p class="text-brand-dim text-sm mb-4">
+            {post.slug !== 'best-sites-read-manhwa-online-free-2026' && (
+              <>Not sure where to find it? Our <a href="/best-sites-read-manhwa-online-free-2026/" class="text-brand-coral font-semibold hover:text-orange-300">guide to the best sites to read manhwa free</a> compares every option, official and not. </>
+            )}
+            For Spanish readers, search Olympus Biblioteca. For official releases, check Webtoon, Tapas, or Lezhin Comics.
+          </p>
           <div class="flex flex-wrap justify-center gap-3">
             <a href={olympusSearch} target="_blank" rel="noopener noreferrer"
               class="px-4 py-2 rounded-lg bg-brand-coral text-white font-bold text-sm hover:bg-orange-400 transition-colors">
