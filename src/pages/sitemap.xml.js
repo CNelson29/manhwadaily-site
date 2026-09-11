@@ -12,7 +12,8 @@ export async function GET() {
     { loc: `${base}/tier-list/`, priority: '0.7', freq: 'weekly' },
     { loc: `${base}/manhwa-dna/`, priority: '0.7', freq: 'weekly' },
     { loc: `${base}/discover/`, priority: '0.6', freq: 'weekly' },
-    { loc: `${base}/novelas/`, priority: '0.7', freq: 'weekly' },
+    // /novelas/ is still in progress — list it only once the page exists in the build.
+    ...(Object.keys(import.meta.glob('./novelas/index.astro')).length ? [{ loc: `${base}/novelas/`, priority: '0.7', freq: 'weekly' }] : []),
     ...posts.map(p => ({ loc: `${base}/${p.slug}/`, priority: '0.8', freq: 'weekly', lastmod: p.data.date })),
   ];
   const xml = `<?xml version="1.0" encoding="UTF-8"?>

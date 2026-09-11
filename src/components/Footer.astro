@@ -1,5 +1,7 @@
 ---
 const year = new Date().getFullYear();
+// /novelas/ is still in progress and not deployed yet — only link it once the page exists in the build.
+const hasNovelas = Object.keys(import.meta.glob('../pages/novelas/index.astro')).length > 0;
 ---
 <footer class="mt-auto border-t border-brand-border/50 bg-brand-surface/30 py-10">
   <div class="max-w-6xl mx-auto px-4 sm:px-6">
@@ -31,6 +33,7 @@ const year = new Date().getFullYear();
             <li><a href="/" class="text-brand-dim hover:text-brand-coral transition-colors">Home</a></li>
             <li><a href="/recommender/" class="text-brand-dim hover:text-brand-coral transition-colors">Find your manhwa</a></li>
             <li><a href="/best-sites-read-manhwa-online-free-2026/" class="text-brand-dim hover:text-brand-coral transition-colors">Where to read manhwa free</a></li>
+            {hasNovelas && <li><a href="/novelas/" class="text-brand-dim hover:text-brand-coral transition-colors">Light Novels</a></li>}
             <li><a href="/my-list/" class="text-brand-dim hover:text-brand-coral transition-colors">🔖 My List</a></li>
           </ul>
         </div>
