@@ -12,6 +12,8 @@ export async function GET() {
     { loc: `${base}/tier-list/`, priority: '0.7', freq: 'weekly' },
     { loc: `${base}/manhwa-dna/`, priority: '0.7', freq: 'weekly' },
     { loc: `${base}/discover/`, priority: '0.6', freq: 'weekly' },
+    { loc: `${base}/about/`, priority: '0.4', freq: 'monthly' },
+    { loc: `${base}/contact/`, priority: '0.3', freq: 'monthly' },
     // /novelas/ is still in progress — list it only once the page exists in the build.
     ...(Object.keys(import.meta.glob('./novelas/index.astro')).length ? [{ loc: `${base}/novelas/`, priority: '0.7', freq: 'weekly' }] : []),
     ...posts.map(p => ({ loc: `${base}/${p.slug}/`, priority: '0.8', freq: 'weekly', lastmod: p.data.date })),

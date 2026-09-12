@@ -1,0 +1,82 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base
+  title="About ManhwaDaily — How We Pick and Check Manhwa"
+  description="ManhwaDaily is an independent manhwa guide: rankings, where-to-read guides and tools. Here is how we pick titles, check facts and make money."
+  slug="about"
+>
+  <Header />
+
+  <main class="flex-1">
+    <section class="border-b border-brand-border/50 py-14">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6">
+        <p class="text-brand-coral text-sm font-semibold mb-3">ManhwaDaily</p>
+        <h1 class="font-display font-black text-4xl sm:text-5xl text-brand-white mb-4">
+          About ManhwaDaily
+        </h1>
+        <p class="text-brand-dim leading-relaxed">
+          An independent guide for people who read Korean webcomics — what to read next,
+          and where to read it legally.
+        </p>
+      </div>
+    </section>
+
+    <section class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+      <div class="prose prose-invert max-w-none">
+        <h2>What we publish</h2>
+        <ul>
+          <li><strong>Rankings and recommendation lists</strong> by genre, trope and mood.</li>
+          <li><strong>Where-to-read guides</strong> that point to official platforms such as
+            WEBTOON, Tapas, Manta and Tappytoon. Our most-read guide is
+            <a href="/best-sites-read-manhwa-online-free-2026/">Best Sites to Read Manhwa Online Free</a>.</li>
+          <li><strong>Tools:</strong> the <a href="/recommender/">recommendation quiz</a>,
+            <a href="/manhwa-dna/">Manhwa DNA</a>, the <a href="/tier-list/">tier list maker</a>
+            and <a href="/discover/">Discover</a>.</li>
+          <li><strong>Extras:</strong> a free browser game, <a href="/gate-crawler-world/">Gate Crawler World</a>,
+            and the paid <a href="/portrait/">AI Portrait</a> feature.</li>
+        </ul>
+
+        <h2>How we pick and check titles</h2>
+        <p>
+          Recommending a series that does not exist is the worst mistake a guide like this can
+          make, so every title we list is checked against public databases (MangaDex metadata
+          and AniList) to confirm it is a real, published series. Posts are drafted with AI
+          assistance and then go through an automated fact-check and editorial review before
+          they are published; drafts that fail are rewritten or dropped.
+        </p>
+        <p>
+          Ratings and rankings are our editorial opinion, not objective scores. When we get
+          something wrong — a title, a status, a broken link — we fix it. Tell us through the
+          <a href="/contact/">contact page</a>.
+        </p>
+
+        <h2>Reading legally</h2>
+        <p>
+          ManhwaDaily does not host chapters or scans. We link to official platforms wherever an
+          official English release exists, so creators get paid. Cover images appear only to
+          identify the series being discussed.
+        </p>
+
+        <h2>How the site makes money</h2>
+        <p>
+          ManhwaDaily is free to read. It is funded by affiliate links (as an Amazon Associate we
+          earn from qualifying purchases, at no extra cost to you), by the optional paid AI
+          Portrait feature, and it may display advertising. Affiliate relationships never decide
+          which series we recommend. Details are in our <a href="/privacy/">Privacy Policy</a>
+          and <a href="/terms/">Terms</a>.
+        </p>
+
+        <h2>Contact</h2>
+        <p>
+          Corrections, broken links, copyright requests or partnership questions:
+          see the <a href="/contact/">contact page</a>.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</Base>
