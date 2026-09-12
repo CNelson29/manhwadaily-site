@@ -6,7 +6,7 @@ category: "Fantasy"
 tags: ["dungeon manhwa", "power progression", "Solo Leveling", "fantasy manhwa", "raid manhwa"]
 type: "rankings"
 image: "/images/posts/best-dungeon-raid-manhwa-power-progression-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## Why Dungeon Manhwa Hits Different
@@ -21,7 +21,7 @@ This list focuses on series where the progression system *matters* — where eac
 
 The gold standard, full stop. Sung Jin-Woo starts as the weakest hunter in a world of monster-filled Gates — the guy other raids let die first so they can escape — then a secret dungeon grants him a system only he can see. What makes Solo Leveling untouchable isn’t just the power curve; the art quality escalates alongside Jin-Woo’s strength, so the final arc looks and feels categorically different from chapter one. Completed, so the full payoff is waiting.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) · [Official volumes on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20)
+ · [Official volumes on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20)
 
 ### 2. Tower of God — Our Score: 9.5/10
 
@@ -33,19 +33,19 @@ Instead of underground dungeons, Tower of God gives you a vertical labyrinth wit
 
 Dokja Kim has read every chapter of the web novel “Three Ways to Survive the Apocalypse” — then the apocalypse becomes real, complete with scenarios, stat systems, and godlike constellations betting on human survival. His foreknowledge becomes the only edge he has. The progression here is layered: stats climb, but Dokja also grows from a passive reader into someone the story’s own mechanics can no longer ignore. One of the most emotionally ambitious series in the genre.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 4. SSS-Class Revival Hunter — Our Score: 9.0/10
 
 Set in a mysterious RPG-style Tower, Gongja Kim is an ordinary hunter with a skill that copies other people’s abilities — only after they kill him. After the world’s top-ranked hunter does exactly that and triggers a legendary reversal ability, he’s sent back to the beginning with everything he needs to rebuild. The time-loop revenge structure makes each run feel purposeful, and the Tower’s floor-by-floor structure gives the progression deeply satisfying shape.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 5. Second Life Ranker — Our Score: 8.8/10
 
 After learning his brother was betrayed and killed inside a brutal competitive tower, Yeonwoo inherits his notes and enters the same labyrinth — armed with a full blueprint of every floor, faction, and hidden mechanic. The multi-floor structure keeps the power curve deliberate and relentless, with each section introducing new class evolutions and shifting alliances. Dense system progression with real, compounding payoff.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 6. Overgeared — Our Score: 8.7/10
 
@@ -57,19 +57,19 @@ Greed (Shin Youngwoo) is a low-ranked player in the VR fantasy game Satisfy who 
 
 Desir Arman survived the Shadow Labyrinth — a dungeon that wiped out most of humanity — as one of six remaining people. Sent back in time before it opens, he uses his end-game knowledge to train the next generation before catastrophe strikes again. Watching a battle-hardened veteran relearn fundamentals while quietly outpacing everyone around him delivers a slow-burn confidence that feels deeply earned. Completed series.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 8. The Max Level Hero Strikes Back — Our Score: 8.2/10
 
 Prince Davey falls into a coma and his soul spends years training in the spiritual Hall of Heroes under legendary warriors. When he wakes up, he’s already at max level — and the real progression is watching the world slowly realize what it’s dealing with. The “already peaked” formula flips the usual dungeon arc, turning gradual reveals into the reward rather than rank-ups. Satisfying for readers who want the power fantasy without the slow early climb.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### 9. The Skeleton Soldier Failed to Defend the Dungeon — Our Score: 8.0/10
 
 A skeleton soldier inside a dungeon fails to protect its master — and resets. Then fails again. The time-loop mechanic reframes dungeon progression as something earned through repeated death and adaptation: each loop adds new abilities, but the emotional weight comes from a surprisingly moving bond between a disposable monster and the person it refuses to stop protecting. Unlike anything else on this list.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ## How We Picked These
 

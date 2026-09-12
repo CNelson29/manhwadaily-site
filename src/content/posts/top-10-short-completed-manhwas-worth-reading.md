@@ -23,7 +23,7 @@ Lookism follows Park Hyung Seok, an overweight and bullied teen who wakes up one
 
 **Rating: 8.8/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Lookism) · [MangaDex](https://mangadex.org/search?q=Lookism) · [Tapas](https://tapas.io/search?q=Lookism)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Lookism) · [Tapas](https://tapas.io/search?q=Lookism)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Lookism+manga+volume+1&tag=manhwadaily-20)
 
@@ -35,7 +35,7 @@ I Love Yoo centers on Shin-Ae Yoo, a girl who's built emotional walls around her
 
 **Rating: 8.5/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I+Love+Yoo) · [MangaDex](https://mangadex.org/search?q=I+Love+Yoo) · [Tapas](https://tapas.io/search?q=I+Love+Yoo)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I+Love+Yoo) · [Tapas](https://tapas.io/search?q=I+Love+Yoo)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=I+Love+Yoo+manga+volume+1&tag=manhwadaily-20)
 
@@ -47,7 +47,7 @@ This gorgeous completed manhwa follows Soah, a young woman sacrificed to the Wat
 
 **Rating: 8.6/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Bride+of+the+Water+God) · [MangaDex](https://mangadex.org/search?q=The+Bride+of+the+Water+God) · [Tapas](https://tapas.io/search?q=The+Bride+of+the+Water+God)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Bride+of+the+Water+God) · [Tapas](https://tapas.io/search?q=The+Bride+of+the+Water+God)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Bride+of+the+Water+God+manga+volume+1&tag=manhwadaily-20)
 
@@ -59,7 +59,7 @@ Cheese in the Trap is a psychological romance about Hong Seol, a hardworking col
 
 **Rating: 9.0/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Cheese+in+the+Trap) · [MangaDex](https://mangadex.org/search?q=Cheese+in+the+Trap) · [Tapas](https://tapas.io/search?q=Cheese+in+the+Trap)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Cheese+in+the+Trap) · [Tapas](https://tapas.io/search?q=Cheese+in+the+Trap)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Cheese+in+the+Trap+manga+volume+1&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ My ID is Gangnam Beauty tackles plastic surgery, beauty standards, and self-wort
 
 **Rating: 8.4/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=My+ID+is+Gangnam+Beauty) · [MangaDex](https://mangadex.org/search?q=My+ID+is+Gangnam+Beauty) · [Tapas](https://tapas.io/search?q=My+ID+is+Gangnam+Beauty)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=My+ID+is+Gangnam+Beauty) · [Tapas](https://tapas.io/search?q=My+ID+is+Gangnam+Beauty)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=My+ID+is+Gangnam+Beauty+manga+volume+1&tag=manhwadaily-20)
 
@@ -83,7 +83,7 @@ The God of High School is a pure adrenaline rush — a martial arts tournament m
 
 **Rating: 8.7/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+God+of+High+School) · [MangaDex](https://mangadex.org/search?q=The+God+of+High+School) · [Tapas](https://tapas.io/search?q=The+God+of+High+School)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+God+of+High+School) · [Tapas](https://tapas.io/search?q=The+God+of+High+School)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+God+of+High+School+manga+volume+1&tag=manhwadaily-20)
 
@@ -95,7 +95,7 @@ True Beauty is Yaongyi's massively popular romance about Lim Jugyeong, a girl wh
 
 **Rating: 8.2/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=True+Beauty) · [MangaDex](https://mangadex.org/search?q=True+Beauty) · [Tapas](https://tapas.io/search?q=True+Beauty)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=True+Beauty) · [Tapas](https://tapas.io/search?q=True+Beauty)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=True+Beauty+manga+volume+1&tag=manhwadaily-20)
 
@@ -107,7 +107,7 @@ Orange Marmalade reimagines vampires in a contemporary Korean setting where they
 
 **Rating: 8.9/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Orange+Marmalade) · [MangaDex](https://mangadex.org/search?q=Orange+Marmalade) · [Tapas](https://tapas.io/search?q=Orange+Marmalade)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Orange+Marmalade) · [Tapas](https://tapas.io/search?q=Orange+Marmalade)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Orange+Marmalade+manga+volume+1&tag=manhwadaily-20)
 
@@ -119,7 +119,7 @@ unOrdinary is set in a world where almost everyone has superpowers, following Jo
 
 **Rating: 8.6/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=unOrdinary) · [MangaDex](https://mangadex.org/search?q=unOrdinary) · [Tapas](https://tapas.io/search?q=unOrdinary)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=unOrdinary) · [Tapas](https://tapas.io/search?q=unOrdinary)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=unOrdinary+manga+volume+1&tag=manhwadaily-20)
 
@@ -131,7 +131,7 @@ Noblesse follows Cadis Etrama Di Raizel — Rai — an ancient and impossibly po
 
 **Rating: 9.1/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Noblesse) · [MangaDex](https://mangadex.org/search?q=Noblesse) · [Tapas](https://tapas.io/search?q=Noblesse)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Noblesse) · [Tapas](https://tapas.io/search?q=Noblesse)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Noblesse+manga+volume+1&tag=manhwadaily-20)
 

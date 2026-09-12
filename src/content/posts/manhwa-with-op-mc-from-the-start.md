@@ -21,7 +21,7 @@ The premise does all the work: Prince Davey, a powerless royal dismissed by ever
 
 **Why it's great:** No leveling system tutorials. No stat screens at level one. He arrives at max level and the story begins there. The contrast between his demeanor and his capability is endlessly satisfying.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### 2. Solo Leveling — our score: 9.2/10
 
@@ -29,7 +29,7 @@ The manhwa that defined modern power fantasy. Sung Jin-Woo begins as the weakest
 
 **Why it's great:** Every new ceiling he breaks still feels earned. The shadow army mechanics are endlessly rewarding, and the completed run means you can binge the full arc without waiting.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 3. Omniscient Reader's Viewpoint — our score: 8.9/10
 
@@ -37,7 +37,7 @@ Dokja Kim is not the strongest person in the apocalypse. He is the only person w
 
 **Why it's great:** The meta-narrative is brilliantly constructed and rewards close reading. One of the most emotionally impactful manhwa in the genre, and the lore density is genuinely impressive.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 4. SSS-Class Suicide Hunter — our score: 8.8/10
 
@@ -45,7 +45,7 @@ Kim Gong-ja has spent his whole career in the Tower as a nobody watching others 
 
 **Why it's great:** The mechanics are genuinely clever and the power fantasy feels paid for. Dying thousands of times gives the eventual dominance a weight most OP manhwa never bother to earn.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 5. A Returner's Magic Should Be Special — our score: 8.6/10
 
@@ -53,7 +53,7 @@ Desir Arman is one of six survivors of humanity's final stand inside the Shadow 
 
 **Why it's great:** A regression manhwa that uses its OP premise to drive character-based storytelling rather than just escalating fight scenes. The academy setting keeps things grounded and the emotional stakes land harder than expected.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 6. Second Life Ranker — our score: 8.2/10
 
@@ -61,7 +61,7 @@ Yeonwoo discovers his twin brother — who vanished years ago — was murdered i
 
 **Why it's great:** The revenge motivation is personal and specific. The Tower mechanics are among the most detailed in the genre, and the series rewards readers who want strategy alongside raw power.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 7. The Skeleton Soldier Failed to Defend the Dungeon — our score: 8.0/10
 
@@ -69,7 +69,7 @@ A skeleton soldier of the weakest possible rank swears to protect its master, La
 
 **Why it's great:** The loop mechanic is used for genuine storytelling rather than pure power accumulation. The loyalty at the heart of the story is unexpectedly moving for a manhwa about a skeleton.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### 8. Who Made Me a Princess — our score: 7.7/10
 
@@ -77,11 +77,10 @@ The protagonist wakes up as Princess Athanasia — the girl who, in the novel sh
 
 **Why it's great:** A genuinely funny and emotionally smart manhwa that earns its place here by taking the OP foreknowledge premise seriously. A strong gateway for readers coming from romance who want to try the genre.
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ## Sources Checked
 - [ChapterBrief — Best Manhwa with OP MC](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
 - [QuoteTheAnime — 10+ Manhwa with OP MC from the Start](https://quotetheanime.com/recommendations/manhwa-with-op-mc-from-the-start/)
 - [NovelNodes — Best Isekai Manhwa with OP MC](https://novelnodes.com/best-isekai-manhwa-op-mc/)
 - [ChapterBrief — Manhwa Overpowered MC Types Explained](https://www.chapterbrief.net/blog/best-manhwa-overpowered-mc)
-- [MangaDex — Verified official title pages](https://mangadex.org)

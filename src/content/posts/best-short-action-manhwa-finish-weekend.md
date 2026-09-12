@@ -25,7 +25,7 @@ After the Gate connected the real world to a monster realm, some people gained t
 
 **Why binge it:** Completed and self-contained. The weakest-to-strongest arc runs with rare precision. Start chapter one on a Saturday morning and you'll need to remind yourself to eat.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling) | [Print edition on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling) | [Print edition on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20)
 
 ### 2. A Returner's Magic Should Be Special
 
@@ -35,7 +35,7 @@ Desir Arman is one of six survivors of the Shadow Labyrinth — the catastrophe 
 
 **Why binge it:** Completed with strong narrative closure. The action is grounded by real stakes — not just "he might lose" but "he knows exactly what losing looks like." One of the tightest plots in the genre.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
 
 ### 3. SSS-Class Revival Hunter
 
@@ -45,7 +45,7 @@ Gongja Kim envies the elite hunters climbing the Tower — until he copies a leg
 
 **Why binge it:** The loop structure creates compulsive momentum. Each reset raises tension rather than resetting it. Expect the "one more chapter" trap to close around chapter three.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
 
 ### 4. The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -55,7 +55,7 @@ A meager skeleton soldier serves Lady Succubus with fierce loyalty — until bot
 
 **Why binge it:** Each loop reveals new information about the world and its threats. The action is grounded by consequence — losing Lady Succubus never stops mattering, which makes every fight feel like something is actually at risk.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
 
 ### 5. Omniscient Reader's Viewpoint
 
@@ -65,7 +65,7 @@ Dokja spent years reading a niche web novel called "Three Ways to Survive the Ap
 
 **Why binge it:** The puzzle-box urgency of "I know what happens, but things are already changing" makes each chapter feel urgent. The apocalyptic action has genuine scale, and the character dynamics build fast. Ongoing and long — but the early arcs are a complete experience on their own.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
 
 ### 6. Second Life Ranker
 
@@ -75,7 +75,7 @@ Yeonwoo learns his brother didn't just disappear — he was betrayed and killed 
 
 **Why binge it:** The revenge framework gives every fight emotional stakes that most dungeon-action series skip. The Tower's lore rewards sustained attention, and the pacing in the opening acts is brisk enough that you'll cover significant ground before Sunday ends.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker) | [Print edition on Amazon](https://www.amazon.com/s?k=Second+Life+Ranker+manhwa&tag=manhwadaily-20)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker) | [Print edition on Amazon](https://www.amazon.com/s?k=Second+Life+Ranker+manhwa&tag=manhwadaily-20)
 
 ### 7. The Max Level Hero Strikes Back
 
@@ -85,7 +85,7 @@ Prince Davey O'Rowane is powerless and overlooked until an arrow drops him into 
 
 **Why binge it:** The setup pays off immediately and keeps paying. Action sequences are dynamic, the power fantasy is earned rather than handed over, and the political maneuvering adds texture to the fights. Good palate cleanser between heavier picks.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
 
 ### 8. Beware the Villainess!
 
@@ -95,7 +95,7 @@ After an accident, a modern woman wakes up inside a romance novel as Melissa —
 
 **Why binge it:** Completed. Fast-moving. The protagonist's active dismantling of romance-novel conventions reads closer to action-comedy than traditional isekai. A strong closer for a weekend — light on the adrenaline, high on the satisfaction.
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Beware+the+Villainess)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Beware+the+Villainess)
 
 ## Sources Checked
 - [Best Short Manhwa Completed — ChapterBrief](https://www.chapterbrief.net/blog/best-short-manhwa-completed)

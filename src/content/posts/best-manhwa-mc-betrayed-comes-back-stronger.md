@@ -25,7 +25,7 @@ The gold standard for "weakest to strongest" manhwa. Sung Jin-Woo is regarded as
 
 **Our score: 9.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
+[Read on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
 
 ### #2 — Second Life Ranker
 
@@ -35,7 +35,7 @@ Yeonwoo's twin brother disappeared, and years later he learns the devastating tr
 
 **Our score: 9.4/10**
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### #3 — SSS-Class Revival Hunter
 
@@ -45,7 +45,7 @@ Gongja Kim lives a humble existence in the Tower, envying the star hunters above
 
 **Our score: 9.2/10**
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #4 — Omniscient Reader's Viewpoint
 
@@ -55,7 +55,7 @@ Dokja was an ordinary office worker whose only passion was a web novel called "T
 
 **Our score: 9.1/10**
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### #5 — The Villainess Turns the Hourglass
 
@@ -65,7 +65,7 @@ Aria's rise from poverty to nobility crumbles when her sister Mielle engineers h
 
 **Our score: 9.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### #6 — The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -75,7 +75,7 @@ A skeleton soldier exists for one purpose: protect Lady Succubus, its master. Wh
 
 **Our score: 8.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### #7 — The Max Level Hero Strikes Back
 
@@ -85,7 +85,7 @@ Prince Davey O'Rowane is the powerless, disrespected prince — brought down by 
 
 **Our score: 8.7/10**
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### #8 — A Returner's Magic Should Be Special
 
@@ -95,7 +95,7 @@ Desir Arman was one of only six humans to survive the Shadow Labyrinth — the c
 
 **Our score: 8.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #9 — I Shall Master This Family
 
@@ -105,7 +105,7 @@ Firentia, born of a Lombardi noble and a peasant, watches her family's once-grea
 
 **Our score: 8.3/10**
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### #10 — The Monstrous Duke's Adopted Daughter
 
@@ -115,7 +115,7 @@ Leslie's entire childhood was spent being used as a stepping stone for her siste
 
 **Our score: 8.1/10**
 
-[Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ## Sources Checked
 - [MyAnimeGuru — Best Manhwa Where MC Gets Betrayed (Ranked)](https://myanimeguru.com/manhwa-where-mc-gets-betrayed/)

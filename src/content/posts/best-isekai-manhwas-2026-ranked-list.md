@@ -23,7 +23,7 @@ When ordinary E-rank hunter Jinwoo Sung enters a double dungeon and barely survi
 
 **Why it's great:** Solo Leveling perfected the "weakest becomes strongest" formula with clean pacing and some of the best monster design in manhwa. Its completed status means you can binge the full arc right now without waiting.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
 
 ### #2 — Omniscient Reader's Viewpoint
 
@@ -33,7 +33,7 @@ Dokja was an ordinary office worker whose only passion was a web novel called "T
 
 **Why it's great:** The self-awareness is built into the DNA of the plot rather than used as comic relief. Layered character writing and apocalyptic world-building that rivals anything in the action genre make this a must-read.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### #3 — Villains Are Destined to Die
 
@@ -43,7 +43,7 @@ Penelope Eckart reincarnates as the adopted daughter of Duke Eckart — the desi
 
 **Why it's great:** Rare for the genre, Penelope's situation feels genuinely precarious. The game-mechanics framing keeps the stakes visible and the romantic subplots earn their drama rather than coasting on charm alone.
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### #4 — SSS-Class Revival Hunter
 
@@ -53,7 +53,7 @@ In a tower full of elite hunters, Gongja Kim is mediocre — until he copies the
 
 **Why it's great:** The copied-ability mechanic forces the protagonist to genuinely master each skill rather than just collect power-ups, making his growth feel earned at every stage of the tower climb.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #5 — A Returner's Magic Should Be Special
 
@@ -63,7 +63,7 @@ Desir Arman survives the Shadow Labyrinth — the catastrophe that nearly ended 
 
 **Why it's great:** It balances intelligent world-building with satisfying action and never lets its protagonist feel omnipotent. There are real costs to knowing too much, and the series leans into them.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #6 — The Villainess Turns the Hourglass
 
@@ -73,7 +73,7 @@ Aria rose from poverty to luxury when her mother married a Count, then was execu
 
 **Why it's great:** Aria does not just survive — she outplays. The plotting is unusually tight for the villainess subgenre, and the art carries every moment of quiet menace without a single over-explained panel.
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### #7 — Second Life Ranker
 
@@ -83,7 +83,7 @@ Yeonwoo discovers that his twin brother died inside a mysterious tower — betra
 
 **Why it's great:** The emotional throughline of avenging a brother lifts it above most pure power-fantasy isekai. The tower world is dense with competing factions, making every floor feel politically alive.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### #8 — Beware the Villainess!
 
@@ -93,7 +93,7 @@ After an accident, a modern woman wakes up inside a romance novel as its designa
 
 **Why it's great:** The humor lands because the protagonist truly sees through the narrative's logic, not just for laughs but because the story demands she does. One of the funniest reads in the isekai genre right now.
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### #9 — Who Made Me a Princess
 
@@ -103,7 +103,7 @@ Reborn as Princess Athanasia — fated to die at her own father's hands — the 
 
 **Why it's great:** The father-daughter dynamic is handled with unexpected emotional depth, and the art is some of the most polished in the villainess subgenre. The ongoing run keeps adding real wrinkles to the central relationship.
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ### #10 — The Max Level Hero Strikes Back
 
@@ -113,7 +113,7 @@ Prince Davey O'Rowane — powerless and dismissed by everyone around him — is 
 
 **Why it's great:** It subverts the "weak protagonist" setup by having the entire power-up happen off-screen, then delivers the reveal in one extended, well-earned sequence. Efficient structure and a likable lead make it compulsively readable.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ## Sources checked
 

@@ -25,7 +25,7 @@ Dokja was an average office worker whose only hobby was reading a web novel call
 
 **Why it fits the dark thriller angle:** Omniscience isn't safety — it's a ticking clock. Knowing what comes next and being unable to stop it without sacrifice creates a sustained dread Solo Leveling rarely touches. The thriller engine here is information asymmetry, and it runs for the entire series.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
 
 ### 2. SSS-Class Revival Hunter — Our Score: 9.0/10
 
@@ -33,7 +33,7 @@ In the RPG-like Tower, Gongja Kim lived at the bottom — envying the legendary 
 
 **Why it fits:** A protagonist who can only gain power by dying is permanently locked in a violent loop. Watching him turn that condition into a precision instrument of revenge is genuinely unsettling — closer to a revenge thriller than a power fantasy.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
 
 ### 3. The Skeleton Soldier Failed to Defend the Dungeon — Our Score: 8.7/10
 
@@ -41,7 +41,7 @@ A nameless skeleton soldier exists for one purpose: to protect its master, Lady 
 
 **Why it fits:** This is what death-loop horror looks like in manhwa form. The repetition is deliberate and oppressive — watching a voiceless, faceless creature refuse to stop is more affecting than most protagonist arcs in the genre. The dark thriller angle comes from the mounting dread of each loop's countdown.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
 
 ### 4. Second Life Ranker — Our Score: 8.6/10
 
@@ -49,7 +49,7 @@ Yeonwoo's twin brother vanished years ago. When the truth arrives — his brothe
 
 **Why it fits:** Every power-up is a step closer to confronting people who believed they'd gotten away with murder. The thriller hook is the mystery of what really happened inside the tower — and the satisfaction of watching a cover-up unravel from the inside.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker)
 
 ### 5. Solo Leveling — Our Score: 9.4/10
 
@@ -57,7 +57,7 @@ The benchmark. After a Gate connecting the real world with a monster realm opens
 
 **The thriller element:** The early chapters are survival horror, not power fantasy. The double dungeon sequence is genuinely terrifying before the protagonist's power curve makes danger abstract. That early dread is what readers on this list are usually chasing — a feeling the later arcs trade away for spectacle.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
 
 ### 6. A Returner's Magic Should Be Special — Our Score: 8.3/10
 
@@ -65,7 +65,7 @@ Desir Arman is one of only six survivors of the Shadow Labyrinth — humanity's 
 
 **Why it fits:** Knowing the future and racing to change it is one of thriller fiction's oldest engines. Desir's advantage over his enemies is also his psychological burden — he has already lived through the worst possible outcome, and the series never lets him or the reader forget it.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
 
 ### 7. The Max Level Hero Strikes Back — Our Score: 8.0/10
 
@@ -73,7 +73,7 @@ Prince Davey O'Rowane is powerless and dismissed by everyone at court. After bei
 
 **Why it fits:** The political intrigue around a weak prince in a court full of people who want him dead reads closer to a political thriller than a pure action series. The tension is sustained through the gap between perception and reality.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
 
 ### 8. Villains Are Destined to Die — Our Score: 8.2/10
 
@@ -81,7 +81,7 @@ Penelope Eckart reincarnated into a reverse harem dating sim as the villainess �
 
 **Why it fits:** Strip the romance overlay and Villains Are Destined to Die is a survival thriller with an unusual constraint system. Every conversation could lock a bad ending. That sustained, granular tension is what earns it a place alongside the dungeon-crawling entries above.
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
 
 ## How to Pick Your Next Read
 

@@ -31,7 +31,7 @@ Aria claws her way from poverty to privilege after her mother marries a Count—
 
 **Why it's great:** Aria is morally complex in the right way—not a hero performing virtue but a survivor running a longer game. The completed run lands its ending with precision and without waste. Essential reading in the villainess category.
 
-[Read The Villainess Turns the Hourglass on MangaDex →](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### 3. Beware the Villainess! — Our Score: 8.7/10
 
@@ -39,7 +39,7 @@ A contemporary woman wakes up inside a romance novel as Melissa, the story's des
 
 **Why it's great:** Melissa deconstructs her genre with visible irritation and dry wit. The full arc is satisfying precisely because she stays consistent to her own logic throughout—and the comedy earns every laugh rather than coasting on the premise.
 
-[Read Beware the Villainess! on MangaDex →](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read Beware the Villainess! on Tapas →](https://tapas.io/series/beware-the-villainess/info)
 
 ### 4. The Reason Why Raeliana Ended Up at the Duke's Mansion — Our Score: 8.5/10
 
@@ -55,7 +55,7 @@ Canaria reincarnates as the villain of a clichéd novel—her scripted fate is e
 
 **Why it's great:** A tight, complete story where the female lead's goal—survive and leave—is modest but requires constant intelligence. No filler, and the ending delivers cleanly. Ideal for readers who want a shorter, fully resolved arc.
 
-[Read This Villainess Wants a Divorce! on MangaDex →](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### 6. The Abandoned Empress — Our Score: 8.0/10
 
@@ -71,7 +71,7 @@ Leslie has spent her life as an instrument for her birth family's ambitions—he
 
 **Why it's great:** Leslie's growth from endurance to agency is handled carefully. The completed run gives her development the space it needs and closes with a resolution that feels genuinely earned rather than rushed. A strong pick for readers who prefer emotional arcs over political games.
 
-[Read The Monstrous Duke's Adopted Daughter on MangaDex →](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ### 8. Master Villainess the Invincible! — Our Score: 7.5/10
 

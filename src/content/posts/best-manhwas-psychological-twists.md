@@ -25,7 +25,7 @@ In the mysterious Tower, Gongja Kim gains a legendary skill: the ability to copy
 
 Our score: **9.3/10**
 
-[Read SSS-Class Revival Hunter on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read SSS-Class Revival Hunter on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 2. Omniscient Reader's Viewpoint — 9.6/10
 
@@ -35,7 +35,7 @@ Dokja Kim is the only person alive who has read the entire web novel that sudden
 
 Our score: **9.6/10**
 
-[Read Omniscient Reader's Viewpoint on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read Omniscient Reader's Viewpoint on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 3. The Skeleton Soldier Failed to Defend the Dungeon — 9.0/10
 
@@ -45,7 +45,7 @@ A nameless skeleton servant watches his master die, then wakes up back at the ve
 
 Our score: **9.0/10**
 
-[Read The Skeleton Soldier on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### 4. Villains Are Destined to Die — 8.9/10
 
@@ -55,7 +55,7 @@ Penelope Eckart reincarnates as the adopted-daughter villain in a dating sim —
 
 Our score: **8.9/10**
 
-[Read Villains Are Destined to Die on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read Villains Are Destined to Die on Tapas](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### 5. Solo Leveling — 9.5/10
 
@@ -65,7 +65,7 @@ Sung Jinwoo begins as the weakest hunter alive — dismissed, humiliated, nearly
 
 Our score: **9.5/10**
 
-[Read Solo Leveling on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 6. The Villainess Turns the Hourglass — 8.8/10
 
@@ -75,7 +75,7 @@ After being executed through her sister Mielle's scheming, Aria resets time and 
 
 Our score: **8.8/10**
 
-[Read The Villainess Turns the Hourglass on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### 7. Second Life Ranker — 8.6/10
 
@@ -85,7 +85,7 @@ Yeonwoo learns his twin brother was betrayed and murdered by trusted allies insi
 
 Our score: **8.6/10**
 
-[Read Second Life Ranker on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read Second Life Ranker on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 8. A Returner's Magic Should Be Special — 8.5/10
 
@@ -95,7 +95,7 @@ Desir Arman is one of six survivors of humanity's last stand against the Shadow 
 
 Our score: **8.5/10**
 
-[Read A Returner's Magic Should Be Special on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 9. The Max Level Hero Strikes Back — 8.4/10
 
@@ -105,7 +105,7 @@ Struck by an enemy's arrow, the powerless Prince Davey falls into a coma. His so
 
 Our score: **8.4/10**
 
-[Read The Max Level Hero Strikes Back on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### 10. Who Made Me a Princess — 8.3/10
 
@@ -115,7 +115,7 @@ The protagonist wakes up reincarnated as a princess in a novel she read — spec
 
 Our score: **8.3/10**
 
-[Read Who Made Me a Princess on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read Who Made Me a Princess on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ## Sources Checked
 - [ChapterBrief — Best Manhwa Psychological Thrillers 2026](https://www.chapterbrief.net/blog/best-manhwa-psychological-thriller)

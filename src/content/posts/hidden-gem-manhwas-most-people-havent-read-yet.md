@@ -21,7 +21,7 @@ A queen with unshakeable dignity navigates palace betrayal, a cheating emperor, 
 
 **Why it's great:** Unlike most isekai romance titles, nobody here is overpowered by magic — the battles are fought with words, alliances, and ice-cold composure. Absolutely addictive.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Remarried+Empress) · [MangaDex](https://mangadex.org/search?q=The+Remarried+Empress) · [Tapas](https://tapas.io/search?q=The+Remarried+Empress)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Remarried+Empress) · [Tapas](https://tapas.io/search?q=The+Remarried+Empress)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Remarried+Empress+manga+volume+1&tag=manhwadaily-20)
 
@@ -31,7 +31,7 @@ A high-school boy lives in silent terror because his father is a serial killer �
 
 **Why it's great:** The moral complexity here is extraordinary — the protagonist isn't a hero, he's a traumatized accomplice trying to survive. It's one of the few manhwas that genuinely unsettled me.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Bastard) · [MangaDex](https://mangadex.org/search?q=Bastard) · [Tapas](https://tapas.io/search?q=Bastard)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Bastard) · [Tapas](https://tapas.io/search?q=Bastard)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Bastard+manhwa+manga+volume+1&tag=manhwadaily-20)
 
@@ -41,7 +41,7 @@ A man reincarnates with the unique ability to control insects, and uses that see
 
 **Why it's great:** The power scaling through insects feels surprisingly grounded and strategic — you're constantly thinking three steps ahead alongside the MC.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+King+of+Bugs) · [MangaDex](https://mangadex.org/search?q=The+King+of+Bugs) · [Tapas](https://tapas.io/search?q=The+King+of+Bugs)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+King+of+Bugs) · [Tapas](https://tapas.io/search?q=The+King+of+Bugs)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+King+of+Bugs+manga+volume+1&tag=manhwadaily-20)
 
@@ -51,7 +51,7 @@ A girl reincarnated as a monster in a fantasy RPG world tries to survive by leve
 
 **Why it's great:** The gender dynamics and body horror elements are handled with rare nuance, and the protagonist's journey toward self-acceptance hits harder than you'd expect from a comedy manhwa.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Monsterous) · [MangaDex](https://mangadex.org/search?q=Monsterous) · [Tapas](https://tapas.io/search?q=Monsterous)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Monsterous) · [Tapas](https://tapas.io/search?q=Monsterous)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Monsterous+manga+volume+1&tag=manhwadaily-20)
 
@@ -61,7 +61,7 @@ A cat-loving boy with lightning-fast reflexes teams up with a grumpy awakened wa
 
 **Why it's great:** The found-family dynamics between the cast of young ability users are heartfelt without being saccharine, and the comedy involving the cat is consistently hilarious.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Eleceed) · [MangaDex](https://mangadex.org/search?q=Eleceed) · [Tapas](https://tapas.io/search?q=Eleceed)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Eleceed) · [Tapas](https://tapas.io/search?q=Eleceed)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Eleceed+manga+volume+1&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ A small, quiet transfer student systematically dismantles school gang hierarchie
 
 **Why it's great:** It completely deconstructs the typical delinquent-manhwa power fantasy and replaces it with something smarter, more painful, and infinitely more compelling.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Weak+Hero) · [MangaDex](https://mangadex.org/search?q=Weak+Hero) · [Tapas](https://tapas.io/search?q=Weak+Hero)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Weak+Hero) · [Tapas](https://tapas.io/search?q=Weak+Hero)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Weak+Hero+manga+volume+1&tag=manhwadaily-20)
 
@@ -81,7 +81,7 @@ A villainess from a romance novel gets reincarnated and decides the best surviva
 
 **Why it's great:** Both leads are morally grey and equally sharp — it's a rare case where the love interest feels like an actual equal rather than a plot device.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=A+Villain+Is+a+Good+Match+for+a+Tyrant) · [MangaDex](https://mangadex.org/search?q=A+Villain+Is+a+Good+Match+for+a+Tyrant) · [Tapas](https://tapas.io/search?q=A+Villain+Is+a+Good+Match+for+a+Tyrant)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=A+Villain+Is+a+Good+Match+for+a+Tyrant) · [Tapas](https://tapas.io/search?q=A+Villain+Is+a+Good+Match+for+a+Tyrant)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=A+Villain+Is+a+Good+Match+for+a+Tyrant+manga+volume+1&tag=manhwadaily-20)
 
@@ -91,7 +91,7 @@ A man accidentally selects the game's hardest difficulty mode on a tutorial that
 
 **Why it's great:** The comedy comes from competence rather than ignorance — watching the MC break a system designed to be unbeatable through sheer pig-headed persistence never gets old.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Tutorial+Is+Too+Hard) · [MangaDex](https://mangadex.org/search?q=The+Tutorial+Is+Too+Hard) · [Tapas](https://tapas.io/search?q=The+Tutorial+Is+Too+Hard)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Tutorial+Is+Too+Hard) · [Tapas](https://tapas.io/search?q=The+Tutorial+Is+Too+Hard)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Tutorial+Is+Too+Hard+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=The+Tutorial+Is+Too+Hard+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -101,7 +101,7 @@ A dungeon crawler discovers that due to a bug, the dungeon resets around him eve
 
 **Why it's great:** This is the manhwa for readers who love seeing a protagonist use their brain — every floor is a puzzle and the solutions feel genuinely earned.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Dungeon+Reset) · [MangaDex](https://mangadex.org/search?q=Dungeon+Reset) · [Tapas](https://tapas.io/search?q=Dungeon+Reset)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Dungeon+Reset) · [Tapas](https://tapas.io/search?q=Dungeon+Reset)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Dungeon+Reset+manga+volume+1&tag=manhwadaily-20)
 
@@ -111,7 +111,7 @@ Set in an ancient Greek-inspired world of mercenaries, political intrigue, and b
 
 **Why it's great:** It's one of the few completed manhwas that sticks the landing — the final arcs hit with the weight of everything built before them, and the bromance between the leads is legendary-tier.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Ares+manhwa) · [MangaDex](https://mangadex.org/search?q=Ares+manhwa) · [Tapas](https://tapas.io/search?q=Ares+manhwa)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Ares+manhwa) · [Tapas](https://tapas.io/search?q=Ares+manhwa)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Ares+manhwa+manga+volume+1&tag=manhwadaily-20)
 

@@ -25,7 +25,7 @@ When the weakest hunter in Korea — someone barely able to clear E-rank dungeon
 
 **Our rating: 9.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 2. Omniscient Reader's Viewpoint — System Meets Meta-Knowledge
 
@@ -35,7 +35,7 @@ Dokja isn't handed power directly — he's handed something rarer: complete fore
 
 **Our rating: 9.3/10**
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 3. SSS-Class Revival Hunter — Copy, Climb, Collect
 
@@ -45,7 +45,7 @@ Gongja Kim toils in the Tower as an unremarkable hunter until he wakes up with a
 
 **Our rating: 8.9/10**
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
 
 ### 4. Second Life Ranker — Tower Climbing With a Vengeance
 
@@ -55,7 +55,7 @@ Yeonwoo discovers his twin brother was betrayed and murdered inside the Obelisk,
 
 **Our rating: 8.6/10**
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 5. The Max Level Hero Strikes Back — Diplomatic Weapon
 
@@ -65,7 +65,7 @@ Prince Davey is the powerless, overlooked royal of a minor kingdom — until an 
 
 **Our rating: 8.2/10**
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### 6. A Returner's Magic Should Be Special — Foreknowledge as the Ultimate Cheat
 
@@ -75,7 +75,7 @@ Desir Arman survived the Shadow Labyrinth — humanity's last, nearly failed sta
 
 **Our rating: 8.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 7. I Shall Master This Family — Business System, No Dungeon Required
 
@@ -85,7 +85,7 @@ Firentia reincarnates into the body of an illegitimate granddaughter in the once
 
 **Our rating: 7.9/10**
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### 8. The Skeleton Soldier Failed to Defend the Dungeon — Loop Until Rich
 
@@ -95,7 +95,7 @@ A skeleton warrior loyal to his undead mistress watches her die and finds himsel
 
 **Our rating: 7.7/10**
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ## What Makes a Great "Rich With System" Manhwa?
 
@@ -106,5 +106,5 @@ If you've already finished Solo Leveling and ORV, SSS-Class Revival Hunter is th
 ## Sources Checked
 - [Best System Fantasy Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-system-fantasy-manhwa)
 - [10 Best System Manhwa with OP MC — NovelNodes](https://novelnodes.com/best-system-manhwa-op-mc/)
-- [MangaDex (title verification)](https://mangadex.org)
+
 - [The Ultimate Wantless Godly Rich System — ManhwaBato](https://www.manhwabato.com/manga/the-ultimate-wantless-godly-rich-system)

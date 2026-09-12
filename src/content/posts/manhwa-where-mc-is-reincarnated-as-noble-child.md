@@ -23,7 +23,7 @@ A woman wakes up inside a romance novel as Athanasia, a princess whose own fathe
 
 **Why it's great:** Watching a reincarnated MC navigate court life from childhood adds emotional layers most villainess stories skip entirely — the vulnerability feels real, not just cosmetic.
 
-Our score: **9.1/10** — [Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
+Our score: **9.1/10** — [Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
 
 ### 2. Villains Are Destined to Die — Our Score: 8.9/10
 
@@ -31,7 +31,7 @@ Penelope Eckart is reincarnated as the adopted daughter of Duke Eckart — and t
 
 **Why it's great:** The difficulty mechanic forces Penelope to think three steps ahead at all times. Noble society here isn't a backdrop — it's the trap she's trying to dismantle from within.
 
-Our score: **8.9/10** — [Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+Our score: **8.9/10** — [Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### 3. I Shall Master This Family — Our Score: 8.8/10
 
@@ -39,7 +39,7 @@ Firentia is born from a Lombardi noble and a peasant — the lowest-ranked membe
 
 **Why it's great:** Unlike stories where the MC already holds a privileged position, Firentia starts at the absolute bottom of the noble ladder. Every advancement feels earned because the series makes you feel every obstacle she faces first.
 
-Our score: **8.8/10** — [Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+Our score: **8.8/10** — [Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### 4. The Villainess Turns the Hourglass — Our Score: 8.7/10
 
@@ -47,7 +47,7 @@ When her mother marries into the Count's household, Aria's social status soars o
 
 **Why it's great:** This series commits fully to its aristocratic setting. Every ball, political maneuver, and social slight is rendered with care, and the revenge arc delivers. A completed series, which is rare and valuable.
 
-Our score: **8.7/10** — [Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+Our score: **8.7/10** — 
 
 ### 5. The Max Level Hero Strikes Back — Our Score: 8.5/10
 
@@ -55,7 +55,7 @@ Prince Davey O'Rowane is a powerless noble child dismissed by the entire court �
 
 **Why it's great:** The "weakest prince becomes unstoppable" arc lands with genuine impact because you see exactly how thoroughly the court underestimated him before. The Hall of Heroes framing is a creative spin on standard reincarnation setups.
 
-Our score: **8.5/10** — [Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+Our score: **8.5/10** — 
 
 ### 6. Beware the Villainess! — Our Score: 8.4/10
 
@@ -63,7 +63,7 @@ After an accident, a modern woman wakes up as Melissa Foddebrat — the villaine
 
 **Why it's great:** Melissa's refusal to be anyone's plot device is genuinely refreshing. Smart, funny, and quietly feminist — a strong pick for readers tired of passive villainess MCs. Completed, so the payoff is waiting.
 
-Our score: **8.4/10** — [Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+Our score: **8.4/10** — [Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### 7. The Monstrous Duke's Adopted Daughter — Our Score: 8.3/10
 
@@ -71,7 +71,7 @@ Leslie has spent her life as the least valued daughter of the Sperado noble fami
 
 **Why it's great:** The contrast between Leslie's old noble life and her new position in the Duke's household drives the drama efficiently. A completed series with a satisfying arc for an easy-to-root-for MC.
 
-Our score: **8.3/10** — [Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+Our score: **8.3/10** — 
 
 ### 8. This Villainess Wants a Divorce! — Our Score: 8.2/10
 
@@ -79,7 +79,7 @@ The protagonist is reincarnated as Canaria, the villain of a popular romance nov
 
 **Why it's great:** Refreshing in its modesty — Canaria wants a quiet, happy ending, not a throne. The pragmatic humor works consistently, and a completed status means no wait for the resolution.
 
-Our score: **8.2/10** — [Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+Our score: **8.2/10** — 
 
 ## Quick Reference
 
@@ -98,4 +98,3 @@ Our score: **8.2/10** — [Read on MangaDex](https://mangadex.org/title/7e020929
 - [Noble Suggestions — 25+ Best Manhwa Where MC is Reincarnated as Noble Child](https://noblesuggestions.com/manhwa-where-mc-is-reincarnated-as-noble-child/)
 - [Game Rant — Best Isekai Manhwa With OP MC Reincarnated As A Child, Ranked](https://gamerant.com/best-isekai-manhwa-with-op-mc-reincarnated-child)
 - [ChapterBrief — Best Isekai Manhwa Ranked for 2026](https://www.chapterbrief.net/blog/best-isekai-manhwa)
-- [MangaDex — Official title pages used for all links above](https://mangadex.org)

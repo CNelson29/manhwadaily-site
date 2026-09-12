@@ -23,7 +23,7 @@ A young woman in financial trouble stumbles upon an abandoned amusement park and
 
 **Why it's great:** No padding, no filler — just a focused, beautifully drawn story that earns its ending. A reader surveyed by GoodNovel called it out explicitly as a standout under-50-chapter read that “says a lot with a little.” If you have never read short-form manhwa before, this is the place to start.
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Annarasumanara) | [Search on MangaDex](https://mangadex.org/search?q=Annarasumanara)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Annarasumanara)
 
 ### #2 — This Villainess Wants a Divorce! · Our Score: 8.5/10
 
@@ -31,7 +31,7 @@ Reincarnated as Canaria — the villain of a popular novel, destined to be execu
 
 **Why it's great:** The protagonist's pragmatic approach to an obvious death-flag situation is consistently entertaining. Being completed means you get an actual ending — no cliffhangers, no waiting. Strong pick for readers who bounced off slower-start reincarnation series.
 
-📖 [Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #3 — Beware the Villainess! · Our Score: 8.7/10
 
@@ -39,7 +39,7 @@ A modern woman reincarnates as Melissa, the villain of a romance novel, and imme
 
 **Why it's great:** One of the smartest villainess manhwa around — genuinely funny and self-aware, with critique that feels earned rather than grafted on. The comedy works because the lead actually has values she is defending. And it sticks the landing.
 
-📖 [Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+📖 [Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### #4 — The Villainess Turns the Hourglass · Our Score: 8.8/10
 
@@ -47,7 +47,7 @@ Aria rose to luxury when her mother married a count — then watched her stepsis
 
 **Why it's great:** The chess-match structure of Aria outsmarting enemies with their own methods is immensely satisfying. Because the series is completed, the revenge arc actually closes — no mid-arc hiatus, no dangling threads. A binge-ready experience.
 
-📖 [Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### #5 — The Monstrous Duke's Adopted Daughter · Our Score: 8.3/10
 
@@ -55,7 +55,7 @@ Leslie has spent her entire life being exploited for her nobler sister's benefit
 
 **Why it's great:** Warm without being saccharine. Leslie's arc from overlooked doormat to fiercely protected daughter is earned slowly and believably. Completed status means the emotional journey closes properly — you leave satisfied.
 
-📖 [Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ### #6 — Love Alarm · Our Score: 8.4/10
 
@@ -63,7 +63,7 @@ In a near-future Korea, a smartphone app alerts users when someone nearby has ro
 
 **Why it's great:** A genuinely compact read that builds to a meaningful conclusion without dragging its emotional beats. The Netflix adaptation brought it global attention, but the original manhwa has a quieter, moodier quality worth experiencing directly. One of the cleaner examples of short-form manhwa storytelling.
 
-📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Love+Alarm) | [Search on MangaDex](https://mangadex.org/search?q=Love+Alarm)
+📖 [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Love+Alarm)
 
 ### #7 — The Fantasie of a Stepmother · Our Score: 8.0/10
 
@@ -71,7 +71,7 @@ After her husband's death, young Shuri is left to raise his four children from a
 
 **Why it's great:** The relationship between Shuri and each of the four children develops with real care. If you want a manhwa that prioritizes emotional sophistication over plot mechanics, this is one of the most underrated picks in the genre. Strong early chapters make it easy to start and hard to put down.
 
-📖 [Read on MangaDex](https://mangadex.org/title/73886188-f459-4b80-8781-66a60520b420)
+📖 [Read on Tapas](https://tapas.io/series/the-fantasie-of-a-stepmother/info)
 
 ### #8 — Who Made Me a Princess · Our Score: 9.0/10
 
@@ -79,7 +79,7 @@ Transmigrated into the body of a princess doomed to die at her cold emperor fath
 
 **Why it's great:** The opening arcs set up and pay off efficiently — the early chapters alone are worth reading for the character work, and the pacing makes the first stretch feel more like a self-contained short story than an ongoing series. An essential entry point for anyone new to manhwa.
 
-📖 [Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb) | [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
+📖 [Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475) | [Read on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
 
 ## Sources Checked
 - [GoodNovel — Best Manhwa Under 50 Chapters](https://www.goodnovel.com/qa/best-manhwa-read-50-chapters)

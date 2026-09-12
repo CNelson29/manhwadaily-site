@@ -53,13 +53,13 @@ Jo Heon is a law student with a carefully curated public image and a secret: he 
 
 **Why it's great:** The tension comes not from action sequences but from watching a smart, methodical person make choices he cannot take back. The moral framework here is more rigorous than most legal dramas manage.
 
-### 7. [SSS-Class Revival Hunter](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2) — Our Score: 8.4/10
+### 7. [SSS-Class Revival Hunter](https://tapas.io/series/sss-class-revival-hunter/info) — Our Score: 8.4/10
 
 Gongja Kim is an unremarkable hunter in a tower full of legends — until he copies the ultimate ability of the world's strongest, who then kills him to protect the secret. He wakes at the very beginning with the power intact and a grudge that would unsettle a god. The psychological cat-and-mouse between prey and predator gives this series its thriller edge, and the loop structure keeps the tension from ever resetting to zero.
 
 **Why it's great:** Unlike most time-loop series, each cycle raises the stakes rather than simply resetting them. The protagonist grows, but so does the danger — and the predator who keeps finding him is genuinely formidable.
 
-### 8. [Second Life Ranker](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971) — Our Score: 8.1/10
+### 8. [Second Life Ranker](https://tapas.io/series/second-life-ranker/info) — Our Score: 8.1/10
 
 Yeonwoo discovers that his twin brother was betrayed and murdered inside a deadly tower by the very people he trusted most. Armed with a hidden diary and a cold need for the full truth, he enters the tower himself. The mystery of what really happened is revealed in pieces across the series, keeping readers in detective mode even during the most intense action sequences.
 

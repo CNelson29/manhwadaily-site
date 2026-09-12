@@ -25,7 +25,7 @@ The title is the pitch. The MC lives in the shadow of a celebrated hero — but 
 
 **Our score: 8.0 / 10**
 
-[Read on MangaDex](https://mangadex.org/search?q=Secretly+More+Powerful+than+the+Hero)
+
 
 ### #8. Eleceed
 
@@ -35,7 +35,7 @@ Jisoo looks like nothing special — a kind, ordinary high schooler with a stray
 
 **Our score: 8.4 / 10**
 
-[Read on MangaDex](https://mangadex.org/search?q=Eleceed)
+
 
 ### #7. Return of the Mount Hua Sect
 
@@ -45,7 +45,7 @@ The greatest sword of his generation died and woke up reincarnated as a junior d
 
 **Our score: 8.6 / 10**
 
-[Read on MangaDex](https://mangadex.org/search?q=Return+of+the+Mount+Hua+Sect)
+
 
 ### #6. Second Life Ranker
 
@@ -55,7 +55,7 @@ Yeonwoo's twin brother was betrayed and killed inside the Tower — a brutal dun
 
 **Our score: 8.7 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### #5. A Returner's Magic Should Be Special
 
@@ -65,7 +65,7 @@ Desir Arman is one of six humans to survive the Shadow Labyrinth — the apocaly
 
 **Our score: 8.8 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #4. Omniscient Reader's Viewpoint
 
@@ -75,7 +75,7 @@ Dokja Kim is a plain office worker whose only hobby is reading a niche web novel
 
 **Our score: 9.0 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### #3. The Max Level Hero Strikes Back
 
@@ -85,7 +85,7 @@ Prince Davey is known as his kingdom's greatest embarrassment — powerless in a
 
 **Our score: 9.2 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### #2. SSS-Class Revival Hunter
 
@@ -95,7 +95,7 @@ Gongja Kim has a single ability: copy the last skill used on him. The problem? T
 
 **Our score: 9.1 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #1. Solo Leveling
 
@@ -105,10 +105,9 @@ Sung Jinwoo begins as the weakest E-rank hunter in a world overrun by monsters s
 
 **Our score: 9.6 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ## Sources Checked
 - [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
 - [Secretly More Powerful than the Hero — MyAnimeList](https://myanimelist.net/manga/165324/Secretly_More_Powerful_than_the_Hero)
 - [Weak but acts strong discussion — Quora](https://www.quora.com/What-is-the-manga-where-MC-is-weak-but-acts-strong-or-everyone-thinks-he-is-strong-I-have-already-read-High-School-Stormbringer-and-MX0)
-- [MangaDex — verified title pages](https://mangadex.org)

@@ -23,7 +23,7 @@ The manhwa that put Korean webtoons on the global map, *Solo Leveling* follows S
 
 **Rating: 9.5/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Solo+Leveling) · [MangaDex](https://mangadex.org/search?q=Solo+Leveling) · [Tapas](https://tapas.io/search?q=Solo+Leveling)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Solo+Leveling) · [Tapas](https://tapas.io/search?q=Solo+Leveling)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -35,7 +35,7 @@ The manhwa that put Korean webtoons on the global map, *Solo Leveling* follows S
 
 **Rating: 9.8/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Omniscient+Reader) · [MangaDex](https://mangadex.org/search?q=Omniscient+Reader) · [Tapas](https://tapas.io/search?q=Omniscient+Reader)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Omniscient+Reader) · [Tapas](https://tapas.io/search?q=Omniscient+Reader)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Omniscient+Reader+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Omniscient+Reader+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -47,7 +47,7 @@ The manhwa that put Korean webtoons on the global map, *Solo Leveling* follows S
 
 **Rating: 9.2/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Tower+of+God) · [MangaDex](https://mangadex.org/search?q=Tower+of+God) · [Tapas](https://tapas.io/search?q=Tower+of+God)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Tower+of+God) · [Tapas](https://tapas.io/search?q=Tower+of+God)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Tower+of+God+manga+volume+1&tag=manhwadaily-20)
 
@@ -59,7 +59,7 @@ A high-octane martial arts tournament manhwa by Yongje Park, *The God of High Sc
 
 **Rating: 8.8/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+God+of+High+School) · [MangaDex](https://mangadex.org/search?q=The+God+of+High+School) · [Tapas](https://tapas.io/search?q=The+God+of+High+School)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+God+of+High+School) · [Tapas](https://tapas.io/search?q=The+God+of+High+School)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+God+of+High+School+manga+volume+1&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ A high-octane martial arts tournament manhwa by Yongje Park, *The God of High Sc
 
 **Rating: 8.6/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Noblesse) · [MangaDex](https://mangadex.org/search?q=Noblesse) · [Tapas](https://tapas.io/search?q=Noblesse)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Noblesse) · [Tapas](https://tapas.io/search?q=Noblesse)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Noblesse+manga+volume+1&tag=manhwadaily-20)
 
@@ -83,7 +83,7 @@ A claustrophobic, terrifying horror manhwa by Carnby Kim and Youngchan Hwang, *S
 
 **Rating: 9.0/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Sweet+Home) · [MangaDex](https://mangadex.org/search?q=Sweet+Home) · [Tapas](https://tapas.io/search?q=Sweet+Home)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Sweet+Home) · [Tapas](https://tapas.io/search?q=Sweet+Home)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Sweet+Home+manga+volume+1&tag=manhwadaily-20)
 
@@ -95,7 +95,7 @@ Also by Carnby Kim and Youngchan Hwang, *Bastard* is a tight, 94-chapter psychol
 
 **Rating: 9.1/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Bastard) · [MangaDex](https://mangadex.org/search?q=Bastard) · [Tapas](https://tapas.io/search?q=Bastard)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Bastard) · [Tapas](https://tapas.io/search?q=Bastard)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Bastard+manhwa+volume+1&tag=manhwadaily-20)
 
@@ -107,7 +107,7 @@ Also by Carnby Kim and Youngchan Hwang, *Bastard* is a tight, 94-chapter psychol
 
 **Rating: 8.9/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I+Love+Yoo) · [MangaDex](https://mangadex.org/search?q=I+Love+Yoo) · [Tapas](https://tapas.io/search?q=I+Love+Yoo)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I+Love+Yoo) · [Tapas](https://tapas.io/search?q=I+Love+Yoo)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=I+Love+Yoo+manga+volume+1&tag=manhwadaily-20)
 
@@ -119,7 +119,7 @@ Also by Carnby Kim and Youngchan Hwang, *Bastard* is a tight, 94-chapter psychol
 
 **Rating: 8.7/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Unordinary) · [MangaDex](https://mangadex.org/search?q=Unordinary) · [Tapas](https://tapas.io/search?q=Unordinary)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Unordinary) · [Tapas](https://tapas.io/search?q=Unordinary)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Unordinary+manga+volume+1&tag=manhwadaily-20)
 
@@ -131,7 +131,7 @@ Also by Carnby Kim and Youngchan Hwang, *Bastard* is a tight, 94-chapter psychol
 
 **Rating: 9.3/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Weak+Hero) · [MangaDex](https://mangadex.org/search?q=Weak+Hero) · [Tapas](https://tapas.io/search?q=Weak+Hero)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Weak+Hero) · [Tapas](https://tapas.io/search?q=Weak+Hero)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Weak+Hero+manga+volume+1&tag=manhwadaily-20)
 

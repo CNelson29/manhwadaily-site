@@ -6,7 +6,7 @@ category: "Action"
 tags: ["lookism", "underdog", "school-action", "weak-hero", "solo-leveling"]
 type: "rankings"
 image: "/images/posts/best-manhwas-like-lookism-underdog-stories-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## Why Manhwas Like Lookism Hit Different
@@ -71,7 +71,7 @@ Sung Jin-Woo starts as the weakest hunter in a world where gates to monster dung
 
 **Why it's great:** The power fantasy is earned through genuine struggle, and the emotional payoff of watching someone dismissed as worthless reclaim their strength is the same satisfaction Lookism delivers. A completed series with an anime adaptation.
 
-[Read Solo Leveling on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 8. SSS-Class Revival Hunter — Our Score: 8.9/10
 
@@ -79,7 +79,7 @@ Gongja Kim lives a mundane existence in the Tower, openly envying the powerful h
 
 **Why it's great:** The protagonist starts with genuine resentment and insecurity that feel psychologically real, not just narrative shorthand. The measurable, earned growth resonates strongly with Lookism readers.
 
-[Read SSS-Class Revival Hunter on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read SSS-Class Revival Hunter on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 9. Omniscient Reader's Viewpoint — Our Score: 9.2/10
 
@@ -87,7 +87,7 @@ Kim Dokja is an ordinary office worker whose only distinction is being the last 
 
 **Why it's great:** One of manhwa's best character journeys, with a protagonist whose underdog status comes from being overlooked rather than underpowered. The emotional stakes are enormous by the later chapters.
 
-[Read Omniscient Reader's Viewpoint on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read Omniscient Reader's Viewpoint on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 10. The Max Level Hero Strikes Back — Our Score: 8.3/10
 
@@ -95,11 +95,10 @@ Prince Davey is powerless in a kingdom that respects only strength. After being 
 
 **Why it's great:** The political maneuvering after the power-up is more engaging than the training arc, which keeps it from being a one-note power fantasy and gives it genuine staying power.
 
-[Read The Max Level Hero Strikes Back on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ## Sources Checked
 - [ChapterBrief: Manhwa Like Lookism (2026)](https://www.chapterbrief.net/blog/manhwa-like-lookism)
 - [CBR: Best Manhwa Recommendations](https://www.cbr.com/perfect-manhwa-recommendations)
 - [ChapterBrief: Best Manhwa Coming of Age](https://www.chapterbrief.net/blog/best-manhwa-coming-of-age)
 - [ChapterBrief: Manhwa Like Mercenary Enrollment](https://www.chapterbrief.net/blog/manhwa-like-mercenary-enrollment)
-- [MangaDex verified series pages](https://mangadex.org)

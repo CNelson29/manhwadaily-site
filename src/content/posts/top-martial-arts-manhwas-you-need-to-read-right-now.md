@@ -23,7 +23,7 @@ A direct sequel to the beloved original *The Breaker*, this series follows Shi-W
 
 **Rating: 9.5/10**
 
-**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=The+Breaker+New+Waves) · [MangaDex](https://mangadex.org/search?q=The+Breaker+New+Waves) · [Tapas](https://tapas.io/search?q=The+Breaker+New+Waves)
+**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=The+Breaker+New+Waves) · [Tapas](https://tapas.io/search?q=The+Breaker+New+Waves)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Breaker+New+Waves+manga+volume+1&tag=manhwadaily-20)
 
@@ -35,7 +35,7 @@ Cheon Yeo-Woon is a powerless bastard son in a cutthroat martial arts sect — u
 
 **Rating: 9.0/10**
 
-**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Nano+Machine) · [MangaDex](https://mangadex.org/search?q=Nano+Machine) · [Tapas](https://tapas.io/search?q=Nano+Machine)
+**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Nano+Machine) · [Tapas](https://tapas.io/search?q=Nano+Machine)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Nano+Machine+manga+volume+1&tag=manhwadaily-20)
 
@@ -47,7 +47,7 @@ After the Northern Heavenly Sect is destroyed and his father labeled a traitor, 
 
 **Rating: 9.2/10**
 
-**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Legend+of+the+Northern+Blade) · [MangaDex](https://mangadex.org/search?q=Legend+of+the+Northern+Blade) · [Tapas](https://tapas.io/search?q=Legend+of+the+Northern+Blade)
+**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Legend+of+the+Northern+Blade) · [Tapas](https://tapas.io/search?q=Legend+of+the+Northern+Blade)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Legend+of+the+Northern+Blade+manga+volume+1&tag=manhwadaily-20)
 
@@ -59,7 +59,7 @@ Jin Tae-Kyung is a low-ranked hunter who stumbles into a VR game set in a brutal
 
 **Rating: 8.8/10**
 
-**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Murim+Login) · [MangaDex](https://mangadex.org/search?q=Murim+Login) · [Tapas](https://tapas.io/search?q=Murim+Login)
+**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Murim+Login) · [Tapas](https://tapas.io/search?q=Murim+Login)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Murim+Login+manga+volume+1&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ The iconic Naver manhwa by Yongje Park that spawned an anime adaptation — 17-y
 
 **Rating: 8.7/10**
 
-**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=The+God+of+High+School) · [MangaDex](https://mangadex.org/search?q=The+God+of+High+School) · [Tapas](https://tapas.io/search?q=The+God+of+High+School)
+**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=The+God+of+High+School) · [Tapas](https://tapas.io/search?q=The+God+of+High+School)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+God+of+High+School+manga+volume+1&tag=manhwadaily-20)
 
@@ -83,7 +83,7 @@ Joo Seo-Cheon lived a full life as the Elder of the Murim Alliance and died with
 
 **Rating: 8.6/10**
 
-**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Volcanic+Age) · [MangaDex](https://mangadex.org/search?q=Volcanic+Age) · [Tapas](https://tapas.io/search?q=Volcanic+Age)
+**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Volcanic+Age) · [Tapas](https://tapas.io/search?q=Volcanic+Age)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Volcanic+Age+manga+volume+1&tag=manhwadaily-20)
 
@@ -95,7 +95,7 @@ Gang Ryong is a disciple of a legendary martial arts master, sent into the world
 
 **Rating: 8.9/10**
 
-**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Gosu) · [MangaDex](https://mangadex.org/search?q=Gosu) · [Tapas](https://tapas.io/search?q=Gosu)
+**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Gosu) · [Tapas](https://tapas.io/search?q=Gosu)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Gosu+manga+volume+1&tag=manhwadaily-20)
 
@@ -107,7 +107,7 @@ Yoo Seong-Min is a weak warrior who gains a level-up system that allows him to g
 
 **Rating: 8.3/10**
 
-**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Infinite+Level+Up+in+Murim) · [MangaDex](https://mangadex.org/search?q=Infinite+Level+Up+in+Murim) · [Tapas](https://tapas.io/search?q=Infinite+Level+Up+in+Murim)
+**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Infinite+Level+Up+in+Murim) · [Tapas](https://tapas.io/search?q=Infinite+Level+Up+in+Murim)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Infinite+Level+Up+in+Murim+manga+volume+1&tag=manhwadaily-20)
 
@@ -119,7 +119,7 @@ A dying elder of the Demonic Cult is reincarnated into the body of a young boy a
 
 **Rating: 8.5/10**
 
-**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Chronicles+of+the+Demon+Faction) · [MangaDex](https://mangadex.org/search?q=Chronicles+of+the+Demon+Faction) · [Tapas](https://tapas.io/search?q=Chronicles+of+the+Demon+Faction)
+**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Chronicles+of+the+Demon+Faction) · [Tapas](https://tapas.io/search?q=Chronicles+of+the+Demon+Faction)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Chronicles+of+the+Demon+Faction+manga+volume+1&tag=manhwadaily-20)
 
@@ -131,7 +131,7 @@ Chung Myung, the greatest swordsman of the Mount Hua Sect, is reincarnated 100 y
 
 **Rating: 9.1/10**
 
-**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Fist+Demon+of+Mount+Hua) · [MangaDex](https://mangadex.org/search?q=Fist+Demon+of+Mount+Hua) · [Tapas](https://tapas.io/search?q=Fist+Demon+of+Mount+Hua)
+**Where to read:**[Webtoon](https://www.webtoons.com/search?keyword=Fist+Demon+of+Mount+Hua) · [Tapas](https://tapas.io/search?q=Fist+Demon+of+Mount+Hua)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Fist+Demon+of+Mount+Hua+manga+volume+1&tag=manhwadaily-20)
 

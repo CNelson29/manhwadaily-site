@@ -68,7 +68,7 @@ Two brothers fall for the same woman, and the decades-long consequences of that 
 **Why it's great:** Proves that romance tragedy doesn't need supernatural elements to be utterly devastating.
 
 ## Final Thoughts
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Final+Thoughts) · [MangaDex](https://mangadex.org/search?q=Final+Thoughts) · [Tapas](https://tapas.io/search?q=Final+Thoughts)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Final+Thoughts) · [Tapas](https://tapas.io/search?q=Final+Thoughts)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Final+Thoughts+manga+volume+1&tag=manhwadaily-20)
 

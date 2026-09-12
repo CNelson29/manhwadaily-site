@@ -39,7 +39,7 @@ When Dokja's favorite web novel suddenly becomes reality, he's the only person a
 
 **Why it's great:** One of the few action manhwa that rewards close reading — layered with meta-narrative depth beneath every combat sequence. The thriller hooks are baked into the structure, not bolted on.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 4. Solo Leveling — 9.0/10
 
@@ -47,7 +47,7 @@ After the Gate connecting the human world to a monster realm tears open, ordinar
 
 **Why it's great:** The dungeon-horror atmosphere of the early arcs gives Solo Leveling genuine thriller credentials. The sense of dread in early gate sequences is hard to match anywhere in the genre.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 5. SSS-Class Revival Hunter — 8.7/10
 
@@ -55,7 +55,7 @@ In a mysterious Tower with RPG-like dungeon mechanics, Gongja Kim gains a legend
 
 **Why it's great:** The revenge framework gives the action genuine emotional stakes, and the Tower politics create a thriller layer that most dungeon-hunter series skip entirely.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 6. Second Life Ranker — 8.5/10
 
@@ -63,7 +63,7 @@ Yeonwoo discovers his twin brother's death was the result of a brutal betrayal i
 
 **Why it's great:** The mystery of how and why his brother was betrayed keeps thriller tension alive even through the most explosive action sequences. It earns every emotional beat.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 7. The Skeleton Soldier Failed to Defend the Dungeon — 8.2/10
 
@@ -71,7 +71,7 @@ A skeleton soldier sworn to protect his mistress fails catastrophically — and 
 
 **Why it's great:** The cumulative weight of repeated failure creates a genuinely oppressive atmosphere. It's a survival thriller at heart, wrapped in fantasy combat — and it commits fully to the darkness.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### 8. The Max Level Hero Strikes Back — 8.0/10
 
@@ -79,10 +79,9 @@ The powerless Prince Davey falls into a coma and his soul travels to a legendary
 
 **Why it's great:** The transformation arc works because the story takes time to build the political threat first. By the time he strikes back, every confrontation lands with weight.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ## Sources Checked
 - [ChapterBrief — Best Thriller Manhwa: 10 Series Ranked by Tension (2026)](https://www.chapterbrief.net/blog/best-thriller-manhwa)
 - [ChapterBrief — Best Manhwa to Read in 2026: 32 Series Worth Your Time](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
 - [CultivatorOnline — Top 20 Awesome Action Manhwa to Read in 2026](https://cultivatoronline.in/top-20-awesome-action-manhwa-to-read-in-2026)
-- [MangaDex — Series data and official pages](https://mangadex.org)

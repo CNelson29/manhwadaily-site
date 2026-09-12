@@ -33,37 +33,37 @@ Across 275 chapters split into two completed arcs — *The Breaker* and *New Wav
 
 Dokja Kim spent years reading an obscure apocalypse web novel — then the story becomes reality, and he is the only person who knows how it ends. Omniscient Reader's Viewpoint is the rare long-running manhwa where its meta-narrative layer deepens over time rather than becoming a gimmick. Character dynamics, world-building, and emotional beats compound across the series in ways that make the earliest chapters feel like a completely different story by the time you reach the later arcs. Our score: **9.1/10**.
 
-[Read Omniscient Reader's Viewpoint on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read Omniscient Reader's Viewpoint on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 4. The Skeleton Soldier Failed to Defend the Dungeon
 
 A skeleton servant slaughtered alongside his master gains the ability to rewind time upon death. What follows is one of the most emotionally surprising dark fantasy manhwas in the medium — each loop reveals new information about the world, and the sense of accumulation makes every added chapter feel earned rather than bloated. The tone stays consistently dark without relying on shock value. Running since 2018, it has maintained its mystery and quality unusually well for a long-form series. Our score: **8.6/10**.
 
-[Read The Skeleton Soldier on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### 5. SSS-Class Revival Hunter
 
 A Tower-climbing story that becomes far more layered once the protagonist's copy-and-rewind ability is fully explored. SSS-Class Revival Hunter earns its length by genuinely developing its primary antagonist alongside the hero — by the midpoint, the character on the other side of the conflict has become one of the more complex figures in the genre. Structured arc pacing and consistent art keep it from feeling bloated across its long run. Our score: **8.5/10**.
 
-[Read SSS-Class Revival Hunter on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read SSS-Class Revival Hunter on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 6. Solo Leveling
 
 The manhwa that introduced millions of Western readers to Korean webtoons. Sung Jinwoo starts as humanity's weakest hunter and ascends through a system that escalates its stakes at every arc — but what prevents Solo Leveling from feeling mechanical is the mounting dread underneath the power fantasy. The completed series holds up across its entire run, and the pacing never stalls even as the threat scale grows global. A long-run benchmark and essential entry point for the genre. Our score: **9.0/10**.
 
-[Read Solo Leveling on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 7. Second Life Ranker
 
 After learning his twin brother was betrayed and killed inside a secret game-like world, Yeonwoo enters the same system to find the truth. Second Life Ranker separates itself from similar revenge premises by integrating the brother's presence as an ongoing narrative element rather than a one-arc motivation. The dungeon and clan politics expand naturally across the series without losing the personal thread that drives it. Our score: **8.3/10**.
 
-[Read Second Life Ranker on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read Second Life Ranker on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 8. Who Made Me a Princess
 
 Among long-running villainess and isekai romance manhwas, Who Made Me a Princess stands apart for the emotional complexity it builds around its central father-daughter relationship. The protagonist knows the fictional emperor is eventually written to kill her — but the story earns every chapter by making their bond feel genuinely warm before the tension arrives. Running since 2018 and still ongoing, it maintains its tonal balance unusually well for a romance this long. Our score: **8.4/10**.
 
-[Read Who Made Me a Princess on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read Who Made Me a Princess on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ## Sources Checked
 

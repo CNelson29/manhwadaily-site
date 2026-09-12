@@ -6,7 +6,7 @@ category: "Thriller"
 tags: ["psychological thriller", "dark manhwa", "completed manhwa", "horror manhwa", "webtoon thriller"]
 type: "rankings"
 image: "/images/posts/10-psychological-thriller-manhwa-keep-you-up-all-night-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## Manhwa That Will Rewire Your Sense of Safety
@@ -35,7 +35,7 @@ Ten years after "the Gate" opened between worlds, Sung Jinwoo starts as the weak
 
 Our score: **8.2/10**
 
-[Read Solo Leveling on MangaDex →](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### #8 — Villains Are Destined to Die
 
@@ -45,7 +45,7 @@ Penelope Eckart has been reincarnated into a reverse-harem dating sim — at its
 
 Our score: **8.0/10**
 
-[Read Villains Are Destined to Die on MangaDex →](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read Villains Are Destined to Die on Tapas →](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### #7 — Second Life Ranker
 
@@ -55,7 +55,7 @@ Yeonwoo's brother disappeared years ago. When he discovers his brother was betra
 
 Our score: **8.1/10**
 
-[Read Second Life Ranker on MangaDex →](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read Second Life Ranker on Tapas →](https://tapas.io/series/second-life-ranker/info)
 
 ### #6 — The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -65,7 +65,7 @@ A skeleton soldier is killed protecting his master, Lady Succubus — then reset
 
 Our score: **8.3/10**
 
-[Read The Skeleton Soldier on MangaDex →](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### #5 — Omniscient Reader's Viewpoint
 
@@ -75,7 +75,7 @@ Dokja Kim was the sole reader of a webnovel called *Three Ways to Survive the Ap
 
 Our score: **9.0/10**
 
-[Read Omniscient Reader's Viewpoint on MangaDex →](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read Omniscient Reader's Viewpoint on WEBTOON →](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### #4 — SSS-Class Revival Hunter
 
@@ -85,7 +85,7 @@ Gongja Kim spent years in a tower-dungeon as an overlooked, envious hunter — u
 
 Our score: **8.6/10**
 
-[Read SSS-Class Revival Hunter on MangaDex →](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read SSS-Class Revival Hunter on Tapas →](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #3 — Sweet Home
 

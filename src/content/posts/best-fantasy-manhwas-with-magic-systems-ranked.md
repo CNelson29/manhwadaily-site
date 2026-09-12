@@ -21,7 +21,7 @@ The manhwa that put Korean webtoons on the global map, *Solo Leveling* follows S
 
 **Why it's great:** The progression system is immensely satisfying, and the shadow army mechanic is one of the most creative power concepts in fantasy manhwa history. Rating: **9.8/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Solo+Leveling) · [MangaDex](https://mangadex.org/search?q=Solo+Leveling) · [Tapas](https://tapas.io/search?q=Solo+Leveling)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Solo+Leveling) · [Tapas](https://tapas.io/search?q=Solo+Leveling)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -31,7 +31,7 @@ The manhwa that put Korean webtoons on the global map, *Solo Leveling* follows S
 
 **Why it's great:** The way narrative and magic intertwine is utterly unique — understanding story tropes IS the power system. Rating: **9.7/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Omniscient+Reader%27s+Viewpoint) · [MangaDex](https://mangadex.org/search?q=Omniscient+Reader%27s+Viewpoint) · [Tapas](https://tapas.io/search?q=Omniscient+Reader%27s+Viewpoint)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Omniscient+Reader%27s+Viewpoint) · [Tapas](https://tapas.io/search?q=Omniscient+Reader%27s+Viewpoint)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -41,7 +41,7 @@ A reincarnated king rebuilds his life in a magic-rich world with a beautifully s
 
 **Why it's great:** The layered magic hierarchy — from mana tempering to ascendance — gives readers constant milestones to celebrate. Rating: **9.4/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Beginning+After+the+End) · [MangaDex](https://mangadex.org/search?q=The+Beginning+After+the+End) · [Tapas](https://tapas.io/search?q=The+Beginning+After+the+End)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Beginning+After+the+End) · [Tapas](https://tapas.io/search?q=The+Beginning+After+the+End)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Beginning+After+the+End+manga+volume+1&tag=manhwadaily-20)
 
@@ -51,7 +51,7 @@ After surviving a 10-year nightmare labyrinth that wiped out most of humanity, m
 
 **Why it's great:** The spell-formula system rewards readers who pay attention, and watching Desir deconstruct enemy spells in real time is endlessly thrilling. Rating: **9.2/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=A+Returner%27s+Magic+Should+Be+Special) · [MangaDex](https://mangadex.org/search?q=A+Returner%27s+Magic+Should+Be+Special) · [Tapas](https://tapas.io/search?q=A+Returner%27s+Magic+Should+Be+Special)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=A+Returner%27s+Magic+Should+Be+Special) · [Tapas](https://tapas.io/search?q=A+Returner%27s+Magic+Should+Be+Special)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=A+Returner%27s+Magic+Should+Be+Special+manga+volume+1&tag=manhwadaily-20)
 
@@ -61,7 +61,7 @@ A game developer reincarnates into the game he helped create as a lowly NPC mech
 
 **Why it's great:** Combining sci-fi logic with fantasy magic produces some of the most creative combat sequences you will ever read. Rating: **8.9/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Legendary+Mechanic) · [MangaDex](https://mangadex.org/search?q=The+Legendary+Mechanic) · [Tapas](https://tapas.io/search?q=The+Legendary+Mechanic)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Legendary+Mechanic) · [Tapas](https://tapas.io/search?q=The+Legendary+Mechanic)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Legendary+Mechanic+manga+volume+1&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ A game developer reincarnates into the game he helped create as a lowly NPC mech
 
 **Why it's great:** No two characters fight alike because Shinsu manipulation is endlessly customizable, making every battle a puzzle to solve. Rating: **9.5/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Tower+of+God) · [MangaDex](https://mangadex.org/search?q=Tower+of+God) · [Tapas](https://tapas.io/search?q=Tower+of+God)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Tower+of+God) · [Tapas](https://tapas.io/search?q=Tower+of+God)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Tower+of+God+manga+volume+1&tag=manhwadaily-20)
 
@@ -81,7 +81,7 @@ A game developer reincarnates into the game he helped create as a lowly NPC mech
 
 **Why it's great:** The power-ranking system is crystal clear, so every upgrade genuinely feels earned and monumental. Rating: **8.8/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Eleceed) · [MangaDex](https://mangadex.org/search?q=Eleceed) · [Tapas](https://tapas.io/search?q=Eleceed)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Eleceed) · [Tapas](https://tapas.io/search?q=Eleceed)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Eleceed+manga+volume+1&tag=manhwadaily-20)
 
@@ -91,7 +91,7 @@ A descendant of the Demonic Cult receives a gift from the future — nanomachine
 
 **Why it's great:** Watching the nanomachine UI integrate with Qi flow produces some of the most creative fight strategizing in the genre. Rating: **8.7/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Nano+Machine) · [MangaDex](https://mangadex.org/search?q=Nano+Machine) · [Tapas](https://tapas.io/search?q=Nano+Machine)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Nano+Machine) · [Tapas](https://tapas.io/search?q=Nano+Machine)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Nano+Machine+manga+volume+1&tag=manhwadaily-20)
 
@@ -101,7 +101,7 @@ A legendary warrior reincarnated as the son of a noble scholar must now navigate
 
 **Why it's great:** The blend of intellectual refinement and brutal martial arts within one character creates constant, satisfying internal tension. Rating: **8.5/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Scholar%27s+Reincarnation) · [MangaDex](https://mangadex.org/search?q=The+Scholar%27s+Reincarnation) · [Tapas](https://tapas.io/search?q=The+Scholar%27s+Reincarnation)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Scholar%27s+Reincarnation) · [Tapas](https://tapas.io/search?q=The+Scholar%27s+Reincarnation)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Scholar%27s+Reincarnation+manga+volume+1&tag=manhwadaily-20)
 
@@ -111,7 +111,7 @@ A legendary warrior reincarnated as the son of a noble scholar must now navigate
 
 **Why it's great:** The stolen-ability mechanic forces the author to think creatively about limits, resulting in wildly inventive fight scenes. Rating: **8.3/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Ability+Theft) · [MangaDex](https://mangadex.org/search?q=Ability+Theft) · [Tapas](https://tapas.io/search?q=Ability+Theft)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Ability+Theft) · [Tapas](https://tapas.io/search?q=Ability+Theft)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Ability+Theft+manga+volume+1&tag=manhwadaily-20)
 

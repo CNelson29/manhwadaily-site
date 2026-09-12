@@ -19,7 +19,7 @@ We've ranked 10 series that genuinely deliver on the weak-to-unstoppable promise
 
 ### #1 — Solo Leveling
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 Sung Jin-Woo starts as the weakest hunter alive — so powerless his party uses him as bait. Then a double dungeon trap triggers a mysterious System, and everything changes. Solo Leveling is the defining manhwa of this genre: its power progression is meticulous, its action art is some of the most cinematic in Korean webtoons, and the payoff when Jin-Woo finally lets loose is genuinely cathartic.
 
@@ -29,7 +29,7 @@ Sung Jin-Woo starts as the weakest hunter alive — so powerless his party uses 
 
 ### #2 — Omniscient Reader's Viewpoint
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 Kim Dokja is an ordinary office worker — no combat skills, no special powers — whose only advantage is that he's read a web novel that just became reality. He has to use narrative knowledge to survive an apocalypse he's only ever seen on paper. ORV earns its place near the top because the MC's growth from vulnerable bystander to something far greater feels completely earned, and the world-building is extraordinary.
 
@@ -39,7 +39,7 @@ Kim Dokja is an ordinary office worker — no combat skills, no special powers �
 
 ### #3 — SSS-Class Revival Hunter
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 Gongja Kim is a nobody in the Tower — the kind of hunter everyone ignores. His power? Copying the last skill used on him before he dies. The catch: he has to die first. When the world's strongest hunter kills him, a reversal sends him back in time carrying skills no one else possesses. The climb from dead-last to unstoppable is deliciously methodical and satisfying.
 
@@ -49,7 +49,7 @@ Gongja Kim is a nobody in the Tower — the kind of hunter everyone ignores. His
 
 ### #4 — Second Life Ranker
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 Yeonwoo enters the deadly Tower with one goal: avenge his brother, who was betrayed and killed by his own teammates. He starts from zero — no knowledge of the Tower, no power — but his brother's hidden pocket watch holds the road map his sibling left behind. The combination of dungeon-crawling action and emotional revenge stakes keeps the tension high throughout.
 
@@ -59,7 +59,7 @@ Yeonwoo enters the deadly Tower with one goal: avenge his brother, who was betra
 
 ### #5 — The Skeleton Soldier Failed to Defend the Dungeon
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 A meager skeleton soldier exists only to protect Lady Succubus. When they're both brutally murdered, the skeleton resets — but retains its memories. It loops through death and rebirth, slowly growing stronger each cycle. The fail-forward mechanic sounds bleak on paper, but the execution is surprisingly gripping, and the gradual accumulation of power through repeated failure is one of the most unique takes on the genre.
 
@@ -79,7 +79,7 @@ Gray Yeon looks like easy prey — scrawny, quiet, the new transfer student in a
 
 ### #7 — A Returner's Magic Should Be Special
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 Desir Arman is one of six survivors of humanity's greatest catastrophe, the Shadow Labyrinth. Given a chance to return to the past, he enrolls in a magic academy with foreknowledge of every coming disaster — and a drive to save the people he lost. A Returner's Magic blends the satisfying structure of a magic-school story with the strategic weight of a second-chance narrative.
 
@@ -89,7 +89,7 @@ Desir Arman is one of six survivors of humanity's greatest catastrophe, the Shad
 
 ### #8 — The Max Level Hero Strikes Back
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 Prince Davey O'Rowane is powerless — so powerless his own kingdom barely respects him. Struck by an enemy's arrow and left in a coma, his soul travels to a realm where the greatest heroes gather and trains him across what feels like a thousand years. He awakens with max-level skills and absolutely no patience for anyone who ever underestimated him.
 

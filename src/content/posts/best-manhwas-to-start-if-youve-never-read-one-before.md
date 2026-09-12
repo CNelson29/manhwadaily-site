@@ -23,7 +23,7 @@ The manhwa that turned millions of casual readers into lifelong fans overnight. 
 
 **Why it's perfect for beginners:** Crystal-clear premise, an immediate hook, and an underdog story that is universally satisfying. The 2024 anime already has you curious — start here and read the manhwa first, it goes so much further.
 
-📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Solo%20Leveling) | [MangaDex](https://mangadex.org/search?q=Solo+Leveling)📚 Light Novel: [Buy on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel+volume+1&tag=manhwadaily-20)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa+volume+1&tag=manhwadaily-20)
+📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Solo%20Leveling)📚 Light Novel: [Buy on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel+volume+1&tag=manhwadaily-20)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa+volume+1&tag=manhwadaily-20)
 
 ### #2 — Omniscient Reader's Viewpoint ⭐ 9.4/10
 
@@ -33,7 +33,7 @@ Kim Dokja is the only person who has read all 3,000 chapters of a web novel call
 
 **Why it's perfect for beginners:** If you have ever loved a book or series so much you wished you could live inside it, this is your manhwa. The emotional investment ramps up fast and never lets go.
 
-📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient%20Reader) | [MangaDex](https://mangadex.org/search?q=Omniscient+Reader)📚 Light Novel: [Buy on Amazon](https://www.amazon.com/s?k=Omniscient+Readers+Viewpoint+novel&tag=manhwadaily-20)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Omniscient+Reader+manhwa+volume+1&tag=manhwadaily-20)
+📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient%20Reader)📚 Light Novel: [Buy on Amazon](https://www.amazon.com/s?k=Omniscient+Readers+Viewpoint+novel&tag=manhwadaily-20)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Omniscient+Reader+manhwa+volume+1&tag=manhwadaily-20)
 
 ### #3 — Tower of God ⭐ 9.2/10
 
@@ -43,7 +43,7 @@ A boy named Twenty-Fifth Bam climbs an infinite mysterious tower to find his onl
 
 **Why it's perfect for beginners:** The central mystery of what lies at the top of the tower pulls you forward relentlessly. Every floor introduces fresh rules and stunning new characters that expand the world in ways you never see coming.
 
-📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Tower%20Of%20God) | [MangaDex](https://mangadex.org/search?q=Tower+of+God)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Tower+of+God+manhwa+volume+1&tag=manhwadaily-20)
+📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Tower%20Of%20God)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Tower+of+God+manhwa+volume+1&tag=manhwadaily-20)
 
 ### #4 — Sweet Home ⭐ 9.0/10
 
@@ -53,7 +53,7 @@ Cha Hyun-soo moves into a rundown apartment building just as a monster apocalyps
 
 **Why it's perfect for beginners:** Even non-horror fans get completely hooked by the emotional core. Hyun-soo's fight against his own monstrous transformation is one of the most compelling internal struggles in all of manhwa.
 
-📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Sweet%20Home) | [MangaDex](https://mangadex.org/search?q=Sweet+Home+manhwa)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Sweet+Home+manhwa+volume+1&tag=manhwadaily-20)
+📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Sweet%20Home)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Sweet+Home+manhwa+volume+1&tag=manhwadaily-20)
 
 ### #5 — A Business Proposal ⭐ 8.9/10
 
@@ -63,7 +63,7 @@ Ha-ri agrees to go on a blind date in place of her rich friend to scare off the 
 
 **Why it's perfect for beginners:** Shorter and more focused than most manhwa, it is the ideal weekend read that leaves you grinning. The massively popular K-drama adaptation is proof this story works for absolutely everyone.
 
-📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=A+Business+Proposal) | [MangaDex](https://mangadex.org/search?q=A+Business+Proposal) | [Tapas](https://tapas.io/search?q=Business+Proposal)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=A+Business+Proposal+manhwa&tag=manhwadaily-20)
+📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=A+Business+Proposal) | [Tapas](https://tapas.io/search?q=Business+Proposal)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=A+Business+Proposal+manhwa&tag=manhwadaily-20)
 
 ### #6 — True Beauty ⭐ 8.8/10
 
@@ -73,7 +73,7 @@ Lim Jugyeong learns to use makeup to hide her insecurities and becomes the most 
 
 **Why it's perfect for beginners:** It is genuinely funny, the art is gorgeous, and the characters feel like real people navigating real pressures. Perfect for romance readers making their very first manhwa jump.
 
-📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Truebeauty) | [MangaDex](https://mangadex.org/search?q=True+Beauty+manhwa) | [Tapas](https://tapas.io/search?q=True+Beauty)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=True+Beauty+manhwa+volume+1&tag=manhwadaily-20)
+📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Truebeauty) | [Tapas](https://tapas.io/search?q=True+Beauty)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=True+Beauty+manhwa+volume+1&tag=manhwadaily-20)
 
 ### #7 — Itaewon Class ⭐ 8.7/10
 
@@ -83,7 +83,7 @@ Park Saeroyi gets out of prison after 15 years with one goal: destroy the food e
 
 **Why it's perfect for beginners:** No superpowers, no fantasy — just an incredibly gripping human story. If you want proof that manhwa can rival the best prestige TV dramas in sheer emotional weight, start here.
 
-📖 Read on: [MangaDex](https://mangadex.org/search?q=Itaewon+Class) | [Tapas](https://tapas.io/search?q=Itaewon+Class)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Itaewon+Class+manhwa&tag=manhwadaily-20)
+📖 Read on: [Tapas](https://tapas.io/search?q=Itaewon+Class)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Itaewon+Class+manhwa&tag=manhwadaily-20)
 
 ### #8 — The God of High School ⭐ 8.7/10
 
@@ -93,7 +93,7 @@ Jin Mori enters the God of High School tournament — the biggest martial arts c
 
 **Why it's perfect for beginners:** Zero exposition dumps — you get straight into spectacular action from the very first page. If you love Dragon Ball Z or Naruto, this is your manhwa entry point, full stop.
 
-📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=The%20God%20Of%20High%20School) | [MangaDex](https://mangadex.org/search?q=God+of+High+School)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=God+of+High+School+manhwa&tag=manhwadaily-20)
+📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=The%20God%20Of%20High%20School)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=God+of+High+School+manhwa&tag=manhwadaily-20)
 
 ### #9 — Noblesse ⭐ 8.6/10
 
@@ -103,7 +103,7 @@ Cadis Etrama Di Raizel — Rai — wakes after 820 years of slumber and enrolls 
 
 **Why it's perfect for beginners:** The humor is accessible and genuinely funny from chapter one, giving you a low-pressure entry into a sprawling universe. By the time the serious arcs hit, you are already completely invested in every character.
 
-📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Noblesse) | [MangaDex](https://mangadex.org/search?q=Noblesse+manhwa)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Noblesse+manhwa+volume+1&tag=manhwadaily-20)
+📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Noblesse)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=Noblesse+manhwa+volume+1&tag=manhwadaily-20)
 
 ### #10 — UnOrdinary ⭐ 8.4/10
 
@@ -113,10 +113,10 @@ In a world where nearly everyone has a superpower, John is the supposedly powerl
 
 **Why it's perfect for beginners:** The premise hooks you in minutes, and the twist on superhero tropes feels genuinely fresh. The moral complexity makes this far more thought-provoking than its school setting suggests, and the slow-burn reveals are incredibly rewarding.
 
-📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Unordinary) | [MangaDex](https://mangadex.org/search?q=UnOrdinary)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=UnOrdinary+manhwa+volume+1&tag=manhwadaily-20)
+📖 Read on: [Webtoon](https://www.webtoons.com/en/search?keyword=Unordinary)🛒 Manhwa Vol 1: [Buy on Amazon](https://www.amazon.com/s?k=UnOrdinary+manhwa+volume+1&tag=manhwadaily-20)
 
 ## How to Start Reading Manhwa Right Now
 
-Most manhwa on this list are free to read on [Webtoon](https://www.webtoons.com) using a daily pass system for older chapters, or completely free on [MangaDex](https://mangadex.org). Download the Webtoon app on your phone for the optimal vertical-scroll reading experience — that is what manhwa was specifically designed for. If you fall in love with a series, buying physical volumes on Amazon is the best way to support the creators and own something beautiful.
+Most manhwa on this list are free to read on [Webtoon](https://www.webtoons.com) using a daily pass system for older chapters, or completely free on . Download the Webtoon app on your phone for the optimal vertical-scroll reading experience — that is what manhwa was specifically designed for. If you fall in love with a series, buying physical volumes on Amazon is the best way to support the creators and own something beautiful.
 
 Start with whichever genre excites you most right now. Action reader? Solo Leveling is waiting. Romance fan? A Business Proposal will make your weekend. Horror buff? Sweet Home is ready to keep you up at night. Welcome to manhwa — you will not regret a single chapter.

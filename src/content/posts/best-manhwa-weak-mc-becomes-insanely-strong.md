@@ -6,7 +6,7 @@ category: "Action"
 tags: ["weak to strong", "overpowered MC", "action manhwa", "system manhwa", "power fantasy"]
 type: "rankings"
 image: "/images/posts/best-manhwa-weak-mc-becomes-insanely-strong-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## The Best Weak-to-Strong Manhwas Worth Your Time
@@ -23,7 +23,7 @@ The artwork elevates the already-strong source material, and the action sequence
 
 **Why it's great:** Every power jump feels earned, not handed. The System mechanic is perfectly calibrated for maximum satisfaction with minimal arbitrariness.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Print edition on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20)
+[Print edition on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20)
 
 ## 2. Omniscient Reader's Viewpoint — Knowledge as Power (9.5/10)
 
@@ -33,7 +33,7 @@ The series blends meta-fiction cleverness with extraordinary action. Dokja's tra
 
 **Why it's great:** Knowledge as an advantage is explored more intelligently here than almost anywhere else in the genre. The writing trusts its readers to keep up.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ## 3. SSS-Class Revival Hunter — Die, Copy, Dominate (9/10)
 
@@ -43,7 +43,7 @@ The result is a brilliantly structured revenge and growth story. Each revival te
 
 **Why it's great:** The "copy by dying" mechanic creates genuine stakes even as the MC grows stronger. The antagonist dynamic is unusually well-developed.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ## 4. The Beginning After the End — A King Rebuilt from Zero (9/10)
 
@@ -63,7 +63,7 @@ The Tower mechanics are detailed without becoming overwhelming, and the revenge 
 
 **Why it's great:** The brotherly motivation gives the power progression an emotional anchor that pure power-fantasy series often lack.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ## 6. A Returner's Magic Should Be Special — The Informed Underdog (8.5/10)
 
@@ -73,7 +73,7 @@ Less pure power fantasy than some entries here, the weak-to-strong journey is me
 
 **Why it's great:** The tactical use of future knowledge makes every training chapter feel consequential rather than filler. Strategy fans will love it.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ## 7. The Skeleton Soldier Failed to Defend the Dungeon — Loop and Grow (8/10)
 
@@ -83,7 +83,7 @@ The Skeleton's growth from barely functional undead to something genuinely terri
 
 **Why it's great:** The emotional dimension of a weak monster fighting to become worthy of protecting someone elevates this well beyond typical power fantasy.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ## 8. The Max Level Hero Strikes Back — Asleep, but Training (8/10)
 
@@ -93,7 +93,7 @@ The gap between how others still perceive Davey and what he is actually capable 
 
 **Why it's great:** The underestimation angle is played for maximum dramatic effect. The contrast between Davey's reputation and his reality never gets old.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ## Sources Checked
 - [Best Manhwa with OP MC: 10 Must-Read Series in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)

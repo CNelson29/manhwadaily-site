@@ -65,7 +65,7 @@ The revenge setup is satisfying, but the quieter beats — Davey wanting nothing
 
 **Our score: 8.2/10**
 
-[Read on MangaDex →](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### 5. SSS-Class Revival Hunter
 
@@ -77,7 +77,7 @@ The psychological weight of dying repeatedly and rebuilding from zero gives SSS-
 
 **Our score: 8.6/10**
 
-[Read on MangaDex →](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas →](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 6. Second Life Ranker
 
@@ -89,7 +89,7 @@ Multiple sources flag this as the pick for moral complexity alongside OP progres
 
 **Our score: 8.3/10**
 
-[Read on MangaDex →](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas →](https://tapas.io/series/second-life-ranker/info)
 
 ### 7. A Returner's Magic Should Be Special
 
@@ -101,7 +101,7 @@ Completed and tightly plotted, this is one of the more reliable picks for reader
 
 **Our score: 8.1/10**
 
-[Read on MangaDex →](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 8. Omniscient Reader's Viewpoint
 
@@ -113,7 +113,7 @@ Award-winning and deservedly so, ORV builds an emotional core that most action m
 
 **Our score: 9.2/10**
 
-[Read on MangaDex →](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON →](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 9. Solo Leveling
 
@@ -125,7 +125,7 @@ Completed and bingeable in a weekend. ChapterBrief ranks it first among OP MC ma
 
 **Our score: 9.4/10**
 
-[Read on MangaDex →](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ## Sources Checked
 - [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)

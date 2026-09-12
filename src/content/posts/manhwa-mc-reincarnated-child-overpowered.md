@@ -23,7 +23,7 @@ A woman reincarnates inside a tragic romance novel as the doomed princess Athana
 
 **Why it stands out:** Athanasia's "overpowered" status is pure foreknowledge — she knows who the villains are, what moves they will make, and exactly how fragile her position actually is despite that advantage. The gap between what she knows and what she can control creates real tension on nearly every page.
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
 
 ### #2 — A Returner's Magic Should Be Special — Our Score: 9.0/10
 
@@ -31,7 +31,7 @@ Desir Arman is one of the six final survivors of a catastrophic world-ending lab
 
 **Why it stands out:** The magic system is genuinely inventive, the political tension is layered, and Desir's power gap over his peers feels earned rather than arbitrary — because the opening chapters showed us exactly where that power came from and what it cost.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #3 — The Max Level Hero Strikes Back — Our Score: 8.8/10
 
@@ -39,7 +39,7 @@ Prince Davey is powerless in a world where only strength matters — an easy tar
 
 **Why it stands out:** The Hall of Heroes concept is a brilliant shortcut to the child-OP dynamic — Davey contains millennia of accumulated mastery inside a young prince's frame, and watching him choose when to reveal that gap is one of the genre's most satisfying slow burns.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### #4 — I Shall Master This Family — Our Score: 8.7/10
 
@@ -47,7 +47,7 @@ Firentia is born as the illegitimate granddaughter of the great Lombardi patriar
 
 **Why it stands out:** Firentia's power is entirely cerebral — she dismantles adult schemes using foreknowledge and preparation rather than magic or combat stats. Watching a child out-think every adult in the room, armed only with knowledge of the future, is rare and deeply rewarding.
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### #5 — The Villainess Turns the Hourglass — Our Score: 8.6/10
 
@@ -55,7 +55,7 @@ Aria lived as a noble's pampered daughter until her stepsister Mielle engineered
 
 **Why it stands out:** Aria's advantage is the rarest kind: the complete rulebook of her opponent's moves before they are even conceived. The cat-and-mouse dynamic between two intelligent women who both eventually realize what is happening is one of manhwa's most gripping rivalries.
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Villainess+Turns+the+Hourglass)
+ · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Villainess+Turns+the+Hourglass)
 
 ### #6 — The Monstrous Duke's Adopted Daughter — Our Score: 8.4/10
 
@@ -63,7 +63,7 @@ Leslie has spent her life as the invisible youngest daughter of the Sperado nobl
 
 **Why it stands out:** The power fantasy here is emotional rather than combat-driven — watching a child stop shrinking herself and start building something is a quieter kind of overpowered that balances the more action-heavy entries on this list beautifully.
 
-[Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ### #7 — SSS-Class Revival Hunter — Our Score: 8.3/10
 
@@ -71,7 +71,7 @@ Gongja Kim is a mediocre Tower hunter who gains one extraordinary passive: copy 
 
 **Why it stands out:** The "die young, grow stronger, repeat" loop turns every defeat into measurable progress toward an inevitable ceiling-shattering result. The concept is smart, the power escalation is relentless, and the sense of forward momentum never lets up.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #8 — The Skeleton Soldier Failed to Defend the Dungeon — Our Score: 8.2/10
 
@@ -79,7 +79,7 @@ A fiercely loyal skeleton soldier watches helplessly as his master, Lady Succubu
 
 **Why it stands out:** The skeleton's perpetual reset is the child-reincarnation loop in its purest mechanical form — returning to powerlessness again and again while quietly accumulating toward unstoppable. One of the most emotionally resonant progression fantasies in the genre.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### #9 — Villains Are Destined to Die — Our Score: 8.0/10
 
@@ -87,7 +87,7 @@ Penelope Eckart reincarnates into a reverse-harem dating sim as the adopted daug
 
 **Why it stands out:** Penelope's "overpowered" status is purely informational — she knows the rules of a world no one else knows is a game. The constant friction between perfect knowledge and dangerously limited agency makes this one of the sharpest entries in the villainess-reincarnation subgenre.
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
 
 ### #10 — Beware the Villainess! — Our Score: 7.8/10
 
@@ -95,10 +95,9 @@ After an accident, a woman wakes up inside a romance novel as the story's villai
 
 **Why it stands out:** The comedic edge and pointed meta-commentary on romance novel tropes make it stand apart from more serious entries — the protagonist is "overpowered" precisely because she refuses to play by rules she knows are rigged against her from the start. An ideal entry point for newcomers to the isekai-villainess space.
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ## Sources Checked
 - [Game Rant — Best Isekai Manhwa With OP MC Reincarnated As A Child, Ranked](https://gamerant.com/best-isekai-manhwa-with-op-mc-reincarnated-child)
 - [Noleep — Manhwa Where MC is Reincarnated as a Child and Overpowered](https://noleep.com/en/manhwa-where-mc-is-reincarnated-as-a-child-and-overpowered/)
 - [MyAnimeList — Action Manhwa Where the MC Returns or Gets Reincarnated as a Child](https://myanimelist.net/stacks/36612)
-- [MangaDex — Verified title pages and series metadata](https://mangadex.org)

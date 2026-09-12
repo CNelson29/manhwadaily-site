@@ -45,7 +45,7 @@ After Aria's mother marries into nobility, she lives lavishly — until her sche
 
 **Why it's great:** One of the finest protagonist evolution arcs in the villainess subgenre. The slow-burn romance is worth every chapter of patience, and completed status makes this an ideal binge read.
 
-[Read on MangaDex →](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### 4. This Villainess Wants a Divorce!
 
@@ -55,7 +55,7 @@ Canaria wakes up reincarnated as the villain of a novel — and the villain's fa
 
 **Why it's great:** The male lead has genuine depth — powerful and privileged, but never just a set piece. His evolution alongside Canaria is what separates this from the average villainess escape story.
 
-[Read on MangaDex →](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### 5. His Devilish New Hire
 

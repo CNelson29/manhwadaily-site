@@ -6,7 +6,7 @@ category: "Action"
 tags: ["murim", "martial arts", "nano machine", "action manhwa", "overpowered mc"]
 type: "rankings"
 image: "/images/posts/best-manhwa-like-nano-machine-murim-picks-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## Why Nano Machine Still Has No Real Competition — But These Come Close
@@ -99,7 +99,7 @@ Jinwoo Sung is rated the weakest hunter in a world where hunters fight monsters 
 
 **Why Nano Machine fans love it:** Solo Leveling defined the overpowered-MC manhwa genre, and Nano Machine owes part of its DNA to the same tradition. If you have not read it yet, fix that before anything else on this list.
 
-**Our score: 9.5/10**  |  [Read on MangaDex →](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+**Our score: 9.5/10**  |  
 
 ### #9 — SSS-Class Revival Hunter
 
@@ -107,7 +107,7 @@ Gongja Kim is an unremarkable hunter in the Tower until a legendary skill lands 
 
 **Why Nano Machine fans love it:** Both heroes cheat the progression ceiling in ways the world around them cannot predict. The revenge structure arrives late but hits hard, and each new skill acquisition is a story beat rather than just a stat boost.
 
-**Our score: 9.0/10**  |  [Read on MangaDex →](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+**Our score: 9.0/10**  |  [Read on Tapas →](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #10 — Second Life Ranker
 
@@ -115,7 +115,7 @@ Yeonwoo receives a pocket watch containing his dead twin brother's diary — a r
 
 **Why Nano Machine fans love it:** Foreknowledge as a cheat plus a revenge target that keeps receding just out of reach — that is the same engine that drove Nano Machine's early arcs. The lore deepens into genuine mythology as the series progresses.
 
-**Our score: 8.7/10**  |  [Read on MangaDex →](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+**Our score: 8.7/10**  |  [Read on Tapas →](https://tapas.io/series/second-life-ranker/info)
 
 ## Sources Checked
 

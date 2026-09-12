@@ -23,7 +23,7 @@ A modern woman wakes up as Melissa, the villain of a romance novel — and she i
 
 **Why it's great:** The definitive comedy romance manhwa for anyone who has ever rolled their eyes at generic romance plots. The protagonist's dry commentary on toxic love interests is genuinely hilarious, and the story has real heart underneath all the sarcasm. Completed — binge it in one go.
 
-[Read Beware the Villainess! on MangaDex →](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read Beware the Villainess! on Tapas →](https://tapas.io/series/beware-the-villainess/info)
 
 ### #2. A Business Proposal — Our Score: 9.1/10
 
@@ -39,7 +39,7 @@ Reincarnated as the princess destined to die at the hands of her own cold-hearte
 
 **Why it's great:** The father-daughter dynamic is both comedically endearing and emotionally resonant. Watching her careful schemes backfire in the most heartwarming ways never stops being entertaining, and the art is absolutely gorgeous throughout.
 
-[Read Who Made Me a Princess on MangaDex →](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read Who Made Me a Princess on WEBTOON →](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ### #4. This Villainess Wants a Divorce! — Our Score: 8.8/10
 
@@ -47,7 +47,7 @@ Reincarnated as Canaria, the villain of a cliché romance novel, the protagonist
 
 **Why it's great:** The protagonist's single-minded obsession with getting out, contrasted with a husband who simply will not cooperate, creates a push-pull dynamic that is endlessly entertaining for comedy romance fans.
 
-[Read This Villainess Wants a Divorce! on MangaDex →](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #5. My Roommate is a Gumiho — Our Score: 8.7/10
 
@@ -63,7 +63,7 @@ Penelope is reincarnated as the despised adopted daughter in a reverse harem dat
 
 **Why it's great:** It layers genuine tension beneath the comedy in a way most villainess manhwas skip entirely. The gap between Penelope's inner panic and her outwardly composed demeanor drives some of the story's best and most memorable laughs.
 
-[Read Villains Are Destined to Die on MangaDex →](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read Villains Are Destined to Die on Tapas →](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### #7. I Shall Master This Family — Our Score: 8.3/10
 
@@ -71,7 +71,7 @@ Firentia, the illegitimate granddaughter of the once-great Lombardi family, watc
 
 **Why it's great:** The humor is dry and deeply satisfying rather than slapstick — sharp comebacks, perfect dramatic irony, and the pleasure of watching someone who already knows all the answers play the game better than everyone around them.
 
-[Read I Shall Master This Family on MangaDex →](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read I Shall Master This Family on Tapas →](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### #8. The Villainess Turns the Hourglass — Our Score: 8.1/10
 
@@ -79,7 +79,7 @@ Aria rises from humble origins to nobility through her mother's marriage to a Co
 
 **Why it's great:** The revenge-comedy angle is deeply satisfying. Watching Aria smile serenely while engineering her enemies' downfall is both funny and cathartic — a slower burn than others on this list, but the dramatic irony delivers consistently throughout.
 
-[Read The Villainess Turns the Hourglass on MangaDex →](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ## Sources Checked
 

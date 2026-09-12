@@ -6,7 +6,7 @@ category: "Isekai"
 tags: ["villain", "reincarnation", "isekai", "villainess", "romance"]
 type: "rankings"
 image: "/images/posts/best-manhwa-mc-reborn-as-villain-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## Trapped in a Story You Never Wrote
@@ -27,7 +27,7 @@ Penelope Eckart wakes up as the adopted villainess of a reverse harem dating sim
 
 **Our rating: 9.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### #2 — The Villainess Turns the Hourglass
 
@@ -37,7 +37,7 @@ After her mother's marriage into nobility, Aria lives lavishly — until her ste
 
 **Our rating: 9.2/10**
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### #3 — Beware the Villainess!
 
@@ -47,7 +47,7 @@ After an accident, a modern woman wakes up as Melissa Foddebrat — the villaine
 
 **Our rating: 9.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### #4 — Who Made Me a Princess
 
@@ -57,7 +57,7 @@ A woman wakes up as Athanasia, a princess from a novel she once read — one who
 
 **Our rating: 9.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ### #5 — This Villainess Wants a Divorce!
 
@@ -67,7 +67,7 @@ Reincarnated as Canaria, the villain of a popular cliché novel who is destined 
 
 **Our rating: 8.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #6 — The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -77,7 +77,7 @@ A skeleton soldier whose sole purpose was protecting his mistress, Lady Succubus
 
 **Our rating: 8.7/10**
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### #7 — I Shall Master This Family
 
@@ -87,7 +87,7 @@ Firentia, born to a Lombardi noble and a peasant, watches the once-great Lombard
 
 **Our rating: 8.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### #8 — The Fantasie of a Stepmother
 
@@ -97,7 +97,7 @@ Dubbed the "Iron Widow" after her husband's death, Shuri is left managing his va
 
 **Our rating: 8.3/10**
 
-[Read on MangaDex](https://mangadex.org/title/73886188-f459-4b80-8781-66a60520b420)
+[Read on Tapas](https://tapas.io/series/the-fantasie-of-a-stepmother/info)
 
 ### #9 — The Monstrous Duke's Adopted Daughter
 
@@ -107,7 +107,7 @@ Leslie's life in the Sperado noble family was always spent serving her sister El
 
 **Our rating: 8.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ## Sources Checked
 - [Best Villainess Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-villainess-manhwa-2026)

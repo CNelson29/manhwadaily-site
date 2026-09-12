@@ -23,7 +23,7 @@ Kim Dokja is the sole reader of a web novel called *Three Ways to Survive the Ap
 
 **Rating: 9.8/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Omniscient+Reader%27s+Viewpoint) · [MangaDex](https://mangadex.org/search?q=Omniscient+Reader%27s+Viewpoint) · [Tapas](https://tapas.io/search?q=Omniscient+Reader%27s+Viewpoint)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Omniscient+Reader%27s+Viewpoint) · [Tapas](https://tapas.io/search?q=Omniscient+Reader%27s+Viewpoint)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -35,7 +35,7 @@ Sung Jinwoo starts as the weakest hunter in a world where humans fight monsters 
 
 **Rating: 9.5/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Solo+Leveling) · [MangaDex](https://mangadex.org/search?q=Solo+Leveling) · [Tapas](https://tapas.io/search?q=Solo+Leveling)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Solo+Leveling) · [Tapas](https://tapas.io/search?q=Solo+Leveling)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -47,7 +47,7 @@ King Grey, the most powerful mage-warrior of his world, is reborn as Arthur Leyw
 
 **Rating: 9.2/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Beginning+After+the+End) · [MangaDex](https://mangadex.org/search?q=The+Beginning+After+the+End) · [Tapas](https://tapas.io/search?q=The+Beginning+After+the+End)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Beginning+After+the+End) · [Tapas](https://tapas.io/search?q=The+Beginning+After+the+End)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Beginning+After+the+End+manga+volume+1&tag=manhwadaily-20)
 
@@ -59,7 +59,7 @@ A non-combatant named Kang Hyeok finds himself in an apocalyptic world alongside
 
 **Rating: 8.9/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Regressor+Instruction+Manual) · [MangaDex](https://mangadex.org/search?q=Regressor+Instruction+Manual) · [Tapas](https://tapas.io/search?q=Regressor+Instruction+Manual)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Regressor+Instruction+Manual) · [Tapas](https://tapas.io/search?q=Regressor+Instruction+Manual)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Regressor+Instruction+Manual+manga+volume+1&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ Yeon-woo discovers his twin brother died inside a brutal tower called the Obelis
 
 **Rating: 8.7/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Second+Life+Ranker) · [MangaDex](https://mangadex.org/search?q=Second+Life+Ranker) · [Tapas](https://tapas.io/search?q=Second+Life+Ranker)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Second+Life+Ranker) · [Tapas](https://tapas.io/search?q=Second+Life+Ranker)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Second+Life+Ranker+manga+volume+1&tag=manhwadaily-20)
 
@@ -83,7 +83,7 @@ Geon Lee, the strongest hero of his generation, is betrayed and abandoned by his
 
 **Rating: 8.5/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Return+of+the+Disaster-Class+Hero) · [MangaDex](https://mangadex.org/search?q=The+Return+of+the+Disaster-Class+Hero) · [Tapas](https://tapas.io/search?q=The+Return+of+the+Disaster-Class+Hero)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Return+of+the+Disaster-Class+Hero) · [Tapas](https://tapas.io/search?q=The+Return+of+the+Disaster-Class+Hero)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Return+of+the+Disaster-Class+Hero+manga+volume+1&tag=manhwadaily-20)
 
@@ -95,7 +95,7 @@ Zephyr, the last human standing after the demons destroyed humanity, is killed b
 
 **Rating: 8.4/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Reincarnation+of+the+Suicidal+Battle+God) · [MangaDex](https://mangadex.org/search?q=Reincarnation+of+the+Suicidal+Battle+God) · [Tapas](https://tapas.io/search?q=Reincarnation+of+the+Suicidal+Battle+God)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Reincarnation+of+the+Suicidal+Battle+God) · [Tapas](https://tapas.io/search?q=Reincarnation+of+the+Suicidal+Battle+God)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Reincarnation+of+the+Suicidal+Battle+God+manga+volume+1&tag=manhwadaily-20)
 
@@ -107,7 +107,7 @@ Yu Bihan dies thousands of times inside a martial arts simulation game before re
 
 **Rating: 8.2/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Infinite+Leveling+Murim) · [MangaDex](https://mangadex.org/search?q=Infinite+Leveling+Murim) · [Tapas](https://tapas.io/search?q=Infinite+Leveling+Murim)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Infinite+Leveling+Murim) · [Tapas](https://tapas.io/search?q=Infinite+Leveling+Murim)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Infinite+Leveling+Murim+manga+volume+1&tag=manhwadaily-20)
 
@@ -119,7 +119,7 @@ Yeon-woo's twin brother Jeong-woo was killed inside the Tower of Obelisk after b
 
 **Rating: 8.1/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Ranker+Who+Lives+a+Second+Time) · [MangaDex](https://mangadex.org/search?q=Ranker+Who+Lives+a+Second+Time) · [Tapas](https://tapas.io/search?q=Ranker+Who+Lives+a+Second+Time)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Ranker+Who+Lives+a+Second+Time) · [Tapas](https://tapas.io/search?q=Ranker+Who+Lives+a+Second+Time)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Ranker+Who+Lives+a+Second+Time+manga+volume+1&tag=manhwadaily-20)
 
@@ -131,7 +131,7 @@ Ko-Bam spent ten thousand years trapped in hell, slaughtering demons until he be
 
 **Rating: 7.9/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Player+Who+Returned+10000+Years+Later) · [MangaDex](https://mangadex.org/search?q=Player+Who+Returned+10000+Years+Later) · [Tapas](https://tapas.io/search?q=Player+Who+Returned+10000+Years+Later)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Player+Who+Returned+10000+Years+Later) · [Tapas](https://tapas.io/search?q=Player+Who+Returned+10000+Years+Later)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Player+Who+Returned+10000+Years+Later+manga+volume+1&tag=manhwadaily-20)
 

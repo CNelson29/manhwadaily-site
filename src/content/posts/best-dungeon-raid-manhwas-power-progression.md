@@ -25,7 +25,7 @@ The undisputed king of dungeon manhwas. Sung Jin-Woo starts as the world's weake
 
 ⭐ **Rating: 9.8/10**
 
-📖 **Read it:** [Webtoon (Official)](https://www.webtoons.com/en/search?keyword=Solo%20Leveling) | [MangaDex](https://mangadex.org/search?q=Solo+Leveling)
+📖 **Read it:** [Webtoon (Official)](https://www.webtoons.com/en/search?keyword=Solo%20Leveling)
 
 🛒 [Buy Volumes on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manhwa+volumes&tag=manhwadaily-20) | 📚 [Light Novel on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel&tag=manhwadaily-20)
 
@@ -49,7 +49,7 @@ Grid starts as a top-tier gamer stuck with the craftsman class everyone mocks, t
 
 ⭐ **Rating: 9.2/10**
 
-📖 **Read it:** [MangaDex](https://mangadex.org/search?q=Overgeared) | [Tapas](https://tapas.io/series/Overgeared-manhwa)
+📖 **Read it:** [Tapas](https://tapas.io/series/Overgeared-manhwa)
 
 🛒 [Buy on Amazon](https://www.amazon.com/s?k=Overgeared+manhwa&tag=manhwadaily-20) | 📚 [Light Novel](https://www.amazon.com/s?k=Overgeared+light+novel&tag=manhwadaily-20)
 
@@ -61,7 +61,7 @@ Lee Ho-Jae accidentally selects Hell difficulty on a tutorial dungeon and must c
 
 ⭐ **Rating: 9.0/10**
 
-📖 **Read it:** [MangaDex](https://mangadex.org/search?q=Tutorial+Is+Too+Hard) | [Tapas](https://tapas.io/series/the-tutorial-is-too-hard)
+📖 **Read it:** [Tapas](https://tapas.io/series/the-tutorial-is-too-hard)
 
 🛒 [Buy on Amazon](https://www.amazon.com/s?k=The+Tutorial+Is+Too+Hard+manhwa&tag=manhwadaily-20)
 
@@ -73,7 +73,7 @@ Kim Gong-Ja has the most useless ability in the tower—he copies the skill of w
 
 ⭐ **Rating: 8.9/10**
 
-📖 **Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Sss%20Class%20Suicide%20Hunter) | [MangaDex](https://mangadex.org/search?q=SSS+Class+Suicide+Hunter)
+📖 **Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Sss%20Class%20Suicide%20Hunter)
 
 🛒 [Buy on Amazon](https://www.amazon.com/s?k=SSS+Class+Suicide+Hunter+manhwa&tag=manhwadaily-20) | 📚 [Light Novel](https://www.amazon.com/s?k=SSS+Class+Suicide+Hunter+novel&tag=manhwadaily-20)
 
@@ -85,7 +85,7 @@ Lee Sung-Hoon works as monster bait for awakened hunters to pay for his sick mot
 
 ⭐ **Rating: 8.7/10**
 
-📖 **Read it:** [Webtoon (Official)](https://www.webtoons.com/en/search?keyword=I%20Am%20The%20Sorcerer%20King) | [MangaDex](https://mangadex.org/search?q=I+Am+the+Sorcerer+King)
+📖 **Read it:** [Webtoon (Official)](https://www.webtoons.com/en/search?keyword=I%20Am%20The%20Sorcerer%20King)
 
 🛒 [Buy on Amazon](https://www.amazon.com/s?k=I+Am+the+Sorcerer+King+manhwa&tag=manhwadaily-20)
 
@@ -97,7 +97,7 @@ Jung Dawoon gets glitched during a dungeon reset and is left behind as the only 
 
 ⭐ **Rating: 8.6/10**
 
-📖 **Read it:** [MangaDex](https://mangadex.org/search?q=Dungeon+Reset) | [Tapas](https://tapas.io/series/Dungeon-Reset)
+📖 **Read it:** [Tapas](https://tapas.io/series/Dungeon-Reset)
 
 🛒 [Buy on Amazon](https://www.amazon.com/s?k=Dungeon+Reset+manhwa&tag=manhwadaily-20)
 
@@ -109,7 +109,7 @@ Mysterious tombs—essentially super-powered dungeons filled with divine relics�
 
 ⭐ **Rating: 8.5/10**
 
-📖 **Read it:** [MangaDex](https://mangadex.org/search?q=Tomb+Raider+King) | [Tapas](https://tapas.io/series/Tomb-Raider-King)
+📖 **Read it:** [Tapas](https://tapas.io/series/Tomb-Raider-King)
 
 🛒 [Buy on Amazon](https://www.amazon.com/s?k=Tomb+Raider+King+manhwa&tag=manhwadaily-20)
 
@@ -121,7 +121,7 @@ Zephyr, the last survivor of a catastrophically failed world-ending raid, resets
 
 ⭐ **Rating: 8.4/10**
 
-📖 **Read it:** [MangaDex](https://mangadex.org/search?q=Reincarnation+Suicidal+Battle+God) | [Tapas](https://tapas.io/series/reincarnation-of-the-suicidal-battle-god)
+📖 **Read it:** [Tapas](https://tapas.io/series/reincarnation-of-the-suicidal-battle-god)
 
 🛒 [Buy on Amazon](https://www.amazon.com/s?k=Reincarnation+Suicidal+Battle+God+manhwa&tag=manhwadaily-20)
 
@@ -133,7 +133,7 @@ Yunhwi gets trapped in a dungeon that runs on murim martial arts cultivation rul
 
 ⭐ **Rating: 8.3/10**
 
-📖 **Read it:** [MangaDex](https://mangadex.org/search?q=Infinite+Leveling+Murim) | [Tapas](https://tapas.io/series/Infinite-Leveling-Murim)
+📖 **Read it:** [Tapas](https://tapas.io/series/Infinite-Leveling-Murim)
 
 🛒 [Buy on Amazon](https://www.amazon.com/s?k=Infinite+Leveling+Murim+manhwa&tag=manhwadaily-20)
 

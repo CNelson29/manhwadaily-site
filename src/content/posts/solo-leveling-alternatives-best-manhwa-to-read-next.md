@@ -23,7 +23,7 @@ Kim Dokja is the sole reader of a web novel — until that novel's apocalypse be
 
 **Rating: 9.8/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Omniscient+Reader%27s+Viewpoint) · [MangaDex](https://mangadex.org/search?q=Omniscient+Reader%27s+Viewpoint) · [Tapas](https://tapas.io/search?q=Omniscient+Reader%27s+Viewpoint)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Omniscient+Reader%27s+Viewpoint) · [Tapas](https://tapas.io/search?q=Omniscient+Reader%27s+Viewpoint)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -35,7 +35,7 @@ King Grey, the most powerful mage-warrior of his world, is reincarnated as Arthu
 
 **Rating: 9.5/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Beginning+After+the+End) · [MangaDex](https://mangadex.org/search?q=The+Beginning+After+the+End) · [Tapas](https://tapas.io/search?q=The+Beginning+After+the+End)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Beginning+After+the+End) · [Tapas](https://tapas.io/search?q=The+Beginning+After+the+End)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Beginning+After+the+End+manga+volume+1&tag=manhwadaily-20)
 
@@ -47,7 +47,7 @@ The number-one ranked player in the most immersive VR game ever made suddenly lo
 
 **Rating: 9.2/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Hardcore+Leveling+Warrior) · [MangaDex](https://mangadex.org/search?q=Hardcore+Leveling+Warrior) · [Tapas](https://tapas.io/search?q=Hardcore+Leveling+Warrior)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Hardcore+Leveling+Warrior) · [Tapas](https://tapas.io/search?q=Hardcore+Leveling+Warrior)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Hardcore+Leveling+Warrior+manga+volume+1&tag=manhwadaily-20)
 
@@ -59,7 +59,7 @@ Cheon Yeo-Woon is a powerless bastard son in a brutal murim world — until a de
 
 **Rating: 9.1/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Nano+Machine) · [MangaDex](https://mangadex.org/search?q=Nano+Machine) · [Tapas](https://tapas.io/search?q=Nano+Machine)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Nano+Machine) · [Tapas](https://tapas.io/search?q=Nano+Machine)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Nano+Machine+manga+volume+1&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ A kind-hearted teen with lightning-fast reflexes hides an awakened ability, and 
 
 **Rating: 9.0/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Eleceed) · [MangaDex](https://mangadex.org/search?q=Eleceed) · [Tapas](https://tapas.io/search?q=Eleceed)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Eleceed) · [Tapas](https://tapas.io/search?q=Eleceed)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Eleceed+manga+volume+1&tag=manhwadaily-20)
 
@@ -83,7 +83,7 @@ A boy named Bam chases his only friend Rachel into a mysterious tower where clim
 
 **Rating: 9.3/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Tower+of+God) · [MangaDex](https://mangadex.org/search?q=Tower+of+God) · [Tapas](https://tapas.io/search?q=Tower+of+God)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Tower+of+God) · [Tapas](https://tapas.io/search?q=Tower+of+God)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Tower+of+God+manga+volume+1&tag=manhwadaily-20)
 
@@ -95,7 +95,7 @@ Yeon-woo discovers his twin brother was murdered after climbing a brutal tower c
 
 **Rating: 8.9/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Second+Life+Ranker) · [MangaDex](https://mangadex.org/search?q=Second+Life+Ranker) · [Tapas](https://tapas.io/search?q=Second+Life+Ranker)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Second+Life+Ranker) · [Tapas](https://tapas.io/search?q=Second+Life+Ranker)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Second+Life+Ranker+manga+volume+1&tag=manhwadaily-20)
 
@@ -107,7 +107,7 @@ Grid is a talentless, self-absorbed gamer who stumbles onto the rarest class in 
 
 **Rating: 8.8/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Overgeared) · [MangaDex](https://mangadex.org/search?q=Overgeared) · [Tapas](https://tapas.io/search?q=Overgeared)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Overgeared) · [Tapas](https://tapas.io/search?q=Overgeared)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Overgeared+manga+volume+1&tag=manhwadaily-20)
 
@@ -119,7 +119,7 @@ A dying old murim master is reborn as his younger self and uses his lifetime of 
 
 **Rating: 8.6/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Volcanic+Age) · [MangaDex](https://mangadex.org/search?q=Volcanic+Age) · [Tapas](https://tapas.io/search?q=Volcanic+Age)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Volcanic+Age) · [Tapas](https://tapas.io/search?q=Volcanic+Age)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Volcanic+Age+manga+volume+1&tag=manhwadaily-20)
 
@@ -131,7 +131,7 @@ Desir Arman survives humanity's final battle against a shadow labyrinth, then is
 
 **Rating: 8.7/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Returner%27s+Magic+Should+Be+Special) · [MangaDex](https://mangadex.org/search?q=Returner%27s+Magic+Should+Be+Special) · [Tapas](https://tapas.io/search?q=Returner%27s+Magic+Should+Be+Special)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Returner%27s+Magic+Should+Be+Special) · [Tapas](https://tapas.io/search?q=Returner%27s+Magic+Should+Be+Special)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Returner%27s+Magic+Should+Be+Special+manga+volume+1&tag=manhwadaily-20)
 

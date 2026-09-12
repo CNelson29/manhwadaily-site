@@ -25,7 +25,7 @@ Humanity's last champion burns everything — his time, his money, his soul — 
 
 **Our score: 8.5/10**
 
-[Read on MangaDex](https://mangadex.org/search?q=I+Regressed+but+the+World+Didn%27t+End)
+
 
 ### #2 — Beware the Villainess!
 
@@ -35,7 +35,7 @@ After an accident, a modern woman wakes up inside a clichéd romance novel as it
 
 **Our score: 9.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### #3 — Who Made Me a Princess
 
@@ -45,7 +45,7 @@ The protagonist opens her eyes and discovers she has been reborn as Athanasia, a
 
 **Our score: 8.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ### #4 — This Villainess Wants a Divorce!
 
@@ -55,7 +55,7 @@ Reincarnated as Canaria, the villain of a popular novel destined to be executed 
 
 **Our score: 8.2/10**
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #5 — A Returner's Magic Should Be Special
 
@@ -65,7 +65,7 @@ One of the six final survivors of humanity travels back in time before the Shado
 
 **Our score: 8.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #6 — The Martial God Who Regressed Back to Level 2
 
@@ -85,7 +85,7 @@ Penelope Eckart reincarnates as the adopted daughter of a powerful duke — and 
 
 **Our score: 7.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### #8 — SSS-Class Revival Hunter
 
@@ -95,7 +95,7 @@ Gongja Kim lives a frustrated existence in a tower full of star hunters, envying
 
 **Our score: 7.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #9 — I Shall Master This Family
 
@@ -105,7 +105,7 @@ Firentia — born of a Lombardi noble and a peasant — reincarnates into a fami
 
 **Our score: 8.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### #10 — The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -115,7 +115,7 @@ A meek skeleton soldier swears fierce loyalty to Lady Succubus and dreams of a p
 
 **Our score: 7.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ## Sources Checked
 - [Raven Scans — I Regressed, but the World Didn't End](https://ravenscans.org/series/i-regressed-but-the-world-didnt-end/)

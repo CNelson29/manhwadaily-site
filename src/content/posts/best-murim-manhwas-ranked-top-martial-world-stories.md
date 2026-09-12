@@ -21,7 +21,7 @@ A legendary swordsman is reincarnated after his death and vows to dismantle the 
 
 **Why it's great:** The protagonist's cold, calculated approach to revenge — combined with a surprisingly emotional backstory — makes every chapter feel like a cinematic event. The art style alone sets it apart from nearly every other manhwa in the genre.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Return+of+the+Blossoming+Blade) · [MangaDex](https://mangadex.org/search?q=Return+of+the+Blossoming+Blade) · [Tapas](https://tapas.io/search?q=Return+of+the+Blossoming+Blade)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Return+of+the+Blossoming+Blade) · [Tapas](https://tapas.io/search?q=Return+of+the+Blossoming+Blade)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Return+of+the+Blossoming+Blade+manga+volume+1&tag=manhwadaily-20)
 
@@ -31,7 +31,7 @@ A descendant of the Demonic Cult receives a nano-machine injection from his futu
 
 **Why it's great:** The power fantasy is deeply satisfying without ever feeling cheap — the nano-machine system creates genuinely creative solutions to murim problems, and the political dynamics within the Demonic Cult add real dramatic weight.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Nano+Machine) · [MangaDex](https://mangadex.org/search?q=Nano+Machine) · [Tapas](https://tapas.io/search?q=Nano+Machine)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Nano+Machine) · [Tapas](https://tapas.io/search?q=Nano+Machine)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Nano+Machine+manga+volume+1&tag=manhwadaily-20)
 
@@ -41,7 +41,7 @@ After the Northern Heavenly Sect is destroyed by the Silent Night organization, 
 
 **Why it's great:** This is murim storytelling at its most classical and refined. The slow-burn buildup to major confrontations makes every payoff feel monumental, and Mu-Won is one of the genre's most compelling protagonists.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Legend+of+the+Northern+Blade) · [MangaDex](https://mangadex.org/search?q=Legend+of+the+Northern+Blade) · [Tapas](https://tapas.io/search?q=Legend+of+the+Northern+Blade)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Legend+of+the+Northern+Blade) · [Tapas](https://tapas.io/search?q=Legend+of+the+Northern+Blade)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Legend+of+the+Northern+Blade+manga+volume+1&tag=manhwadaily-20)
 
@@ -51,7 +51,7 @@ A murim elder regresses to his youth after a lifetime of regrets and second chan
 
 **Why it's great:** The regression premise is used masterfully — instead of just dominating everyone immediately, the protagonist strategically builds alliances and corrects past mistakes, giving the story real emotional depth alongside the action.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Volcanic+Age) · [MangaDex](https://mangadex.org/search?q=Volcanic+Age) · [Tapas](https://tapas.io/search?q=Volcanic+Age)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Volcanic+Age) · [Tapas](https://tapas.io/search?q=Volcanic+Age)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Volcanic+Age+manga+volume+1&tag=manhwadaily-20)
 
@@ -61,7 +61,7 @@ A martial artist with the unique ability to hear the voices of swords uses his p
 
 **Why it's great:** It strikes a rare tonal balance — serious enough to invest in but light enough to be a breezy, fun read. The sword-whispering mechanic opens up creative storytelling possibilities that the author exploits brilliantly.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Absolute+Sword+Sense) · [MangaDex](https://mangadex.org/search?q=Absolute+Sword+Sense) · [Tapas](https://tapas.io/search?q=Absolute+Sword+Sense)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Absolute+Sword+Sense) · [Tapas](https://tapas.io/search?q=Absolute+Sword+Sense)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Absolute+Sword+Sense+manga+volume+1&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ A modern-day hunter discovers a VR game that transports him into an actual murim
 
 **Why it's great:** The dual-world structure keeps the pacing fresh and unpredictable. Watching the protagonist grow from a low-ranked modern hunter into a murim legend — in two worlds simultaneously — is incredibly rewarding.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Murim+Login) · [MangaDex](https://mangadex.org/search?q=Murim+Login) · [Tapas](https://tapas.io/search?q=Murim+Login)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Murim+Login) · [Tapas](https://tapas.io/search?q=Murim+Login)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Murim+Login+manga+volume+1&tag=manhwadaily-20)
 
@@ -81,7 +81,7 @@ The greatest martial artist of his generation is sealed away for a thousand year
 
 **Why it's great:** Pure, unadulterated murim power fantasy done right. The gap between the protagonist and everyone else is played for maximum dramatic and comedic effect, and the worldbuilding of the new era he wakes into is genuinely interesting.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Chronicles+of+the+Martial+God%27s+Return) · [MangaDex](https://mangadex.org/search?q=Chronicles+of+the+Martial+God%27s+Return) · [Tapas](https://tapas.io/search?q=Chronicles+of+the+Martial+God%27s+Return)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Chronicles+of+the+Martial+God%27s+Return) · [Tapas](https://tapas.io/search?q=Chronicles+of+the+Martial+God%27s+Return)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Chronicles+of+the+Martial+God%27s+Return+manga+volume+1&tag=manhwadaily-20)
 
@@ -91,7 +91,7 @@ A sickly young man deemed a fool his whole life awakens a dormant martial soul a
 
 **Why it's great:** The transformation from helpless outcast to feared swordsman is handled with more emotional nuance than most murim series attempt. You genuinely root for this protagonist on a personal level, not just as an action hero.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Undefeatable+Swordsman) · [MangaDex](https://mangadex.org/search?q=The+Undefeatable+Swordsman) · [Tapas](https://tapas.io/search?q=The+Undefeatable+Swordsman)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Undefeatable+Swordsman) · [Tapas](https://tapas.io/search?q=The+Undefeatable+Swordsman)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Undefeatable+Swordsman+manga+volume+1&tag=manhwadaily-20)
 
@@ -101,7 +101,7 @@ The fearsome Heavenly Demon is reborn as the weakest disciple of a righteous sec
 
 **Why it's great:** The fish-out-of-water comedy blended with serious martial arts drama creates a uniquely entertaining tone. Watching the protagonist feign weakness while secretly being the most dangerous person in every room never gets old.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Heavenly+Demon+Reborn) · [MangaDex](https://mangadex.org/search?q=Heavenly+Demon+Reborn) · [Tapas](https://tapas.io/search?q=Heavenly+Demon+Reborn)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Heavenly+Demon+Reborn) · [Tapas](https://tapas.io/search?q=Heavenly+Demon+Reborn)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Heavenly+Demon+Reborn+manga+volume+1&tag=manhwadaily-20)
 
@@ -111,7 +111,7 @@ Set in the iconic Mount Hua Sect — also featured in Return of the Blossoming B
 
 **Why it's great:** The fist-based fighting style is a refreshing change from the sea of sword-focused murim series. The gritty art and blue-collar protagonist give it a distinctly different feel that makes it stand out on any reading list.
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Fist+Demon+of+Mount+Hua) · [MangaDex](https://mangadex.org/search?q=Fist+Demon+of+Mount+Hua) · [Tapas](https://tapas.io/search?q=Fist+Demon+of+Mount+Hua)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Fist+Demon+of+Mount+Hua) · [Tapas](https://tapas.io/search?q=Fist+Demon+of+Mount+Hua)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Fist+Demon+of+Mount+Hua+manga+volume+1&tag=manhwadaily-20)
 

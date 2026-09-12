@@ -27,7 +27,7 @@ Ten years after the Gate connecting our world to a monster dimension opened, ord
 
 **Our score: 9.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 2. A Returner's Magic Should Be Special
 
@@ -39,7 +39,7 @@ Desir Arman is one of six humans to survive the Shadow Labyrinth — the deadlie
 
 **Our score: 8.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 3. SSS-Class Revival Hunter
 
@@ -51,7 +51,7 @@ Gongja Kim lives in the RPG-like Tower envying the star hunters ranked above him
 
 **Our score: 9.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 4. Second Life Ranker
 
@@ -63,7 +63,7 @@ Yeonwoo's brother disappeared, and he eventually learns the truth: his brother w
 
 **Our score: 8.6/10**
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 5. Omniscient Reader's Viewpoint
 
@@ -75,7 +75,7 @@ Dokja was an average office worker whose only hobby was reading a web novel call
 
 **Our score: 9.4/10**
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 6. The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -87,7 +87,7 @@ A skeleton soldier devoted to protecting his master fails — she is killed, and
 
 **Our score: 8.3/10**
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### 7. The Max Level Hero Strikes Back
 
@@ -99,7 +99,7 @@ Prince Davey O'Rowane was powerless and universally dismissed as useless — unt
 
 **Our score: 8.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### 8. The God of High School
 
@@ -142,4 +142,3 @@ Vampires have overrun the world, and only one half-vampire with extraordinary po
 - [Manhwa Like Solo Leveling: 12 Best Series for 2026 — ChapterBrief](https://www.chapterbrief.net/blog/manhwa-like-solo-leveling)
 - [Best Manhwa Like Solo Leveling — Game Rant (updated July 2026)](https://gamerant.com/best-manhwa-like-solo-leveling)
 - [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
-- [MangaDex (title and completion status verification)](https://mangadex.org)

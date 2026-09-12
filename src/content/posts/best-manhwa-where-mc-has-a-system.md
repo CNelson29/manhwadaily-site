@@ -23,7 +23,7 @@ Sung Jinwoo starts as the weakest E-rank hunter, cannon fodder who survives doub
 
 **Why it's great:** The power progression feels genuinely earned, and the art escalates alongside the story. Completed and perfectly bingeable from start to finish — the gold standard for every system manhwa that followed.
 
-Our score: **9.8/10** | [Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+Our score: **9.8/10**
 
 ### 2. Omniscient Reader's Viewpoint — 9.5/10
 
@@ -31,7 +31,7 @@ Dokja is an office worker whose only hobby is reading a web novel nobody else ca
 
 **Why it's great:** The system here is about information as much as stats — using foreknowledge as a resource is a genuinely fresh take. One of the few titles in this genre that hits hard emotionally as well as mechanically.
 
-Our score: **9.5/10** | [Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+Our score: **9.5/10** | [Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 3. SSS-Class Revival Hunter — 9.2/10
 
@@ -39,7 +39,7 @@ In a tower full of legendary hunters, Gongja Kim envies every star above him —
 
 **Why it's great:** The combination of time-loop and copy-skill mechanics creates layered puzzles that reward careful reading. One of the most inventive system designs in the genre, and it only gets more complex as it goes.
 
-Our score: **9.2/10** | [Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+Our score: **9.2/10** | [Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 4. Second Life Ranker — 8.8/10
 
@@ -47,7 +47,7 @@ Yeon-woo lost his twin brother to a betrayal inside a mysterious tower. When he 
 
 **Why it's great:** The revenge motivation gives the power progression emotional weight that pure stat-grinding manhwa often lack. The tower world-building is among the most detailed in the genre.
 
-Our score: **8.8/10** | [Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+Our score: **8.8/10** | [Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 5. Nano Machine — 8.6/10
 
@@ -63,7 +63,7 @@ Prince Davey is powerless and dismissed by everyone at court — until an enemy 
 
 **Why it's great:** The gap between how the world perceives the MC and what he can actually do is the entire engine of this series, and it never gets old. A well-executed take on the hidden-strength fantasy.
 
-Our score: **8.3/10** | [Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+Our score: **8.3/10**
 
 ### 7. The Skeleton Soldier Failed to Defend the Dungeon — 8.0/10
 
@@ -71,7 +71,7 @@ A skeleton soldier with fierce loyalty to his mistress watches her die — then 
 
 **Why it's great:** Using the reset-on-death loop as a skill-acquisition system is one of the most original mechanical ideas in manhwa. Dark and grinding, with emotional weight that sneaks up on you.
 
-Our score: **8.0/10** | [Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+Our score: **8.0/10**
 
 ### 8. A Returner's Magic Should Be Special — 7.8/10
 
@@ -79,7 +79,7 @@ Desir Arman survives the Shadow Labyrinth — humanity's final dungeon — as on
 
 **Why it's great:** The regression loop combined with the academy grind creates a satisfying, well-paced power climb. One of the few system-adjacent manhwa that balances action and character development consistently across its run.
 
-Our score: **7.8/10** | [Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+Our score: **7.8/10**
 
 ## Sources Checked
 - [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)

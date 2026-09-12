@@ -6,7 +6,7 @@ category: "Rankings"
 tags: ["hidden power", "op mc", "action manhwa", "rankings", "manhwa recommendations"]
 type: "rankings"
 image: "/images/posts/manhwa-where-mc-hides-his-power-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## The Best Manhwa Where the MC Hides Their Power
@@ -23,7 +23,7 @@ The gold standard for this trope. Sung Jin-Woo starts as the weakest hunter aliv
 
 **Why it's great:** The concealment phase is long, believable, and earns its payoffs. Every time someone underestimates Jin-Woo, the story has already laid the groundwork for why the reveal matters.
 
-⭐ Our score: 9.5/10 | [Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
+⭐ Our score: 9.5/10 | [Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
 
 ### #2 — SSS-Class Revival Hunter | Our Score: 9.0/10
 
@@ -31,7 +31,7 @@ Gongja Kim's ability to copy the skills of whoever kills him — then reset time
 
 **Why it's great:** Hiding is survival, not strategy. That shift in stakes makes every encounter feel genuinely dangerous even as Gongja grows stronger.
 
-⭐ Our score: 9.0/10 | [Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+⭐ Our score: 9.0/10 | [Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #3 — The Main Character Hides His Strength | Our Score: 8.9/10
 
@@ -39,7 +39,7 @@ Kim Seong-cheol was once the legendary summoner who faced the apocalypse alone �
 
 **Why it's great:** The concealment has a concrete reason and a specific endpoint. Seong-cheol is not playing weak out of habit — he has a plan, and the story respects his intelligence throughout.
 
-⭐ Our score: 8.9/10 | [Search on MangaDex](https://mangadex.org/search?q=The+Main+Character+Hides+His+Strength)
+⭐ Our score: 8.9/10
 
 ### #4 — The Max Level Hero Strikes Back | Our Score: 8.6/10
 
@@ -47,7 +47,7 @@ Prince Davey O'Rowane is the kingdom's embarrassment: powerless, dismissed, and 
 
 **Why it's great:** The premise is perfectly engineered for the trope. Davey has every social and political reason to stay hidden, and the story uses those reasons to build genuine tension rather than simply delay the power fantasy.
 
-⭐ Our score: 8.6/10 | [Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+⭐ Our score: 8.6/10
 
 ### #5 — Omniscient Reader's Viewpoint | Our Score: 8.5/10
 
@@ -55,7 +55,7 @@ Dokja Kim's hidden power is not raw strength — it is knowledge. He is the only
 
 **Why it's great:** Hidden knowledge is more compelling than hidden strength in the long run. ORV trusts that premise completely and pays it off at every scale — from individual encounters to the story's final reveal of Dokja's true role.
 
-⭐ Our score: 8.5/10 | [Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+⭐ Our score: 8.5/10 | [Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### #6 — Second Life Ranker | Our Score: 8.3/10
 
@@ -63,7 +63,7 @@ Yeonwoo enters a massive tower-dungeon seeking revenge for his twin brother's be
 
 **Why it's great:** The revenge motivation gives the hiding genuine emotional grounding. Yeonwoo is not hiding because he is humble — he is hiding because exposure would kill the plan, and that specificity makes his patience feel earned.
 
-⭐ Our score: 8.3/10 | [Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+⭐ Our score: 8.3/10 | [Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### #7 — A Returner's Magic Should Be Special | Our Score: 8.0/10
 
@@ -71,7 +71,7 @@ Desir Arman returns from a future where humanity was nearly annihilated, enrolls
 
 **Why it's great:** Desir hides his power to protect others, not himself. That makes the concealment feel heavier, and every moment where he barely holds back hits differently.
 
-⭐ Our score: 8.0/10 | [Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+⭐ Our score: 8.0/10
 
 ### #8 — I Was More Overpowered Than the Hero, so I Hid My Power! | Our Score: 7.7/10
 
@@ -79,7 +79,7 @@ A lighter, self-aware take on the trope. The protagonist reincarnates having wis
 
 **Why it's great:** It is honest about what it is — a power fantasy for people who love the hiding-power setup specifically. The self-awareness makes the comedy land and the wish-fulfillment feel intentional rather than lazy.
 
-⭐ Our score: 7.7/10 | [Search on MangaDex](https://mangadex.org/search?q=I+Was+More+Overpowered+Than+the+Hero+so+I+Hid+My+Power)
+⭐ Our score: 7.7/10
 
 ## Sources Checked
 - [Kenmei — The Main Character Hides His Strength](https://www.kenmei.co/series/the-main-character-hides-his-strength)

@@ -6,7 +6,7 @@ category: "Rankings"
 tags: ["villain mc", "villainess", "reincarnation", "isekai", "rankings"]
 type: "rankings"
 image: "/images/posts/manhwa-where-mc-is-villain-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## Why Villain MCs Hit Different
@@ -35,7 +35,7 @@ After reincarnating as Canaria — the villain of a cliché novel destined to be
 
 The brilliance here is the comedy that comes from a villainess actively refusing to villainess. Canaria knows exactly what she is and uses that self-awareness to outwit every trap the original story set for her. Completed and satisfying from start to finish.
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #8 — I Shall Master This Family
 
@@ -45,7 +45,7 @@ Firentia, the mixed-blood daughter of the once-great Lombardi family, refuses to
 
 Firentia walks the line between hero and villain with impressive confidence — sympathetic in her goals but thoroughly cutthroat in her methods. Fans of calculating protagonists who play the long game will find this deeply satisfying.
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### #7 — Beware the Villainess!
 
@@ -55,7 +55,7 @@ When a modern woman reincarnates as Melissa, the despised villainess of a romanc
 
 Part satire, part power fantasy, Beware the Villainess! is one of the sharpest takes on the genre. The MC leans into her villain label with gleeful abandon — she is not trying to become good, she is trying to make the story less stupid. The results are endlessly entertaining.
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### #6 — The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -65,7 +65,7 @@ You are not playing as a hero here — you are a skeleton soldier, a creature of
 
 This is villain MC from a completely different angle: instead of a reincarnated human choosing evil, you are literally born as a monster and must evolve through repeated failure and moral compromise. The psychological depth that builds across those loops is genuinely impressive.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### #5 — SSS-Class Revival Hunter
 
@@ -75,7 +75,7 @@ Gongja Kim exists at the bottom of the dungeon tower food chain — until he cop
 
 SSS-Class Revival Hunter earns its spot here because Gongja does not play the victim — he plays the predator. The cold, methodical way he hunts down those who killed him, using their own stolen powers against them, gives this manhwa a genuine villain-protagonist energy that few action titles can match.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #4 — I Am the Fated Villain
 
@@ -105,7 +105,7 @@ Penelope Eckart has the worst starting position in any manhwa on this list: she 
 
 What elevates Villains Are Destined to Die above typical villainess fare is the genuine desperation and intelligence driving Penelope's decisions. She is not scheming for power — she is fighting for her life, using every tool the villain label gives her because she has absolutely no other option. Harrowing, gripping, and impossible to put down.
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### #1 — The Villainess Turns the Hourglass
 
@@ -115,7 +115,7 @@ Aria did not choose to be a villain — circumstance, a scheming half-sister, an
 
 The Villainess Turns the Hourglass is the gold standard of the genre for a reason. Aria is cold, methodical, and devastatingly competent — a villain protagonist who earns every victory through careful planning rather than power spikes. The art is gorgeous, the revenge is deeply satisfying, and this is one of the few manhwa where the villain is unambiguously the hero of her own story in the most compelling way possible.
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ## Sources Checked
 - [10 Best Villain MC Manhwa Ranked — Novel Nodes](https://novelnodes.com/best-villain-mc-manhwa/)

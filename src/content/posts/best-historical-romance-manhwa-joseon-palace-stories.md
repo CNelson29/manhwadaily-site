@@ -31,7 +31,7 @@ When a young woman opens her eyes, she has become Princess Athanasia — a chara
 
 **Why it's great:** The emotionally complex father-daughter dynamic between Athanasia and Emperor Claude is what elevates this above comparable titles. The palace setting is richly detailed and the romance builds naturally from the survival premise — there's a reason this remains a genre benchmark.
 
-[Read on MangaDex →](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read on WEBTOON →](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ### #3 — Painter of the Night — Our Score: 9.0/10 ⚠️ 18+ | BL
 
@@ -47,7 +47,7 @@ The most authentically Joseon-set title on this list — and the most mature. A 
 
 **Why it's great:** Aria's precision and patience are deeply satisfying to watch. The court setting — with its gossip, alliances, and public performances of grace — heightens every move in their sisterly cold war. Consistently listed among the best completed romance manhwa available.
 
-[Read on MangaDex →](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### #5 — The Case of Selecting a Joseon Queen — Our Score: 8.7/10
 
@@ -63,7 +63,7 @@ Set in an actual Joseon court, this manhwa follows Yun — the most eligible bac
 
 **Why it's great:** The game mechanics create genuine suspense that most palace romances lack — every romantic choice carries real consequences. The reverse harem dynamic and constant survival tension make this compulsive reading once you start.
 
-[Read on MangaDex →](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read on Tapas →](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### #7 — I Shall Master This Family — Our Score: 8.5/10
 
@@ -71,7 +71,7 @@ Set in an actual Joseon court, this manhwa follows Yun — the most eligible bac
 
 **Why it's great:** The political maneuvering and family dynamics are among the richest in the genre. Firentia's methodical rise through the imperial court is immensely satisfying — palace romance with real strategic depth and a heroine who earns every inch of ground she takes.
 
-[Read on MangaDex →](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas →](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### #8 — The Crown Princess Scandal — Our Score: 8.4/10
 
@@ -87,7 +87,7 @@ Palace intrigue surrounds the crown princess in this court drama built around se
 
 **Why it's great:** The subversive premise — a villainess actively trying to avoid the romance plot — gives this series a comedic edge that freshens the reincarnation formula. The romance sneaks up on both character and reader despite her best efforts. Fully completed and bingeable in one sitting.
 
-[Read on MangaDex →](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #10 — Beware the Villainess! — Our Score: 8.2/10
 
@@ -95,7 +95,7 @@ Palace intrigue surrounds the crown princess in this court drama built around se
 
 **Why it's great:** The funniest palace romance on this list. Melissa's refusal to perform villainy while dissecting genre conventions makes for a witty, self-aware read that still delivers genuine character chemistry and a satisfying romance arc that earns its conclusion.
 
-[Read on MangaDex →](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas →](https://tapas.io/series/beware-the-villainess/info)
 
 ### #11 — The Monstrous Duke's Adopted Daughter — Our Score: 8.0/10
 
@@ -103,7 +103,7 @@ Palace intrigue surrounds the crown princess in this court drama built around se
 
 **Why it's great:** A quieter, emotionally grounded palace romance. The slow transformation of distrust and survival instinct into genuine warmth is handled with care, and the Crown Prince subplot keeps the stakes tied to the broader court world throughout.
 
-[Read on MangaDex →](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ### #12 — The Fantasie of a Stepmother — Our Score: 7.9/10
 
@@ -111,7 +111,7 @@ Palace intrigue surrounds the crown princess in this court drama built around se
 
 **Why it's great:** The maternal-romance angle is rare in palace manhwa, and Shuri's quiet resilience against a household that doesn't want her creates an emotionally complex read unlike anything else on this list. A slow burn that rewards patience.
 
-[Read on MangaDex →](https://mangadex.org/title/73886188-f459-4b80-8781-66a60520b420)
+[Read on Tapas →](https://tapas.io/series/the-fantasie-of-a-stepmother/info)
 
 ## Sources Checked
 - [50 Best Historical Romance Manhwa — Best in Romance](https://bestinromance.com/historical-romance-manhwa-50-royal-recommendations/)

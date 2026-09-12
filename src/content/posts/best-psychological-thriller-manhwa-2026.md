@@ -45,7 +45,7 @@ Dokja was an ordinary office worker whose only passion was a web novel called "T
 
 **Why it stands out:** The dramatic irony is weaponized masterfully. Knowing the plot does not make Dokja safe — every deviation from the script becomes its own source of dread.
 
-[Read on MangaDex →](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON →](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### #5 — SSS-Class Revival Hunter — Our score: 8.5/10
 
@@ -53,7 +53,7 @@ In the Tower, Gongja Kim copies the ability of the most powerful hunter alive �
 
 **Why it stands out:** The cat-and-mouse dynamic between Gongja and the hunter who keeps killing him generates some of the most sustained tension in the action-psychological hybrid space. It carries the Psychological genre tag for a reason.
 
-[Read on MangaDex →](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas →](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #4 — Cheese in the Trap — Our score: 8.7/10
 

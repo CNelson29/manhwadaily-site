@@ -25,7 +25,7 @@ Sung Jinwoo starts as the weakest hunter alive in a world where humanity battles
 
 **Our score: 9.8/10**
 
-Read on [MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) · [Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
+Read on  · [Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
 
 ### #2 — Omniscient Reader's Viewpoint
 
@@ -35,7 +35,7 @@ Kim Dokja is the only person who finished reading a web novel called "Three Ways
 
 **Our score: 9.5/10**
 
-Read on [MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3) · [Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
+Read on [WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154) · [Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
 
 ### #3 — SSS-Class Revival Hunter
 
@@ -45,7 +45,7 @@ Gongja Kim is a mediocre hunter in a mysterious Tower, envying the elites above 
 
 **Our score: 9.2/10**
 
-Read on [MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2) · [Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
+Read on [Tapas](https://tapas.io/series/sss-class-revival-hunter/info) · [Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
 
 ### #4 — A Returner's Magic Should Be Special
 
@@ -55,7 +55,7 @@ Desir Arman is one of six survivors of humanity's greatest catastrophe — the S
 
 **Our score: 8.8/10**
 
-Read on [MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0) · [Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
+Read on  · [Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
 
 ### #5 — Second Life Ranker
 
@@ -65,7 +65,7 @@ Yeonwoo learns his twin brother died after being betrayed inside a deadly tower 
 
 **Our score: 8.7/10**
 
-Read on [MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971) · [Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker)
+Read on [Tapas](https://tapas.io/series/second-life-ranker/info) · [Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker)
 
 ### #6 — The Max Level Hero Strikes Back
 
@@ -75,7 +75,7 @@ Prince Davey O'Rowane is powerless in a world where combat strength is everythin
 
 **Our score: 8.5/10**
 
-Read on [MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2) · [Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
+Read on  · [Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
 
 ### #7 — The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -85,7 +85,7 @@ A skeleton soldier lives only to protect its master — and fails. Time resets. 
 
 **Our score: 8.3/10**
 
-Read on [MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427) · [Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
+Read on  · [Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
 
 ### #8 — Villains Are Destined to Die
 
@@ -95,7 +95,7 @@ Penelope Eckart is reincarnated as the adopted villainess of a reverse-harem dat
 
 **Our score: 7.9/10**
 
-Read on [MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23) · [Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
+Read on [Tapas](https://tapas.io/series/villains-are-destined-to-die/info) · [Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
 
 ## Sources Checked
 - [Best Manhwa with OP MC: 10 Must-Read Series in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)

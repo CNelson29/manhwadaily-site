@@ -23,7 +23,7 @@ Sung Jinwoo starts as the weakest hunter alive — so fragile that other hunters
 
 **Why it's great:** The slow transformation from desperate underdog to apex predator is one of manhwa's most satisfying arcs. Every hard-won level feels real, and when Jinwoo finally stops holding back, the payoff is extraordinary.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
 
 ### 2. Omniscient Reader's Viewpoint — Our Score: 9.3/10
 
@@ -31,7 +31,7 @@ Kim Dokja is an ordinary office worker whose only passion is a web novel called 
 
 **Why it's great:** The meta-narrative layers are unlike anything else in manhwa. Dokja's antihero arc is built on genuine loneliness and a complicated relationship with fiction itself, making his cold calculations feel both unsettling and deeply human.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 3. SSS-Class Revival Hunter — Our Score: 8.8/10
 
@@ -39,7 +39,7 @@ Gongja Kim lives a mediocre existence in a Tower full of legendary hunters, envy
 
 **Why it's great:** The psychological toll of dying repeatedly isn't hand-waved away. Watching Gongja use the system's rules against itself — and seeing what it costs him — sets this apart from standard revenge stories.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 4. The Skeleton Soldier Failed to Defend the Dungeon — Our Score: 8.7/10
 
@@ -47,7 +47,7 @@ A meager skeleton soldier lives only to protect Lady Succubus — that's its ent
 
 **Why it's great:** Rooting for a skeleton soldier feels absurd until it doesn't. The loop structure reveals a protagonist whose growth is entirely self-made — no cheat skill, no system, just hard lessons paid for in death after death after death.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### 5. Second Life Ranker — Our Score: 8.5/10
 
@@ -55,7 +55,7 @@ Yeonwoo discovers his twin brother died inside the Tower — betrayed by teammat
 
 **Why it's great:** The revenge premise is executed without sentimentality. Yeonwoo's grief is real, his methods are brutal, and the Tower's political depth keeps the vengeance from ever feeling hollow or repetitive.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 6. A Returner's Magic Should Be Special — Our Score: 8.4/10
 
@@ -63,7 +63,7 @@ Desir Arman survived the Shadow Labyrinth — humanity's final catastrophe — a
 
 **Why it's great:** The tension between Desir's warm exterior and his calculating manipulation is consistently compelling. He's the most dangerous person in every room and the only one who knows it.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 7. The Villainess Turns the Hourglass — Our Score: 8.3/10
 
@@ -71,7 +71,7 @@ Aria lived in luxury after her mother married into nobility — until her stepsi
 
 **Why it's great:** Aria's transformation from victim to calculating antihero is methodical and deeply satisfying. She adopts the dirty tricks used against her, improves on them, and dismantles her enemies' schemes with surgical precision.
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### 8. The Max Level Hero Strikes Back — Our Score: 8.2/10
 
@@ -79,7 +79,7 @@ Prince Davey is powerless in a world where strength is everything, struck down b
 
 **Why it's great:** The gap between what people think Davey is and what he actually is gets milked for everything it's worth. His deliberate choice to play helpless until exactly the right moment is endlessly entertaining.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### 9. Villains Are Destined to Die — Our Score: 8.0/10
 
@@ -87,7 +87,7 @@ Penelope Eckart wakes up inside a reverse harem dating sim as the villainess ado
 
 **Why it's great:** The genre subversion hits hard. Penelope is designed to be unsympathetic, but the game-within-a-story structure makes her increasingly desperate choices feel completely rational — which is exactly what makes you root for her unconditionally.
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ## Sources Checked
 

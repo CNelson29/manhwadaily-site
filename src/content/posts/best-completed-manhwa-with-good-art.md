@@ -25,7 +25,7 @@ Six of the eight entries on this list are fully completed, making them perfect b
 
 **Our score: 9.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
 
 ### 2. The Villainess Turns the Hourglass — 9.2/10
 
@@ -35,7 +35,7 @@ Six of the eight entries on this list are fully completed, making them perfect b
 
 **Our score: 9.2/10**
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Villainess+Turns+the+Hourglass)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Villainess+Turns+the+Hourglass)
 
 ### 3. Who Made Me a Princess — 9.0/10
 
@@ -45,7 +45,7 @@ Six of the eight entries on this list are fully completed, making them perfect b
 
 **Our score: 9.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
 
 ### 4. Beware the Villainess! — 8.8/10
 
@@ -55,7 +55,7 @@ Six of the eight entries on this list are fully completed, making them perfect b
 
 **Our score: 8.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Beware+the+Villainess%21)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Beware+the+Villainess%21)
 
 ### 5. The Monstrous Duke's Adopted Daughter — 8.7/10
 
@@ -65,7 +65,7 @@ Six of the eight entries on this list are fully completed, making them perfect b
 
 **Our score: 8.7/10**
 
-[Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Monstrous+Duke%27s+Adopted+Daughter)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Monstrous+Duke%27s+Adopted+Daughter)
 
 ### 6. A Returner's Magic Should Be Special — 8.5/10
 
@@ -75,7 +75,7 @@ Six of the eight entries on this list are fully completed, making them perfect b
 
 **Our score: 8.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
 
 ### 7. The Fantasie of a Stepmother — 8.5/10
 
@@ -85,7 +85,7 @@ Six of the eight entries on this list are fully completed, making them perfect b
 
 **Our score: 8.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/73886188-f459-4b80-8781-66a60520b420) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Fantasie+of+a+Stepmother)
+[Read on Tapas](https://tapas.io/series/the-fantasie-of-a-stepmother/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Fantasie+of+a+Stepmother)
 
 ### 8. This Villainess Wants a Divorce! — 8.3/10
 
@@ -95,7 +95,7 @@ Six of the eight entries on this list are fully completed, making them perfect b
 
 **Our score: 8.3/10**
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=This+Villainess+Wants+a+Divorce%21)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=This+Villainess+Wants+a+Divorce%21)
 
 ## Sources Checked
 - [15 Best Completed Manhwa No Fan Can Skip — Screen Rant](https://screenrant.com/best-completed-manhwa/)

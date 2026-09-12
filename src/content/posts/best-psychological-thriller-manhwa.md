@@ -6,7 +6,7 @@ category: "Thriller"
 tags: ["psychological thriller", "thriller manhwa", "horror manhwa", "dark manhwa", "must-read manhwa"]
 type: "rankings"
 image: "/images/posts/best-psychological-thriller-manhwa-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## The Mind Is the Real Monster
@@ -31,7 +31,7 @@ Dokja spent years reading the web novel *Three Ways to Survive the Apocalypse* �
 
 **Why it's great:** It's an intellectual thriller wrapped in apocalyptic action. Dokja's omniscience is a trap as much as a tool — the psychological weight compounds across every arc.
 
-[Read on MangaDex →](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON →](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 3. Sweet Home — Our Score: 8.8/10
 
@@ -55,7 +55,7 @@ Gongja Kim lives at the bottom of the Tower's hunter hierarchy — until he copi
 
 **Why it's great:** The psychological deterioration is as carefully drawn as the power fantasy. Tagged "Psychological" in its official MangaDex genres — one of the few action manhwa that actually earns the label.
 
-[Read on MangaDex →](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas →](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 6. My Deepest Secret — Our Score: 8.1/10
 

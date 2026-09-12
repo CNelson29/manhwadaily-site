@@ -23,7 +23,7 @@ Sung Jinwoo starts as the weakest E-rank hunter alive — cannon fodder who surv
 
 **Our score: 9.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### #2 — A Returner's Magic Should Be Special
 
@@ -33,7 +33,7 @@ Desir Arman is one of the last six survivors of humanity, facing an impossible f
 
 **Our score: 8.6/10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #3 — The Greatest Estate Developer
 
@@ -53,7 +53,7 @@ Aria lived in luxury after her mother's marriage into nobility, then dies betray
 
 **Our score: 8.3/10**
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### #5 — Beware the Villainess!
 
@@ -63,7 +63,7 @@ A modern woman wakes up as Melissa, the villainess of a romance novel, surrounde
 
 **Our score: 8.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### #6 — This Villainess Wants a Divorce!
 
@@ -73,7 +73,7 @@ Canaria reincarnates as the villain of a novel destined to be executed by her ow
 
 **Our score: 7.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #7 — The Monstrous Duke's Adopted Daughter
 
@@ -83,7 +83,7 @@ Leslie has been exploited her entire life by a noble family that only valued her
 
 **Our score: 7.6/10**
 
-[Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ## Still Ongoing — Worth Starting Now
 
@@ -95,7 +95,7 @@ Dokja Kim is the only person who has read the web novel that just became reality
 
 **Our score: 9.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### SSS-Class Revival Hunter *(Ongoing)*
 
@@ -103,7 +103,7 @@ Gongja Kim gains the ability to copy the last skill used on him — so when the 
 
 **Our score: 8.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### Second Life Ranker *(On hiatus)*
 
@@ -111,7 +111,7 @@ Yeonwoo discovers his twin brother was betrayed and murdered inside a mysterious
 
 **Our score: 8.2/10**
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ## Sources Checked
 - [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)

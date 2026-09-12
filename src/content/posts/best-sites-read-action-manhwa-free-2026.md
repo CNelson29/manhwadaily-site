@@ -43,49 +43,49 @@ ManhwaTracker is not a reading platform — it is a discovery engine. The commun
 
 ### Solo Leveling — Editor score: 9.5/10
 
-After a gate connecting the real world to a monster realm opens, ordinary hunter Sung Jinwoo is left for dead — until a mysterious system begins leveling him alone. Completed at 179 chapters, it is the genre-defining power fantasy and the perfect entry point for anyone new to action manhwa. [Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+After a gate connecting the real world to a monster realm opens, ordinary hunter Sung Jinwoo is left for dead — until a mysterious system begins leveling him alone. Completed at 179 chapters, it is the genre-defining power fantasy and the perfect entry point for anyone new to action manhwa. 
 
 **Why we love it:** Clean power progression, spectacular fight choreography, and a satisfying conclusion. One of the few series that fully earns its reputation.
 
 ### Omniscient Reader's Viewpoint — Editor score: 9.3/10
 
-Office worker Dokja's favorite web novel suddenly becomes reality — and he is the only person alive who knows how the story ends. The result is one of the most intellectually layered action manhwa written, equal parts strategic thriller and apocalyptic spectacle. [Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
+Office worker Dokja's favorite web novel suddenly becomes reality — and he is the only person alive who knows how the story ends. The result is one of the most intellectually layered action manhwa written, equal parts strategic thriller and apocalyptic spectacle. [Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
 
 **Why we love it:** The meta-narrative is genuinely clever, the protagonist earns every win, and the emotional stakes are surprisingly high for an action series.
 
 ### SSS-Class Revival Hunter — Editor score: 9.0/10
 
-In a Tower full of legendary hunters, Gongja Kim is a nobody — until he copies a skill that lets him rewind time after death. Each loop he grows stronger, using information asymmetry to reverse humiliations into crushing victories. A masterclass in revenge-fantasy pacing. [Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
+In a Tower full of legendary hunters, Gongja Kim is a nobody — until he copies a skill that lets him rewind time after death. Each loop he grows stronger, using information asymmetry to reverse humiliations into crushing victories. A masterclass in revenge-fantasy pacing. [Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
 
 **Why we love it:** The time-loop mechanic stays fresh because the protagonist weaponizes knowledge rather than brute force. One of the freshest concepts in recent action manhwa.
 
 ### A Returner's Magic Should Be Special — Editor score: 8.7/10
 
-Sole survivor Desir Arman is sent back in time before humanity's extinction event and enters a magic academy to rewrite fate, armed with knowledge of every mistake the world is about to make. Completed, so you can binge the entire arc without waiting. [Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+Sole survivor Desir Arman is sent back in time before humanity's extinction event and enters a magic academy to rewrite fate, armed with knowledge of every mistake the world is about to make. Completed, so you can binge the entire arc without waiting. 
 
 **Why we love it:** Balances tactical magic battles with genuine character growth. The completed status makes it ideal for a weekend binge.
 
 ### Second Life Ranker — Editor score: 8.5/10
 
-Yeonwoo discovers his twin brother was betrayed and murdered inside a mysterious Tower. He enters it with his brother's journal and climbs toward the top to take revenge. Darker and more methodical than most action manhwa. [Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+Yeonwoo discovers his twin brother was betrayed and murdered inside a mysterious Tower. He enters it with his brother's journal and climbs toward the top to take revenge. Darker and more methodical than most action manhwa. [Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 **Why we love it:** The revenge plot is tight, the tower-climbing structure gives clear stakes at every floor, and the power system is one of the most creative in the genre.
 
 ### The Skeleton Soldier Failed to Defend the Dungeon — Editor score: 8.4/10
 
-A humble skeleton soldier watches his master die — then wakes at the start of the timeline with all his memories. A darker, more melancholic take on the time-loop action formula that prioritizes emotional weight over raw power fantasy. [Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+A humble skeleton soldier watches his master die — then wakes at the start of the timeline with all his memories. A darker, more melancholic take on the time-loop action formula that prioritizes emotional weight over raw power fantasy. 
 
 **Why we love it:** The core of a lowly undead soldier's loyalty to someone who cannot remember him makes this stand apart from every other reset-loop manhwa.
 
 ### The Max Level Hero Strikes Back — Editor score: 8.2/10
 
-Powerless Prince Davey is struck by an arrow and falls into a coma. His soul travels to the Hall of Heroes where the greatest warriors who ever lived train him for centuries. He wakes up in a body everyone still underestimates — and then dismantles that assumption. [Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+Powerless Prince Davey is struck by an arrow and falls into a coma. His soul travels to the Hall of Heroes where the greatest warriors who ever lived train him for centuries. He wakes up in a body everyone still underestimates — and then dismantles that assumption. 
 
 **Why we love it:** The hidden-strength reveal premise is executed with satisfying patience, and the fights are well-choreographed once the gloves come off.
 
 ### Beware the Villainess! — Editor score: 8.0/10
 
-A modern woman wakes up as Melissa, the villain of a romance novel, and immediately decides to throw out the cliché script. Sharp, funny, and packed with action-adjacent confrontations as she dismantles every bad trope in the story she has been dropped into. Completed. [Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+A modern woman wakes up as Melissa, the villain of a romance novel, and immediately decides to throw out the cliché script. Sharp, funny, and packed with action-adjacent confrontations as she dismantles every bad trope in the story she has been dropped into. Completed. [Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 **Why we love it:** A satirical deconstruction of isekai tropes that doubles as a genuinely enjoyable action-comedy. Worth the whole run.
 

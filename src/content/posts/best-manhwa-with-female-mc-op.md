@@ -23,7 +23,7 @@ Aria, framed and executed for crimes she did not commit, awakens with a magical 
 
 **Why it stands out:** The time-reversal mechanic is used with unusual precision. Aria does not soften after her second chance — she becomes a tactician, and watching her outplay opponents who believe they have the upper hand is deeply satisfying. One of the most complete revenge arcs in villainess manhwa.
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The%20Villainess%20Turns%20the%20Hourglass)
+ · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The%20Villainess%20Turns%20the%20Hourglass)
 
 ### 2. Beware the Villainess! — Our Score: 8.8/10
 
@@ -31,7 +31,7 @@ A modern woman wakes up inside a clichéd romance novel as Melissa, the story's 
 
 **Why it stands out:** The comedic tone masks genuinely sharp writing. Melissa does not just survive — she dismantles every problematic trope the original story was built on, making her one of the most subversive OP protagonists in the genre. A clever deconstruction of the villainess isekai formula with an MC who has real agency.
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Beware%20the%20Villainess)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Beware%20the%20Villainess)
 
 ### 3. Villains Are Destined to Die — Our Score: 8.6/10
 
@@ -39,7 +39,7 @@ Penelope Eckart reincarnates as the adopted daughter and designated villainess i
 
 **Why it stands out:** The hard mode framing is brilliant — Penelope can never truly relax, which keeps tension high while letting her game knowledge function as genuine OP power. She is playing chess while everyone else thinks they are playing checkers. High-stakes villainess survival at its best.
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains%20Are%20Destined%20to%20Die)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains%20Are%20Destined%20to%20Die)
 
 ### 4. Who Made Me a Princess — Our Score: 8.5/10
 
@@ -47,7 +47,7 @@ Athanasia wakes up as the princess of a novel — the one destined to die at the
 
 **Why it stands out:** The emotional depth separates this from similar premise stories. Athanasia is not just surviving — she is genuinely winning her father's love, creating a slow-burn payoff that hits harder than most action-oriented power fantasies. The art is among the best in the genre.
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who%20Made%20Me%20a%20Princess)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who%20Made%20Me%20a%20Princess)
 
 ### 5. I Shall Master This Family — Our Score: 8.4/10
 
@@ -55,7 +55,7 @@ Firentia, born of a Lombardi noble and a peasant, reincarnates with memories of 
 
 **Why it stands out:** Firentia's OP quality is entirely strategic — not the strongest fighter in the room, but a mastermind who executes long-term plans with precision. The political maneuvering and family restoration arc make this one of the most satisfying slow-burn power fantasies with a female lead.
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### 6. This Villainess Wants a Divorce! — Our Score: 8.3/10
 
@@ -63,7 +63,7 @@ Reincarnated as Canaria, a villainess destined to be executed by her own husband
 
 **Why it stands out:** The singular, practical goal — not revenge, not saving the world, just a divorce — makes this refreshing. Canaria's OP quality is her focus in a world designed to confuse her, and navigating court politics with that lens is consistently entertaining and surprisingly funny.
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### 7. The Monstrous Duke's Adopted Daughter — Our Score: 8.2/10
 
@@ -71,7 +71,7 @@ Leslie, treated as a tool her entire life, is adopted into a powerful noble fami
 
 **Why it stands out:** Leslie's power comes from resourcefulness and emotional resilience rather than magic or foreknowledge, which makes her arc feel genuinely earned. One of the more believable OP female leads in the genre — her victories feel like victories because she worked for them.
 
-[Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ### 8. The Fantasie of a Stepmother — Our Score: 8.0/10
 
@@ -79,7 +79,7 @@ Shuri, widowed young and left to manage an enormous estate and four stepchildren
 
 **Why it stands out:** This is OP in the quietest possible sense. Watching Shuri earn the genuine respect of her household and navigate noble society purely through excellence is satisfying in a different way from the usual power-fantasy formula — competence as a superpower, executed with care.
 
-[Read on MangaDex](https://mangadex.org/title/73886188-f459-4b80-8781-66a60520b420)
+[Read on Tapas](https://tapas.io/series/the-fantasie-of-a-stepmother/info)
 
 ## How We Define OP for Female MCs
 
@@ -92,4 +92,3 @@ Most of these titles are isekai or reincarnation stories, which is where the gen
 - [Romance Manhwa with an OP Female MC — BestInRomance](https://bestinromance.com/romance-manhwa-with-an-op-female-mc-16-recommendations/)
 - [Best Isekai Manhwa With OP Female MC — Game Rant](https://gamerant.com/best-isekai-manhwa-with-op-female-mc/)
 - [Badass Female Protagonists After Reincarnation — CBR](https://www.cbr.com/best-manhwas-female-protagonists-badass-after-reincarnation/)
-- [MangaDex — verified title pages](https://mangadex.org)

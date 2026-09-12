@@ -33,7 +33,7 @@ Top student Yeonsu Guk and dead-last ranked Wung Choi are polar opposites who wo
 
 **Our rating: 9.0/10**
 
-### 3. [The Villainess Turns the Hourglass](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+### 3. The Villainess Turns the Hourglass
 
 Aria clawed her way up from poverty when her mother married a Count, only to be executed because of her stepsister Mielle's scheming. Given a second chance through a magical hourglass, she returns to the past determined to repay every cruelty in kind — with patience, precision, and a cold smile. The romance develops almost as a byproduct of her revenge arc, which makes it all the more satisfying when real feelings finally surface. This is a completed series, ready to binge from start to finish.
 
@@ -57,7 +57,7 @@ Hong Seol is a diligent scholarship student who can't quite figure out Yoo Jung,
 
 **Our rating: 8.8/10**
 
-### 6. [Villains Are Destined to Die](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+### 6. [Villains Are Destined to Die](https://tapas.io/series/villains-are-destined-to-die/info)
 
 Penelope Eckart woke up inside the hardest difficulty setting of a reverse-harem dating sim as the designated villainess — and unlike a typical game, choosing wrong here means actual death. With multiple male leads orbiting her and none of them fully trustworthy, every relationship develops under pressure and suspicion. The slow burn here is threaded through survival instinct, which makes every romantic moment feel genuinely stolen rather than scripted.
 
@@ -73,7 +73,7 @@ After being blindsided by her ex-boyfriend's engagement to her half-sister, Yeom
 
 **Our rating: 8.3/10**
 
-### 8. [I Shall Master This Family](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+### 8. [I Shall Master This Family](https://tapas.io/series/i-shall-master-this-family/info)
 
 Firentia — born of a Lombardi noble and a commoner — watched her family's empire crumble and herself fall to ruin. Reborn with the chance to change everything, she sets out to master the political machinery of the Lombardi household before it's too late. The romance in this series develops slowly inside a story primarily about power and survival, which gives any eventual feelings an earned quality that pure romance titles sometimes lack.
 
@@ -81,7 +81,7 @@ Firentia — born of a Lombardi noble and a commoner — watched her family's em
 
 **Our rating: 8.2/10**
 
-### 9. [The Fantasie of a Stepmother](https://mangadex.org/title/73886188-f459-4b80-8781-66a60520b420)
+### 9. [The Fantasie of a Stepmother](https://tapas.io/series/the-fantasie-of-a-stepmother/info)
 
 Known as the Iron Widow, Shuri inherits both a vast estate and four stepchildren after her husband's death — young, inexperienced, and entirely unprepared for either responsibility. The series earns its slow-burn reputation through restraint: this is adult romance that develops through duty, care, and proximity rather than manufactured drama. It is the quietest entry on this list, and arguably the most emotionally precise.
 
@@ -89,7 +89,7 @@ Known as the Iron Widow, Shuri inherits both a vast estate and four stepchildren
 
 **Our rating: 8.0/10**
 
-### 10. [Who Made Me a Princess](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+### 10. [Who Made Me a Princess](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 Reborn as the daughter of a cold emperor who — in the novel she once read — is destined to kill his own child, the protagonist's first priority is sheer survival. The slow burn operates on two registers: the gradual thawing of a father-daughter bond that shouldn't exist, and the quieter romantic thread that emerges across a long arc of rebuilding trust in a hostile world. A lighter entry on this list, but no less affecting for it.
 

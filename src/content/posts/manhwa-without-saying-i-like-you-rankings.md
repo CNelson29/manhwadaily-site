@@ -25,7 +25,7 @@ The manhwa that brought you here. A spin-the-bottle game among newly-adult frien
 
 **Our score: 9.2/10**
 
-[Find on MangaDex](https://mangadex.org/search?q=Without+Saying+I+Like+You) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Without+Saying+I+Like+You)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=Without+Saying+I+Like+You)
 
 ### #2 — Who Made Me a Princess
 
@@ -35,7 +35,7 @@ A woman reincarnates as Athanasia — princess of a kingdom, daughter of an ice-
 
 **Our score: 8.9/10**
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ### #3 — Villains Are Destined to Die
 
@@ -45,7 +45,7 @@ Penelope Eckart reincarnates as the reviled villainess of a reverse-harem dating
 
 **Our score: 8.7/10**
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### #4 — The Villainess Turns the Hourglass
 
@@ -55,7 +55,7 @@ After her stepsister engineers her execution, Aria rewinds time and returns with
 
 **Our score: 8.6/10**
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### #5 — Beware the Villainess!
 
@@ -65,7 +65,7 @@ A modern-day woman reincarnates as Melissa, the story's designated villain — a
 
 **Our score: 8.4/10**
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### #6 — This Villainess Wants a Divorce!
 
@@ -75,7 +75,7 @@ Canaria wakes up in a novel as its villain — already married to the male lead 
 
 **Our score: 8.2/10**
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #7 — The Monstrous Duke's Adopted Daughter
 
@@ -85,7 +85,7 @@ Leslie has spent her life being deployed as a pawn for her family's ambitions. A
 
 **Our score: 8.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ### #8 — The Fantasie of a Stepmother
 
@@ -95,7 +95,7 @@ Widowed young and left to manage her late husband's holdings and four children w
 
 **Our score: 7.9/10**
 
-[Read on MangaDex](https://mangadex.org/title/73886188-f459-4b80-8781-66a60520b420)
+[Read on Tapas](https://tapas.io/series/the-fantasie-of-a-stepmother/info)
 
 ### #9 — I Shall Master This Family
 
@@ -105,7 +105,7 @@ Firentia was born between two worlds and dismissed in both. After reincarnating 
 
 **Our score: 7.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ## Sources Checked
 - [Without Saying I Like You — atsu.moe](https://atsu.moe/manga/IulP)

@@ -23,7 +23,7 @@ The manhwa that arguably put Korean webcomics on the global map, Solo Leveling f
 
 **Rating: 9.5/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Solo+Leveling) · [MangaDex](https://mangadex.org/search?q=Solo+Leveling) · [Tapas](https://tapas.io/search?q=Solo+Leveling)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Solo+Leveling) · [Tapas](https://tapas.io/search?q=Solo+Leveling)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -35,7 +35,7 @@ King Grey is reincarnated into a magical world as Arthur Leywin, carrying memori
 
 **Rating: 9.0/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Beginning+After+the+End) · [MangaDex](https://mangadex.org/search?q=The+Beginning+After+the+End) · [Tapas](https://tapas.io/search?q=The+Beginning+After+the+End)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Beginning+After+the+End) · [Tapas](https://tapas.io/search?q=The+Beginning+After+the+End)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Beginning+After+the+End+manga+volume+1&tag=manhwadaily-20)
 
@@ -47,7 +47,7 @@ After discovering his twin brother was betrayed and murdered in a hidden dungeon
 
 **Rating: 8.8/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Second+Life+Ranker) · [MangaDex](https://mangadex.org/search?q=Second+Life+Ranker) · [Tapas](https://tapas.io/search?q=Second+Life+Ranker)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Second+Life+Ranker) · [Tapas](https://tapas.io/search?q=Second+Life+Ranker)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Second+Life+Ranker+manga+volume+1&tag=manhwadaily-20)
 
@@ -59,7 +59,7 @@ Grid, a down-on-his-luck gamer, discovers an overpowered legendary class in a VR
 
 **Rating: 8.7/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Overgeared) · [MangaDex](https://mangadex.org/search?q=Overgeared) · [Tapas](https://tapas.io/search?q=Overgeared)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Overgeared) · [Tapas](https://tapas.io/search?q=Overgeared)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Overgeared+manga+volume+1&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ A boy with super-speed and a cranky, genius cat-turned-human hiding in a feline 
 
 **Rating: 8.6/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Eleceed) · [MangaDex](https://mangadex.org/search?q=Eleceed) · [Tapas](https://tapas.io/search?q=Eleceed)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Eleceed) · [Tapas](https://tapas.io/search?q=Eleceed)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Eleceed+manga+volume+1&tag=manhwadaily-20)
 
@@ -83,7 +83,7 @@ Desir Herrman survives the catastrophic Shadow Labyrinth only to be sent back in
 
 **Rating: 8.5/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=A+Returner%27s+Magic+Should+Be+Special) · [MangaDex](https://mangadex.org/search?q=A+Returner%27s+Magic+Should+Be+Special) · [Tapas](https://tapas.io/search?q=A+Returner%27s+Magic+Should+Be+Special)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=A+Returner%27s+Magic+Should+Be+Special) · [Tapas](https://tapas.io/search?q=A+Returner%27s+Magic+Should+Be+Special)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=A+Returner%27s+Magic+Should+Be+Special+manga+volume+1&tag=manhwadaily-20)
 
@@ -95,7 +95,7 @@ Twenty-Fifth Bam enters a mysterious tower to chase his only friend Rachel, clim
 
 **Rating: 9.2/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Tower+of+God) · [MangaDex](https://mangadex.org/search?q=Tower+of+God) · [Tapas](https://tapas.io/search?q=Tower+of+God)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Tower+of+God) · [Tapas](https://tapas.io/search?q=Tower+of+God)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Tower+of+God+manga+volume+1&tag=manhwadaily-20)
 
@@ -107,7 +107,7 @@ A reader of a fantasy novel gets transmigrated into the body of a minor villain,
 
 **Rating: 8.9/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Trash+of+the+Count%27s+Family) · [MangaDex](https://mangadex.org/search?q=Trash+of+the+Count%27s+Family) · [Tapas](https://tapas.io/search?q=Trash+of+the+Count%27s+Family)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Trash+of+the+Count%27s+Family) · [Tapas](https://tapas.io/search?q=Trash+of+the+Count%27s+Family)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Trash+of+the+Count%27s+Family+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Trash+of+the+Count%27s+Family+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -119,7 +119,7 @@ Lee Sunghoon, a low-ranked hunter hiding his true powers while working a dangero
 
 **Rating: 8.2/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I+Am+the+Sorcerer+King) · [MangaDex](https://mangadex.org/search?q=I+Am+the+Sorcerer+King) · [Tapas](https://tapas.io/search?q=I+Am+the+Sorcerer+King)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I+Am+the+Sorcerer+King) · [Tapas](https://tapas.io/search?q=I+Am+the+Sorcerer+King)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=I+Am+the+Sorcerer+King+manga+volume+1&tag=manhwadaily-20)
 
@@ -131,7 +131,7 @@ The number one player in the most popular VRMMO loses everything — his stats, 
 
 **Rating: 8.3/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Hardcore+Leveling+Warrior) · [MangaDex](https://mangadex.org/search?q=Hardcore+Leveling+Warrior) · [Tapas](https://tapas.io/search?q=Hardcore+Leveling+Warrior)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Hardcore+Leveling+Warrior) · [Tapas](https://tapas.io/search?q=Hardcore+Leveling+Warrior)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Hardcore+Leveling+Warrior+manga+volume+1&tag=manhwadaily-20)
 

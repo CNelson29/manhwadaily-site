@@ -23,7 +23,7 @@ Sung Jin-Woo is the weakest hunter alive, ridiculed and nearly killed on every m
 
 **Why it's great:** If TBATE hooked you on watching a protagonist's power curve climb in real time, Solo Leveling is the gold standard — plus it's the single most-searched comparison title for TBATE fans.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling) | [MangaDex](https://mangadex.org/search?q=Solo+Leveling) | [Tapas](https://tapas.io/search?q=Solo+Leveling) | [Amazon (manhwa)](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Solo+Leveling+light+novel&tag=manhwadaily-20)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling) | [Tapas](https://tapas.io/search?q=Solo+Leveling) | [Amazon (manhwa)](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Solo+Leveling+light+novel&tag=manhwadaily-20)
 
 ### 2. Omniscient Reader's Viewpoint — 9.4/10
 
@@ -31,7 +31,7 @@ Dokja is the only reader who finished the obscure web novel that just became rea
 
 **Why it's great:** Like TBATE, it rewards patient readers with payoff after payoff — the worldbuilding and character arcs are some of the densest in modern manhwa.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader) | [MangaDex](https://mangadex.org/search?q=Omniscient+Reader) | [Tapas](https://tapas.io/search?q=Omniscient+Reader) | [Amazon (manhwa)](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+light+novel&tag=manhwadaily-20)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader) | [Tapas](https://tapas.io/search?q=Omniscient+Reader) | [Amazon (manhwa)](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+light+novel&tag=manhwadaily-20)
 
 ### 3. Doom Breaker — 9.0/10
 
@@ -39,7 +39,7 @@ Zephyr is the strongest human alive, but the gods who watched him die in battle 
 
 **Why it's great:** The art and world-building are frequently called on par with TBATE, and the regression hook gives it a sharper, more vengeful edge.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Doom+Breaker) | [MangaDex](https://mangadex.org/search?q=Doom+Breaker) | [Tapas](https://tapas.io/search?q=Doom+Breaker) | [Amazon (manhwa)](https://www.amazon.com/s?k=Doom+Breaker+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Doom+Breaker+light+novel&tag=manhwadaily-20)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Doom+Breaker) | [Tapas](https://tapas.io/search?q=Doom+Breaker) | [Amazon (manhwa)](https://www.amazon.com/s?k=Doom+Breaker+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Doom+Breaker+light+novel&tag=manhwadaily-20)
 
 ### 4. Infinite Mage — 8.8/10
 
@@ -47,7 +47,7 @@ In a world where math literally shapes the laws of magic, a late-blooming genius
 
 **Why it's great:** TBATE fans who loved Arthur's academy years will recognize the same mix of friendship, rivalry, and a protagonist quietly outclassing everyone around him.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Infinite+Mage) | [MangaDex](https://mangadex.org/search?q=Infinite+Mage) | [Tapas](https://tapas.io/search?q=Infinite+Mage) | [Amazon (manhwa)](https://www.amazon.com/s?k=Infinite+Mage+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Infinite+Mage+light+novel&tag=manhwadaily-20)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Infinite+Mage) | [Tapas](https://tapas.io/search?q=Infinite+Mage) | [Amazon (manhwa)](https://www.amazon.com/s?k=Infinite+Mage+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Infinite+Mage+light+novel&tag=manhwadaily-20)
 
 ### 5. The Swordmaster's Youngest Son — 8.7/10
 
@@ -55,7 +55,7 @@ A washed-up gamer gets reincarnated as the most useless son of a legendary sword
 
 **Why it's great:** The training-arc payoff structure mirrors TBATE almost beat for beat, and the family dynamics add emotional stakes beyond just power fantasy.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=The+Swordmaster%27s+Youngest+Son) | [MangaDex](https://mangadex.org/search?q=Swordmaster%27s+Youngest+Son) | [Tapas](https://tapas.io/search?q=Swordmaster%27s+Youngest+Son) | [Amazon (manhwa)](https://www.amazon.com/s?k=The+Swordmaster%27s+Youngest+Son+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=The+Swordmaster%27s+Youngest+Son+light+novel&tag=manhwadaily-20)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=The+Swordmaster%27s+Youngest+Son) | [Tapas](https://tapas.io/search?q=Swordmaster%27s+Youngest+Son) | [Amazon (manhwa)](https://www.amazon.com/s?k=The+Swordmaster%27s+Youngest+Son+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=The+Swordmaster%27s+Youngest+Son+light+novel&tag=manhwadaily-20)
 
 ### 6. Nano Machine — 8.6/10
 
@@ -63,7 +63,7 @@ The most abused servant of a martial arts clan gets implanted with futuristic na
 
 **Why it's great:** If you want the TBATE power-growth formula but reskinned with **martial arts manhwa** sword and fist combat instead of magic, this is the pick.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Nano+Machine) | [MangaDex](https://mangadex.org/search?q=Nano+Machine) | [Tapas](https://tapas.io/search?q=Nano+Machine) | [Amazon (manhwa)](https://www.amazon.com/s?k=Nano+Machine+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Nano+Machine+light+novel&tag=manhwadaily-20)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Nano+Machine) | [Tapas](https://tapas.io/search?q=Nano+Machine) | [Amazon (manhwa)](https://www.amazon.com/s?k=Nano+Machine+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Nano+Machine+light+novel&tag=manhwadaily-20)
 
 ### 7. Tower of God — 9.2/10
 
@@ -71,7 +71,7 @@ Bam climbs a mysterious, near-infinite tower to chase the one person who mattere
 
 **Why it's great:** The tower's floor-by-floor structure scratches the same "watch the protagonist level up against escalating odds" itch TBATE fans crave, with even richer side-character arcs.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Tower+of+God) | [MangaDex](https://mangadex.org/search?q=Tower+of+God) | [Tapas](https://tapas.io/search?q=Tower+of+God) | [Amazon (manhwa)](https://www.amazon.com/s?k=Tower+of+God+manhwa&tag=manhwadaily-20)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Tower+of+God) | [Tapas](https://tapas.io/search?q=Tower+of+God) | [Amazon (manhwa)](https://www.amazon.com/s?k=Tower+of+God+manhwa&tag=manhwadaily-20)
 
 ### 8. The Greatest Estate Developer — 8.5/10
 
@@ -79,7 +79,7 @@ A modern-day real estate genius wakes up in the body of a deposed lord's incompe
 
 **Why it's great:** If you liked the political and kingdom-building side of TBATE's later arcs more than the fighting, this leans fully into that lane.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=The+Greatest+Estate+Developer) | [MangaDex](https://mangadex.org/search?q=Greatest+Estate+Developer) | [Tapas](https://tapas.io/search?q=Greatest+Estate+Developer) | [Amazon (manhwa)](https://www.amazon.com/s?k=The+Greatest+Estate+Developer+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=The+Greatest+Estate+Developer+light+novel&tag=manhwadaily-20)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=The+Greatest+Estate+Developer) | [Tapas](https://tapas.io/search?q=Greatest+Estate+Developer) | [Amazon (manhwa)](https://www.amazon.com/s?k=The+Greatest+Estate+Developer+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=The+Greatest+Estate+Developer+light+novel&tag=manhwadaily-20)
 
 ### 9. Reincarnator — 8.4/10
 
@@ -87,7 +87,7 @@ A veteran of a brutal, decade-long fight against monsters gets one more chance: 
 
 **Why it's great:** For readers who want TBATE's reincarnation premise pushed into much darker, more mature territory, Reincarnator delivers without softening the stakes.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Reincarnator) | [MangaDex](https://mangadex.org/search?q=Reincarnator) | [Tapas](https://tapas.io/search?q=Reincarnator) | [Amazon (manhwa)](https://www.amazon.com/s?k=Reincarnator+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Reincarnator+light+novel&tag=manhwadaily-20)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Reincarnator) | [Tapas](https://tapas.io/search?q=Reincarnator) | [Amazon (manhwa)](https://www.amazon.com/s?k=Reincarnator+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Reincarnator+light+novel&tag=manhwadaily-20)
 
 ### 10. Return of the Mount Hua Sect — 9.0/10
 
@@ -95,7 +95,7 @@ The strongest swordsman of a dying martial sect dies of exhaustion after winning
 
 **Why it's great:** One of the best-reviewed **martial arts manhua**-style wuxia comics in years — if TBATE's training montages are your favorite part, the sect-rebuilding arc here is just as addictive, and it's a comparatively **short manhwa to read** in big binge-able chunks.
 
-**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Return+of+the+Mount+Hua+Sect) | [MangaDex](https://mangadex.org/search?q=Return+of+the+Mount+Hua+Sect) | [Tapas](https://tapas.io/search?q=Return+of+the+Mount+Hua+Sect) | [Amazon (manhwa)](https://www.amazon.com/s?k=Return+of+the+Mount+Hua+Sect+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Return+of+the+Mount+Hua+Sect+light+novel&tag=manhwadaily-20)
+**Read it:** [Webtoon](https://www.webtoons.com/en/search?keyword=Return+of+the+Mount+Hua+Sect) | [Tapas](https://tapas.io/search?q=Return+of+the+Mount+Hua+Sect) | [Amazon (manhwa)](https://www.amazon.com/s?k=Return+of+the+Mount+Hua+Sect+manhwa&tag=manhwadaily-20) 📚 [Amazon (light novel)](https://www.amazon.com/s?k=Return+of+the+Mount+Hua+Sect+light+novel&tag=manhwadaily-20)
 
 ## Honorable Mentions
 

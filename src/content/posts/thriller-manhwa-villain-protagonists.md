@@ -25,7 +25,7 @@ Gongja Kim spent years in the Tower envying the legendary hunters above him. Whe
 
 The psychological tension is relentless. Gongja's transformation from envious bystander into something genuinely frightening is the kind of arc that keeps you reading past midnight. This is thriller in the truest sense — watching a person choose to become a monster, and finding it mesmerizing. The time-loop structure compounds the dread beautifully.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #2 — Villains Are Destined to Die
 
@@ -35,7 +35,7 @@ Penelope Eckart is reincarnated as the villainess of a brutal reverse-harem dati
 
 The stakes are genuinely life-or-death. Penelope isn't likeable in the traditional sense — she's calculating, often cold — but her desperation is completely understandable. Sources confirm the series completed its full run in 2026 and was announced for a TV anime adaptation. One of the definitive villain-protagonist thrillers in manhwa, with a mechanics-driven tension that never lets up.
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### #3 — The Villainess Turns the Hourglass
 
@@ -45,7 +45,7 @@ Aria was the stepsister who lived a life of borrowed luxury — and paid for it 
 
 This is the rare villainess story that leans fully into its protagonist's darkness. Aria is calculating, patient, and unapologetically ruthless — and the psychological chess match she runs is what makes this a genuine thriller. Watching her turn Mielle's own weapons against her delivers a particular kind of satisfaction that's hard to find anywhere else in the genre.
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### #4 — Omniscient Reader's Viewpoint
 
@@ -55,7 +55,7 @@ Kim Dokja is the sole reader of a web novel that suddenly becomes reality — wh
 
 ORV operates as an apocalyptic thriller with a protagonist who plays villain roles deliberately and with full self-awareness. The meta-narrative layers — a reader who shaped a story now living inside it — make this one of the most psychologically complex manhwa available. The moral ambiguity is genuine, not decorative, and it only deepens the further you read.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### #5 — The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -65,7 +65,7 @@ A nameless skeleton soldier — a weak, disposable undead monster — watches he
 
 The skeleton is technically a monster serving a demon lord. By any definition, he is the villain of someone else's story. That framing — combined with a horror-adjacent atmosphere — puts this firmly in thriller territory. The time-loop mechanic is used to brilliant psychological effect, and the protagonist's slow-burn evolution is one of manhwa's most underrated character arcs.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### #6 — I Shall Master This Family
 
@@ -75,7 +75,7 @@ Firentia is the illegitimate granddaughter of the Lombardi patriarch — overloo
 
 Firentia operates in the space between protagonist and schemer. She's not cruel for cruelty's sake, but she's absolutely willing to destroy anyone who threatens her rebuilt family. This is more political thriller than action series, and the strategic maneuvering is its sharpest asset — every alliance she forges comes loaded with subtext.
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### #7 — This Villainess Wants a Divorce!
 
@@ -85,7 +85,7 @@ Canaria wakes inside a novel as the designated villain — and discovers her can
 
 Lighter in tone than others on this list, but the survival mechanics and Canaria's deliberate manipulation of her circumstances generate genuine thriller tension. It's a self-aware entry that uses the "reading the script" premise more cleverly than most, turning knowledge of the plot into a weapon rather than a comfort.
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #8 — Beware the Villainess!
 
@@ -95,7 +95,7 @@ A modern woman wakes up as Melissa, the story's designated villainess — and im
 
 This is the most satirical entry on the list — the thriller label applies loosely, and it's more comedic villainess deconstruction than genuine suspense. But Melissa's refusal to play the role she was handed makes her one of the most entertaining villain protagonists in the genre, and the sharp, self-aware writing earns its place here for fans who want their anti-heroines with a sense of humor.
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### #9 — Who Made Me a Princess
 
@@ -105,7 +105,7 @@ Athanasia wakes as the doomed princess of a tragic novel — destined to be exec
 
 The thriller tension here is quieter but persistent — every warm interaction with her father is shadowed by knowledge of what the novel says he'll eventually do. The emotional stakes keep this engaging well beyond its soft-romance exterior. It's the gentlest entry on this list, but the underlying dread is very real for anyone who's read far enough to know what's coming.
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ## Sources Checked
 - [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)

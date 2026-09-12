@@ -23,7 +23,7 @@ After reincarnating as Canaria — the villain of a popular cliché novel who is
 
 **Our score: 8.5/10**
 
-[Read on MangaDex →](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #9 — Father, I Don't Want This Marriage
 
@@ -43,7 +43,7 @@ After reincarnating into a romance novel as the assigned villainess, the protago
 
 **Our score: 8.7/10**
 
-[Read on MangaDex →](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas →](https://tapas.io/series/beware-the-villainess/info)
 
 ### #7 — A Returner's Magic Should Be Special
 
@@ -53,7 +53,7 @@ Desir Arman was one of six survivors of the Shadow Labyrinth — humanity's last
 
 **Our score: 8.8/10**
 
-[Read on MangaDex →](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #6 — The Villainess Turns the Hourglass
 
@@ -63,7 +63,7 @@ Aria's privileged life ends in execution, engineered by her stepsister Mielle's 
 
 **Our score: 8.8/10**
 
-[Read on MangaDex →](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### #5 — Trash of the Count's Family
 
@@ -113,7 +113,7 @@ Sung Jinwoo started as the weakest hunter in a world where Gates connect humanit
 
 **Our score: 9.5/10**
 
-[Read on MangaDex →](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Physical volumes on Amazon →](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20)
+[Physical volumes on Amazon →](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20)
 
 ## Sources Checked
 - [Game Rant — Best Complete Isekai Manhwa](https://gamerant.com/best-complete-isekai-manhwa/)

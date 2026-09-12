@@ -23,7 +23,7 @@ The gold standard of OP MC manhwa. Sung Jin-Woo starts as the weakest hunter ali
 
 **Why it's great:** The progression is deliberate and earned. You feel every tier of power. This is the series that defined the OP MC genre for a generation of manhwa readers, and it's still the clearest benchmark for everything that came after.
 
-📖 [Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
+ · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
 
 ### #2 — Omniscient Reader's Viewpoint · Our Score: 9.5/10
 
@@ -31,7 +31,7 @@ Kim Dokja spent years reading a web novel nobody else cared about — then that 
 
 **Why it's great:** This isn't just a power fantasy — it's a meditation on what fiction means to a lonely person. The OP moments hit harder because you understand exactly what they cost him.
 
-📖 [Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
+📖 [Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
 
 ### #3 — The Max Level Hero Strikes Back · Our Score: 9/10
 
@@ -39,7 +39,7 @@ Prince Davey is considered completely useless — until his soul travels to the 
 
 **Why it's great:** The "secretly max-level" trope is executed exceptionally well here. He's not just strong — he's been forged by literal legends. The gap between how others perceive him and what he actually is makes every reveal land perfectly.
 
-📖 [Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
+ · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
 
 ### #4 — SSS-Class Revival Hunter · Our Score: 9/10
 
@@ -47,7 +47,7 @@ Gongja Kim lives a mundane existence envying the top hunters in the Tower — un
 
 **Why it's great:** The power escalation is clever rather than arbitrary. The psychological weight of a man who has died countless times gives this power fantasy unusual depth that most OP MC stories skip entirely.
 
-📖 [Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
+📖 [Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
 
 ### #5 — Second Life Ranker · Our Score: 8.7/10
 
@@ -55,7 +55,7 @@ After learning his twin brother was betrayed and killed inside a secret tower, Y
 
 **Why it's great:** The morally complex MC and strategic depth set it apart from simpler power fantasies. This is the pick for readers who want an OP protagonist who actually thinks. The action is relentless but never brainless.
 
-📖 [Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker)
+📖 [Read on Tapas](https://tapas.io/series/second-life-ranker/info) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker)
 
 ### #6 — A Returner's Magic Should Be Special · Our Score: 8.5/10
 
@@ -63,7 +63,7 @@ Desir Arman is one of six survivors of the Shadow Labyrinth — humanity's worst
 
 **Why it's great:** The regression setup is used smartly — Desir isn't just stronger, he's smarter and haunted by what he witnessed. It's also complete, so you can binge it from start to finish without a single cliffhanger wait.
 
-📖 [Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
+ · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
 
 ### #7 — The Skeleton Soldier Failed to Defend the Dungeon · Our Score: 8.3/10
 
@@ -71,7 +71,7 @@ A skeleton guard fails to protect his master and dies — then resets back in ti
 
 **Why it's great:** The OP-ness is earned loop by loop, making each power spike feel meaningful rather than handed out for free. The emotional attachment to the master he keeps failing to protect gives the power fantasy surprising depth.
 
-📖 [Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
+ · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
 
 ### #8 — I Shall Master This Family · Our Score: 8/10
 
@@ -79,7 +79,7 @@ Firentia reincarnates with memories of her past life — memories of watching he
 
 **Why it's great:** A great pick if you want an overpowered MC in a political rather than combat context. The satisfaction of watching her dismantle the people who once ignored her is immense and deeply earned.
 
-📖 [Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=I+Shall+Master+This+Family)
+📖 [Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info) · [Search on Webtoon](https://www.webtoons.com/en/search?keyword=I+Shall+Master+This+Family)
 
 ## What Makes an OP MC Manhwa Worth Reading?
 

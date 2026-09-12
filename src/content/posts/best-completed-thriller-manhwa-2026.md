@@ -95,7 +95,7 @@ Solo Leveling is not a pure thriller, but its opening survival arc — an underp
 
 **Our score: 9.0/10.** Not a thriller first, but the best gateway completed manhwa for readers just arriving at the genre.
 
-[Read Solo Leveling on MangaDex →](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ## Sources Checked
 - [Best Thriller Manhwa: 10 Series Ranked by Tension — ChapterBrief](https://www.chapterbrief.net/blog/best-thriller-manhwa)

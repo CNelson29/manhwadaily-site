@@ -52,7 +52,7 @@ The series that introduced most Western readers to manhwa. Set in a world where 
 
 **Why it's great:** Unmatched power-fantasy pacing, spectacular set pieces, and a completed arc that sticks the landing.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 2. Omniscient Reader's Viewpoint — Our score: 9.3/10
 
@@ -60,7 +60,7 @@ An average office worker discovers that the web novel he's been obsessively read
 
 **Why it's great:** Intelligent, emotionally rich, and consistently subversive. One of the most acclaimed manhwa ever written.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 3. Who Made Me a Princess — Our score: 8.8/10
 
@@ -68,7 +68,7 @@ Reincarnated as a princess destined to be murdered by her own father, the protag
 
 **Why it's great:** Charming, beautifully drawn, and emotionally earned. The father-daughter dynamic is genuinely touching.
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ### 4. The Villainess Turns the Hourglass — Our score: 8.7/10
 
@@ -76,7 +76,7 @@ After living a privileged but hollow life and dying unjustly, Aria is sent back 
 
 **Why it's great:** A tightly plotted revenge arc with a morally complex protagonist and a fully delivered ending.
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### 5. Villains Are Destined to Die — Our score: 8.6/10
 
@@ -84,7 +84,7 @@ Penelope wakes up inside a dating sim as the villainess locked into its hardest 
 
 **Why it's great:** High stakes from chapter one, a protagonist who earns every small win, and a story that genuinely earns its tension.
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ### 6. Beware the Villainess! — Our score: 8.4/10
 
@@ -92,7 +92,7 @@ Reincarnated into a romance novel as the villain, the protagonist decides she wa
 
 **Why it's great:** Smart satire with consistent comedic timing and a protagonist who refuses to play by the rules of her own story.
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### 7. A Returner's Magic Should Be Special — Our score: 8.3/10
 
@@ -100,7 +100,7 @@ One of six survivors of humanity's last stand returns to the past with foreknowl
 
 **Why it's great:** Tight story structure, a strong supporting cast, and the rare virtue of actually finishing what it started.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 8. This Villainess Wants a Divorce! — Our score: 8.2/10
 
@@ -108,7 +108,7 @@ Reincarnated as the villain destined to be executed by her husband, the protagon
 
 **Why it's great:** Light-hearted, brisk, and entertaining — a good palate cleanser between heavier series.
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ## The Short Answer
 

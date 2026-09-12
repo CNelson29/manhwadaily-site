@@ -23,7 +23,7 @@ The Skeleton Soldier begins as a loyal, humble fighter sworn to protect Lady Suc
 
 **Why it's great:** The gradual erosion of the skeleton's innocence is one of manhwa's most compelling character arcs. Watching loyalty curdle into something darker — without ever fully extinguishing that kernel of devotion — makes every chapter hit harder than the last.
 
-**Our score: 9.1/10** — [Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+**Our score: 9.1/10** — 
 
 ### 2. SSS-Class Revival Hunter
 
@@ -31,7 +31,7 @@ Gongja Kim was just another low-ranked hunter envying the stars of the Tower unt
 
 **Why it's great:** The revenge fantasy is executed with rare psychological depth. Gongja doesn't just want to win — he wants his killer to feel every ounce of the helplessness he once endured. That obsession quietly remakes him into the very thing he once feared.
 
-**Our score: 9.2/10** — [Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+**Our score: 9.2/10** — [Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 3. Omniscient Reader's Viewpoint
 
@@ -39,7 +39,7 @@ Dokja Kim is the sole reader of a web novel that suddenly becomes reality. Armed
 
 **Why it's great:** Dokja's moral compass doesn't break — it bends deliberately. His choices grow increasingly dark, but always with a cold logic that's hard to argue against. It's a masterclass in writing a protagonist you root for even when you probably shouldn't.
 
-**Our score: 9.3/10** — [Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+**Our score: 9.3/10** — [Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 4. Second Life Ranker
 
@@ -47,7 +47,7 @@ Yeonwoo learns his twin brother died inside a deadly interdimensional Tower afte
 
 **Why it's great:** The grief underneath Yeonwoo's ruthlessness keeps him human even as his methods become brutal. Watching him absorb the powers of gods and demons while never quite losing his brother's memory makes this one of the most emotionally grounded evil-MC stories in the genre.
 
-**Our score: 8.9/10** — [Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+**Our score: 8.9/10** — [Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 5. Descent of the Demonic Master
 
@@ -63,7 +63,7 @@ Sung Jin-Woo starts as the weakest hunter alive — someone other hunters bring 
 
 **Why it's great:** Solo Leveling isn't a pure villain story, but Jin-Woo's evolution into something beyond human is one of manhwa's defining arcs. The colder and more powerful he becomes, the more readers debate whether he's still a hero — or just the apex predator in the room.
 
-**Our score: 9.5/10** — [Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+**Our score: 9.5/10** — 
 
 ### 7. Reverse Villain
 
@@ -87,7 +87,7 @@ Aria lived in luxury after her mother's marriage into nobility — until her ste
 
 **Why it's great:** The satisfaction here comes from Aria's total refusal to take the high road. She is the villain, and she makes sure she's a smarter one than the girl who killed her. Every moment of payback is earned, deliberate, and deeply pleasurable to read.
 
-**Our score: 8.8/10** — [Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+**Our score: 8.8/10** — 
 
 ### 10. The Patron of Villains
 
@@ -103,7 +103,7 @@ Penelope Eckart wakes up inside a reverse harem dating sim as the game's villain
 
 **Why it's great:** Penelope isn't evil by choice — she's evil because the game's rules demand it, and she's smart enough to weaponize those rules. Her methodical, desperate intelligence makes her one of the most compelling antiheroines the genre has produced.
 
-**Our score: 8.6/10** — [Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23)
+**Our score: 8.6/10** — [Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info)
 
 ## Sources Checked
 - [10 Best Villain MC Manhwa Ranked — NovelNodes](https://novelnodes.com/best-villain-mc-manhwa/)

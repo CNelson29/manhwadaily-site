@@ -25,7 +25,7 @@ Sung Jinwoo starts as the weakest hunter alive in a world where a mysterious Gat
 
 Our score: **9.8 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
 
 ### #2 — The Max Level Hero Strikes Back — Our Score: 9.4/10
 
@@ -35,7 +35,7 @@ Prince Davey O'Rowane was the kingdom's most powerless royal until an enemy arro
 
 Our score: **9.4 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
 
 ### #3 — Omniscient Reader's Viewpoint — Our Score: 9.3/10
 
@@ -45,7 +45,7 @@ Kim Dokja is an ordinary office worker who spent years reading an obscure web no
 
 Our score: **9.3 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
 
 ### #4 — SSS-Class Revival Hunter — Our Score: 9.1/10
 
@@ -55,7 +55,7 @@ Gongja Kim envied the Tower's star hunters until he awakened a legendary double 
 
 Our score: **9.1 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
 
 ### #5 — A Returner's Magic Should Be Special — Our Score: 8.9/10
 
@@ -65,7 +65,7 @@ Desir Arman is one of only six survivors of the Shadow Labyrinth, humanity's dea
 
 Our score: **8.9 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
 
 ### #6 — Second Life Ranker — Our Score: 8.7/10
 
@@ -75,7 +75,7 @@ Yeon-woo's twin brother was betrayed and killed inside the mysterious Tower, but
 
 Our score: **8.7 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker)
 
 ### #7 — The Skeleton Soldier Failed to Defend the Dungeon — Our Score: 8.5/10
 
@@ -85,7 +85,7 @@ A skeleton soldier loyal to its mistress is killed alongside her and reincarnate
 
 Our score: **8.5 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
 
 ### #8 — Who Made Me a Princess — Our Score: 8.3/10
 
@@ -95,11 +95,10 @@ Reincarnated as the doomed princess of a romance novel she once read, the MC kno
 
 Our score: **8.3 / 10**
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
 
 ## Sources Checked
 
 - [ChapterBrief — Best Manhwa with OP MC (2026)](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
 - [NovelNodes — 10 Best Isekai Manhwa with OP MC](https://novelnodes.com/best-isekai-manhwa-op-mc/)
 - [Reddit r/manhwarecommendations — Peak Popular Manhwa 2026](https://www.reddit.com/r/manhwarecommendations/comments/1q0ic2x/give_me_peak_popular_mahwa_to_make_my_10_manhwa)
-- [MangaDex — Verified Series Data](https://mangadex.org)

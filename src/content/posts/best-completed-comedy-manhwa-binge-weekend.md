@@ -23,7 +23,7 @@ After an accident lands a modern woman inside a clichéd romance novel as its de
 
 **Why it's great:** This is the gold standard for genre-parody comedy in manhwa. It rewards readers who know isekai tropes but works just as well if you don't. Pure comedy engine from first page to last.
 
-[Read on MangaDex →](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas →](https://tapas.io/series/beware-the-villainess/info)
 
 ### 2. Normal Duke — Our Score: 9.0/10
 
@@ -47,7 +47,7 @@ Reincarnated as Canaria, the villain of a clichéd romance novel destined to be 
 
 **Why it's great:** A perfectly contained comedic premise with a clear finish line. The deadpan survival instinct of the lead is the funniest thing in the series.
 
-[Read on MangaDex →](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### 5. A Returner's Magic Should Be Special — Our Score: 8.3/10
 
@@ -55,7 +55,7 @@ Desir Arman, one of six survivors of the apocalyptic Shadow Labyrinth, wakes up 
 
 **Why it's great:** The comedy operates on dramatic irony — watching Desir calmly solve crises that terrify everyone else is its own consistently rewarding form of humor.
 
-[Read on MangaDex →](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 6. True Beauty — Our Score: 8.1/10
 
@@ -71,7 +71,7 @@ After dying because of her stepsister Mielle's scheming, Aria uses a magical hou
 
 **Why it's great:** Revenge comedy with a completed arc. The humor is darker than anything else on this list, but the payoff is proportionally more satisfying.
 
-[Read on MangaDex →](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### 8. The Monstrous Duke's Adopted Daughter — Our Score: 7.6/10
 
@@ -79,7 +79,7 @@ Leslie is adopted into the powerful Sperado noble family to serve as a stand-in 
 
 **Why it's great:** Not a pure comedy, but the humorous beats work precisely because they contrast with the dramatic tension. Best for readers who want laughs mixed into something weightier.
 
-[Read on MangaDex →](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ## How to Choose Your Weekend Binge
 

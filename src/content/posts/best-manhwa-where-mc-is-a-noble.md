@@ -21,7 +21,7 @@ When a reader wakes up reincarnated as Princess Athanasia — a character famous
 
 **Why it's great:** The MC's status as a princess is central to every plot beat — it's not just backdrop but the engine of the entire story. Few manhwa balance cuteness and genuine tension this well.
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess)
 
 ### #2 — Villains Are Destined to Die — Our Score: 9.0/10
 
@@ -29,7 +29,7 @@ Penelope Eckart is the adopted daughter of Duke Eckart — and the designated vi
 
 **Why it's great:** High stakes, a protagonist who has to earn every win, and noble politics that function as a real threat rather than convenient backdrop.
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
 
 ### #3 — I Shall Master This Family — Our Score: 8.8/10
 
@@ -37,7 +37,7 @@ Firentia, born from the prestigious Lombardi family and a peasant mother, watche
 
 **Why it's great:** One of the few noble-MC manhwa where "mastering" a noble house means real strategic effort, not luck or charm alone.
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### #4 — The Villainess Turns the Hourglass — Our Score: 8.7/10
 
@@ -45,7 +45,7 @@ Aria rises from commoner origins to Count's daughter when her mother marries int
 
 **Why it's great:** Aria is a rare anti-heroine who fully commits to revenge without losing reader sympathy. The noble setting is the arena where every move matters.
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### #5 — Beware the Villainess! — Our Score: 8.5/10
 
@@ -53,7 +53,7 @@ A modern woman reincarnates as Melissa, the villainess of a romance novel, and p
 
 **Why it's great:** Unlike most villainess manhwa, the MC actively disrupts the narrative instead of just surviving it — her noble position is a tool she wields with intention.
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### #6 — The Monstrous Duke's Adopted Daughter — Our Score: 8.3/10
 
@@ -61,7 +61,7 @@ Leslie has spent her life as the overlooked youngest daughter of the Sperado nob
 
 **Why it's great:** The contrast between Leslie's two noble households — one that discarded her and one that learns to value her — drives the emotional core of the series.
 
-[Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ### #7 — The Max Level Hero Strikes Back — Our Score: 8.2/10
 
@@ -69,7 +69,7 @@ Prince Davey O'Rowane is dismissed by everyone around him as a powerless embarra
 
 **Why it's great:** Watching a dismissed prince earn back respect one overpowered fight at a time is enormously satisfying, with strong pacing and fun action throughout.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### #8 — This Villainess Wants a Divorce! — Our Score: 8.0/10
 
@@ -77,7 +77,7 @@ Canaria has been reincarnated as the villainess of a novel — destined to be ex
 
 **Why it's great:** The MC's pragmatic "just survive and escape" mentality is a breath of fresh air, and the noble court setting creates natural tension without requiring a grand destiny.
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #9 — A Returner's Magic Should Be Special — Our Score: 7.8/10
 
@@ -85,7 +85,7 @@ Desir Arman is one of humanity's last survivors against the deadly Shadow Labyri
 
 **Why it's great:** The blend of academy noble politics with apocalyptic stakes is unique in the genre, and Desir's complete information advantage makes him one of the sharpest noble-adjacent MCs in manhwa.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #10 — The Fantasie of a Stepmother — Our Score: 7.6/10
 
@@ -93,9 +93,8 @@ Shuri becomes the stepmother of four children and the manager of a vast noble es
 
 **Why it's great:** A rare manhwa that uses the noble setting for emotional depth rather than political scheming — Shuri defining her own identity through duty and love is quietly powerful.
 
-[Read on MangaDex](https://mangadex.org/title/73886188-f459-4b80-8781-66a60520b420)
+[Read on Tapas](https://tapas.io/series/the-fantasie-of-a-stepmother/info)
 
 ## Sources Checked
 - [Best Manhwa to Read in 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
 - [Best Manhwa with OP MC — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
-- [MangaDex — Official series pages](https://mangadex.org)

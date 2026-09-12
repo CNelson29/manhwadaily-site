@@ -25,7 +25,7 @@ Chung Myung was once the legendary "Plum Blossom Sword Saint," the strongest swo
 
 **Rating: 9.6/10**
 
-Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Return%20of%20the%20Mount%20Hua%20Sect) | [MangaDex](https://mangadex.org/search?q=Return%20of%20the%20Mount%20Hua%20Sect) | [Tapas](https://tapas.io/search?q=Return%20of%20the%20Mount%20Hua%20Sect)
+Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Return%20of%20the%20Mount%20Hua%20Sect) | [Tapas](https://tapas.io/search?q=Return%20of%20the%20Mount%20Hua%20Sect)
 
 📚 [Light novel on Amazon](https://www.amazon.com/s?k=Return+of+the+Mount+Hua+Sect+novel&tag=manhwadaily-20) | [Shop on Amazon](https://www.amazon.com/s?k=Return+of+the+Mount+Hua+Sect+manhwa&tag=manhwadaily-20)
 
@@ -37,7 +37,7 @@ After clawing his way to the top as the legendary "Battle God" through decades o
 
 **Rating: 9.4/10**
 
-Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Reincarnation%20of%20the%20Suicidal%20Battle%20God) | [MangaDex](https://mangadex.org/search?q=Reincarnation%20of%20the%20Suicidal%20Battle%20God) | [Tapas](https://tapas.io/search?q=Reincarnation%20of%20the%20Suicidal%20Battle%20God)
+Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Reincarnation%20of%20the%20Suicidal%20Battle%20God) | [Tapas](https://tapas.io/search?q=Reincarnation%20of%20the%20Suicidal%20Battle%20God)
 
 📚 [Light novel on Amazon](https://www.amazon.com/s?k=Reincarnation+of+the+Suicidal+Battle+God+novel&tag=manhwadaily-20) | [Shop on Amazon](https://www.amazon.com/s?k=Reincarnation+of+the+Suicidal+Battle+God+manhwa&tag=manhwadaily-20)
 
@@ -49,7 +49,7 @@ Frey was the greatest archmage of his era — so powerful he turned himself to s
 
 **Rating: 9.3/10**
 
-Read: [Webtoon](https://www.webtoons.com/en/search?keyword=The%20Great%20Mage%20Returns%20After%204000%20Years) | [MangaDex](https://mangadex.org/search?q=The%20Great%20Mage%20Returns%20After%204000%20Years) | [Tapas](https://tapas.io/search?q=The%20Great%20Mage%20Returns%20After%204000%20Years)
+Read: [Webtoon](https://www.webtoons.com/en/search?keyword=The%20Great%20Mage%20Returns%20After%204000%20Years) | [Tapas](https://tapas.io/search?q=The%20Great%20Mage%20Returns%20After%204000%20Years)
 
 📚 [Light novel on Amazon](https://www.amazon.com/s?k=The+Great+Mage+Returns+After+4000+Years+novel&tag=manhwadaily-20) | [Shop on Amazon](https://www.amazon.com/s?k=The+Great+Mage+Returns+After+4000+Years+manhwa&tag=manhwadaily-20)
 
@@ -61,7 +61,7 @@ On the surface he's just an ordinary, unremarkable guy — but in secret, he's a
 
 **Rating: 9.2/10**
 
-Read: [Webtoon](https://www.webtoons.com/en/search?keyword=I%27m%20Actually%20a%20Cultivation%20Bigshot) | [MangaDex](https://mangadex.org/search?q=I%27m%20Actually%20a%20Cultivation%20Bigshot) | [Tapas](https://tapas.io/search?q=I%27m%20Actually%20a%20Cultivation%20Bigshot)
+Read: [Webtoon](https://www.webtoons.com/en/search?keyword=I%27m%20Actually%20a%20Cultivation%20Bigshot) | [Tapas](https://tapas.io/search?q=I%27m%20Actually%20a%20Cultivation%20Bigshot)
 
 📚 [Light novel on Amazon](https://www.amazon.com/s?k=I%27m+Actually+a+Cultivation+Bigshot+novel&tag=manhwadaily-20) | [Shop on Amazon](https://www.amazon.com/s?k=I%27m+Actually+a+Cultivation+Bigshot+manhwa&tag=manhwadaily-20)
 
@@ -73,7 +73,7 @@ Trapped inside a dungeon for ten thousand subjective years, the MC becomes the s
 
 **Rating: 9.1/10**
 
-Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Player%20Who%20Returned%2010%2C000%20Years%20Later) | [MangaDex](https://mangadex.org/search?q=Player%20Who%20Returned%2010%2C000%20Years%20Later) | [Tapas](https://tapas.io/search?q=Player%20Who%20Returned%2010%2C000%20Years%20Later)
+Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Player%20Who%20Returned%2010%2C000%20Years%20Later) | [Tapas](https://tapas.io/search?q=Player%20Who%20Returned%2010%2C000%20Years%20Later)
 
 📚 [Light novel on Amazon](https://www.amazon.com/s?k=Player+Who+Returned+10000+Years+Later+novel&tag=manhwadaily-20) | [Shop on Amazon](https://www.amazon.com/s?k=Player+Who+Returned+10000+Years+Later+manhwa&tag=manhwadaily-20)
 
@@ -85,7 +85,7 @@ He enrolls at a sect as the most pitiful, talentless-looking rookie around — b
 
 **Rating: 9.0/10**
 
-Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Worn%20and%20Torn%20Newbie) | [MangaDex](https://mangadex.org/search?q=Worn%20and%20Torn%20Newbie) | [Tapas](https://tapas.io/search?q=Worn%20and%20Torn%20Newbie)
+Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Worn%20and%20Torn%20Newbie) | [Tapas](https://tapas.io/search?q=Worn%20and%20Torn%20Newbie)
 
 📚 [Light novel on Amazon](https://www.amazon.com/s?k=Worn+and+Torn+Newbie+novel&tag=manhwadaily-20) | [Shop on Amazon](https://www.amazon.com/s?k=Worn+and+Torn+Newbie+manhwa&tag=manhwadaily-20)
 
@@ -97,7 +97,7 @@ Gun was one of the strongest raiders to ever face down the apocalypse's final bo
 
 **Rating: 8.9/10**
 
-Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Reincarnator) | [MangaDex](https://mangadex.org/search?q=Reincarnator) | [Tapas](https://tapas.io/search?q=Reincarnator)
+Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Reincarnator) | [Tapas](https://tapas.io/search?q=Reincarnator)
 
 📚 [Light novel on Amazon](https://www.amazon.com/s?k=Reincarnator+novel+Sehoon+Kim&tag=manhwadaily-20) | [Shop on Amazon](https://www.amazon.com/s?k=Reincarnator+manhwa&tag=manhwadaily-20)
 
@@ -109,7 +109,7 @@ Mu Chen was the most powerful mage of another world, but a soul-transfer acciden
 
 **Rating: 8.8/10**
 
-Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Magic%20Emperor) | [MangaDex](https://mangadex.org/search?q=Magic%20Emperor) | [Tapas](https://tapas.io/search?q=Magic%20Emperor)
+Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Magic%20Emperor) | [Tapas](https://tapas.io/search?q=Magic%20Emperor)
 
 📚 [Light novel on Amazon](https://www.amazon.com/s?k=Magic+Emperor+novel&tag=manhwadaily-20) | [Shop on Amazon](https://www.amazon.com/s?k=Magic+Emperor+manhwa&tag=manhwadaily-20)
 
@@ -121,7 +121,7 @@ Reincarnated with the rare ability to bypass the mana limits that cap every othe
 
 **Rating: 8.6/10**
 
-Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Limit-Breaking%20Genius%20Mage) | [MangaDex](https://mangadex.org/search?q=Limit-Breaking%20Genius%20Mage) | [Tapas](https://tapas.io/search?q=Limit-Breaking%20Genius%20Mage)
+Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Limit-Breaking%20Genius%20Mage) | [Tapas](https://tapas.io/search?q=Limit-Breaking%20Genius%20Mage)
 
 📚 [Light novel on Amazon](https://www.amazon.com/s?k=Limit-Breaking+Genius+Mage+novel&tag=manhwadaily-20) | [Shop on Amazon](https://www.amazon.com/s?k=Limit-Breaking+Genius+Mage+manhwa&tag=manhwadaily-20)
 
@@ -133,7 +133,7 @@ A modern-day gamer suddenly gains login access to an actual murim world, importi
 
 **Rating: 8.4/10**
 
-Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Murim%20Login) | [MangaDex](https://mangadex.org/search?q=Murim%20Login) | [Tapas](https://tapas.io/search?q=Murim%20Login)
+Read: [Webtoon](https://www.webtoons.com/en/search?keyword=Murim%20Login) | [Tapas](https://tapas.io/search?q=Murim%20Login)
 
 📚 [Light novel on Amazon](https://www.amazon.com/s?k=Murim+Login+novel&tag=manhwadaily-20) | [Shop on Amazon](https://www.amazon.com/s?k=Murim+Login+manhwa&tag=manhwadaily-20)
 

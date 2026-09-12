@@ -23,7 +23,7 @@ The genre-defining entry for this trope. Sung Jin-Woo begins as the absolute wea
 
 **Why it's great:** Completed, so you can binge the full arc. According to multiple sources, this is the benchmark recommendation for anyone searching for MC-hides-power stories.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 2. Omniscient Reader's Viewpoint — Our Score: 9.5/10
 
@@ -31,7 +31,7 @@ Kim Dokja spent years reading an obscure web novel about the apocalypse — and 
 
 **Why it's great:** One of the most narratively ambitious manhwa currently running. The emotional depth behind Dokja's arc elevates it far above a standard OP MC story.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 3. The Max Level Hero Strikes Back — Our Score: 9.3/10
 
@@ -39,7 +39,7 @@ Prince Davey is weak, ignored, and universally underestimated — then he is str
 
 **Why it's great:** Fast power escalation once the premise is established. The royal court setting adds political stakes that go beyond simple dungeon-climbing. Highlighted as a top recommendation by multiple 2026 manhwa sources.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### 4. A Returner's Magic Should Be Special — Our Score: 9.1/10
 
@@ -47,7 +47,7 @@ Desir Arman survived the Shadow Labyrinth — humanity's final catastrophe — a
 
 **Why it's great:** Completed, so there's a full satisfying arc. The time-regression premise is used with genuine intelligence rather than as a simple power fantasy shortcut.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 5. SSS-Class Revival Hunter — Our Score: 8.9/10
 
@@ -55,7 +55,7 @@ Gongja Kim lives a mundane existence inside the Tower, watching star hunters cli
 
 **Why it's great:** The power-copying mechanic is one of the more creative takes on the OP MC formula. The psychological dimension of Gongja's grief and revenge arc adds genuine weight to what could have been a shallow setup.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 6. Second Life Ranker — Our Score: 8.7/10
 
@@ -63,7 +63,7 @@ Yeonwoo's brother died inside a brutal otherworldly Tower after being betrayed b
 
 **Why it's great:** Darker and moodier than Solo Leveling, with intricate world-building and a protagonist whose hidden strength is matched by genuine emotional stakes. A strong pick if you want something with more weight.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 7. The Skeleton Soldier Failed to Defend the Dungeon — Our Score: 8.4/10
 
@@ -71,7 +71,7 @@ A meager skeleton soldier bound to protect Lady Succubus watches his master die 
 
 **Why it's great:** A slower burn than most entries on this list, but deeply rewarding for readers who like their hidden-power stories laced with genuine dread and tragedy.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### 8. I Shall Master This Family — Our Score: 8.2/10
 
@@ -79,11 +79,10 @@ Firentia is born into the great Lombardi family as its lowest-ranked member — 
 
 **Why it's great:** If you prefer court intrigue over dungeon combat, this is the entry on this list for you. The hidden power here is strategy and foresight, making it a slower but distinctly satisfying read.
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ## Sources Checked
 - [ChapterBrief — Best Manhwa with OP MC (2026)](https://www.chapterbrief.net/blog/best-manhwa-op-mc)
 - [Game Rant — Best Manhwa With OP MCs](https://gamerant.com/best-manhwa-with-overpowered-main-characters/)
 - [YouTube — Top 10 Manhwa Where OP MC Hides His Power](https://www.youtube.com/watch?v=VSpZZRoi_F8)
 - [MyAnimeList — Hidden Power Manhwa Recommendations](https://myanimelist.net/manga/165324/Secretly_More_Powerful_than_the_Hero)
-- [MangaDex — Official Series Pages](https://mangadex.org)

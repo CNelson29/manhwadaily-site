@@ -25,7 +25,7 @@ When a reader wakes up inside a romance novel as Princess Athanasia — the girl
 
 **Our score: 9.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess) | [Print edition on Amazon](https://www.amazon.com/s?k=Who+Made+Me+a+Princess+manhwa&tag=manhwadaily-20)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Who+Made+Me+a+Princess) | [Print edition on Amazon](https://www.amazon.com/s?k=Who+Made+Me+a+Princess+manhwa&tag=manhwadaily-20)
 
 ### #2 — Omniscient Reader's Viewpoint
 
@@ -35,7 +35,7 @@ Dokja was an ordinary office worker whose only hobby was reading a web novel cal
 
 **Our score: 9.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### #3 — Villains Are Destined to Die
 
@@ -45,7 +45,7 @@ Penelope Eckart reincarnated as the adopted daughter of Duke Eckart — and the 
 
 **Our score: 9.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
 
 ### #4 — A Returner's Magic Should Be Special
 
@@ -55,7 +55,7 @@ Desir Arman is one of six survivors of humanity's final catastrophe — the Shad
 
 **Our score: 9.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #5 — SSS-Class Revival Hunter
 
@@ -65,7 +65,7 @@ Gongja Kim copies a legendary hunter's ability to rewind time on death — then 
 
 **Our score: 8.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #6 — Beware the Villainess!
 
@@ -75,7 +75,7 @@ After an accident, a modern woman wakes up as Melissa Foddebrat, the designated 
 
 **Our score: 8.7/10**
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### #7 — The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -85,7 +85,7 @@ A skeleton soldier's sole purpose is to protect its master, Lady Succubus. When 
 
 **Our score: 8.6/10**
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### #8 — I Shall Master This Family
 
@@ -95,7 +95,7 @@ Firentia, born from a Lombardi noble and a peasant, watches her family collapse 
 
 **Our score: 8.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9)
+[Read on Tapas](https://tapas.io/series/i-shall-master-this-family/info)
 
 ### #9 — This Villainess Wants a Divorce!
 
@@ -105,7 +105,7 @@ Reincarnated as Canaria, the villain of a cliché novel, the MC knows she is des
 
 **Our score: 8.3/10**
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #10 — The Max Level Hero Strikes Back
 
@@ -115,7 +115,7 @@ Powerless Prince Davey O'Rowane is struck by an enemy's arrow and falls into a c
 
 **Our score: 8.2/10**
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ## Sources Checked
 - [Best Reincarnation Manhwa 2026 — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-reincarnation)

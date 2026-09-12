@@ -23,7 +23,7 @@ Sung Jin-Woo starts as the weakest hunter in a world where Gates link reality to
 
 **Why it's great:** The progression from absolute zero to divine ruler is relentlessly satisfying. The art is stunning and the final arc delivers god-tier battles that fully earn the series' legendary reputation. Completed and easy to binge from start to finish.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### #2 — Omniscient Reader's Viewpoint · Our Score: 9.2/10
 
@@ -31,7 +31,7 @@ Kim Dokja is a regular office worker whose only passion is a forgotten web novel
 
 **Why it's great:** This is the smartest take on the god-like knowledge trope in the genre. The meta-narrative is layered and emotionally resonant, and the MC's divine trajectory is earned through sacrifice rather than sheer luck.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### #3 — SSS-Class Revival Hunter · Our Score: 8.8/10
 
@@ -39,7 +39,7 @@ Gongja Kim lives an unremarkable life in a tower full of legendary hunters until
 
 **Why it's great:** The die-and-copy mechanic is a brilliant twist on the regression formula. The MC's path to godhood is built from accumulated suffering and strategic brilliance rather than a single lucky break.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #4 — The Knight King Who Returned With a God · Our Score: 8.6/10
 
@@ -63,7 +63,7 @@ Yeonwoo learns his brother was betrayed and killed while climbing a secret tower
 
 **Why it's great:** The revenge premise gives genuine emotional stakes to what could otherwise be pure power fantasy. The MC's methodical accumulation of divine power makes every upgrade feel deliberate rather than arbitrary.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### #7 — The Max Level Hero Strikes Back · Our Score: 8.2/10
 
@@ -71,7 +71,7 @@ Prince Davey is written off as a useless royal until an enemy arrow sends him in
 
 **Why it's great:** The premise is wildly fun and the payoff of watching everyone underestimate a max-level MC is deeply satisfying. The humor balances the power fantasy without undercutting the god-tier spectacle.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### #8 — The Demon God · Our Score: 8.0/10
 

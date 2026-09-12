@@ -23,7 +23,7 @@ The manhwa that needs no introduction — Sung Jinwoo starts as the world's weak
 
 **Rating: 9.5/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Solo+Leveling) · [MangaDex](https://mangadex.org/search?q=Solo+Leveling) · [Tapas](https://tapas.io/search?q=Solo+Leveling)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Solo+Leveling) · [Tapas](https://tapas.io/search?q=Solo+Leveling)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Solo+Leveling+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Solo+Leveling+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -35,7 +35,7 @@ Kim Dokja is the sole reader of a web novel that just became reality — and bec
 
 **Rating: 9.5/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Omniscient+Reader%27s+Viewpoint) · [MangaDex](https://mangadex.org/search?q=Omniscient+Reader%27s+Viewpoint) · [Tapas](https://tapas.io/search?q=Omniscient+Reader%27s+Viewpoint)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Omniscient+Reader%27s+Viewpoint) · [Tapas](https://tapas.io/search?q=Omniscient+Reader%27s+Viewpoint)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+manga+volume+1&tag=manhwadaily-20) 📚 [Get the Light Novel on Amazon](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+light+novel+volume+1&tag=manhwadaily-20)
 
@@ -47,7 +47,7 @@ Flipping the script entirely, The Dungeon Master puts you in the shoes of the vi
 
 **Rating: 8.3/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Dungeon+Master) · [MangaDex](https://mangadex.org/search?q=The+Dungeon+Master) · [Tapas](https://tapas.io/search?q=The+Dungeon+Master)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Dungeon+Master) · [Tapas](https://tapas.io/search?q=The+Dungeon+Master)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Dungeon+Master+manga+volume+1&tag=manhwadaily-20)
 
@@ -59,7 +59,7 @@ Once the #1 ranked player in the world's most popular VRMMO, our arrogant protag
 
 **Rating: 8.7/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Hardcore+Leveling+Warrior) · [MangaDex](https://mangadex.org/search?q=Hardcore+Leveling+Warrior) · [Tapas](https://tapas.io/search?q=Hardcore+Leveling+Warrior)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Hardcore+Leveling+Warrior) · [Tapas](https://tapas.io/search?q=Hardcore+Leveling+Warrior)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Hardcore+Leveling+Warrior+manga+volume+1&tag=manhwadaily-20)
 
@@ -71,7 +71,7 @@ After his twin brother is murdered inside a brutal tower called the Obelisk, Yeo
 
 **Rating: 8.8/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Second+Life+Ranker) · [MangaDex](https://mangadex.org/search?q=Second+Life+Ranker) · [Tapas](https://tapas.io/search?q=Second+Life+Ranker)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Second+Life+Ranker) · [Tapas](https://tapas.io/search?q=Second+Life+Ranker)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Second+Life+Ranker+manga+volume+1&tag=manhwadaily-20)
 
@@ -83,7 +83,7 @@ When everyone else picks Easy or Normal mode for the mysterious life-or-death tu
 
 **Rating: 8.9/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Tutorial+Is+Too+Hard) · [MangaDex](https://mangadex.org/search?q=The+Tutorial+Is+Too+Hard) · [Tapas](https://tapas.io/search?q=The+Tutorial+Is+Too+Hard)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Tutorial+Is+Too+Hard) · [Tapas](https://tapas.io/search?q=The+Tutorial+Is+Too+Hard)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Tutorial+Is+Too+Hard+manga+volume+1&tag=manhwadaily-20)
 
@@ -95,7 +95,7 @@ Jung Dawoo gets left behind in a dungeon reset — but instead of dying, he some
 
 **Rating: 8.2/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Dungeon+Reset) · [MangaDex](https://mangadex.org/search?q=Dungeon+Reset) · [Tapas](https://tapas.io/search?q=Dungeon+Reset)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Dungeon+Reset) · [Tapas](https://tapas.io/search?q=Dungeon+Reset)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Dungeon+Reset+manga+volume+1&tag=manhwadaily-20)
 
@@ -107,7 +107,7 @@ Rather than being the chosen hero storming the tower, our protagonist reincarnat
 
 **Rating: 8.0/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Reborn+as+a+Tower+Guard) · [MangaDex](https://mangadex.org/search?q=Reborn+as+a+Tower+Guard) · [Tapas](https://tapas.io/search?q=Reborn+as+a+Tower+Guard)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=Reborn+as+a+Tower+Guard) · [Tapas](https://tapas.io/search?q=Reborn+as+a+Tower+Guard)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=Reborn+as+a+Tower+Guard+manga+volume+1&tag=manhwadaily-20)
 
@@ -119,7 +119,7 @@ Ten years after monster gates began tearing open across Earth, Lee Sunghoon awak
 
 **Rating: 8.1/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I+Am+the+Sorcerer+King) · [MangaDex](https://mangadex.org/search?q=I+Am+the+Sorcerer+King) · [Tapas](https://tapas.io/search?q=I+Am+the+Sorcerer+King)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=I+Am+the+Sorcerer+King) · [Tapas](https://tapas.io/search?q=I+Am+the+Sorcerer+King)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=I+Am+the+Sorcerer+King+manga+volume+1&tag=manhwadaily-20)
 
@@ -131,7 +131,7 @@ Yun Jae is a suicidal man given a second chance when a survival game materialize
 
 **Rating: 8.6/10**
 
-**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Live) · [MangaDex](https://mangadex.org/search?q=The+Live) · [Tapas](https://tapas.io/search?q=The+Live)
+**Where to read:** [Webtoon](https://www.webtoons.com/search?keyword=The+Live) · [Tapas](https://tapas.io/search?q=The+Live)
 
 🛒 [Get the Official English Volume on Amazon](https://www.amazon.com/s?k=The+Live+manga+volume+1&tag=manhwadaily-20)
 

@@ -6,7 +6,7 @@ category: "Rankings"
 tags: ["op mc", "overpowered protagonist", "normal life", "action manhwa", "webtoon"]
 type: "rankings"
 image: "/images/posts/manhwa-where-mc-is-op-but-wants-normal-life-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## Why “OP But Wants a Normal Life” Hits Different
@@ -47,7 +47,7 @@ Before the power-up, Gongja Kim was living a mundane existence in the Tower, env
 
 **Why it’s great:** Psychological depth and a creative revival mechanic set it apart from standard isekai climbers. Gongja’s arc from envious bystander to unstoppable force is one of manhwa’s best power-up journeys.
 
-[Read on MangaDex ↗](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas ↗](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 5. Solo Leveling — Our Score: 9.5/10
 
@@ -55,7 +55,7 @@ Sung Jinwoo starts as the weakest hunter in a world where people risk their live
 
 **Why it’s great:** Spectacular art, perfectly paced escalation, and Jinwoo’s quiet desire to simply protect his family gives the spectacle genuine emotional grounding. Non-negotiable on any list like this.
 
-[Read on MangaDex ↗](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 6. The Max Level Hero Strikes Back — Our Score: 8.0/10
 
@@ -63,7 +63,7 @@ Prince Davey O’Rowane was powerless and overlooked until an enemy’s arrow pu
 
 **Why it’s great:** The gap between how others see Davey and what he can actually do generates endlessly satisfying power-reveal moments. A reliable, fun read for fans of the “hiding your strength” variation of the trope.
 
-[Read on MangaDex ↗](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### 7. A Returner’s Magic Should Be Special — Our Score: 8.5/10
 
@@ -71,7 +71,7 @@ Desir Arman survives the apocalypse as one of humanity’s last six survivors, o
 
 **Why it’s great:** An inventive magic system, tight pacing, and global-scale stakes. Being completed is a genuine bonus — no waiting for an ending.
 
-[Read on MangaDex ↗](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 8. Second Life Ranker — Our Score: 8.0/10
 
@@ -79,11 +79,11 @@ Yeonwoo discovers his brother was betrayed and killed inside the brutal Tower, a
 
 **Why it’s great:** The brother’s backstory creates emotional weight that most action manhwa skip entirely, and the complex power system rewards readers who enjoy deep lore.
 
-[Read on MangaDex ↗](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas ↗](https://tapas.io/series/second-life-ranker/info)
 
 ## Sources Checked
 - [The Heavenly Demon Wants a Quiet Life — Webtoon](https://www.webtoons.com/en/action/the-heavenly-demon-wants-a-quiet-life/list?title_no=7501)
 - [The Genius Wants an Ordinary Life — Webtoon](https://www.webtoons.com/en/slice-of-life/the-genius-wants-an-ordinary-life/list?title_no=7634)
 - [I Have an SSS-Rank Trait, but I Want a Normal Life — Kenmei](https://www.kenmei.co/series/i-have-an-sss-rank-trait-but-i-want-a-normal-life)
-- [Solo Leveling — MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
-- [SSS-Class Revival Hunter — MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+
+- [SSS-Class Revival Hunter — Tapas](https://tapas.io/series/sss-class-revival-hunter/info)

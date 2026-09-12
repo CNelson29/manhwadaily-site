@@ -25,7 +25,7 @@ The benchmark against which every other hunter-genre manhwa is measured. Sung Ji
 
 **Why it is great:** The art escalates in ambition alongside the protagonist's power. Few manhwa make a power fantasy feel earned rather than handed over, and Solo Leveling does it consistently across its entire run. If you have not read it, start here.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 2. Omniscient Reader's Viewpoint
 
@@ -35,7 +35,7 @@ Dokja Kim is the only person who has read the web novel that just became reality
 
 **Why it is great:** The emotional stakes are built carefully over hundreds of chapters. The cast earns its place in a way that most action manhwa never manage. Still ongoing, but already one of the best things in the genre.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 3. SSS-Class Revival Hunter
 
@@ -45,7 +45,7 @@ Gongja Kim copies the ability of the S-Class hunter who kills him — and wakes 
 
 **Why it is great:** The tension between Gongja's growing power and his moral deterioration is handled with more nuance than most genre peers. Ongoing, but the arc structure keeps each section satisfying on its own terms.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 4. A Returner's Magic Should Be Special
 
@@ -55,7 +55,7 @@ Desir Arman is one of six survivors of humanity's deadliest catastrophe and trav
 
 **Why it is great:** A completed run with a genuine ending is rare in this genre. The time-travel mechanic adds thriller tension without becoming a crutch, and the tactical combat keeps every major battle interesting. A full satisfying read from start to finish.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 5. Second Life Ranker
 
@@ -65,7 +65,7 @@ Yeonwoo learns that his brother was betrayed and killed inside the Tower — the
 
 **Why it is great:** The emotional engine — grief transformed into methodical revenge — gives the power escalation genuine weight. Currently on hiatus, worth knowing before you start, but the content that exists is high quality and worth the investment.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 6. Kill the Hero
 
@@ -85,7 +85,7 @@ A skeleton soldier watches his master die repeatedly and resets — accumulating
 
 **Why it is great:** The horror-adjacent atmosphere separates it from most action manhwa. Ongoing, but the episodic loop structure means any stopping point is reasonably satisfying. A strong pick for readers who want their thriller grounded in atmosphere rather than pure spectacle.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### 8. I Am the Sorcerer King
 

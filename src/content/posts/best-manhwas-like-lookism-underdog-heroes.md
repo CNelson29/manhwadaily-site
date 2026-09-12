@@ -23,7 +23,6 @@ Gray Yeon is small, quiet, and the top-ranked student at a school where the peck
 
 **Rating:** 9.2/10
 - Webtoon: [webtoons.com/en/search?keyword=Weak+Hero](https://www.webtoons.com/en/search?keyword=Weak+Hero)
-- MangaDex: [mangadex.org/search?q=Weak+Hero](https://mangadex.org/search?q=Weak+Hero)
 - Tapas: [tapas.io/search?q=Weak+Hero](https://tapas.io/search?q=Weak+Hero)
 Amazon: [Shop Weak Hero on Amazon](https://www.amazon.com/s?k=Weak+Hero+manhwa&tag=manhwadaily-20)
 
@@ -35,7 +34,6 @@ Yi-hyun was raised as a child soldier and elite mercenary in a war zone before b
 
 **Rating:** 9.0/10
 - Webtoon: [webtoons.com/en/search?keyword=Teenage+Mercenary](https://www.webtoons.com/en/search?keyword=Teenage+Mercenary)
-- MangaDex: [mangadex.org/search?q=Teenage+Mercenary](https://mangadex.org/search?q=Teenage+Mercenary)
 - Tapas: [tapas.io/search?q=Teenage+Mercenary](https://tapas.io/search?q=Teenage+Mercenary)
 Amazon: [Shop Teenage Mercenary on Amazon](https://www.amazon.com/s?k=Teenage+Mercenary+manhwa&tag=manhwadaily-20)
 
@@ -47,7 +45,6 @@ A king reincarnates as Arthur Leywin, a child judged weak by everyone around him
 
 **Rating:** 9.1/10
 - Webtoon: [webtoons.com/en/search?keyword=The+Beginning+After+the+End](https://www.webtoons.com/en/search?keyword=The+Beginning+After+the+End)
-- MangaDex: [mangadex.org/search?q=The+Beginning+After+the+End](https://mangadex.org/search?q=The+Beginning+After+the+End)
 - Tapas: [tapas.io/search?q=The+Beginning+After+the+End](https://tapas.io/search?q=The+Beginning+After+the+End)
 📚 Light novel: [Shop the light novel](https://www.amazon.com/s?k=The+Beginning+After+the+End+light+novel&tag=manhwadaily-20) | Manhwa: [Shop the manhwa](https://www.amazon.com/s?k=The+Beginning+After+the+End+manhwa&tag=manhwadaily-20)
 
@@ -59,7 +56,6 @@ Sung Jin-Woo is mocked as the weakest hunter alive, surviving dungeons on luck r
 
 **Rating:** 9.5/10
 - Webtoon: [webtoons.com/en/search?keyword=Solo+Leveling](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
-- MangaDex: [mangadex.org/search?q=Solo+Leveling](https://mangadex.org/search?q=Solo+Leveling)
 - Tapas: [tapas.io/search?q=Solo+Leveling](https://tapas.io/search?q=Solo+Leveling)
 📚 Light novel: [Shop the light novel](https://www.amazon.com/s?k=Solo+Leveling+light+novel&tag=manhwadaily-20) | Manhwa: [Shop the manhwa](https://www.amazon.com/s?k=Solo+Leveling+manhwa&tag=manhwadaily-20)
 
@@ -71,7 +67,6 @@ Jukyung hides years of insecurity behind a flawless makeup routine, living in fe
 
 **Rating:** 8.8/10
 - Webtoon: [webtoons.com/en/search?keyword=True+Beauty](https://www.webtoons.com/en/search?keyword=True+Beauty)
-- MangaDex: [mangadex.org/search?q=True+Beauty](https://mangadex.org/search?q=True+Beauty)
 - Tapas: [tapas.io/search?q=True+Beauty](https://tapas.io/search?q=True+Beauty)
 Amazon: [Shop True Beauty on Amazon](https://www.amazon.com/s?k=True+Beauty+manhwa&tag=manhwadaily-20)
 
@@ -83,7 +78,6 @@ In a world where everyone has superpowers, John appears to have none and gets sh
 
 **Rating:** 8.5/10
 - Webtoon: [webtoons.com/en/search?keyword=UnOrdinary](https://www.webtoons.com/en/search?keyword=UnOrdinary)
-- MangaDex: [mangadex.org/search?q=UnOrdinary](https://mangadex.org/search?q=UnOrdinary)
 - Tapas: [tapas.io/search?q=UnOrdinary](https://tapas.io/search?q=UnOrdinary)
 Amazon: [Shop UnOrdinary on Amazon](https://www.amazon.com/s?k=UnOrdinary+manhwa&tag=manhwadaily-20)
 
@@ -95,7 +89,6 @@ Gun-woo is a kind, easily-bullied kid until vampire blood awakens a second, far 
 
 **Rating:** 8.6/10
 - Webtoon: [webtoons.com/en/search?keyword=Bloodhound](https://www.webtoons.com/en/search?keyword=Bloodhound)
-- MangaDex: [mangadex.org/search?q=Bloodhound](https://mangadex.org/search?q=Bloodhound)
 - Tapas: [tapas.io/search?q=Bloodhound](https://tapas.io/search?q=Bloodhound)
 Amazon: [Shop Bloodhound on Amazon](https://www.amazon.com/s?k=Bloodhound+manhwa&tag=manhwadaily-20)
 
@@ -107,7 +100,6 @@ Kang Yu is bullied to the point of despair until he discovers MMA, trains in sec
 
 **Rating:** 8.7/10
 - Webtoon: [webtoons.com/en/search?keyword=Viral+Hit](https://www.webtoons.com/en/search?keyword=Viral+Hit)
-- MangaDex: [mangadex.org/search?q=Viral+Hit](https://mangadex.org/search?q=Viral+Hit)
 - Tapas: [tapas.io/search?q=Viral+Hit](https://tapas.io/search?q=Viral+Hit)
 Amazon: [Shop Viral Hit on Amazon](https://www.amazon.com/s?k=Viral+Hit+manhwa&tag=manhwadaily-20)
 
@@ -119,7 +111,6 @@ Woo-jin lives with a chronic heart condition and a target on his back from day o
 
 **Rating:** 8.3/10
 - Webtoon: [webtoons.com/en/search?keyword=Save+Me](https://www.webtoons.com/en/search?keyword=Save+Me)
-- MangaDex: [mangadex.org/search?q=Save+Me](https://mangadex.org/search?q=Save+Me)
 - Tapas: [tapas.io/search?q=Save+Me](https://tapas.io/search?q=Save+Me)
 Amazon: [Shop Save Me on Amazon](https://www.amazon.com/s?k=Save+Me+manhwa&tag=manhwadaily-20)
 
@@ -131,7 +122,6 @@ A regression-flavored revenge story where the lead gets a second shot at confron
 
 **Rating:** 8.4/10
 - Webtoon: [webtoons.com/en/search?keyword=Trigger+manhwa](https://www.webtoons.com/en/search?keyword=Trigger+manhwa)
-- MangaDex: [mangadex.org/search?q=Trigger+manhwa](https://mangadex.org/search?q=Trigger+manhwa)
 - Tapas: [tapas.io/search?q=Trigger+manhwa](https://tapas.io/search?q=Trigger+manhwa)
 Amazon: [Shop Trigger on Amazon](https://www.amazon.com/s?k=Trigger+manhwa&tag=manhwadaily-20)
 

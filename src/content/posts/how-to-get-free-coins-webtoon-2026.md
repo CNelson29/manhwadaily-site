@@ -63,49 +63,49 @@ Once you've stacked free coins, here are eight series from our reading list that
 
 The benchmark for modern action manhwa. After mysterious Gates connect our world to a monster realm, powerless hunter Sung Jinwoo awakens a unique System that lets him level up endlessly while everyone else stays fixed. The art escalates alongside the power fantasy, and the completed run means no waiting—you can binge the whole thing. **Our score: 9.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Solo%20Leveling)
+[Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Solo%20Leveling)
 
 ### #2 — Omniscient Reader's Viewpoint
 
 An office worker named Dokja was the only reader of an obscure apocalypse web novel—until the novel became reality. Armed with complete foreknowledge of every plot beat, he navigates a world now running on fiction's rules. Wildly inventive, emotionally gripping, and genuinely surprising even when you think you know where it's going. **Our score: 9.3/10**
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Omniscient%20Reader%27s%20Viewpoint)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Omniscient%20Reader%27s%20Viewpoint)
 
 ### #3 — The Villainess Turns the Hourglass
 
 Aria rises from poverty to nobility after her mother marries a count—then gets executed because of her stepsister's scheming. She gets one chance to rewind time and plays the long game with cold, meticulous precision. The revenge arc delivers, and the art direction is consistently among the best in the villainess genre. **Our score: 9.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=The%20Villainess%20Turns%20the%20Hourglass)
+[Search on WEBTOON](https://www.webtoons.com/en/search?keyword=The%20Villainess%20Turns%20the%20Hourglass)
 
 ### #4 — Who Made Me a Princess
 
 A reader wakes up as Princess Athanasia in a novel she knows ends with her father killing her. Part political thriller, part father-daughter redemption story, it's one of the most emotionally layered completed isekai manhwa available—and the ending actually sticks the landing. **Our score: 8.9/10**
 
-[Read on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Who%20Made%20Me%20a%20Princess)
+[Read on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Who%20Made%20Me%20a%20Princess)
 
 ### #5 — SSS-Class Revival Hunter
 
 A tower-climbing hunter with a copy ability gets killed by the top ranker—and discovers he's copied that hunter's power to travel back in time to the moment of death. He relives the sequence over and over, grinding toward the strength to beat every hunter above him. Smart power-system writing with real emotional stakes underneath the action. **Our score: 8.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=SSS-Class%20Revival%20Hunter)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=SSS-Class%20Revival%20Hunter)
 
 ### #6 — Beware the Villainess!
 
 A modern woman transmigrates into the body of a novel's designated villainess and immediately decides she wants nothing to do with the toxic love interests the original heroine was written to obsess over. A sharp, funny deconstruction of reverse-harem tropes with a protagonist who actually has her own priorities. **Our score: 8.7/10**
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Beware%20the%20Villainess)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Beware%20the%20Villainess)
 
 ### #7 — A Returner's Magic Should Be Special
 
 Six survivors of humanity's most lethal dungeon die one by one—until only Desir remains—who then wakes up years in the past with the chance to prevent everything. A tight time-loop magic-school structure that rewards readers who pay attention to the foreshadowing layered into early chapters. **Our score: 8.6/10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=A%20Returner%27s%20Magic%20Should%20Be%20Special)
+[Search on WEBTOON](https://www.webtoons.com/en/search?keyword=A%20Returner%27s%20Magic%20Should%20Be%20Special)
 
 ### #8 — Villains Are Destined to Die
 
 Penelope reincarnates as the despised villainess of a dating sim locked to its hardest difficulty—every wrong choice ends in death, and the "correct" routes are rigged against her. The pressure-cooker survival drama hooks immediately, and the locked-difficulty mechanic gives the story an unusual procedural tension you won't find elsewhere. **Our score: 8.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Villains%20Are%20Destined%20to%20Die)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info) | [Search on WEBTOON](https://www.webtoons.com/en/search?keyword=Villains%20Are%20Destined%20to%20Die)
 
 ## Sources Checked
 

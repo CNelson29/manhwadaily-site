@@ -21,7 +21,7 @@ Sung Jinwoo begins as the weakest hunter in a world where "Gates" connect realit
 
 **Why it's great:** The art during boss fights is exceptional, and the world-building rewards patience. It's also complete — no waiting for a payoff that never arrives.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 2. Omniscient Reader's Viewpoint — Our Score: 9.3/10
 
@@ -29,7 +29,7 @@ Kim Dokja is the only person who has read a web novel called "Three Ways to Surv
 
 **Why it's great:** The system here is unconventional — it's knowledge, not a stat screen — which gives ORV a freshness that most system manhwa lack. The ensemble cast is large but never feels bloated.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 3. SSS-Class Revival Hunter — Our Score: 9.0/10
 
@@ -37,7 +37,7 @@ Gongja Kim is a low-ranked hunter stuck in a mysterious Tower, envying the top r
 
 **Why it's great:** The loop-and-revenge mechanic is used intelligently rather than lazily. Each reset advances the plot instead of resetting stakes, and the emotional beats land harder than expected for an action-first series.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 4. Second Life Ranker — Our Score: 8.8/10
 
@@ -45,7 +45,7 @@ Yeonwoo discovers his twin brother died inside a brutal hidden game — betrayed
 
 **Why it's great:** The revenge motivation stays clean and consistent across hundreds of chapters, and the power scaling is aggressive enough to keep the action fresh without losing stakes.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 5. Overgeared — Our Score: 8.7/10
 
@@ -61,7 +61,7 @@ Prince Davey O'Rowane, powerless and dismissed by everyone at court, falls into 
 
 **Why it's great:** The "useless noble secretly maxed out" setup is executed with enough political intrigue layered on top to keep the between-fight chapters just as engaging as the combat.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### 7. A Returner's Magic Should Be Special — Our Score: 8.3/10
 
@@ -69,7 +69,7 @@ Desir Arman survives humanity's final Shadow Labyrinth with only five others —
 
 **Why it's great:** Clean time-loop logic, consistently satisfying competency moments — the MC out-thinks enemies rather than just overpowering them — and a complete, finished arc make this one of the stronger series in the genre.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 8. The Skeleton Soldier Failed to Defend the Dungeon — Our Score: 8.0/10
 
@@ -77,7 +77,7 @@ A humble skeleton soldier serves the Lady Succubus loyally — until they're bot
 
 **Why it's great:** The MC's growth from literal monster fodder to a force capable of reshaping timelines is methodical and earned. The tone is darker than most on this list, which gives the emotional payoffs real weight.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ## Sources Checked
 - [NovelNodes — 10 Best System Manhwa with OP MC (2026)](https://novelnodes.com/best-system-manhwa-op-mc/)

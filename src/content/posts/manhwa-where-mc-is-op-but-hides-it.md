@@ -21,7 +21,7 @@ The manhwa that introduced millions of Western readers to Korean webtoons. Sung 
 
 **Why it's great:** The gap between Jinwoo's known reputation and his actual power is the engine that drives the entire series. Every scene where he holds back builds toward a payoff that lands like a truck.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### #2 — Omniscient Reader's Viewpoint — Our Score: 9.2/10
 
@@ -29,7 +29,7 @@ Kim Dokja spent years reading an obscure web novel, and when its apocalypse beco
 
 **Why it's great:** Concealment here is emotionally complex rather than just tactical. Dokja sacrifices his own safety to protect a secret no one would believe anyway, and that tension carries the series through hundreds of chapters without ever feeling repetitive.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### #3 — A Returner's Magic Should Be Special — Our Score: 8.8/10
 
@@ -37,7 +37,7 @@ Desir Arman survives to the very end of humanity's last stand — then wakes up 
 
 **Why it's great:** The academy setting is the perfect stage for this trope. Classmates who can't explain why Desir always seems three steps ahead, professors who suspect something is wrong, and enemies who realize too late what they underestimated — the dynamic stays fresh chapter after chapter.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #4 — Secretly More Powerful than the Hero — Our Score: 8.5/10
 
@@ -53,7 +53,7 @@ Gongja Kim survives in a dungeon tower by secretly copying the abilities of the 
 
 **Why it's great:** The psychological dimension sets this apart from similar series. Gongja's concealment is not fun — it is survival. The tension around who knows what, and the escalating scope of what he is actually capable of, is some of the best-paced power-reveal writing in the genre.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #6 — The Max Level Hero Strikes Back — Our Score: 8.2/10
 
@@ -61,7 +61,7 @@ Prince Davey collapses into a coma, and while his body remains helpless, his sou
 
 **Why it's great:** Royal court politics give the hidden-power arc genuine stakes beyond combat. Davey has to survive assassination attempts and palace intrigue while pretending to be incompetent — a far harder performance than just being strong.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### #7 — Second Life Ranker — Our Score: 7.8/10
 
@@ -69,7 +69,7 @@ Yeonwoo learns that his twin brother was murdered inside a mysterious tower afte
 
 **Why it's great:** The revenge framing gives the concealment real emotional weight. Yeonwoo is not hiding because it is amusing — he is hiding because his targets need to feel safe before they can be destroyed. That intent sharpens every slow-burn chapter.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### #8 — The Main Character Hides His Strength — Our Score: 7.5/10
 

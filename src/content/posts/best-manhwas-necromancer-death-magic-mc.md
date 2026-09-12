@@ -23,7 +23,7 @@ Sung Jin-Woo starts as humanity's weakest hunter and evolves into the Shadow Mon
 
 **Why it's great:** Solo Leveling essentially invented the modern power-fantasy necromancer template for manhwa. The shadow soldiers develop distinct presences, and certain resurrections carry more emotional weight than most readers expect going in.
 
-**Our score: 9.5/10** | [Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+**Our score: 9.5/10**
 
 ### 2. Omniscient Reader's Viewpoint — Death as a World System
 
@@ -31,7 +31,7 @@ Kim Dokja is the only person alive who has read the web novel that just became r
 
 **Why it's great:** The emotional stakes around death and sacrifice are unmatched. When characters die in ORV it carries weight that echoes chapters later — the award-winning handling of death as both theme and mechanic is a masterclass in the genre.
 
-**Our score: 9.2/10** | [Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+**Our score: 9.2/10** | [Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### 3. Second Life Ranker — Tower Climbing With Death Powers
 
@@ -39,7 +39,7 @@ Yeonwoo inherits his murdered twin brother's hidden legacy inside a brutal tower
 
 **Why it's great:** Yeonwoo's accumulation of death-aspected skills feels earned rather than handed to him. The tower's mythology around death-gods adds real lore behind the necromancer power set instead of leaving it as a pure game mechanic.
 
-**Our score: 8.8/10** | [Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+**Our score: 8.8/10** | [Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### 4. The Lone Necromancer — Survival Necromancer Done Right
 
@@ -55,7 +55,7 @@ Gongja Kim acquires a skill that copies the last ability of whoever kills him �
 
 **Why it's great:** The death-loop mechanic is genuinely fresh and never feels repetitive because each encounter reshapes the power set. One of the most creative applications of death-as-mechanic in the tower manhwa subgenre.
 
-**Our score: 8.5/10** | [Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+**Our score: 8.5/10** | [Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### 6. The Skeleton Soldier Failed to Defend the Dungeon — Undead Time Loop
 
@@ -63,7 +63,7 @@ The protagonist is already dead — a loyal skeleton soldier bound to Lady Succu
 
 **Why it's great:** A skeleton's perspective on death — as a creature that is already undead — gives the story a philosophical undertone most action manhwa never attempt. The loyalty theme running through the time-loop structure is surprisingly moving.
 
-**Our score: 8.3/10** | [Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+**Our score: 8.3/10**
 
 ### 7. A Returner's Magic Should Be Special — The Shadow Labyrinth
 
@@ -71,7 +71,7 @@ Desir Arman returns from the future knowing humanity will fail to clear the Shad
 
 **Why it's great:** Even though Desir is a strategist rather than a pure necromancer, the Shadow Labyrinth's death-magic world-building is the entire stakes of the series. Essential reading for fans of the lore side of necromancer worlds.
 
-**Our score: 8.2/10** | [Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+**Our score: 8.2/10**
 
 ### 8. Necromancer's Evolutionary Trait — Strategy-First Death Magic
 

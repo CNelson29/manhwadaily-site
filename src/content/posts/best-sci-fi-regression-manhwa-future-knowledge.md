@@ -25,7 +25,7 @@ A meager skeleton warrior bound to Lady Succubus is slaughtered alongside his ma
 
 **Our score: 8.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ### #7 — Second Life Ranker
 
@@ -35,7 +35,7 @@ Yeonwoo discovers his twin brother died climbing a deadly tower and inherits his
 
 **Our score: 8.2/10**
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### #6 — The Max Level Hero Strikes Back
 
@@ -45,7 +45,7 @@ Prince Davey O'Rowane takes an enemy arrow and falls into a coma. While unconsci
 
 **Our score: 8.0/10**
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### #5 — Absolute Regression
 
@@ -75,7 +75,7 @@ Desir Arman survives as one of only six people left after the Shadow Labyrinth c
 
 **Our score: 8.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #2 — SSS-Class Revival Hunter
 
@@ -85,7 +85,7 @@ Gongja Kim has exactly one ability: copy the last skill used on him. The first t
 
 **Our score: 9.1/10**
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #1 — Omniscient Reader's Viewpoint
 
@@ -95,11 +95,10 @@ Kim Dokja is the only person alive who has read all 3,149 chapters of *Three Way
 
 **Our score: 9.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ## Sources Checked
 - [Absolute Regression — WEBTOON (100 episodes, Aug 2026)](https://www.webtoons.com/en/fantasy/absolute-regression/list?title_no=7004)
 - [The God of War Who Regressed to Level 2 — Kenmei](https://www.kenmei.co/series/the-god-of-war-who-regressed-to-level-2)
 - [Best Manhwa to Read in 2026: 32 Series Worth Your Time — ChapterBrief](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)
 - [Best 26 Regression Manhwa Where MC Time Travels to the Past](https://sorarusairs.com/regression-manhwa)
-- [MangaDex — Verified series metadata](https://mangadex.org)

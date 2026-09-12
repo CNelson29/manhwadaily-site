@@ -47,7 +47,7 @@ After a mysterious Gate connects the real world to a monster realm, ordinary peo
 
 **Why read it:** Solo Leveling defined the modern gate-hunter subgenre and remains the benchmark every isekai manhwa is measured against. It is completed, so you can binge the entire story in one run.
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=Solo+Leveling)
 
 ### 2. Omniscient Reader's Viewpoint
 
@@ -57,7 +57,7 @@ Dokja was an average office worker whose only hobby was reading a web novel call
 
 **Why read it:** For readers who want depth alongside the action, this is the isekai manhwa with the richest story and the most satisfying character arcs in the genre.
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Omniscient+Reader%27s+Viewpoint)
 
 ### 3. SSS-Class Revival Hunter
 
@@ -67,7 +67,7 @@ Inside a mysterious Tower with RPG dungeon floors, Gongja Kim gains a legendary 
 
 **Why read it:** A near-perfect blend of time-loop mechanics and escalating power fantasy, with a protagonist whose growth feels genuinely earned rather than handed to him.
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=SSS-Class+Revival+Hunter)
 
 ### 4. A Returner's Magic Should Be Special
 
@@ -77,7 +77,7 @@ Desir Arman is one of only six survivors of the Shadow Labyrinth — the deadlie
 
 **Why read it:** If you love world-building and a protagonist who wins through clever planning rather than raw power, this completed series is exactly what you are looking for.
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=A+Returner%27s+Magic+Should+Be+Special)
 
 ### 5. Villains Are Destined to Die
 
@@ -87,7 +87,7 @@ Penelope Eckart wakes up as the adopted villainess in a reverse-harem dating sim
 
 **Why read it:** For readers who want high stakes alongside the romance — the survival tension is unlike anything in standard isekai romance, and the payoff is earned.
 
-[Read on MangaDex](https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
+[Read on Tapas](https://tapas.io/series/villains-are-destined-to-die/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Villains+Are+Destined+to+Die)
 
 ### 6. Second Life Ranker
 
@@ -97,7 +97,7 @@ Years after his twin brother vanished, Yeonwoo learns the truth: his brother was
 
 **Why read it:** A darker, more lore-heavy isekai for readers who want a protagonist driven by grief and purpose rather than simple ambition.
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=Second+Life+Ranker)
 
 ### 7. The Max Level Hero Strikes Back
 
@@ -107,7 +107,7 @@ Powerless Prince Davey falls into a coma after being struck by an arrow, and his
 
 **Why read it:** Perfect for readers who want their overpowered protagonist served with a strong comedic edge and deeply satisfying payback against everyone who underestimated him.
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Max+Level+Hero+Strikes+Back)
 
 ### 8. The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -117,7 +117,7 @@ A lowly skeleton soldier serves Lady Succubus with fierce loyalty — until they
 
 **Why read it:** An underdog story with genuine heart buried inside a brutal dark fantasy shell — the time-loop mystery deepens at a satisfying pace with each new arc.
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427) | [Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
+[Search on Webtoon](https://www.webtoons.com/en/search?keyword=The+Skeleton+Soldier+Failed+to+Defend+the+Dungeon)
 
 ## Tips for Reading Manhwa Free
 

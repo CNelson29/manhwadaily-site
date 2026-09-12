@@ -6,7 +6,7 @@ category: "Completed"
 tags: ["romance", "completed", "villainess isekai", "happy ending", "webtoon"]
 type: "rankings"
 image: "/images/posts/best-completed-romance-manhwa-perfect-endings-hero.jpg"
-draft: false
+draft: true
 ---
 
 ## Why Completed Romance Manhwa Hits Different
@@ -43,7 +43,7 @@ After her mother marries into nobility, Aria lives a life of luxury — until he
 
 **Our score: 9.3/10**
 
-[Read on MangaDex](https://mangadex.org/title/73bc69fa-9ba9-4533-a243-ebc11651339f)
+
 
 ### #4 — There Must Be Happy Endings
 
@@ -63,7 +63,7 @@ A modern woman wakes up inside a romance novel as its heroine and immediately st
 
 **Our score: 8.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ### #6 — The Monstrous Duke's Adopted Daughter
 
@@ -73,7 +73,7 @@ Leslie has spent her life serving her noble family's ambitions, always pushed as
 
 **Our score: 8.6/10**
 
-[Read on MangaDex](https://mangadex.org/title/50fc2f0f-aeac-4152-82ba-164b3bb3b5b3)
+
 
 ### #7 — This Villainess Wants a Divorce!
 
@@ -83,7 +83,7 @@ Reincarnated as Canaria, the villain of a cliché romance novel, the protagonist
 
 **Our score: 8.4/10**
 
-[Read on MangaDex](https://mangadex.org/title/7e020929-65a7-4ece-905a-7e63c52709f8)
+
 
 ### #8 — Not Your Typical Reincarnation Story
 

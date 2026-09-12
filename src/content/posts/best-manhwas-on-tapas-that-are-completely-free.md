@@ -23,7 +23,7 @@ Ten years after mysterious gates connecting the human world to monster-filled di
 
 **Why it's great:** Tightly plotted from start to finish, with art that escalates alongside the protagonist's growing power. Being completed means you get full story payoff with no waiting.
 
-[Read Solo Leveling on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### 2. The Beginning After the End — Our Score: 9.3/10
 
@@ -71,7 +71,7 @@ A modern woman reincarnates as Princess Athanasia from a romance novel she once 
 
 **Why it's great:** The emotional core — a child trying to earn genuine love from a father who sees her as an inconvenience — gives this manhwa surprising depth beneath its fantasy romance surface. Widely available across free manhwa reading platforms.
 
-[Read Who Made Me a Princess on MangaDex](https://mangadex.org/title/722a45c0-5e55-40f2-929b-ff69b0989edb)
+[Read Who Made Me a Princess on WEBTOON](https://www.webtoons.com/en/romance/who-made-me-a-princess/list?title_no=9475)
 
 ### 8. Beware the Villainess! — Our Score: 8.4/10
 
@@ -79,7 +79,7 @@ A modern girl reincarnates as Melissa, the villainess of a romance novel, and im
 
 **Why it's great:** Completed run, sharp humor, and a protagonist with genuine agency rather than just reactive survival instincts. One of the freshest takes on the villainess isekai formula available on free manhwa platforms.
 
-[Read Beware the Villainess! on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+[Read Beware the Villainess! on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ## Sources Checked
 - [ChapterBrief — Best Manhwa to Read in 2026](https://www.chapterbrief.net/blog/best-manhwa-to-read-2026)

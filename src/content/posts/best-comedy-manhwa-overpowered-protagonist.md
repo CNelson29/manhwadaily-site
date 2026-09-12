@@ -43,7 +43,7 @@ Prince Davey was considered powerless and worthless by everyone around him — u
 
 **Our score: 8.7/10** — Supremely satisfying OP fantasy with real comedic timing.
 
-[Read on MangaDex →](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### 4. The Extra Is Too Powerful
 
@@ -63,7 +63,7 @@ Desir Arman is one of only six survivors of the Shadow Labyrinth — humanity's 
 
 **Our score: 8.5/10** — For readers who like their overpowered protagonist with a healthy side of strategy.
 
-[Read on MangaDex →](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### 6. Normal Duke
 

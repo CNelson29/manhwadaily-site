@@ -35,7 +35,7 @@ Sung Jinwoo starts as the literal weakest hunter in the world — an E-rank so u
 
 **Our score: 9.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+
 
 ### #3 — The Max Level Hero Strikes Back
 
@@ -45,7 +45,7 @@ Prince Davey O'Rowane is dismissed by his entire kingdom as a powerless, useless
 
 **Our score: 8.7/10**
 
-[Read on MangaDex](https://mangadex.org/title/b407de00-75a5-415a-a001-585fb41b9cf2)
+
 
 ### #4 — Omniscient Reader's Viewpoint
 
@@ -55,7 +55,7 @@ Dokja Kim looks like an unremarkable office worker with no obvious advantage ove
 
 **Our score: 9.2/10**
 
-[Read on MangaDex](https://mangadex.org/title/9a414441-bbad-43f1-a3a7-dc262ca790a3)
+[Read on WEBTOON](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 
 ### #5 — A Returner's Magic Should Be Special
 
@@ -65,7 +65,7 @@ Desir Arman is one of the last six survivors of humanity's worst catastrophe, an
 
 **Our score: 8.5/10**
 
-[Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+
 
 ### #6 — SSS-Class Revival Hunter
 
@@ -75,7 +75,7 @@ Gongja Kim lives a mundane life envying the powerful hunters around him — unti
 
 **Our score: 8.8/10**
 
-[Read on MangaDex](https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2)
+[Read on Tapas](https://tapas.io/series/sss-class-revival-hunter/info)
 
 ### #7 — Second Life Ranker
 
@@ -85,7 +85,7 @@ Yeonwoo receives his deceased brother's secret pocket watch — a record of year
 
 **Our score: 8.2/10**
 
-[Read on MangaDex](https://mangadex.org/title/1ffca916-3ad7-46d2-9591-a9b39e639971)
+[Read on Tapas](https://tapas.io/series/second-life-ranker/info)
 
 ### #8 — The Skeleton Soldier Failed to Defend the Dungeon
 
@@ -95,7 +95,7 @@ A skeleton soldier — literally one of the weakest undead creatures imaginable 
 
 **Our score: 7.9/10**
 
-[Read on MangaDex](https://mangadex.org/title/d993f789-e7e5-4832-92fd-37614220b427)
+
 
 ## Sources Checked
 - [I'm Not That Kind of Talent — MangaK](https://mangak.io/im-not-that-kind-of-talent)

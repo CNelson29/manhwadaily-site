@@ -21,7 +21,7 @@ Chapter counts, where noted, come from verified sources. Ratings below are our e
 
 Sung Jin-Woo starts as the weakest hunter alive and climbs, chapter by relentless chapter, to something genuinely terrifying. The power fantasy is executed with discipline that lesser series never manage: every upgrade feels earned, every boss fight escalates the stakes. At 179 chapters it is bingeable in a long weekend, and the finale delivers on every promise the first chapter makes.
 
-**Why it is great:** Consistent pacing, a protagonist whose growth never gets boring, and set-pieces that would look at home in a big-budget film. The most recommended starting point for anyone new to action manhwa — and for good reason. [Read on MangaDex](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0)
+**Why it is great:** Consistent pacing, a protagonist whose growth never gets boring, and set-pieces that would look at home in a big-budget film. The most recommended starting point for anyone new to action manhwa — and for good reason. 
 
 ### 2. The God of High School — Our Score: 9 / 10
 
@@ -39,7 +39,7 @@ A physically unassuming student uses precise, calculated tactics to survive a br
 
 One of the six survivors of humanity's deadliest catastrophe travels back in time to prevent it from ever happening. The setup sounds familiar, but this series earns its place by building its supporting cast carefully and making every magical confrontation feel consequential. The action sequences are crisp and the time-travel premise never becomes an easy-mode cheat.
 
-**Why it is great:** A completed regression story with genuine investment in its side characters — rare in a subgenre that usually treats everyone outside the protagonist as decoration. [Read on MangaDex](https://mangadex.org/title/6a468761-5bd6-4de0-a0cb-47cb456ac2e0)
+**Why it is great:** A completed regression story with genuine investment in its side characters — rare in a subgenre that usually treats everyone outside the protagonist as decoration. 
 
 ### 5. The Breaker — Our Score: 8.5 / 10
 
@@ -63,7 +63,7 @@ A powerful noble awakens in modern Korea after an 820-year sleep, completely una
 
 A woman reincarnates as the villain of a romance novel and immediately decides she is not following the script. What starts as sharp comedy develops into a story with genuine action and political stakes, as the protagonist uses foreknowledge to dismantle the power structures that made her character's death inevitable. It moves fast and its protagonist is genuinely resourceful rather than plot-protected.
 
-**Why it is great:** A completed isekai that earns its action tag — the confrontations feel real and the finale delivers the payoff the story has been building toward. [Read on MangaDex](https://mangadex.org/title/85b51b37-0ce6-4144-a19b-6b064bc2c2ae)
+**Why it is great:** A completed isekai that earns its action tag — the confrontations feel real and the finale delivers the payoff the story has been building toward. [Read on Tapas](https://tapas.io/series/beware-the-villainess/info)
 
 ## Sources Checked
 
