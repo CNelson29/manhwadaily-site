@@ -45,6 +45,8 @@ linksVerified:
 
 Manhwa has exploded in global popularity, driven by breakout series and the ease of reading vertical-scroll comics on a phone. But finding *where* to read — legally, for free, without intrusive ads or dead links — is its own challenge. This guide ranks the eight best manhwa websites and readers to read manhwa online for free in 2026, covering official licensed platforms, community-maintained libraries, and the best hybrid models that let you binge without paying.
 
+> **Know where you'll read, but not *what*?** Start with the [12 most popular manhwa right now](/top-15-most-popular-manhwas-right-now-may-2026/), ranked by real reader numbers, or answer 3 quick questions in the [manhwa recommender](/recommender/) for picks matched to your taste.
+
 ## How We Ranked These Sites
 
 Each site was evaluated on four criteria: **library depth** (how many series, especially completed ones), **free-tier generosity** (how much you can actually read without paying), **reading experience** (mobile layout, image quality, load speed), and **update speed** (how quickly new chapters arrive). A site that disappears in six months is not worth bookmarking, so platform stability also factored in.
